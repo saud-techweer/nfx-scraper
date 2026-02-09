@@ -1,0 +1,29 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+ENV/
+
+# Output files (keep scraped data)
+*.csv
+nfx_vcs_*
+
+# Keep data folder tracked
+!data/
+!data/**/*.json
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# Chrome debug data
+chrome-debug/
+
+# Environment variables
+.env
