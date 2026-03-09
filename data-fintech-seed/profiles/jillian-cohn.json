@@ -1,0 +1,139 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jillian Cohn",
+    "signalScore": 638
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mouro Capital",
+      "firmUrl": "https://signal.nfx.com/firms/mouro-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$3.0M - $3.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dennis Cong (CE Innovation Capital)"
+      ],
+      "company": "Upgrade",
+      "date": "N/A",
+      "roundSize": "$60M",
+      "stage": "Series D",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Laura Bock (QED Investors)",
+        "Sri Batchu"
+      ],
+      "company": "Decent",
+      "date": "N/A",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nowports",
+      "date": "N/A",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Chris Gottschalk (Mouro Capital)",
+        "Monique Villa (Mucker Capital)",
+        "David Li (Avanta Ventures)",
+        "Brian OReilly (Greenlight Re)"
+      ],
+      "company": "Blueprint Title",
+      "date": "N/A",
+      "roundSize": "$6.5M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFg3QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5718fa1410ca4b52e982400116697c41ac157cbe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jillian-cohn",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jillian-cohn",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jilliancohn/"
+  },
+  "scraped_at": "2026-03-03T20:59:34.851120"
+}

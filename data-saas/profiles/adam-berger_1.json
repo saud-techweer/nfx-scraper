@@ -1,0 +1,59 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Adam Berger",
+    "positionAndFirm": "Managing Director, Insight Partners",
+    "website": "https://insightpartners.com/team/adam-berger"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Insight Partners",
+      "firmUrl": "https://signal.nfx.com/firms/insight-partners",
+      "position": "Managing Director"
+    },
+    "fundSize": "$20B",
+    "investmentRange": "$10.0M - $350.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGpsQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5ddd30695f3e4168e7b813f9bae34a01b6dfe7e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-berger_1",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "adam-berger_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/adam-berger",
+    "linkedin": "https://www.linkedin.com/in/adamsberger1/",
+    "website": "https://www.insightpartners.com/team/adam-berger"
+  },
+  "scraped_at": "2026-02-26T06:32:17.128526"
+}

@@ -1,0 +1,147 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Toronto, Ontario",
+    "name": "Ryan Henry",
+    "signalScore": 197,
+    "website": "https://shn.vc/"
+  },
+  "experience": [
+    {
+      "company": "Wisely",
+      "dates": "2018 - 2020",
+      "position": "Co-founder"
+    },
+    {
+      "company": "FreshBooks",
+      "dates": "2014 - 2018",
+      "position": "Sr Director Engineering"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sand Hill North",
+      "firmUrl": "https://signal.nfx.com/firms/sand-hill-north",
+      "position": "Partner"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$50K - $1M",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEtLQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f142cf2ac96f4e60e6cd22bc65916c070192d27f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ryan-henry",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ryan-henry",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ryan-n-henry/",
+    "twitter": "https://www.twitter.com/iamryanhenry",
+    "website": "https://www.shn.vc/"
+  },
+  "scraped_at": "2026-02-27T04:14:35.655564"
+}

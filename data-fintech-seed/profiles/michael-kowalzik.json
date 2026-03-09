@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Munich, Germany",
+    "name": "Michael Kowalzik",
+    "website": "https://targetpartners.de/"
+  },
+  "experience": [
+    {
+      "company": "Brera Serviced Apartments",
+      "dates": "2018 - Present",
+      "position": "Managing Shareholder"
+    },
+    {
+      "company": "happitz GmbH",
+      "dates": "2013 - Present",
+      "position": "Shareholder"
+    },
+    {
+      "company": "Target Partners GmbH",
+      "dates": "2013 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Miomente GmbH",
+      "dates": "2013 - Present",
+      "position": "Managing Shareholder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Target Partners",
+      "firmUrl": "https://signal.nfx.com/firms/target-partners",
+      "position": "Venture Partner"
+    },
+    "fundSize": "€300M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWE0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b3b514fa6d6feba4aaeeb4af99b69d118a4020b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-kowalzik",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "michael-kowalzik",
+  "socials": {
+    "angellist": "https://www.angel.co/u/michael-kowalzik",
+    "crunchbase": "https://www.crunchbase.com/person/michael-kowalzik",
+    "linkedin": "https://www.linkedin.com/in/michaelkowalzik/",
+    "twitter": "https://www.twitter.com/DerMarburger",
+    "website": "https://www.targetpartners.de/"
+  },
+  "scraped_at": "2026-03-03T22:34:37.942838"
+}

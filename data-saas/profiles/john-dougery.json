@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "John Dougery",
+    "signalScore": 602,
+    "website": "https://inventuscap.com/"
+  },
+  "experience": [
+    {
+      "company": "SGI",
+      "dates": "1991 - 1997",
+      "position": "Product Marketing"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Inventus Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/inventus-capital-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$51M",
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Motivo.ai",
+      "date": "Apr 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3I2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3a750841495ffa0d17d69940ec95880d6bdacb59/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-dougery",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "john-dougery",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-dougery",
+    "linkedin": "https://www.linkedin.com/in/johndougery/",
+    "twitter": "https://www.twitter.com/johndougery",
+    "website": "https://www.inventuscap.com/"
+  },
+  "scraped_at": "2026-02-27T01:13:37.428557"
+}

@@ -1,0 +1,158 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Budapest, Hungary",
+    "name": "Mary Alcantara",
+    "signalScore": 26,
+    "website": "https://interactivevp.com/en/home.php"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Interactive Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/interactive-venture-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG45QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a525cf0cf48d602c08ede9658f332ebde0956a9d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mary-alcantara",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    }
+  ],
+  "slug": "mary-alcantara",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mary-alcantara",
+    "linkedin": "https://www.linkedin.com/in/mary3collins/",
+    "website": "https://www.interactivevp.com/en/home.php"
+  },
+  "scraped_at": "2026-02-27T02:32:45.235773"
+}

@@ -1,0 +1,297 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Sales Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Justin Smith",
+    "website": "https://www.rechargecapital.com/team/justin-smith"
+  },
+  "experience": [
+    {
+      "company": "Argo Ventures",
+      "dates": "2018 - 2020",
+      "position": "Director"
+    },
+    {
+      "company": "Tusk Ventures",
+      "dates": "2016 - 2018",
+      "position": "Vice President"
+    },
+    {
+      "company": "Providence Equity Partners",
+      "dates": "2014 - 2016",
+      "position": "Associate"
+    },
+    {
+      "company": "Jefferies & Company",
+      "dates": "2013 - 2014",
+      "position": "Analyst"
+    },
+    {
+      "company": "Recharge Thematic Ventures",
+      "dates": "2021 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Chaos Ventures",
+      "dates": "2020 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Recharge Capital",
+      "firmUrl": "https://signal.nfx.com/firms/recharge-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$250K - $2.5M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Laurel Mintz (Fabric Ventures)",
+        "John Redgrave (DTX Ventures)",
+        "Ben Orthlieb (2.12 Angels)",
+        "Nina Faulhaber"
+      ],
+      "company": "Cadence",
+      "date": "Jan 2020",
+      "roundSize": "$4M",
+      "stage": "Seed-3",
+      "totalRaised": "$8.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Union POS",
+      "date": "Jun 2019",
+      "roundSize": "$10M",
+      "stage": "Series A-4",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Todd Breeden (Jefferies)"
+      ],
+      "company": "Mulberry",
+      "date": "May 2019",
+      "roundSize": "$2M",
+      "stage": "Convertible Note",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paladin Cyber",
+      "date": "Mar 2018",
+      "roundSize": "$3.7M",
+      "stage": "Seed",
+      "totalRaised": "$3.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenJHQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a0a8a1bb1a4a3799814e8e8a6293298d53ea04cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/justin-smith_1",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "justin-smith_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/justin-smith-12",
+    "linkedin": "https://www.linkedin.com/in/justin-b-smith/",
+    "twitter": "https://www.twitter.com/just1nbsm1th",
+    "website": "https://www.wellfound.com/p/justin-b-smith19"
+  },
+  "scraped_at": "2026-02-27T01:34:47.192081"
+}

@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Kevin Melia",
+    "website": "https://stormventures.com/author/kevin/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Storm Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/storm-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$130.4M",
+    "investmentRange": "$2.0M - $5.0M",
+    "sweetSpot": "$3.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFFvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa37546ee934e1a3520db2e12a35c519118a1836/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-melia",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kevin-melia",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/kevin-melia",
+    "linkedin": "https://www.linkedin.com/in/kevinmelia/",
+    "twitter": "https://www.twitter.com/kevinemelia",
+    "website": "https://www.stormventures.com/author/kevin/"
+  },
+  "scraped_at": "2026-02-27T23:09:23.280859"
+}

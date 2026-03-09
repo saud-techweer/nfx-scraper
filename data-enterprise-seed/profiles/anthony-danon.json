@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "London",
+    "name": "Anthony Danon",
+    "website": "https://medium.com/@anthony_44733"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cocoa",
+      "firmUrl": "https://signal.nfx.com/firms/cocoa",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXl2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--806fa54d6bb3c2ccaf6eeb3839252be2adb23eb5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anthony-danon",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "anthony-danon",
+  "socials": {
+    "angellist": "https://www.angel.co/p/antonios-danon",
+    "crunchbase": "https://www.crunchbase.com/person/anthony-danon",
+    "linkedin": "https://www.linkedin.com/in/anthony-danon-3409099b/",
+    "twitter": "https://www.twitter.com/danonanthony",
+    "website": "https://www.medium.com/@anthony_44733"
+  },
+  "scraped_at": "2026-02-27T20:23:42.780981"
+}

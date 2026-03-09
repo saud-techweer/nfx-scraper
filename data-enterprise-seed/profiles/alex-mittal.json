@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "San Francisco, California",
+    "name": "Alex Mittal",
+    "website": "https://fundersclub.com/mittal/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FundersClub",
+      "firmUrl": "https://signal.nfx.com/firms/funders-club",
+      "position": "Investor"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$290K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Michelle Valentine (Plug & Play Ventures)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Muzzammil (MZ) Zaveri (Audacious Ventures)",
+        "Aneel Ranadive (Soma Capital)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Jeff Chang",
+        "Max Mullen",
+        "Immad Akhund"
+      ],
+      "company": "PopSQL",
+      "date": "Sep 2020",
+      "roundSize": "$3.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeC9IQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c773269f4fc8a1232eebd593c8ee4773e5a6574/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-mittal",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alex-mittal",
+  "socials": {
+    "angellist": "https://www.angel.co/p/alexmittal",
+    "crunchbase": "https://www.crunchbase.com/person/alex-mittal",
+    "linkedin": "https://www.linkedin.com/in/alexandermittal/",
+    "twitter": "https://www.twitter.com/mittal?lang=en",
+    "website": "https://www.fundersclub.com/mittal/"
+  },
+  "scraped_at": "2026-02-27T20:02:26.894703"
+}

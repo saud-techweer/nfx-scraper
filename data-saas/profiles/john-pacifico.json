@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "New York",
+    "name": "John Pacifico",
+    "website": "https://canaan.com/team/john-pacifico"
+  },
+  "experience": [
+    {
+      "company": "ORTHOCON",
+      "dates": "2007 - 2013",
+      "position": "President, Chief Executive Officer, and Member of the Board of Directors"
+    },
+    {
+      "company": "Canaan",
+      "dates": "2000 - 2007",
+      "position": "Venture Capitalist"
+    },
+    {
+      "company": "PrimeFour Therapeutics",
+      "dates": "2021 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Aceiss",
+      "dates": "2021 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Transposon Therapeutics",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Canaan",
+      "dates": "2018 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Abyrx",
+      "dates": "2013 - Present",
+      "position": "President, Chief Executive Officer, and Member of the Board of Directors"
+    },
+    {
+      "company": "Kairuku, Inc.",
+      "dates": "2013 - Present",
+      "position": "Founder and Chairman"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Canaan Partners",
+      "firmUrl": "https://signal.nfx.com/firms/canaan-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$250K - $20.0M",
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlBHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a9157f7527ce7fbb1162069ff79b481771d9f56/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-pacifico",
+  "sectorRankings": [
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "john-pacifico",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-j-pacifico",
+    "linkedin": "https://www.linkedin.com/in/john-j-pacifico-a96b045/",
+    "twitter": "https://www.twitter.com/johnjpacifico?lang=en",
+    "website": "https://www.canaan.com/team/john-pacifico"
+  },
+  "scraped_at": "2026-02-27T01:16:05.949479"
+}

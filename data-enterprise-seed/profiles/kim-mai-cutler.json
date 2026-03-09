@@ -1,0 +1,92 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Kim-Mai Cutler",
+    "signalScore": 552,
+    "website": "https://initialized.com/who/kim-mai"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Initialized Capital",
+      "firmUrl": "https://signal.nfx.com/firms/initialized-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$1M",
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Miriam Rivera (Ulu Ventures)",
+        "Clint Korver (Ulu Ventures)",
+        "Omar Darwazah (AAF Management Ltd.)",
+        "Michael Yang (OMERS Ventures)"
+      ],
+      "company": "Landed",
+      "date": "Apr 2019",
+      "roundSize": "$7.5M",
+      "stage": "Series A",
+      "totalRaised": "$7.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbllDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b65e88cba5f1115d7ffb980475fad71367cf0da2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kim-mai-cutler",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kim-mai-cutler",
+  "socials": {
+    "angellist": "https://www.angel.co/u/kimmaicutler",
+    "crunchbase": "https://www.crunchbase.com/person/kim-mai-cutler",
+    "linkedin": "https://www.linkedin.com/in/kimmaicutler/",
+    "twitter": "https://www.twitter.com/kimmaicutler",
+    "website": "https://www.initialized.com/who/kim-mai"
+  },
+  "scraped_at": "2026-02-27T23:10:46.764138"
+}

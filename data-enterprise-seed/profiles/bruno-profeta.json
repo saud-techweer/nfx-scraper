@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Bruno Profeta",
+    "website": "https://kptl.com.br/equipe/bruno-profeta/?lang=en"
+  },
+  "experience": [
+    {
+      "company": "IEL",
+      "dates": "2007 - 2008",
+      "position": "Intern"
+    },
+    {
+      "company": "KPTL",
+      "dates": "Present",
+      "position": "Partner - KPTL"
+    },
+    {
+      "company": "Blue Ocean Investment",
+      "dates": "Present",
+      "position": "Fund Manager"
+    },
+    {
+      "company": "Publicis Groupe",
+      "dates": "Present",
+      "position": "Finance"
+    },
+    {
+      "company": "Randstad",
+      "dates": "Present",
+      "position": "Headhunter / Senior Recruitment Especialist"
+    },
+    {
+      "company": "Robert Half International",
+      "dates": "Present",
+      "position": "Headhunter / Recruitment Especialist"
+    },
+    {
+      "company": "Coca-Cola FEMSA",
+      "dates": "Present",
+      "position": "Financial Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "KPTL",
+      "firmUrl": "https://signal.nfx.com/firms/kptl",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2xIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d01b5deb0d61f535666da93ad6a316622d516ec2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bruno-profeta",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bruno-profeta",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/bruno-profeta",
+    "linkedin": "https://www.linkedin.com/in/bruno-profeta-51a8082a/?originalSubdomain=br",
+    "website": "https://www.kptl.com.br/equipe/bruno-profeta/?lang=en"
+  },
+  "scraped_at": "2026-02-27T20:52:45.920867"
+}

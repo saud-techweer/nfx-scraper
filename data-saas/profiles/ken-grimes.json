@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Ken Grimes",
+    "signalScore": 1,
+    "website": "https://www.blackangeltechfund.com/"
+  },
+  "experience": [
+    {
+      "company": "Herndon Capital Management",
+      "dates": "2011 - 2015",
+      "position": "Deputy Chief Investment Officer"
+    },
+    {
+      "company": "Piedmont Investment Advisors, LLC",
+      "dates": "2010 - 2011",
+      "position": "Sr. Vice President, Director of Research"
+    },
+    {
+      "company": "EARNEST Partners",
+      "dates": "2002 - 2010",
+      "position": "Director"
+    },
+    {
+      "company": "Merrill Lynch",
+      "dates": "1998 - 2000",
+      "position": "Associate"
+    },
+    {
+      "company": "Black Angel Tech Fund",
+      "dates": "2017 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "True Alpha Partners, LLC",
+      "dates": "2016 - Present",
+      "position": "Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Black Angel Tech Fund",
+      "firmUrl": "https://signal.nfx.com/firms/black-angel-tech-fund",
+      "position": "Managing Director"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakVEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--15ec0ecad7d68e89d0756705b9873d37fd3c4953/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ken-grimes",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ken-grimes",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ken-grimes",
+    "linkedin": "https://www.linkedin.com/in/kenmgrimes/",
+    "website": "https://www.blackangeltechfund.com/"
+  },
+  "scraped_at": "2026-02-27T01:45:02.023365"
+}

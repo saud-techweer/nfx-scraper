@@ -1,0 +1,122 @@
+{
+  "basicInfo": {
+    "name": "James McClure",
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "London"
+  },
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K",
+    "investmentsOnRecord": 17
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Indi",
+      "stage": "Seed",
+      "date": "Oct 2025",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "CalcTree",
+      "stage": "Pre Seed",
+      "date": "May 2025",
+      "roundSize": "$4M",
+      "totalRaised": "$4M",
+      "coInvestors": []
+    },
+    {
+      "company": "Flyweel",
+      "stage": "Pre Seed",
+      "date": "Apr 2025",
+      "roundSize": "$170K",
+      "totalRaised": "$170K",
+      "coInvestors": []
+    },
+    {
+      "company": "Shopfront",
+      "stage": "Pre Seed",
+      "date": "Feb 2025",
+      "roundSize": "$800K",
+      "totalRaised": "$800K",
+      "coInvestors": []
+    },
+    {
+      "company": "Flowing Bee",
+      "stage": "Pre Seed",
+      "date": "Feb 2025",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "Ovum",
+      "stage": "Pre Seed",
+      "date": "Feb 2025",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "MyGigsters",
+      "stage": "Seed",
+      "date": "Jan 2025",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "Pactify",
+      "stage": "Pre Seed",
+      "date": "Jul 2024",
+      "roundSize": "$150K",
+      "totalRaised": "$150K",
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/james-mcclure-5b6a364/",
+    "angellist": "https://www.angel.co/u/james-mcclure-4",
+    "crunchbase": "https://www.crunchbase.com/person/james-mcclure"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3lWQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9a741e52e19d733836c1a0d8b554b6d88773597c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/james-mcclure",
+  "slug": "james-mcclure",
+  "scraped_at": "2026-02-24T11:23:03.244572"
+}

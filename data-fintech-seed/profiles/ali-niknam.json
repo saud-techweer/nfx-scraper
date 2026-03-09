@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Amsterdam, Netherlands",
+    "name": "Ali Niknam"
+  },
+  "experience": [
+    {
+      "company": "People for People Foundation",
+      "dates": "2022 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "bunq",
+      "dates": "2012 - Present",
+      "position": "CEO"
+    },
+    {
+      "company": "TransIP BV",
+      "dates": "Present",
+      "position": "Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMm51QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--27383da88a24897d04fb010c25bfc1a0142c5fd1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ali-niknam",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "ali-niknam",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ali-niknam",
+    "linkedin": "https://www.linkedin.com/in/ali-niknam-50253913/"
+  },
+  "scraped_at": "2026-02-28T00:03:07.940366"
+}

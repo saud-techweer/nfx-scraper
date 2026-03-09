@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Daniel  Schultz"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NED Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ned-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentsOnRecord": 7
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "LendKey Technologies",
+      "date": "Jul 2017",
+      "roundSize": "$8M",
+      "stage": "Series C",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [],
+      "company": "DailyWorth",
+      "date": "Apr 2013",
+      "roundSize": "$1M",
+      "stage": "Series A",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "YipitData",
+      "date": "Jun 2010",
+      "roundSize": "$1.3M",
+      "stage": "Series A",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lumeta Corporation",
+      "date": "Mar 2001",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVpmQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef8c126cbd7801e5f877f896122ba08df8bd009d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/daniel-schultz",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "daniel-schultz",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/daniel-schultz-4b801b24/"
+  },
+  "scraped_at": "2026-02-26T10:04:00.517437"
+}

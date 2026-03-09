@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor"
+    ],
+    "location": "Massachusetts",
+    "name": "Nick Sinai",
+    "positionAndFirm": "Insight Partners, Harvard Kennedy School, Obama White House (US Deputy CTO), author of Hack Your Bureaucracy"
+  },
+  "experience": [
+    {
+      "company": "HackYourBureaucracy",
+      "dates": "2022 - Present",
+      "position": "Author"
+    },
+    {
+      "company": "Harvard University, John F. Kennedy School of Government",
+      "dates": "2015 - Present",
+      "position": "Adjunct Faculty"
+    },
+    {
+      "company": "Insight Partners",
+      "dates": "2014 - Present",
+      "position": "Senior Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2FZQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0fb56fc3760fcd38210d93e78ba1e245bbc450e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nick-sinai",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "nick-sinai",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nick-sinai",
+    "linkedin": "https://www.linkedin.com/in/nicksinai/",
+    "twitter": "https://www.twitter.com/nicksinai"
+  },
+  "scraped_at": "2026-02-27T03:11:40.808470"
+}

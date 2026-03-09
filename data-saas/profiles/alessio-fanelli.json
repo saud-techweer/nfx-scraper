@@ -1,0 +1,274 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Engineering Operator",
+      "Angel",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Alessio Fanelli",
+    "signalScore": 384,
+    "website": "https://www.alessiofanelli.com/"
+  },
+  "experience": [
+    {
+      "company": "645 Ventures",
+      "dates": "2021 - 2022",
+      "position": "Principal"
+    },
+    {
+      "company": "645 Ventures",
+      "dates": "2020 - 2021",
+      "position": "Vice President"
+    },
+    {
+      "company": "645 Ventures",
+      "dates": "2019 - 2020",
+      "position": "Director Of Engineering"
+    },
+    {
+      "company": "645 Ventures",
+      "dates": "2018 - 2019",
+      "position": "Engineer"
+    },
+    {
+      "company": "645 Ventures",
+      "dates": "2018 - 2018",
+      "position": "Engineering Fellow"
+    },
+    {
+      "company": "Mikamai",
+      "dates": "2017 - 2018",
+      "position": "Consulting Software Engineer"
+    },
+    {
+      "company": "Welcome Technologies",
+      "dates": "2016 - 2017",
+      "position": "Lead Engineer"
+    },
+    {
+      "company": "GENIUS",
+      "dates": "2013 - 2017",
+      "position": "Community Moderator"
+    },
+    {
+      "company": "Smart Torvy",
+      "dates": "2014 - 2016",
+      "position": "Founder"
+    },
+    {
+      "company": "Divet Tech",
+      "dates": "2013 - 2016",
+      "position": "Founder"
+    },
+    {
+      "company": "Freelancer",
+      "dates": "2014 - 2016",
+      "position": "Freelancer"
+    },
+    {
+      "company": "Reign eSports (Acquired by VwS Gaming)",
+      "dates": "2013 - 2014",
+      "position": "Head of Graphics"
+    },
+    {
+      "company": "Maker Studios Inc",
+      "dates": "2012 - 2014",
+      "position": "Video maker"
+    },
+    {
+      "company": "YouTube",
+      "dates": "2012 - 2014",
+      "position": "Partner"
+    },
+    {
+      "company": "The eSports Revolution",
+      "dates": "2013 - 2014",
+      "position": "Head of Graphics"
+    },
+    {
+      "company": "Halo Italia",
+      "dates": "2010 - 2014",
+      "position": "Graphic Designer & Webmaster"
+    },
+    {
+      "company": "Decibel Partners",
+      "dates": "2022 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Nextgen Partners",
+      "dates": "2021 - Present",
+      "position": "Board Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Decibel Partners",
+      "firmUrl": "https://signal.nfx.com/firms/decibel-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$1M - $6.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Cube Dev",
+      "date": "N/A",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Deepsource",
+      "date": "N/A",
+      "roundSize": "$2.6M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3RCQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c7b53b972f30559083a58654cc901d85dfbbc9ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alessio-fanelli",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alessio-fanelli",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alessio-fanelli",
+    "linkedin": "https://www.linkedin.com/in/fanahova/",
+    "twitter": "https://www.twitter.com/fanahova",
+    "website": "https://www.wellfound.com/u/alessio-fanelli"
+  },
+  "scraped_at": "2026-02-26T06:42:18.423282"
+}

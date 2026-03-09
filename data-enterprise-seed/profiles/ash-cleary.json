@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Ash Cleary",
+    "website": "https://www.ldv.co/about/ash"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "LDV Capital",
+      "firmUrl": "https://signal.nfx.com/firms/ldv-capital",
+      "position": "Analyst"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$350K - $1.2M",
+    "sweetSpot": "$775K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3JYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c7c95abd780edf783778625db225603c7ef91cfe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ash-cleary",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ash-cleary",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ash-cleary",
+    "linkedin": "https://www.linkedin.com/in/ashcleary-ldvcapital/",
+    "website": "https://www.ldv.co/about/ash"
+  },
+  "scraped_at": "2026-02-26T07:00:34.839628"
+}

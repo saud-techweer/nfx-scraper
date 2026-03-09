@@ -1,0 +1,286 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Sophie Bakalar",
+    "signalScore": 96,
+    "website": "https://sophiebakalar.substack.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Collaborative Fund (Collab Fund)",
+      "firmUrl": "https://signal.nfx.com/firms/collaborative-fund",
+      "position": "General Partner"
+    },
+    "fundSize": "$125M",
+    "investmentRange": "$500K - $20.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Casey Aylward (Accel)",
+        "Eric Schmidt (Innovation Endeavors)"
+      ],
+      "company": "Periodic Labs",
+      "date": "Sep 2025",
+      "roundSize": "$300M",
+      "stage": "Seed",
+      "totalRaised": "$300M"
+    },
+    {
+      "coInvestors": [
+        "Steven Lee (SV Angel)"
+      ],
+      "company": "Keychain",
+      "date": "Aug 2025",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Sophie Bakalar (Collaborative Fund (Collab Fund))",
+        "Clea Kolster (Lowercarbon Capital)"
+      ],
+      "company": "Acceleron Fusion",
+      "date": "Dec 2024",
+      "roundSize": "$24M",
+      "stage": "Series A",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [
+        "Sophie Bakalar (Collaborative Fund (Collab Fund))",
+        "Carter Callaway (Ultratech Capital Partners)"
+      ],
+      "company": "Anthro Energy",
+      "date": "Feb 2024",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$27M"
+    },
+    {
+      "coInvestors": [
+        "Clea Kolster (Lowercarbon Capital)"
+      ],
+      "company": "Dioxycle",
+      "date": "Jul 2023",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Sophie Bakalar (Collaborative Fund (Collab Fund))"
+      ],
+      "company": "Noya",
+      "date": "Apr 2023",
+      "roundSize": "$22M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Sophie Bakalar (Collaborative Fund (Collab Fund))"
+      ],
+      "company": "Hoxton Farms",
+      "date": "Oct 2022",
+      "roundSize": "$22M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Sophie Bakalar (Collaborative Fund (Collab Fund))"
+      ],
+      "company": "Phaidra",
+      "date": "Jul 2022",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$75M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekY5Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--14a35e09ce70b9a6413b4738e303cfaaa0ab8108/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sophie-bakalar_1",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Food and Beverage (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-b-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_b-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    }
+  ],
+  "slug": "sophie-bakalar_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/sophiebakalar/",
+    "twitter": "https://www.x.com/sophiebakalar",
+    "website": "https://sophiebakalar.substack.com/"
+  },
+  "scraped_at": "2026-02-11T12:06:15.531224"
+}

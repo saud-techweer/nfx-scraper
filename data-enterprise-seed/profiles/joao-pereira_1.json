@@ -1,0 +1,111 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Porto, Portugal",
+    "name": "João Pereira",
+    "signalScore": 1,
+    "website": "https://www.portugalventures.pt/en/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Portugal Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/portugal-ventures",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Reinout vander Meulen (TIN Capital)"
+      ],
+      "company": "Probely",
+      "date": "Oct 2022",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Jscrambler",
+      "date": "Mar 2018",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Andrew Costa (RX3 Growth Partners)"
+      ],
+      "company": "Fever",
+      "date": "Nov 2015",
+      "roundSize": "$12M",
+      "stage": "Series B",
+      "totalRaised": "$32M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BitSight",
+      "date": "Jun 2013",
+      "roundSize": "$24M",
+      "stage": "Series A",
+      "totalRaised": "$24M"
+    }
+  ],
+  "profilePicture": "https://d1hcaw05lpqmfw.cloudfront.net/star-icon-investor-profile-v4.svg",
+  "profileUrl": "https://signal.nfx.com/investors/joao-pereira_1",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "joao-pereira_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/joaojesuspereira/",
+    "website": "https://www.portugalventures.pt/en/"
+  },
+  "scraped_at": "2026-02-27T22:44:16.316152"
+}

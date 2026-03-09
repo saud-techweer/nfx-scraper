@@ -1,0 +1,232 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Phin Barnes",
+    "signalScore": 2,
+    "website": "https://www.thegp.com/"
+  },
+  "experience": [
+    {
+      "company": "First Round Capital",
+      "dates": "2012 - 2020",
+      "position": "Partner"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2009 - 2012",
+      "position": "Principal"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2008 - 2008",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2008 - 2008",
+      "position": "Summer Apprentice"
+    },
+    {
+      "company": "Loki Concepts",
+      "dates": "2005 - 2007",
+      "position": "Founder"
+    },
+    {
+      "company": "responDESIGN",
+      "dates": "2003 - 2006",
+      "position": "Chief Marketing Officer / Founder"
+    },
+    {
+      "company": "AND 1",
+      "dates": "1997 - 2003",
+      "position": "Creative Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The General Partnership",
+      "firmUrl": "https://signal.nfx.com/firms/the-general-partnership",
+      "position": "Investor"
+    },
+    "fundSize": "$240M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 18,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hrach Simonian (Canaan Partners)",
+        "Lior Susan (Eclipse Ventures)",
+        "Jacob Kerzner"
+      ],
+      "company": "Instrumental",
+      "date": "Jul 2020",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$73M"
+    },
+    {
+      "coInvestors": [
+        "Aaron Schwartz"
+      ],
+      "company": "Verto Education",
+      "date": "Oct 2019",
+      "roundSize": "$6.3M",
+      "stage": "Seed",
+      "totalRaised": "$6.3M"
+    },
+    {
+      "coInvestors": [
+        "David Frankel (Founder Collective)"
+      ],
+      "company": "Karuna Health",
+      "date": "May 2018",
+      "roundSize": "$1.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Nabeel Hyatt (Spark Capital)",
+        "Ruchi Sanghvi (South Park Commons)"
+      ],
+      "company": "Rare Bits",
+      "date": "Apr 2018",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Time by Ping",
+      "date": "Sep 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Perceptive Automata",
+      "date": "Jul 2017",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "RightHook, Inc.",
+      "date": "May 2017",
+      "roundSize": "$1.9M",
+      "stage": "Venture Round",
+      "totalRaised": "$1.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "MissionU",
+      "date": "Oct 2016",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXQrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2005b1c1da9798992de27c2433287205b3f6f404/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/phin-barnes",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    }
+  ],
+  "slug": "phin-barnes",
+  "socials": {
+    "angellist": "https://www.angel.co/phineasb",
+    "crunchbase": "https://www.crunchbase.com/person/phineas-barnes",
+    "linkedin": "https://www.linkedin.com/in/phineasbarnes/",
+    "twitter": "https://www.twitter.com/phineasb",
+    "website": "https://www.thegp.com/"
+  },
+  "scraped_at": "2026-02-27T03:41:34.566609"
+}

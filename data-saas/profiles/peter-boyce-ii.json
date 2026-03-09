@@ -1,0 +1,181 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Peter Boyce II",
+    "signalScore": 517,
+    "website": "https://boyce2.com/"
+  },
+  "experience": [
+    {
+      "company": "General Catalyst",
+      "dates": "2013 - 2021",
+      "position": "Partner"
+    },
+    {
+      "company": "Skillshare",
+      "dates": "2011 - 2012",
+      "position": "BD & Partnerships"
+    },
+    {
+      "company": "Harvard Business School",
+      "dates": "2020 - Present",
+      "position": "Venture Capital Partner"
+    },
+    {
+      "company": "Massachusetts Institute of Technology (MIT)",
+      "dates": "2018 - Present",
+      "position": "Board Member: MIT Sandbox Innovation Fund"
+    },
+    {
+      "company": "Rough Draft Ventures",
+      "dates": "2012 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Stellation Capital",
+      "firmUrl": "https://signal.nfx.com/firms/stellation-capital",
+      "position": ""
+    },
+    "investmentRange": "$250K - $4.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWJuQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3b78fe41ab348f8ebc6a07caf08380ba80dca4f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-boyce-ii",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Travel (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "peter-boyce-ii",
+  "socials": {
+    "angellist": "https://www.angel.co/p/boyce",
+    "crunchbase": "https://www.crunchbase.com/person/peter-boyce-ii",
+    "twitter": "https://www.twitter.com/badboyboyce",
+    "website": "https://www.boyce2.com/"
+  },
+  "scraped_at": "2026-02-27T03:37:12.472186"
+}

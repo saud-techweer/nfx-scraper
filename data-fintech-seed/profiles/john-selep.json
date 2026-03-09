@@ -1,0 +1,217 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Operator"
+    ],
+    "name": "John Selep",
+    "positionAndFirm": "Incubator Operator, Angel Investor, former Tech executive",
+    "signalScore": 34
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sacramento Angels",
+      "firmUrl": "https://signal.nfx.com/firms/sacramento-angels",
+      "position": "Angel"
+    },
+    "investmentRange": "$50K - $300K",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "NuCicer",
+      "date": "Mar 2022",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Brian Bell (Team Ignite Ventures)"
+      ],
+      "company": "Pheronym",
+      "date": "Apr 2021",
+      "roundSize": "$75K",
+      "stage": "Pre Seed",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Caribou",
+      "date": "Jan 2021",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nalu Bio",
+      "date": "Jan 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Henri Yuan (Alumni Ventures )",
+        "Raanan Bar-Cohen (Resolute Ventures)",
+        "Aviram Jenik (Rabbit Ventures)",
+        "Joe Raczka (York IE)",
+        "Sebastien de Halleux (Graph Ventures)",
+        "Kevin Colas"
+      ],
+      "company": "Metadata",
+      "date": "Sep 2020",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$47M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Outstanding Foods",
+      "date": "Apr 2020",
+      "roundSize": "$5M",
+      "stage": "Series Unknown",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "TurtleTree",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "William Andre Buchanan"
+      ],
+      "company": "Partake Foods",
+      "date": "Jun 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVpnQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dee4aecde828eb445f8fe41f9c85d5e47be8013d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-selep",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "john-selep",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jselep/"
+  },
+  "scraped_at": "2026-03-03T21:07:10.557403"
+}

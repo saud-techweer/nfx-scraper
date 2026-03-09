@@ -1,0 +1,43 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Mark Kavelaars",
+    "website": "https://swanlaab.com/about-us/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Swanlaab Venture Factory",
+      "firmUrl": "https://signal.nfx.com/firms/swanlaab-venture-factory",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$150K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2pQQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8452080724e0613ec5ad958399d85940cc8b8f75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mark-kavelaars",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mark-kavelaars",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mark-e-kavelaars",
+    "linkedin": "https://www.linkedin.com/in/mkavelaars/",
+    "twitter": "https://www.twitter.com/mekavelaars",
+    "website": "https://www.swanlaab.com/about-us/"
+  },
+  "scraped_at": "2026-02-27T23:36:37.430796"
+}

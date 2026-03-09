@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Jack Abramowitz",
+    "website": "https://nextview.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NextView Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/nextview-ventures",
+      "position": "Senior Associate"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$250K - $3.0M",
+    "sweetSpot": "$1.6M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3JhQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a53a2aaed24a21bafa9d7f4f59054dfb97e77500/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-abramowitz",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jack-abramowitz",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jack-abramowitz",
+    "crunchbase": "https://www.crunchbase.com/person/jack-abramowitz-b627",
+    "linkedin": "https://www.linkedin.com/in/jack-abramowitz-41a0a844/",
+    "twitter": "https://www.twitter.com/jackabramowitz",
+    "website": "https://www.nextview.vc/"
+  },
+  "scraped_at": "2026-03-03T20:37:36.149512"
+}

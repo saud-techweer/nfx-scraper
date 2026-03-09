@@ -1,0 +1,170 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Stu Smith",
+    "signalScore": 593,
+    "website": "https://coughdropcapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Coughdrop Capital",
+      "firmUrl": "https://signal.nfx.com/firms/coughdrop-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$650K",
+    "investmentRange": "$50K - $150K",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Ware",
+      "date": "Nov 2024",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ever Loved",
+      "date": "Oct 2024",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Dreamship",
+      "date": "Sep 2024",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Animation Inc.",
+      "date": "Jun 2024",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Hello Patient",
+      "date": "Jun 2024",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Practice",
+      "date": "Jan 2020",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [
+        "Jon Dishotsky (Daft Capital)",
+        "Chris Moreno (Infinite Niches)",
+        "Cesare Pesci (YOBE Ventures)",
+        "Yotis Tonnelier (YOBE Ventures)",
+        "Joshua Webster"
+      ],
+      "company": "Mercury",
+      "date": "Sep 2019",
+      "roundSize": "$25K",
+      "stage": "Series A",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "David Ulevitch (Andreessen Horowitz)",
+        "Charles Hudson (Precursor Ventures)",
+        "Jeff Huber (Triatomic Capital)",
+        "Eliot Durbin (Boldstart Ventures)",
+        "Ed Sim (Boldstart Ventures)",
+        "Ian Rountree (Cantos Ventures)",
+        "Jay Levy (Zelkova Ventures)",
+        "Craig Hunter (Operator Ventures)"
+      ],
+      "company": "Superhuman",
+      "date": "Jan 2018",
+      "roundSize": "$10K",
+      "stage": "Series A",
+      "totalRaised": "$10K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1pmQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--71d552826d76a84eb316bfecfd30b68f5fd51a3a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stu-smith",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    }
+  ],
+  "slug": "stu-smith",
+  "socials": {
+    "angellist": "https://www.angel.co/p/stu-smith-1",
+    "crunchbase": "https://www.crunchbase.com/person/stu-smith",
+    "linkedin": "https://www.linkedin.com/in/imstusmith/",
+    "website": "https://www.coughdropcapital.com/"
+  },
+  "scraped_at": "2026-02-27T04:55:20.605515"
+}

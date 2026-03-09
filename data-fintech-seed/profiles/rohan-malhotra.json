@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Rohan Malhotra",
+    "website": "https://www.brewerlane.com/people"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Brewer Lane Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/brewer-lane-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$1M - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXJqQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aefb3541addfba7104facf31d0a4884e63b96795/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rohan-malhotra",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "rohan-malhotra",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/rohan-malhotra-5",
+    "linkedin": "https://www.linkedin.com/in/rohanmal/",
+    "twitter": "https://www.twitter.com/rohanm_",
+    "website": "https://www.brewerlane.com/people"
+  },
+  "scraped_at": "2026-03-05T21:54:05.396380"
+}

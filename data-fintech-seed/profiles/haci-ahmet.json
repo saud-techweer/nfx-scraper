@@ -1,0 +1,60 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Istanbul",
+    "name": "HACI AHMET GUZELDAG"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Juno Ventures LLC",
+      "firmUrl": "https://signal.nfx.com/firms/juno-ventures-llc",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFAwQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba9267e347186afa7b6e182c613f0c57e718c5b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/haci-ahmet",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "haci-ahmet",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/h-ahmet-guzeldag"
+  },
+  "scraped_at": "2026-03-03T20:21:26.519814"
+}

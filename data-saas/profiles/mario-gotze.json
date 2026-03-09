@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Germany",
+    "name": "Mario Götze"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0wyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb2e6bffcb4e269bf898e04207bf37609fec4e80/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mario-gotze",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "mario-gotze",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mario-g%C3%B6tze",
+    "linkedin": "https://www.linkedin.com/in/mario-goetze/"
+  },
+  "scraped_at": "2026-02-27T02:25:52.643616"
+}

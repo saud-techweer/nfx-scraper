@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Mexico City, Mexico",
+    "name": "Luis Nicolás Bustani",
+    "website": "https://www.99startups.mx/"
+  },
+  "experience": [
+    {
+      "company": "Mastercard",
+      "dates": "2020 - 2021",
+      "position": "Financial Planning and Analysis Intern"
+    },
+    {
+      "company": "99 Startups",
+      "dates": "2022 - Present",
+      "position": "Analyst"
+    },
+    {
+      "company": "Alpha Impact 8",
+      "dates": "2021 - Present",
+      "position": "Financial Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "99 Startups",
+      "firmUrl": "https://signal.nfx.com/firms/99-startups",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzhsQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab7cc6f5c7ae8479e7f98d1015ae88710f76db32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/luis-nicolas-bustani",
+  "sectorRankings": [
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "luis-nicolas-bustani",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/luis-nicol%C3%A1s-bustani-b17810199/",
+    "website": "https://www.99startups.mx/"
+  },
+  "scraped_at": "2026-03-03T22:01:25.793063"
+}

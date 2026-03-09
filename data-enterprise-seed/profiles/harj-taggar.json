@@ -1,0 +1,95 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Harj Taggar",
+    "website": "http://harj.posthaven.com/"
+  },
+  "experience": [
+    {
+      "company": "Triplebyte",
+      "dates": "2015 - 2019",
+      "position": "Co-Founder, CEO"
+    },
+    {
+      "company": "Initialized Capital",
+      "dates": "2011 - 2014",
+      "position": "Co-Founder, GP"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2010 - 2014",
+      "position": "Partner"
+    },
+    {
+      "company": "Live Current Media, Inc.",
+      "dates": "2008 - 2009",
+      "position": "Director of Product Management"
+    },
+    {
+      "company": "Auctomatic",
+      "dates": "2006 - 2008",
+      "position": "Co-founder"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2020 - Present",
+      "position": "Group Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "Partner"
+    },
+    "investmentRange": "$150K - $150K",
+    "sweetSpot": "$150K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ebff38480014bb15cc1177c5651f65ef3cfea3d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/harj-taggar",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "harj-taggar",
+  "socials": {
+    "angellist": "https://www.angel.co/p/harj",
+    "crunchbase": "https://www.crunchbase.com/person/harjeet-taggar",
+    "linkedin": "https://www.linkedin.com/in/harjtaggar/",
+    "twitter": "https://www.twitter.com/harjtaggar",
+    "website": "https://harj.posthaven.com/"
+  },
+  "scraped_at": "2026-02-27T22:13:49.598258"
+}

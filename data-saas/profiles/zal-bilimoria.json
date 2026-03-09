@@ -1,0 +1,237 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Zal Bilimoria",
+    "website": "https://www.refactor.com/"
+  },
+  "experience": [
+    {
+      "company": "Andreessen Horowitz",
+      "dates": "2013 - 2016",
+      "position": "Partner"
+    },
+    {
+      "company": "LinkedIn",
+      "dates": "2012 - 2013",
+      "position": "Senior Product Manager"
+    },
+    {
+      "company": "Netflix",
+      "dates": "2011 - 2012",
+      "position": "Senior Product Manager"
+    },
+    {
+      "company": "Sniply",
+      "dates": "2010 - 2011",
+      "position": "Co-Founder/CEO"
+    },
+    {
+      "company": "Google",
+      "dates": "2006 - 2010",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2004 - 2006",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Refactor Capital",
+      "dates": "2016 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Refactor Capital",
+      "firmUrl": "https://signal.nfx.com/firms/refactor-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$100K - $2.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Martin Casado (Andreessen Horowitz)",
+        "Ian Rountree (Cantos Ventures)",
+        "Jonathan Roosevelt (Industry Ventures)",
+        "Ethan Batraski (Venrock)"
+      ],
+      "company": "Astranis",
+      "date": "Feb 2020",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BioRender",
+      "date": "Jun 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Kyle Kurpinski (Tencent Holdings)",
+        "Michael Dempsey (Compound)",
+        "Steven Lurie (Team Builder Ventures)"
+      ],
+      "company": "Culture Biosciences",
+      "date": "Apr 2018",
+      "roundSize": null,
+      "stage": "seed",
+      "totalRaised": "$80M"
+    },
+    {
+      "coInvestors": [
+        "Michael Berolzheimer (BEE Partners)",
+        "Ian Rountree (Cantos Ventures)"
+      ],
+      "company": "Knowde",
+      "date": "Sep 2017",
+      "roundSize": "$1.5M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejdmQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--13ce06fcd36b9e7372f2f2224cf43ddc1a31bfe6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zal-bilimoria",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "Material Science (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Chemicals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Chemicals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "zal-bilimoria",
+  "socials": {
+    "angellist": "https://www.angel.co/zalzally",
+    "crunchbase": "https://www.crunchbase.com/person/zal-bilimoria",
+    "linkedin": "https://www.linkedin.com/in/zalzally/",
+    "twitter": "https://www.twitter.com/zalzally",
+    "website": "https://www.refactor.com/"
+  },
+  "scraped_at": "2026-02-27T05:48:33.590107"
+}

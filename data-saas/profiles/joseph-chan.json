@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor"
+    ],
+    "name": "J C",
+    "positionAndFirm": "Angel Investor making strategic intros to investors, clients, and partners",
+    "signalScore": 723
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $100K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Stephen Kawaja"
+      ],
+      "company": "Qusecure",
+      "date": "Nov 2021",
+      "roundSize": "$2.8M",
+      "stage": "Seed",
+      "totalRaised": "$2.8M"
+    },
+    {
+      "coInvestors": [
+        "Stephen Kawaja"
+      ],
+      "company": "Tygrus",
+      "date": "Oct 2021",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTRjQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cad510cf0d7804c2ede86bf431276db523f1970/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/joseph-chan",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "joseph-chan",
+  "socials": {
+    "twitter": "https://www.nfx.com/google-api-disclosure/"
+  },
+  "scraped_at": "2026-02-27T01:24:49.358851"
+}

@@ -1,0 +1,145 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Advisor",
+      "Strategy Operator",
+      "Founder"
+    ],
+    "location": "Vancouver, BC",
+    "name": "Abhay Ghatpande",
+    "signalScore": 190,
+    "website": "https://sproutfund.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sprout Fund VC",
+      "firmUrl": "https://signal.nfx.com/firms/sprout-fund-vc",
+      "position": "Investor"
+    },
+    "investmentRange": "$300K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Levr.ai",
+      "date": "Jan 2023",
+      "roundSize": "$1M",
+      "stage": "Pre Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTk3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4dfac93a33e6871b5ee98c2211a002c2ca87689/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/abhay-ghatpande_1",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "abhay-ghatpande_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/abhayghatpande/",
+    "website": "https://www.sproutfund.vc/"
+  },
+  "scraped_at": "2026-02-26T06:31:58.047063"
+}

@@ -1,0 +1,179 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Jeff Weinstein",
+    "signalScore": 57,
+    "website": "https://fjlabs.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FJ Labs",
+      "firmUrl": "https://signal.nfx.com/firms/fj-labs",
+      "position": "Partner"
+    },
+    "fundSize": "$175M",
+    "investmentRange": "$220K - $1.3M",
+    "investmentsOnRecord": 13,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Transparency Analytics",
+      "date": "Dec 2025",
+      "roundSize": null,
+      "stage": "Series Unknown",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Lenny Rachitsky (AirAngels)",
+        "Emilie Choi (Coinbase Ventures)",
+        "Gustaf Alströmer (Y Combinator)",
+        "Adam Bain (01 Advisors)",
+        "Marc McCabe",
+        "Julia DeWahl",
+        "Dylan Field",
+        "Robert Gentz",
+        "Koen Bok",
+        "Christina Cacioppo",
+        "Akash Garg",
+        "Guillermo Rauch",
+        "Claire Hughes Johnson",
+        "Jeff Chang"
+      ],
+      "company": "Linear",
+      "date": "Jun 2025",
+      "roundSize": "$82M",
+      "stage": "Series C",
+      "totalRaised": "$130M"
+    },
+    {
+      "coInvestors": [
+        "Andrew Black (BrandProject)",
+        "Rahul Vohra (Todd and Rahul's Angel Fund)",
+        "Mark McLaughlin (Alkeon Capital)",
+        "David Helgason (foobar.vc)",
+        "Janet Bannister (Staircase Ventures)",
+        "Alex McIsaac (Northside Ventures)",
+        "Neal Sáles-Griffin (MATH Venture Partners)",
+        "Jason Finger (The Finger Group)",
+        "Parker Treacy",
+        "Jacob Kerzner",
+        "Heini Zachariassen",
+        "Christian Bach"
+      ],
+      "company": "Clutch",
+      "date": "Feb 2025",
+      "roundSize": "$35M",
+      "stage": "Series D",
+      "totalRaised": "$230M"
+    },
+    {
+      "coInvestors": [],
+      "company": "roclub",
+      "date": "Apr 2024",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PVML",
+      "date": "Apr 2024",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Florian Reichert (Picus Capital)"
+      ],
+      "company": "POC Pharma",
+      "date": "Apr 2022",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Dan Teran (Gutter Capital)",
+        "Lee Linden (Quiet Capital)",
+        "Craig Hunter (Operator Ventures)",
+        "Niv Dror (Shrug Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Kintan Brahmbhatt",
+        "Neil Parikh",
+        "James Beshara"
+      ],
+      "company": "Airhouse",
+      "date": "Mar 2022",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Shmuel Chafets (Giza Polish Ventures)",
+        "Hakan Koc"
+      ],
+      "company": "Fresha",
+      "date": "Jun 2021",
+      "roundSize": "$150M",
+      "stage": "Series C",
+      "totalRaised": "$180M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFYxQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e130c8b0e55c7ec8faa2b1f5440273191abbcbb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-weinstein",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jeff-weinstein",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jeff-weinstein-1",
+    "crunchbase": "https://www.crunchbase.com/person/jeff-weinstein-3",
+    "linkedin": "https://www.linkedin.com/in/jeffreysweinstein/",
+    "twitter": "https://www.twitter.com/jeffreyw5000?lang=en",
+    "website": "https://www.fjlabs.com/team/"
+  },
+  "scraped_at": "2026-02-11T10:31:05.706464"
+}

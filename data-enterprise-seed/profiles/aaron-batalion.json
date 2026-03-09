@@ -1,0 +1,110 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Aaron Batalion",
+    "signalScore": 2,
+    "website": "https://aaronbatalion.com/"
+  },
+  "experience": [
+    {
+      "company": "Lightspeed Venture Partners",
+      "dates": "2015 - 2019",
+      "position": "Partner"
+    },
+    {
+      "company": "Living Social",
+      "dates": "2007 - 2013",
+      "position": "Co-Founder, 1st CTO"
+    },
+    {
+      "company": "Revolution Health Group",
+      "dates": "2006 - 2007",
+      "position": "Architect"
+    },
+    {
+      "company": "Accenture",
+      "dates": "2003 - 2005",
+      "position": "Software Architect"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2002 - 2003",
+      "position": ".NET Evangelist"
+    },
+    {
+      "company": "Hewlett-Packard",
+      "dates": "Present",
+      "position": "Software Developer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Batalion Capital",
+      "firmUrl": "https://signal.nfx.com/firms/batalion-capital",
+      "position": "Angel"
+    },
+    "investmentRange": "$20K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--65e7e0dd1062b246d2fcbe92940d5e38e309a11b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aaron-batalion",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "aaron-batalion",
+  "socials": {
+    "angellist": "https://www.angel.co/aaronbatalion",
+    "crunchbase": "https://www.crunchbase.com/person/aaron-batalion",
+    "linkedin": "https://www.linkedin.com/in/aaronbatalion/",
+    "twitter": "https://www.twitter.com/abatalion",
+    "website": "https://www.aaronbatalion.com/"
+  },
+  "scraped_at": "2026-02-26T06:30:49.506980"
+}

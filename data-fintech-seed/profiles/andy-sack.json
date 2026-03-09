@@ -1,0 +1,92 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Andy Sack",
+    "positionAndFirm": "Co-Founder, Managing Partner at Founders Co-op",
+    "website": "https://www.founderscoop.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founders Co-op",
+      "firmUrl": "https://signal.nfx.com/firms/founders-co-op-1",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Anna Haghgooie (BlueCross BlueShield Venture Partners)"
+      ],
+      "company": "EveryMove",
+      "date": "May 2012",
+      "roundSize": "$2.6M",
+      "stage": "Series A",
+      "totalRaised": "$6.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDhNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--27ab36507e154ffc302cd008a61047965ec31434/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andy-sack",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andy-sack",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andy-sack",
+    "linkedin": "https://www.linkedin.com/in/andysack/",
+    "twitter": "https://www.twitter.com/andysack",
+    "website": "https://www.wellfound.com/p/andysack"
+  },
+  "scraped_at": "2026-02-28T00:20:25.823987"
+}

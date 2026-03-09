@@ -1,0 +1,174 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Engineering Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Keith Adams",
+    "signalScore": 167,
+    "website": "https://pebblebed.com/"
+  },
+  "experience": [
+    {
+      "company": "Slack Technologies, Inc",
+      "dates": "2016 - 2020",
+      "position": "Chief Architect"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2009 - 2015",
+      "position": "Engineer"
+    },
+    {
+      "company": "VMware, Inc",
+      "dates": "2000 - 2009",
+      "position": "Senior Staff Engineer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pebblebed",
+      "firmUrl": "https://signal.nfx.com/firms/pebblebed",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$1M - $3.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Select Star",
+      "date": "Sep 2022",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Dylan Itzikowitz (Expa)"
+      ],
+      "company": "Northflank",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2NLQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ca8ea1c5dabcb3a4c96957c1bf5ae89ea0fea40/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/keith-adams",
+  "sectorRankings": [
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Therapeutics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-pre-seed-investors"
+    },
+    {
+      "name": "Therapeutics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "keith-adams",
+  "socials": {
+    "angellist": "https://www.angel.co/u/keith-adams-9",
+    "crunchbase": "https://www.crunchbase.com/person/keith-adams-3",
+    "linkedin": "https://www.linkedin.com/in/keith-adams-1b45185/",
+    "twitter": "https://www.twitter.com/keithmadams",
+    "website": "https://www.pebblebed.com/"
+  },
+  "scraped_at": "2026-02-27T01:42:53.187225"
+}

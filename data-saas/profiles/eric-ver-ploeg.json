@@ -1,0 +1,260 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Former CEO",
+      "Founder"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Eric Ver Ploeg",
+    "positionAndFirm": "Founding Partner, Tunitas Ventures",
+    "signalScore": 60,
+    "website": "https://tunitas.vc/"
+  },
+  "experience": [
+    {
+      "company": "LightJump Capital",
+      "dates": "2020 - 2022",
+      "position": "President"
+    },
+    {
+      "company": "Deutsche Telekom Capital Partners",
+      "dates": "2017 - 2020",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Recursive Capital",
+      "dates": "2011 - 2015",
+      "position": "Managing Member"
+    },
+    {
+      "company": "Metric Ventures",
+      "dates": "2009 - 2010",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "VantagePoint Venture Partners",
+      "dates": "2001 - 2008",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Angara",
+      "dates": "1996 - 2001",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "AdKnowledge",
+      "dates": "1995 - 1995",
+      "position": "Founder"
+    },
+    {
+      "company": "Tunitas Ventures",
+      "dates": "2022 - Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tunitas Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/tunitas-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $1.5M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Jack Home Services",
+      "date": "Nov 2025",
+      "roundSize": "$1.7M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1.7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Balance Cash",
+      "date": "May 2025",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Bryan Schreier (Sequoia Capital)",
+        "Nabeel Hyatt (Spark Capital)",
+        "Carine Magescas (AngelPad)",
+        "Ning Sung"
+      ],
+      "company": "Zum",
+      "date": "Mar 2018",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "John Balen (Canaan Partners)",
+        "Courtney Broadus (Operator Collective)",
+        "David Ibnale (AVP (Advance Venture Partners))",
+        "Cynthia Ringo",
+        "Douglas Carlisle"
+      ],
+      "company": "UrbanSitter",
+      "date": "Oct 2017",
+      "roundSize": "$17M",
+      "stage": "Series C",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOE5OQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--205243fbf3b1aaab7ea64f5c7cf93f0115cf21f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eric-ver-ploeg",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "eric-ver-ploeg",
+  "socials": {
+    "angellist": "https://www.angel.co/eric-ver-ploeg",
+    "crunchbase": "https://www.crunchbase.com/person/eric-ver-ploeg",
+    "linkedin": "https://www.linkedin.com/in/ericvp/",
+    "twitter": "https://www.twitter.com/everploeg",
+    "website": "https://www.tunitas.vc/"
+  },
+  "scraped_at": "2026-02-26T23:44:40.505072"
+}

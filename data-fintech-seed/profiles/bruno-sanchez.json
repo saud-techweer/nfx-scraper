@@ -1,0 +1,40 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Mexico City, Mexico",
+    "name": "Bruno Sánchez",
+    "website": "https://avalancha.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Avalancha Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/avalancha-ventures",
+      "position": "Analyst"
+    },
+    "investmentRange": "$50K - $50K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3VrQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e340a67c5e7632071bd0aa02a515f62288df476/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bruno-sanchez",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "bruno-sanchez",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/bruno-sanchez-fernandez-b51775196/",
+    "website": "https://www.avalancha.ventures/"
+  },
+  "scraped_at": "2026-03-03T16:22:36.487259"
+}

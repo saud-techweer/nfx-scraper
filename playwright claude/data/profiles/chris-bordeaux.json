@@ -1,0 +1,147 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor",
+      "Attorney",
+      "Strategy Operator"
+    ],
+    "name": "Chris Bordeaux",
+    "signalScore": 98,
+    "website": "https://www.lfgventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Guild Capital",
+      "dates": "Present",
+      "position": "General Counsel"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "LFG Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/lfg-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Justin Mateen"
+      ],
+      "company": "Home Chef",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Sujay Jaswa (WndrCo LLC)",
+        "Baron Davis",
+        "Kevin Colas",
+        "Kelvin Beachum Jr."
+      ],
+      "company": "Fireside",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Coco Robotics",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Lobos Tequila",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Carlos Alonso-Torras (FinTech Collective)",
+        "Allan Boruchowicz (Carao Ventures)",
+        "Sergio Fogel",
+        "Johannes De Waal"
+      ],
+      "company": "Strike",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUhQQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6ef915d298745c06557d5f2d3c2c951605c5d07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-bordeaux",
+  "sectorRankings": [
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    }
+  ],
+  "slug": "chris-bordeaux",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/organization/lfg-ventures",
+    "linkedin": "https://www.linkedin.com/in/chris-bordeaux/",
+    "website": "https://www.lfgventures.com/"
+  },
+  "scraped_at": "2026-02-12T09:51:28.477439"
+}

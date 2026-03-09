@@ -1,0 +1,226 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "CEO"
+    ],
+    "name": "Jakub Jablonsky"
+  },
+  "experience": [
+    {
+      "company": "VU Venture Partners",
+      "dates": "2021 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Jablonsky Group",
+      "dates": "2019 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VU Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/vu-venture-partners",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Mathieu Guerville",
+        "Nirbhay Dhapodkar"
+      ],
+      "company": "Oxygen",
+      "date": "Nov 2021",
+      "roundSize": "$70M",
+      "stage": "Series B",
+      "totalRaised": "$77M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Finless Foods",
+      "date": "Oct 2021",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Stewart Glynn (TEN13)"
+      ],
+      "company": "Mr Yum",
+      "date": "Oct 2021",
+      "roundSize": "$65M",
+      "stage": "Series A",
+      "totalRaised": "$67M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeEJPQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--84eb44691996f8be3783a0e51a185236f13fad08/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jakub-jablonsky",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-b-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-b-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Games (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-b-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jakub-jablonsky",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jakub-jablonsky/",
+    "twitter": "https://www.twitter.com/jakub_jablonsky"
+  },
+  "scraped_at": "2026-03-03T20:42:23.366129"
+}

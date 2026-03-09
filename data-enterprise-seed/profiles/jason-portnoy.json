@@ -1,0 +1,39 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Jason Portnoy",
+    "signalScore": 112
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Subtraction Capital",
+      "firmUrl": "https://signal.nfx.com/firms/subtraction-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBay9kIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c811434fe02401bc503ab91217a4ff69d71724b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jason-portnoy",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jason-portnoy",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jason-portnoy",
+    "linkedin": "https://www.linkedin.com/in/jasonportnoy/",
+    "twitter": "https://www.twitter.com/jportnoy"
+  },
+  "scraped_at": "2026-02-27T22:34:08.254407"
+}

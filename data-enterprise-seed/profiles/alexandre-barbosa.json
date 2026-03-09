@@ -1,0 +1,66 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Lisbon, Portugal",
+    "name": "Alexandre Barbosa",
+    "signalScore": 47,
+    "website": "https://faber-ventures.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Faber",
+      "firmUrl": "https://signal.nfx.com/firms/faber",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$115K - $1.7M",
+    "sweetSpot": "$850K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDZIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--741574a422b2532337175276d1d14404c0a3dd56/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexandre-barbosa",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alexandre-barbosa",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alexandre-barbosa",
+    "twitter": "https://www.twitter.com/agarciabarbosa",
+    "website": "https://www.faber-ventures.com/team/"
+  },
+  "scraped_at": "2026-02-27T20:05:34.474406"
+}

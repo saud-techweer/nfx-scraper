@@ -1,0 +1,219 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Sales Operator",
+      "Investor",
+      "Strategy Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Momo Bi",
+    "signalScore": 59
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New York Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/new-york-ventures",
+      "position": "Principal"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "yuvo Health",
+      "date": "Jun 2021",
+      "roundSize": "$1.2M",
+      "stage": "Pre-seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Unite Us",
+      "date": "Mar 2021",
+      "roundSize": "$150M",
+      "stage": "Series C",
+      "totalRaised": "$150M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BlocPower",
+      "date": "Dec 2019",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Kangarootime",
+      "date": "Oct 2019",
+      "roundSize": "$4M",
+      "stage": "A",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "John Braze (MIR Ventures)"
+      ],
+      "company": "Concertio, Inc.",
+      "date": "N/A",
+      "roundSize": "$3M",
+      "stage": "Series Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXZZQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b19f9372ff0ef7b1d4caf7a46814df02f60e81b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/momo-bi",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "GovTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "momo-bi",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/momobi/",
+    "twitter": "https://www.twitter.com/peachfiremomo"
+  },
+  "scraped_at": "2026-02-27T03:00:30.950971"
+}

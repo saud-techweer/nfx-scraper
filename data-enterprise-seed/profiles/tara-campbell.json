@@ -1,0 +1,169 @@
+{
+  "basicInfo": {
+    "name": "Tara Campbell",
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "website": "https://imaginary.co/about/",
+    "location": "New York, New York"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Imaginary Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/imaginary-ventures",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M",
+    "fundSize": "$500M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-b-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-b-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [
+    {
+      "position": "Private Equity Data Science",
+      "company": "Blackstone",
+      "dates": "2020 - 2022"
+    },
+    {
+      "position": "Summer Analyst, Private Equity Data Science",
+      "company": "Blackstone",
+      "dates": "2019 - 2019"
+    },
+    {
+      "position": "Insights and Analytics Summer Intern",
+      "company": "Prophet",
+      "dates": "2018 - 2018"
+    },
+    {
+      "position": "Global Strategy, Insights and Analytics Summer Intern",
+      "company": "Bacardi",
+      "dates": "2018 - 2018"
+    },
+    {
+      "position": "Summer Intern",
+      "company": "Northwestern University - Kellogg School of Management",
+      "dates": "2017 - 2017"
+    },
+    {
+      "position": "Biodata and Analytics Intern, Alumni Relations",
+      "company": "The University of Chicago Booth School of Business",
+      "dates": "2016 - 2016"
+    },
+    {
+      "position": "Associate",
+      "company": "Imaginary",
+      "dates": "2022 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.imaginary.co/about/",
+    "linkedin": "https://www.linkedin.com/in/tara-campbell-005554138/"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUJOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9a6e26e10e143516baf5ec3df35f2f3c2497cae3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tara-campbell",
+  "slug": "tara-campbell",
+  "scraped_at": "2026-02-24T13:19:20.045044"
+}

@@ -1,0 +1,169 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Operator",
+      "Strategy Operator",
+      "Finance Operator"
+    ],
+    "location": "Oxford, United Kingdom",
+    "name": "Miguel Jordao",
+    "signalScore": 37,
+    "website": "https://www.newlandsyndicate.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Newland Syndicate",
+      "firmUrl": "https://signal.nfx.com/firms/newland-syndicate",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $200K",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Alphabiome.ai",
+      "date": "May 2025",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Emil Waskoenig (Moonstone Venture Capital)"
+      ],
+      "company": "Foreverland Food",
+      "date": "Jun 2024",
+      "roundSize": "$3.4M",
+      "stage": "Seed",
+      "totalRaised": "$3.4M"
+    },
+    {
+      "coInvestors": [
+        "Emil Waskoenig (Moonstone Venture Capital)"
+      ],
+      "company": "Messium",
+      "date": "Nov 2023",
+      "roundSize": "$1.8M",
+      "stage": "Pre-seed",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Peckish",
+      "date": "Jun 2023",
+      "roundSize": "$100K",
+      "stage": "Pre Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Untap Health",
+      "date": "Nov 2022",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cala",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "SAFE",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Extracellular",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "SAFE",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOURVQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b8ff9929195a26ad741dc84a507b4e60526591d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/miguel-jordao",
+  "sectorRankings": [
+    {
+      "name": "Chemicals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Chemicals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "miguel-jordao",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/miguel-jordao-10274762/?originalSubdomain=uk",
+    "website": "https://www.newlandsyndicate.com/"
+  },
+  "scraped_at": "2026-02-27T02:54:11.632421"
+}

@@ -1,0 +1,66 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "California",
+    "name": "John Buccheri",
+    "website": "https://www.xrclabs.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "XRC Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/xrc-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$34M",
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0FjQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c978ab19d00a79bc1c6022b645dfd12e9c25a142/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-buccheri",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-buccheri",
+  "socials": {
+    "angellist": "https://www.angel.co/u/john-buccheri",
+    "linkedin": "https://www.linkedin.com/in/johnbuccheri/",
+    "website": "https://www.xrclabs.com/team"
+  },
+  "scraped_at": "2026-02-27T22:46:51.050431"
+}

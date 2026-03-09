@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Germany",
+    "name": "Simon Drake",
+    "positionAndFirm": "Managing Director, Co-Founder and Partner at Space Ventures Investors",
+    "website": "http://www.simondrake.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Space Ventures Investors",
+      "firmUrl": "https://signal.nfx.com/firms/space-ventures-investors",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUN2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee668254e820b1e4700f2a8b7bac3762a278ad6d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/simon-drake",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "simon-drake",
+  "socials": {
+    "angellist": "https://www.angel.co/u/simon-drake-1",
+    "crunchbase": "https://www.crunchbase.com/person/simon-drake",
+    "linkedin": "https://www.linkedin.com/in/simondrake/",
+    "twitter": "https://www.twitter.com/simondrake",
+    "website": "https://www.simondrake.com/"
+  },
+  "scraped_at": "2026-02-27T04:43:02.704271"
+}

@@ -1,0 +1,225 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "Singapore",
+    "name": "YekSoon Lok",
+    "signalScore": 5,
+    "website": "https://awesome-ventures.vc/"
+  },
+  "experience": [
+    {
+      "company": "Awesome Ventures",
+      "dates": "Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Awesome Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/awesome-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $250K",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Waterplan",
+      "date": "Nov 2021",
+      "roundSize": "$2.6M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.6M"
+    },
+    {
+      "coInvestors": [
+        "Anna Barber (Everywhere Ventures (The Fund))"
+      ],
+      "company": "Replenysh",
+      "date": "Jul 2020",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Crowdz",
+      "date": "Jun 2020",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Deep Sentinel",
+      "date": "Apr 2017",
+      "roundSize": "$7.4M",
+      "stage": "Series A",
+      "totalRaised": "$7.4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Starfish Space",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "TrustPortal",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Gradient Health",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Pattern Financial",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzhpQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dfbaac03e964129f3366e828e2472cfef6710514/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yeksoon-lok",
+  "sectorRankings": [
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Material Science (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Material Science (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "yeksoon-lok",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/yeksoon/",
+    "twitter": "https://www.twitter.com/yeksoon",
+    "website": "https://www.awesome-ventures.vc/"
+  },
+  "scraped_at": "2026-02-27T05:42:04.172132"
+}

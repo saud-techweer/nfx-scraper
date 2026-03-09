@@ -1,0 +1,66 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Athens, Greece",
+    "name": "Alex Eleftheriadis",
+    "website": "https://bigpi.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Big Pi Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/big-pi-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$75M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzhwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--85cee85801344c6ea048d3671d0e3f8cb8a1d28f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-eleftheriadis",
+  "sectorRankings": [
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "alex-eleftheriadis",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/eleft/",
+    "twitter": "https://www.twitter.com/eleft",
+    "website": "https://www.bigpi.vc/"
+  },
+  "scraped_at": "2026-02-26T06:42:43.005713"
+}

@@ -1,0 +1,157 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Miami, Florida",
+    "name": "Nico Berardi",
+    "signalScore": 2951,
+    "website": "https://animo.vc/team-member"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Animo Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/animo-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sam Awrabi (Banyan Ventures)",
+        "Zachary Kushel (Marin Sonoma Impact Ventures)"
+      ],
+      "company": "Finalis",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Andrew Felbinger (Urban Innovation Fund)"
+      ],
+      "company": "Codi",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Post-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Tiny Mile",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Lev",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Raanan Bar-Cohen (Resolute Ventures)",
+        "Andrea Funsten (Basecamp Fund)"
+      ],
+      "company": "Confirm HR",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "InOrbit.ai",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Mighty Business",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Soraya Darabi (TMV)"
+      ],
+      "company": "YAY Lunch",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMk1aQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9756006b738d6f465df566d09f37b64d0e32b80e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nico-berardi",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nico-berardi",
+  "socials": {
+    "angellist": "https://www.angel.co/nicberardi",
+    "crunchbase": "https://www.crunchbase.com/person/nico-berardi",
+    "linkedin": "https://www.linkedin.com/in/nico-berardi/",
+    "twitter": "https://www.twitter.com/nicberardi",
+    "website": "https://www.animo.vc/team-member"
+  },
+  "scraped_at": "2026-02-27T03:13:46.296122"
+}

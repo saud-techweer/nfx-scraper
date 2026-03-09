@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Austin Ritter",
+    "signalScore": 13,
+    "website": "https://www.vuventurepartners.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VU Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/vu-venture-partners",
+      "position": "Analyst"
+    },
+    "investmentRange": "$200K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBek1EQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f597c7436001f7ae8ae864c5d6b4b3484703fc4e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/austin-ritter",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "austin-ritter",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/austinritter/",
+    "website": "https://www.vuventurepartners.com/"
+  },
+  "scraped_at": "2026-02-28T00:35:42.986933"
+}

@@ -1,0 +1,60 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Newport Beach, California",
+    "name": "Robin Pimentel",
+    "website": "https://bodymatter.io/"
+  },
+  "experience": [
+    {
+      "company": "K5 Ventures",
+      "dates": "2013 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMExoQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--791df7603153168a7b03e34994b18480616aa7e6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robin-pimentel",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "robin-pimentel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/robin-pimentel",
+    "linkedin": "https://www.linkedin.com/in/robinpimentel/",
+    "twitter": "https://www.twitter.com/robinpimentel",
+    "website": "https://www.bodymatter.io/"
+  },
+  "scraped_at": "2026-03-05T20:02:14.122290"
+}

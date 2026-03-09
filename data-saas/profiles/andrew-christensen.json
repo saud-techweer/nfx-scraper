@@ -1,0 +1,174 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Minneapolis, Minnesota",
+    "name": "Andrew Christensen",
+    "signalScore": 9,
+    "website": "https://outsidethevalley.com/"
+  },
+  "experience": [
+    {
+      "company": "EmergingPrairie.com",
+      "dates": "2012 - 2016",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Arthur Ventures",
+      "dates": "2013 - 2015",
+      "position": "Associate"
+    },
+    {
+      "company": "Arthur Ventures",
+      "dates": "2009 - 2013",
+      "position": "Analyst"
+    },
+    {
+      "company": "Dakota Venture Group",
+      "dates": "2007 - 2009",
+      "position": "Fund Manager"
+    },
+    {
+      "company": "Arthur Ventures",
+      "dates": "2015 - Present",
+      "position": "Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Arthur Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/arthur-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$155M",
+    "investmentRange": "$250K - $3.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ae356cf4e197a73511605b711fe5027e1b0fb304/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-christensen",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andrew-christensen",
+  "socials": {
+    "angellist": "https://www.angel.co/andy-christensen",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-christensen",
+    "linkedin": "https://www.linkedin.com/in/andrewchristensen17/",
+    "twitter": "https://www.twitter.com/achristensen017",
+    "website": "https://www.outsidethevalley.com/"
+  },
+  "scraped_at": "2026-02-26T08:13:57.340852"
+}

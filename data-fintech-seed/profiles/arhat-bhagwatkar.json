@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Strategy Operator"
+    ],
+    "name": "Arhat Bhagwatkar",
+    "signalScore": 48,
+    "website": "https://linktr.ee/arhatbhagwatkar"
+  },
+  "experience": [
+    {
+      "company": "Croxit",
+      "dates": "2021 - Present",
+      "position": "Web3 Advisor"
+    },
+    {
+      "company": "GoingVC Partners",
+      "dates": "2021 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "MentorFund",
+      "dates": "2021 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MentorFund",
+      "firmUrl": "https://signal.nfx.com/firms/mentorfund",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $300K",
+    "sweetSpot": "$150K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTJFQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c629b7dd6f860c07d8ecea919bc4fc5de827f87c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/arhat-bhagwatkar",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "arhat-bhagwatkar",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/arhatbhagwatkar/",
+    "twitter": "https://www.twitter.com/0xArhat",
+    "website": "https://www.linktr.ee/arhatbhagwatkar"
+  },
+  "scraped_at": "2026-02-28T00:26:56.446665"
+}

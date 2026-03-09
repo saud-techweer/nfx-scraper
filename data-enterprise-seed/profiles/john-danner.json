@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "John Danner",
+    "website": "https://duncecapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Dunce Capital",
+      "firmUrl": "https://signal.nfx.com/firms/dunce-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Laura Melahn (GV (Google Ventures))",
+        "Miriam Rivera (Ulu Ventures)",
+        "Clint Korver (Ulu Ventures)"
+      ],
+      "company": "Swing Education",
+      "date": "Jul 2018",
+      "roundSize": "$15M",
+      "stage": "Series B",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHc4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9163a85181490ec2b44e5cfabdcc7e170804dbad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-danner",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-danner",
+  "socials": {
+    "angellist": "https://www.angel.co/johnwdanner",
+    "crunchbase": "https://www.crunchbase.com/person/jwdanner",
+    "linkedin": "https://www.linkedin.com/in/jwdanner/",
+    "twitter": "https://www.twitter.com/jwdanner",
+    "website": "https://www.duncecapital.com/"
+  },
+  "scraped_at": "2026-02-27T22:47:05.231730"
+}

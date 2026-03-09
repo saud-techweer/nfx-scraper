@@ -1,0 +1,154 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "David Sacks",
+    "website": "https://craftventures.com/team/david-sacks"
+  },
+  "experience": [
+    {
+      "company": "Yammer, Inc.",
+      "dates": "2008 - 2014",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "Geni, Inc.",
+      "dates": "2006 - 2009",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "McKinsey",
+      "dates": "Present",
+      "position": "Management Consultant"
+    },
+    {
+      "company": "Thank You For Smoking",
+      "dates": "Present",
+      "position": "Producer"
+    },
+    {
+      "company": "Harbor, Inc.",
+      "dates": "Present",
+      "position": "Founding Chairman"
+    },
+    {
+      "company": "PayPal",
+      "dates": "Present",
+      "position": "COO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Craft Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/craft-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$1M - $50.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Marlon Nichols (MaC Venture Capital)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Larry Chu (Eunoia Capital Partners)",
+        "Naval Ravikant (The Hit Forge)",
+        "Andrew Tymovskyi (Roosh Ventures)",
+        "Abhinav Gupta (Thirdbase Capital)",
+        "Michael Tam (Craft Ventures)",
+        "Sky Dayton (Craft Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "Tx Zhuo (Fika Ventures)",
+        "Valentin Gui",
+        "Sung ho Choi",
+        "Jon Runyan",
+        "Shervin Pishevar",
+        "Ryan Chan",
+        "Michael Ma"
+      ],
+      "company": "Pipe",
+      "date": "Feb 2020",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$270M"
+    },
+    {
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Andrew Chen (Andreessen Horowitz)",
+        "Jason Yeh (Patron)",
+        "Will Smith (Dreamers VC)",
+        "Keisuke Honda (Dreamers VC)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Rich Kleiman (Thirty Five Ventures)",
+        "Katy Perry",
+        "Justin Timberlake",
+        "Rudra Peram",
+        "Peter Hunn",
+        "Sung ho Choi"
+      ],
+      "company": "Sandbox VR",
+      "date": "Oct 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1hpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9237999d965127acfa73446f9901b59bad6d3fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-sacks",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "david-sacks",
+  "socials": {
+    "angellist": "https://www.angel.co/p/david-sacks-com",
+    "crunchbase": "https://www.crunchbase.com/person/david-sacks",
+    "linkedin": "https://www.linkedin.com/in/davidoliversacks/",
+    "twitter": "https://www.twitter.com/davidsacks?lang=en",
+    "website": "https://www.craftventures.com/team/david-sacks"
+  },
+  "scraped_at": "2026-02-26T10:17:37.106424"
+}

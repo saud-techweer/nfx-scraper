@@ -1,0 +1,147 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Inbae Lee",
+    "signalScore": 84,
+    "website": "http://inbae.io/"
+  },
+  "experience": [
+    {
+      "company": "Kakao Corp.",
+      "dates": "Present",
+      "position": "CEO Staff > AI Biz Dev Team"
+    },
+    {
+      "company": "Samsung Electronics",
+      "dates": "Present",
+      "position": "Software Enginneer"
+    },
+    {
+      "company": "Apple",
+      "dates": "Present",
+      "position": "Firmware Engineer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kakao Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/kakao-ventures",
+      "position": "Principal"
+    },
+    "fundSize": "$65M",
+    "investmentRange": "$200K - $1M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Rebellions.ai",
+      "date": "Jul 2021",
+      "roundSize": "$13M",
+      "stage": "Pre series A",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Minerva Project",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series C Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Lase Innovation",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmdOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0095bdbe2d56513235ec978947c59112dbe7aa0d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/inbae-lee",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "inbae-lee",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/inbae-lee",
+    "linkedin": "https://www.linkedin.com/in/inbaelee/",
+    "website": "https://www.inbae.io/"
+  },
+  "scraped_at": "2026-02-27T22:21:50.356725"
+}

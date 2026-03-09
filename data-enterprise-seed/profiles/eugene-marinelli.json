@@ -1,0 +1,66 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Austin, Texas",
+    "name": "Eugene Marinelli",
+    "website": "https://eugenemarinelli.com/about/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Conversion Capital",
+      "firmUrl": "https://signal.nfx.com/firms/conversion-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$122M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.8M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGFnQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f43bb6e9db0a4df306cc4d04d9a7cc54696cb31f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eugene-marinelli",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "eugene-marinelli",
+  "socials": {
+    "angellist": "https://www.angel.co/marinelli",
+    "crunchbase": "https://www.crunchbase.com/person/eugene-marinelli",
+    "linkedin": "https://www.linkedin.com/in/eugenemarinelli/",
+    "twitter": "https://www.twitter.com/eugenemarinelli",
+    "website": "https://www.eugenemarinelli.com/about/"
+  },
+  "scraped_at": "2026-02-27T21:50:08.853764"
+}

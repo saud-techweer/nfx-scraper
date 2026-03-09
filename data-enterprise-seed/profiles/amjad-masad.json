@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Founder",
+      "CEO"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Amjad Masad"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXo4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d6d84c49c3063fcc38c3e63f522b40c217dcfde/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amjad-masad",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "amjad-masad",
+  "socials": {
+    "angellist": "https://www.angel.co/p/amasad",
+    "crunchbase": "https://www.crunchbase.com/person/amjad-masad",
+    "linkedin": "https://www.linkedin.com/in/amjadmasad/",
+    "twitter": "https://www.twitter.com/amasad"
+  },
+  "scraped_at": "2026-02-27T20:12:29.402726"
+}

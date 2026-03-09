@@ -1,0 +1,244 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO",
+      "Sales Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Michael Cardamone",
+    "signalScore": 1474,
+    "website": "https://www.forumvc.com/"
+  },
+  "experience": [
+    {
+      "company": "Mya Systems",
+      "dates": "2014 - 2019",
+      "position": "Advisor"
+    },
+    {
+      "company": "SaaStr",
+      "dates": "2017 - 2018",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "AcademixDirect, Inc.",
+      "dates": "2010 - 2014",
+      "position": "VP of Partnerships"
+    },
+    {
+      "company": "AcademixDirect, Inc.",
+      "dates": "2009 - 2010",
+      "position": "Partner Channel Manager"
+    },
+    {
+      "company": "Box.net",
+      "dates": "2008 - 2009",
+      "position": "Business Development Manager"
+    },
+    {
+      "company": "United States Federation of Small Businesses",
+      "dates": "2005 - 2007",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Mainpoint Marketing",
+      "dates": "2006 - 2006",
+      "position": "Part Time Marketing/Business Analyst"
+    },
+    {
+      "company": "Oper8r LLC",
+      "dates": "2021 - Present",
+      "position": "Cohort 2 Member"
+    },
+    {
+      "company": "Forum Ventures (formerly Acceleprise)",
+      "dates": "2014 - Present",
+      "position": "CEO & Managing Partner"
+    },
+    {
+      "company": "Acceleprise",
+      "dates": "2014 - Present",
+      "position": "Managing Partner & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Forum Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/forum-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $600K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "James Murphy (Forum Ventures)",
+        "Steven Rosenblatt (Oceans)",
+        "Ben Orthlieb (2.12 Angels)"
+      ],
+      "company": "Lang.ai",
+      "date": "Jan 2021",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "James Murphy (Forum Ventures)"
+      ],
+      "company": "Firstbase",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "James Murphy (Forum Ventures)"
+      ],
+      "company": "RouteFusion",
+      "date": "Jun 2019",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jonah Midanik (Forum Ventures)",
+        "James Murphy (Forum Ventures)"
+      ],
+      "company": "VendorPM",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "James Murphy (Forum Ventures)"
+      ],
+      "company": "Mudstack",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1ljQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75f3fd7c4438b7e7dfd665e3997db1c59bbab34a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-cardamone",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "michael-cardamone",
+  "socials": {
+    "angellist": "https://www.angel.co/michael-cardamone",
+    "crunchbase": "https://www.crunchbase.com/person/michael-cardamone",
+    "linkedin": "https://www.linkedin.com/in/michaelcardamone/",
+    "twitter": "https://www.twitter.com/mgcardamone",
+    "website": "https://www.forumvc.com/"
+  },
+  "scraped_at": "2026-02-27T02:47:22.301618"
+}

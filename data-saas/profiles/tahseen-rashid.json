@@ -1,0 +1,198 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Tahseen Rashid",
+    "signalScore": 456,
+    "website": "https://hofcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "NXTP Labs",
+      "dates": "Present",
+      "position": "VC Intern"
+    },
+    {
+      "company": "Snap Inc.",
+      "dates": "Present",
+      "position": "Country Growth Ambassador (PK & BD)"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Product Growth for Kormo (Area 120)"
+    },
+    {
+      "company": "Tiger Global",
+      "dates": "Present",
+      "position": "Emerging Markets Research"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "HOF Capital",
+      "firmUrl": "https://signal.nfx.com/firms/hof-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$300M",
+    "investmentRange": "$500K - $15.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Intellect Health",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeG1SQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1897f4541644420efb5c34410ac77b45c6c7f01c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tahseen-rashid",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tahseen-rashid",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tahseen-rashid/",
+    "twitter": "https://mobile.twitter.com/tahseenrashid_",
+    "website": "https://www.hofcapital.com/"
+  },
+  "scraped_at": "2026-02-27T04:59:13.610786"
+}

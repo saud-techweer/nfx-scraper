@@ -1,0 +1,40 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Celso Viegas Portasio",
+    "website": "http://chromoinvest.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Chromo Invest",
+      "firmUrl": "https://signal.nfx.com/firms/chromo-invest",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelNsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd923cf3344f93ff685f859588a1dacfb945f0ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/celso-viegas-portasio",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "celso-viegas-portasio",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/celsoportasio/",
+    "website": "https://www.chromoinvest.com/"
+  },
+  "scraped_at": "2026-02-28T15:08:01.599444"
+}

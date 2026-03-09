@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Marcelo DoRio",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "experience": [
+    {
+      "company": "Mergus Ventures",
+      "dates": "2021 - Present",
+      "position": "Board Member GP"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2021 - Present",
+      "position": "Business Mentor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SaaSholic Fund",
+      "firmUrl": "https://signal.nfx.com/firms/saasholic-fund",
+      "position": "Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$63K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmt0QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb40f2e3d9f1a367d7494e64ecbac4f5d9f1e1da/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marcelo-dorio",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "marcelo-dorio",
+  "socials": {
+    "angellist": "https://www.angel.co/u/madorio-gmail-com",
+    "crunchbase": "https://www.crunchbase.com/person/marcelo-do-rio",
+    "linkedin": "https://www.linkedin.com/in/marcelo-dorio/",
+    "twitter": "https://www.twitter.com/marcelodorio",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "scraped_at": "2026-02-27T02:20:56.353568"
+}

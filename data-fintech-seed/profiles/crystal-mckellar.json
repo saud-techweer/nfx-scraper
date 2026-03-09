@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Crystal McKellar",
+    "website": "https://mithril.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Morrison & Foerster LLP",
+      "dates": "2009 - 2012",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Davis Polk & Wardwell LLP",
+      "dates": "2004 - 2009",
+      "position": "Associate"
+    },
+    {
+      "company": "Hon. Marilyn L. Huff, U.S. District Court, S.D. California",
+      "dates": "2003 - 2004",
+      "position": "Law Clerk"
+    },
+    {
+      "company": "Mithril Capital Management LLC",
+      "dates": "2012 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mithril Capital Management",
+      "firmUrl": "https://signal.nfx.com/firms/mithril-capital-management",
+      "position": "Managing Director"
+    },
+    "fundSize": "$850M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--51b1926132339eccdc58558a6218c0ac1a0075ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/crystal-mckellar",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "crystal-mckellar",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/crystal-mckellar",
+    "linkedin": "https://www.linkedin.com/in/crystal-mckellar-08562a3/",
+    "website": "https://www.mithril.com/team/"
+  },
+  "scraped_at": "2026-02-26T09:54:24.811901"
+}

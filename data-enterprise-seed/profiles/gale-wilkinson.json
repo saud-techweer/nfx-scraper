@@ -1,0 +1,117 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Gale Wilkinson",
+    "signalScore": 1532,
+    "website": "https://gale.vc/"
+  },
+  "experience": [
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2018 - 2022",
+      "position": "Kauffman Fellow, Class 23"
+    },
+    {
+      "company": "IrishAngels",
+      "dates": "2012 - 2021",
+      "position": "Founder, Managing Director"
+    },
+    {
+      "company": "University of Notre Dame",
+      "dates": "2013 - 2019",
+      "position": "Adjunct Instructor"
+    },
+    {
+      "company": "Orbitz",
+      "dates": "2008 - 2010",
+      "position": "Senior Strategy Analyst"
+    },
+    {
+      "company": "Nielsen",
+      "dates": "2005 - 2008",
+      "position": "Associate Manager"
+    },
+    {
+      "company": "Vitalize Venture Capital",
+      "dates": "2017 - Present",
+      "position": "Founder, Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Vitalize Venture Group",
+      "firmUrl": "https://signal.nfx.com/firms/vitalize-venture-group",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$35M",
+    "investmentRange": "$200K - $500K",
+    "sweetSpot": "$350K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUVOQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cccdb69b305efb5b2461808e4723fa6370128002/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gale-wilkinson",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "gale-wilkinson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/gale-bowman/",
+    "linkedin": "https://www.linkedin.com/in/galevc/",
+    "twitter": "https://www.twitter.com/galeforceVC",
+    "website": "https://www.wellfound.com/u/gale-wilkinson"
+  },
+  "scraped_at": "2026-02-27T22:02:05.449469"
+}

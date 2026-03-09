@@ -1,0 +1,101 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Jeff Veen",
+    "website": "https://jeffveen.me/"
+  },
+  "experience": [
+    {
+      "company": "Adobe",
+      "dates": "2011 - 2015",
+      "position": "Vice President, Products"
+    },
+    {
+      "company": "Typekit",
+      "dates": "2008 - 2011",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "Google, Inc.",
+      "dates": "2006 - 2008",
+      "position": "User Experience Manager"
+    },
+    {
+      "company": "Measure Map",
+      "dates": "2005 - 2006",
+      "position": "Founder"
+    },
+    {
+      "company": "Lycos, Inc.",
+      "dates": "1998 - 2000",
+      "position": "Director, User Experience"
+    },
+    {
+      "company": "WIRED",
+      "dates": "1994 - 1998",
+      "position": "Director of Interface Design"
+    },
+    {
+      "company": "South Coast Community Newspapers",
+      "dates": "1992 - 1994",
+      "position": "Managing Editor"
+    },
+    {
+      "company": "True Ventures",
+      "dates": "2015 - Present",
+      "position": "Design Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "True Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/true-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$840M",
+    "investmentRange": "$1M - $50.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFBSQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--41152d3da5e0dfc9caa53dbbe77b9c188d8cbd7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-veen",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jeff-veen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jeffveen",
+    "crunchbase": "https://www.crunchbase.com/person/jeffrey-veen",
+    "linkedin": "https://www.linkedin.com/in/jeffreyveen/",
+    "twitter": "https://www.twitter.com/veen?lang=en",
+    "website": "https://www.jeffveen.me/"
+  },
+  "scraped_at": "2026-02-27T22:37:13.588370"
+}

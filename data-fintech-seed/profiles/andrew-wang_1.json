@@ -1,0 +1,148 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Growth Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Andrew Wang",
+    "positionAndFirm": "Investing in Seed/Series A (consumer, productivity, gaming, media)",
+    "signalScore": 249
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Grishin Robotics",
+      "firmUrl": "https://signal.nfx.com/firms/grishin-robotics",
+      "position": "Senior Associate"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$500K - $8.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Club Feast",
+      "date": "Jan 2021",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ring",
+      "date": "Mar 2016",
+      "roundSize": "$61M",
+      "stage": "Series C",
+      "totalRaised": "$61M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUR2QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--59e2157de6db1744b30c413343e6f2221988dcfb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-wang_1",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andrew-wang_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/andrewlawrencewang/"
+  },
+  "scraped_at": "2026-02-28T00:18:24.431606"
+}

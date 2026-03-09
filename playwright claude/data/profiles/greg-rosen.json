@@ -1,0 +1,162 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Greg Rosen",
+    "positionAndFirm": "Venture Partner, BoxGroup",
+    "website": "https://boxgroup.com/#people"
+  },
+  "experience": [
+    {
+      "company": "Benchmark Capital",
+      "dates": "Present",
+      "position": "Principal"
+    },
+    {
+      "company": "Bedrock",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BoxGroup",
+      "firmUrl": "https://signal.nfx.com/firms/boxgroup",
+      "position": "Partner"
+    },
+    "fundSize": "$330M",
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jason Warner (Redpoint Ventures)",
+        "Andrew Chen (Andreessen Horowitz)",
+        "David Ulevitch (Andreessen Horowitz)",
+        "April Underwood (Adverb Ventures)",
+        "Harry Stebbings (20VC)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Scott Belsky",
+        "Howie Liu",
+        "Drew Houston"
+      ],
+      "company": "Balsa",
+      "date": "Oct 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$50K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBYVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--924bd3145fdede775f67089f683a47c69d739c53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/greg-rosen",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "greg-rosen",
+  "socials": {
+    "angellist": "https://www.angel.co/grosen",
+    "crunchbase": "https://www.crunchbase.com/person/greg-rosen",
+    "linkedin": "https://www.linkedin.com/in/gregrosen/",
+    "twitter": "https://www.twitter.com/grosen",
+    "website": "https://www.boxgroup.com/#people"
+  },
+  "scraped_at": "2026-02-11T10:48:26.771482"
+}

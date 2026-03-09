@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Ireland",
+    "name": "Paul Doherty"
+  },
+  "experience": [
+    {
+      "company": "Mount Street Group",
+      "dates": "2017 - 2018",
+      "position": "Investment Director"
+    },
+    {
+      "company": "Mount Street Group",
+      "dates": "2012 - 2016",
+      "position": "Consultant"
+    },
+    {
+      "company": "XL Rollup",
+      "dates": "2014 - 2016",
+      "position": "CEO"
+    },
+    {
+      "company": "Liberty",
+      "dates": "2003 - 2005",
+      "position": "Consultant"
+    },
+    {
+      "company": "Property Investor / Broker",
+      "dates": "2000 - 2003",
+      "position": "Director"
+    },
+    {
+      "company": "Marsh Financial Services",
+      "dates": "1997 - 2001",
+      "position": "Assistant Director"
+    },
+    {
+      "company": "Doherty Insurances",
+      "dates": "1990 - 1997",
+      "position": "Director"
+    },
+    {
+      "company": "O'Brien & Toole Stockbrokers",
+      "dates": "1986 - 1990",
+      "position": "Dealer"
+    },
+    {
+      "company": "Harvest Financial Services",
+      "dates": "2018 - Present",
+      "position": "Head of Residential Investment Property"
+    },
+    {
+      "company": "PD Consulting",
+      "dates": "2005 - Present",
+      "position": "Management Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzRCQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--698dc470d5d1afbe7d1f442305d86d2d53870f35/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-doherty_1",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paul-doherty_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paul-doherty-2",
+    "linkedin": "https://www.linkedin.com/in/pauldohertyfinance/"
+  },
+  "scraped_at": "2026-03-03T23:12:04.768892"
+}

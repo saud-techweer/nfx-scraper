@@ -1,0 +1,40 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Hong Kong",
+    "name": "Calvin Tang"
+  },
+  "experience": [
+    {
+      "company": "Hustle Fund",
+      "dates": "Present",
+      "position": "Angel Squad Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkVOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--293e3f2ad2ce68c09edad4e0569c887a876c1a13/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/calvin-tang",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "calvin-tang",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/calvin-tang-cfa-8b858614/"
+  },
+  "scraped_at": "2026-02-28T15:04:09.642460"
+}

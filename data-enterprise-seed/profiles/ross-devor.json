@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Miami, Florida",
+    "name": "Ross Devor",
+    "website": "https://www.thomabravo.com/"
+  },
+  "experience": [
+    {
+      "company": "Insight Partners",
+      "dates": "2013 - 2022",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "2009",
+      "position": "Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHNxQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--915cf97affc58ae636e63681da59409a8e44023b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ross-devor",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ross-devor",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ross-devor",
+    "linkedin": "https://www.linkedin.com/in/ross-devor-2a9907b/",
+    "website": "https://www.thomabravo.com/"
+  },
+  "scraped_at": "2026-02-28T04:51:27.475814"
+}

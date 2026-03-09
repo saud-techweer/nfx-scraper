@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Helsinki, Finland",
+    "name": "Jari Mieskonen",
+    "website": "http://conor.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Conor Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/conor-venture-partners",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$510K - $8.2M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGE0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a0a89a700d3cc5c7071ae52969e70b2a44fc36c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jari-mieskonen",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jari-mieskonen",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jari-mieskonen",
+    "linkedin": "https://www.linkedin.com/in/jarimieskonen/",
+    "twitter": "https://www.twitter.com/JariMieskonen",
+    "website": "https://www.conor.vc/"
+  },
+  "scraped_at": "2026-03-03T20:47:51.373082"
+}

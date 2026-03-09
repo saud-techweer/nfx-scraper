@@ -1,0 +1,249 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "Advisor"
+    ],
+    "name": "TianYu (TY) Wong",
+    "signalScore": 20
+  },
+  "experience": [
+    {
+      "company": "Atento Capital",
+      "dates": "2021 - 2025",
+      "position": "Senior Investment Associate"
+    },
+    {
+      "company": "EduLab Capital Partners",
+      "dates": "2019 - 2019",
+      "position": "Summer Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Starframe Capital",
+      "firmUrl": "https://signal.nfx.com/firms/starframe-capital",
+      "position": "Principal"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 16,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Oloid",
+      "date": "Oct 2024",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Multiscale Technologies",
+      "date": "Sep 2024",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Maximilian Winter (Harmonix Fund)"
+      ],
+      "company": "Halo Industries",
+      "date": "Jul 2024",
+      "roundSize": "$80M",
+      "stage": "Series B",
+      "totalRaised": "$80M"
+    },
+    {
+      "coInvestors": [
+        "Sebastian Bausch (11k Ventures)"
+      ],
+      "company": "Machina Labs",
+      "date": "Oct 2023",
+      "roundSize": "$32M",
+      "stage": "Series B",
+      "totalRaised": "$32M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Fabric Health",
+      "date": "Sep 2023",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Gem",
+      "date": "Feb 2023",
+      "roundSize": "$11M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Guardz",
+      "date": "Jan 2023",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Assembly OSM",
+      "date": "Jul 2022",
+      "roundSize": "$38M",
+      "stage": "Series A",
+      "totalRaised": "$38M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1RHQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--85c20cb1a5b0d015737ff416b749e9cb5acd8911/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ty-w",
+  "sectorRankings": [
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Manufacturing (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_b-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-b-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    }
+  ],
+  "slug": "ty-w",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tianyu-ty-wong-9b9133127/"
+  },
+  "scraped_at": "2026-02-27T05:22:58.649086"
+}

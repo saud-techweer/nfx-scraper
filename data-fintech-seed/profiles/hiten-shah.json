@@ -1,0 +1,229 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Angel",
+      "Founder",
+      "Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Hiten Shah",
+    "signalScore": 9,
+    "website": "https://hitenism.com/"
+  },
+  "experience": [
+    {
+      "company": "Kissmetrics",
+      "dates": "2008 - 2015",
+      "position": "Board Member"
+    },
+    {
+      "company": "Kissmetrics",
+      "dates": "2008 - 2014",
+      "position": "Co-Founder and CEO"
+    },
+    {
+      "company": "isocket",
+      "dates": "2010 - 2012",
+      "position": "Board Member"
+    },
+    {
+      "company": "Advantage Consulting Services, Inc.",
+      "dates": "2002 - 2008",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "FYI",
+      "dates": "2018 - Present",
+      "position": "Co-Founder & CEO"
+    },
+    {
+      "company": "Crazy Egg",
+      "dates": "2005 - Present",
+      "position": "Co-Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$10K - $25K",
+    "investmentsOnRecord": 23,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Vivian Cheng (CRV)"
+      ],
+      "company": "Truebill",
+      "date": "Oct 2018",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5.4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Loom",
+      "date": "May 2017",
+      "roundSize": "$3.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Plasso",
+      "date": "Sep 2016",
+      "roundSize": "$1.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Mark Suster (Upfront Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Jason Calacanis (LAUNCH)",
+        "Dick Costolo (01 Advisors)",
+        "Alex Rodriguez (Vision/Capital/People (VCP))",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Pete Moore",
+        "Moshe Lifschitz",
+        "Julia Hartz",
+        "Scott Banister"
+      ],
+      "company": "Density",
+      "date": "Jul 2016",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Meadow",
+      "date": "Apr 2016",
+      "roundSize": "$2.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Petasense",
+      "date": "Jun 2015",
+      "roundSize": "$1.8M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Orbitera, Inc.",
+      "date": "Jun 2015",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Anthony Citrano"
+      ],
+      "company": "Clearbit",
+      "date": "Mar 2015",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFY5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5291d17ade3d47b2dce004bf2aa2ece7d8409d6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hiten-shah",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hiten-shah",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/hnshah/",
+    "twitter": "https://www.twitter.com/hnshah",
+    "website": "https://www.hitenism.com/"
+  },
+  "scraped_at": "2026-02-27T00:26:55.406121"
+}

@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Cape Town, South Africa",
+    "name": "Philip Kiracofe",
+    "website": "https://mantra.capital/team/"
+  },
+  "experience": [
+    {
+      "company": "Startupbootcamp",
+      "dates": "2017 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mantra Capital",
+      "firmUrl": "https://signal.nfx.com/firms/mantra-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$500K - $1M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3BDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9e76c6a04a84d668fbb35f7d023387419fc87b6b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/philip-kiracofe",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "philip-kiracofe",
+  "socials": {
+    "angellist": "https://www.angel.co/u/pkiracofe",
+    "crunchbase": "https://www.crunchbase.com/person/philip-kiracofe",
+    "linkedin": "https://www.linkedin.com/in/pkiracofe/",
+    "twitter": "https://www.twitter.com/pkiracofe",
+    "website": "https://www.mantra.capital/team/"
+  },
+  "scraped_at": "2026-03-03T23:20:41.366376"
+}

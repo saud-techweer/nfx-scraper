@@ -1,0 +1,218 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "Advisor"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Justin M. Weber",
+    "positionAndFirm": "Buy, Build, Grow",
+    "signalScore": 52,
+    "website": "https://www.justinmweber.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Family Office",
+      "firmUrl": "https://signal.nfx.com/firms/family-office",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTZIQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d0aada346e3c03fcab2244551d21a80c5d4d2bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/justin-m",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "GovTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-b-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-b-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-b-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "GovTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-pre-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "justin-m",
+  "socials": {
+    "angellist": "https://www.angel.co/u/justin-m-weber",
+    "crunchbase": "https://www.crunchbase.com/person/justin-m-weber",
+    "linkedin": "https://www.linkedin.com/in/justin-m-weber/",
+    "website": "https://www.justinmweber.com/"
+  },
+  "scraped_at": "2026-03-03T21:24:12.089455"
+}

@@ -1,0 +1,261 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Copenhagen, Denmark",
+    "name": "Cesare Pesci",
+    "signalScore": 350,
+    "website": "https://yobeventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "YOBE Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/yobe-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$50K - $1M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$350K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yotis Tonnelier (YOBE Ventures)"
+      ],
+      "company": "Aptivio",
+      "date": "Dec 2024",
+      "roundSize": "$9.5M",
+      "stage": "Series A",
+      "totalRaised": "$9.5M"
+    },
+    {
+      "coInvestors": [
+        "Chris Cunningham (C2Ventures)",
+        "Yotis Tonnelier (YOBE Ventures)"
+      ],
+      "company": "UnrealEstate",
+      "date": "Apr 2024",
+      "roundSize": "$200K",
+      "stage": "Seed",
+      "totalRaised": "$200K"
+    },
+    {
+      "coInvestors": [
+        "Jon Dishotsky (Daft Capital)",
+        "Chris Moreno (Infinite Niches)",
+        "Yotis Tonnelier (YOBE Ventures)",
+        "Stu Smith (Coughdrop Capital)",
+        "Joshua Webster"
+      ],
+      "company": "Mercury",
+      "date": "Sep 2019",
+      "roundSize": "$25K",
+      "stage": "Series A",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Philippe Suchet (PS Investments)"
+      ],
+      "company": "PayFit",
+      "date": "Jun 2019",
+      "roundSize": "$79M",
+      "stage": "Series C",
+      "totalRaised": "$190M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Aircall",
+      "date": "May 2018",
+      "roundSize": "$29M",
+      "stage": "Series B",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [
+        "Ana Levine (E1 Ventures)",
+        "Madhu Chamarty"
+      ],
+      "company": "Canva",
+      "date": "Jan 2018",
+      "roundSize": "$40M",
+      "stage": "Series C",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Stanley Robotics",
+      "date": "May 2017",
+      "roundSize": "$4M",
+      "stage": "Series Unknown",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Wise",
+      "date": "Jan 2015",
+      "roundSize": "$58M",
+      "stage": "Series C",
+      "totalRaised": "$58M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODZ4Qmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--62da8665637952ee840365a71ac3f434b4602045/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cesare-pesci",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "AudioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-audiotech-series-b-investors"
+    },
+    {
+      "name": "AudioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-audiotech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "AudioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-audiotech-series-a-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "AutoTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AutoTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    }
+  ],
+  "slug": "cesare-pesci",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/cesare-pesci-99b09021b/",
+    "twitter": "https://www.x.com/CesarePesci?t=cvD3Ike5_v7idKgrcISWuQ&s=31",
+    "website": "https://www.yobeventures.com/"
+  },
+  "scraped_at": "2026-02-27T05:56:48.861434"
+}

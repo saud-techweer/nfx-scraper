@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Austin, Texas",
+    "name": "Christopher Saum",
+    "website": "https://activecapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Active Capital",
+      "firmUrl": "https://signal.nfx.com/firms/active-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$21.4M",
+    "investmentRange": "$750K - $750K",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWcyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f6278d88b2440d9ac52ccd244f44d03bbd6c25bd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/christopher-saum",
+  "sectorRankings": [
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "christopher-saum",
+  "socials": {
+    "angellist": "https://www.angel.co/u/chris-saum",
+    "crunchbase": "https://www.crunchbase.com/person/chris-saum",
+    "linkedin": "https://www.linkedin.com/in/chris-saum-84938047/",
+    "twitter": "https://www.twitter.com/christophersaum",
+    "website": "https://www.activecapital.com/"
+  },
+  "scraped_at": "2026-02-26T09:46:00.100321"
+}

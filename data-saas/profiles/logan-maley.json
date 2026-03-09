@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Attorney"
+    ],
+    "location": "Santa Barbara, California",
+    "name": "Logan Maley"
+  },
+  "experience": [
+    {
+      "company": "Hustle Fund",
+      "dates": "2021 - Present",
+      "position": "Angel Squad Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0lOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c5e6dd579a891622d1791b86e99cefb8a967180/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/logan-maley",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-b-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "logan-maley",
+  "socials": {
+    "angellist": "https://www.angel.co/u/logan-maley",
+    "linkedin": "https://www.linkedin.com/in/loganmaley/"
+  },
+  "scraped_at": "2026-02-27T02:09:19.925470"
+}

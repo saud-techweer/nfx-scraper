@@ -1,0 +1,178 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "name": "Sasha Polovinkina",
+    "signalScore": 160
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "YellowRocks.vc",
+      "firmUrl": "https://signal.nfx.com/firms/yellowrocks-vc",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yellow Rocks (10100 fund)",
+        "Roman Beloded (YellowRocks.vc)",
+        "Marina Davidova (Davidovs VC)",
+        "Nick Davidov (Davidovs VC)"
+      ],
+      "company": "GPU Audio",
+      "date": "Jan 2023",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Valerie Bertele (YellowRocks.vc)",
+        "Roman Beloded (YellowRocks.vc)"
+      ],
+      "company": "Propertymate.ai",
+      "date": "Mar 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Yellow Rocks (10100 fund)",
+        "Roman Beloded (YellowRocks.vc)"
+      ],
+      "company": "Hinted",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Yellow Rocks (10100 fund)",
+        "Roman Beloded (YellowRocks.vc)"
+      ],
+      "company": "GoalProfit",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjFTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7072d6ef7662583f527f984b6c182349dd0e2bc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sasha-polovinkina",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    }
+  ],
+  "slug": "sasha-polovinkina",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/sashapolovinkina/"
+  },
+  "scraped_at": "2026-02-27T04:25:50.028351"
+}

@@ -1,0 +1,167 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Loren Straub",
+    "signalScore": 560,
+    "website": "https://bowerycap.com/team/loren-straub"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bowery Capital",
+      "firmUrl": "https://signal.nfx.com/firms/bowery-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$60M",
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Lieb"
+      ],
+      "company": "Rulebase",
+      "date": "Sep 2025",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Incentiv",
+      "date": "Jan 2024",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ePallet",
+      "date": "Mar 2023",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "InterPrice Technologies",
+      "date": "Nov 2022",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paladin Cloud",
+      "date": "Jul 2022",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Reibus",
+      "date": "Nov 2021",
+      "roundSize": "$75M",
+      "stage": "Series B",
+      "totalRaised": "$78M"
+    },
+    {
+      "coInvestors": [
+        "Kevin Eckert (Task Force X Capital)",
+        "Seth Shuldiner (SaaS Venture Capital)"
+      ],
+      "company": "FruitScout",
+      "date": "Sep 2021",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Zachary Sims",
+        "Oleg Rogynskyy"
+      ],
+      "company": "Stork Club",
+      "date": "Jun 2021",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$33M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd01QQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e49f3c791da8100c48e1b87be6a2380d77cb6ff3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/loren-straub",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "loren-straub",
+  "socials": {
+    "angellist": "https://www.angel.co/u/loren-straub",
+    "crunchbase": "https://www.crunchbase.com/person/loren-straub",
+    "linkedin": "https://www.linkedin.com/in/lorenstraub/",
+    "twitter": "https://www.twitter.com/LorenStraub",
+    "website": "https://www.bowerycap.com/team/loren-straub"
+  },
+  "scraped_at": "2026-02-11T10:24:14.226978"
+}

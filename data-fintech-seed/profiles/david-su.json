@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "David Su",
+    "website": "https://apax.com/people/our-team/david-su/"
+  },
+  "experience": [
+    {
+      "company": "Norwest Venture Partners",
+      "dates": "2009 - 2021",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Apax Partners",
+      "firmUrl": "https://signal.nfx.com/firms/apax-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$10.5B",
+    "investmentRange": "$1M - $30.0M",
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ3ZrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bb8349bc7f0ae88dfe9a717e1685b6b60963286c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-su",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-su",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ds81",
+    "crunchbase": "https://www.crunchbase.com/person/david-su-2",
+    "linkedin": "https://www.linkedin.com/in/david-su-872464/",
+    "twitter": "https://www.twitter.com/ds81"
+  },
+  "scraped_at": "2026-03-03T17:00:36.494594"
+}

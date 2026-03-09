@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Jared Katzen",
+    "website": "https://blumbergcapital.com/team/jared-katzen/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blumberg Capital",
+      "firmUrl": "https://signal.nfx.com/firms/blumberg-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.8M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFBHQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5d6fab726191b0cf84dbfcf51f316eeaeaa07139/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jared-katzen",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jared-katzen",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jared-katzen/",
+    "website": "https://www.blumbergcapital.com/team/jared-katzen/"
+  },
+  "scraped_at": "2026-02-27T22:32:24.962812"
+}

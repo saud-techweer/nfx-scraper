@@ -1,0 +1,320 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Operator"
+    ],
+    "location": "Boulder, Colorado",
+    "name": "Katie Stanton",
+    "signalScore": 691,
+    "website": "https://moxxie.vc/"
+  },
+  "experience": [
+    {
+      "company": "Color Genomics",
+      "dates": "2016 - 2019",
+      "position": "Chief Marketing Officer"
+    },
+    {
+      "company": "Time Magazine",
+      "dates": "2017 - 2018",
+      "position": "Board Member"
+    },
+    {
+      "company": "Twitter",
+      "dates": "2014 - 2016",
+      "position": "TitleVice President, Global Media"
+    },
+    {
+      "company": "Twitter",
+      "dates": "2010 - 2014",
+      "position": "TitleVice President, International"
+    },
+    {
+      "company": "Moxxie Ventures",
+      "dates": "2019 - Present",
+      "position": "Founder and General Partner"
+    },
+    {
+      "company": "#ANGELS",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "#ANGELS",
+      "dates": "2015 - Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "Vivendi",
+      "dates": "2014 - Present",
+      "position": "Board Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Moxxie Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/moxxie-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$1M - $1.5M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Gabe Greenbaum (B Capital Group)",
+        "Justin Kan (Goat Capital)",
+        "Jeremy Levine (Bessemer Venture Partners)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Adam Bain (01 Advisors)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Chris Keller (NextGen Venture Partners)",
+        "Harry Stebbings (20VC)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Ali Rowghani (Y Combinator)",
+        "Anne Dwane (Village Global)",
+        "Jordan Fliegel (Techstars)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Kevin Weil",
+        "Joshua Reeves",
+        "Adrian Aoun",
+        "Elad Gil",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "Jennifer Lum",
+        "David Cancel"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Kelly Perdew (Moonshots Capital)",
+        "Craig Cummings (Moonshots Capital)",
+        "Jessica Verrilli (Adverb Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Dan Graham (Springdale Ventures)",
+        "Roger Chen (Silverton Partners)",
+        "Nikhil Basu Trivedi (Footwork)",
+        "Dick Costolo (01 Advisors)",
+        "Thomas D. Lehrman (Teamworthy Ventures)",
+        "Genevieve Gilbreath (Springdale Ventures)"
+      ],
+      "company": "Literati",
+      "date": "Oct 2019",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ethels Club",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Elizabeth Weil (Scribble Ventures)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Jeff Bonforte (Catapult Capital)"
+      ],
+      "company": "Sheltr",
+      "date": "Jun 2019",
+      "roundSize": "$3.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [
+        "Eva Lau (Two Small Fish Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Fritz Lanman (Acequia Capital)",
+        "Jeff Bonforte (Catapult Capital)",
+        "Adrian Aoun",
+        "Gokul Rajaram",
+        "Steve Chen",
+        "Pete Koomen",
+        "Bradley Horowitz",
+        "Evan Moore",
+        "Joshua Schachter"
+      ],
+      "company": "Printify",
+      "date": "May 2019",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cameo",
+      "date": "Nov 2018",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Josh Elman",
+        "Scott Belsky"
+      ],
+      "company": "TruStory",
+      "date": "May 2018",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Meyer \"Micky\" Malka (Ribbit Capital)",
+        "Sam Lessin (Slow Ventures)",
+        "Paul Strachman (Red Sea Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Andy Dunn (Red Swan Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Greg Brockman",
+        "Mike Krieger",
+        "Jeff Arnold",
+        "David Marcus",
+        "Adam D'Angelo",
+        "Javier Olivan"
+      ],
+      "company": "Prefer",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1hGQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--72bcd987a7476afdd99f672573facf5b221ab1e9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/katie-stanton",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    }
+  ],
+  "slug": "katie-stanton",
+  "socials": {
+    "angellist": "https://www.angel.co/katies",
+    "crunchbase": "https://www.crunchbase.com/person/katie-jacobs-stanton",
+    "linkedin": "https://www.linkedin.com/in/katiestanton/",
+    "twitter": "https://www.twitter.com/katies",
+    "website": "https://www.moxxie.vc/"
+  },
+  "scraped_at": "2026-02-27T01:41:46.893785"
+}

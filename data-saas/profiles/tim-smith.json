@@ -1,0 +1,196 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Former CEO",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Tim Smith",
+    "signalScore": 456,
+    "website": "https://beepartners.vc/"
+  },
+  "experience": [
+    {
+      "company": "applied.design",
+      "dates": "2008 - 2017",
+      "position": "Founder, Principal"
+    },
+    {
+      "company": "Hovee",
+      "dates": "2013 - 2015",
+      "position": "Product / Design Lead"
+    },
+    {
+      "company": "Intelevision",
+      "dates": "2012",
+      "position": "Co-Founder, Lead Designer"
+    },
+    {
+      "company": "Clonefone, Inc.",
+      "dates": "2005 - 2008",
+      "position": "Co-founder, Lead Designer"
+    },
+    {
+      "company": "Tim Smith Studio",
+      "dates": "2003 - 2007",
+      "position": "Founder / Principal"
+    },
+    {
+      "company": "Agency.com",
+      "dates": "2001 - 2003",
+      "position": "EVP New Ventures & Market Development"
+    },
+    {
+      "company": "Red Sky Interactive",
+      "dates": "1992 - 2001",
+      "position": "Co-Founder, CEO"
+    },
+    {
+      "company": "Ernst & Young",
+      "dates": "1988 - 1991",
+      "position": "Manager"
+    },
+    {
+      "company": "Peer Logic",
+      "dates": "1986 - 1988",
+      "position": "Senior Analyst"
+    },
+    {
+      "company": "Schering-Plough",
+      "dates": "1976 - 1983",
+      "position": "Senior Operations Analyst"
+    },
+    {
+      "company": "Bee Partners.",
+      "dates": "2017 - Present",
+      "position": "Portfolio Operations"
+    },
+    {
+      "company": "University of California, Berkeley, Haas School of Business",
+      "dates": "2016 - Present",
+      "position": "Guest Lecturer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BEE Partners",
+      "firmUrl": "https://signal.nfx.com/firms/bee-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$1.5B",
+    "investmentRange": "$150K - $2.0M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnpIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7799effb7369c29b7f1866ee5e46cdf23a840843/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tim-smith",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tim-smith",
+  "socials": {
+    "angellist": "https://www.angel.co/timsmith",
+    "crunchbase": "https://www.crunchbase.com/person/tim-smith-21",
+    "linkedin": "https://www.linkedin.com/in/timsmith/",
+    "twitter": "https://www.twitter.com/TimDrakeSmith",
+    "website": "https://www.beepartners.vc/"
+  },
+  "scraped_at": "2026-02-27T05:12:04.049334"
+}

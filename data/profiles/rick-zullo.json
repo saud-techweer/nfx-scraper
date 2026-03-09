@@ -1,0 +1,183 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Rick Zullo",
+    "signalScore": 1033,
+    "website": "https://www.equal.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Equal Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/equal-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$1M - $2.0M",
+    "investmentsOnRecord": 24,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Steph Korey"
+      ],
+      "company": "Starday Foods",
+      "date": "Apr 2025",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Yash Sankrityayan (Jungle Ventures)",
+        "Amit Anand (Jungle Ventures)",
+        "Amit Patel (Owl Ventures)",
+        "Michelle Kennedy (StartHer)",
+        "Farooq Abbasi (Preface Ventures)",
+        "David Helgason (foobar.vc)",
+        "Emily Kirsch (Powerhouse Ventures)",
+        "Sahil Lavingia"
+      ],
+      "company": "Leap",
+      "date": "May 2023",
+      "roundSize": "$15M",
+      "stage": "Series Unknown",
+      "totalRaised": "$340M"
+    },
+    {
+      "coInvestors": [
+        "Sharif Sakr (BR Capital)",
+        "Scott Dorsey (High Alpha)",
+        "Seth Corder (High Alpha)",
+        "Balder Bomans (Maven 11 Capital)",
+        "Jinal Jhaveri (Runa Capital)",
+        "Packy McCormick (Not Boring Capital)",
+        "Kyle Vogt",
+        "Trent McConaghy",
+        "Guillermo Rauch"
+      ],
+      "company": "Odyssey",
+      "date": "May 2023",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$42M"
+    },
+    {
+      "coInvestors": [
+        "Scott Hartley (Everywhere Ventures (The Fund))",
+        "Spencer Foust (Sozo Ventures)",
+        "Jett McCandless"
+      ],
+      "company": "SmartHop",
+      "date": "Apr 2022",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$47M"
+    },
+    {
+      "coInvestors": [
+        "David Shapiro (Alumni Ventures )",
+        "Jonah Goodhart (WGI Group)",
+        "Jonathan Healy (Cathay Innovation)",
+        "Kiran Bhatraju",
+        "Steve Martocci"
+      ],
+      "company": "David Energy",
+      "date": "Mar 2022",
+      "roundSize": "$21M",
+      "stage": "Series A",
+      "totalRaised": "$71M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ghost Commerce",
+      "date": "Nov 2021",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Yatong Li (Ontario Teachers'​ Pension Plan)",
+        "Ratan Manehani (R136 Ventures)"
+      ],
+      "company": "Clearcover",
+      "date": "Mar 2021",
+      "roundSize": "$21M",
+      "stage": "Series D",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [
+        "Mourad Yesayan (Paladin Capital Group)",
+        "Gene Frantz (CapitalG)",
+        "Ellie Wheeler"
+      ],
+      "company": "Expel",
+      "date": "Apr 2018",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$300M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1dhQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc3d81628308ab92217bcb4a6a8b838a4c1c6e3e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rick-zullo",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "rick-zullo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/rick-zullo",
+    "linkedin": "https://www.linkedin.com/in/rickzullo/",
+    "twitter": "https://www.twitter.com/Rick_Zullo",
+    "website": "https://www.equal.vc/"
+  },
+  "scraped_at": "2026-02-11T13:33:03.456018"
+}

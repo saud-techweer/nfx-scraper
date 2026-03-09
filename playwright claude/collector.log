@@ -1,0 +1,154 @@
+2026-02-17 15:34:05,701 - INFO - ============================================================
+2026-02-17 15:34:05,701 - INFO -   NFX SIGNAL - URL COLLECTOR
+2026-02-17 15:34:05,701 - INFO - ============================================================
+2026-02-17 15:34:05,706 - INFO - Loaded 1496 existing URLs from disk
+2026-02-17 15:34:07,036 - INFO - Opening NFX Signal for login...
+2026-02-17 15:34:20,194 - ERROR - CRASH: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+2026-02-17 15:34:20,198 - ERROR - Traceback (most recent call last):
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\collect_urls.py", line 236, in main
+    success = asyncio.run(collect(LIST_URL))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\collect_urls.py", line 116, in collect
+    await page.goto("https://signal.nfx.com/login", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\async_api\_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TargetClosedError: Page.goto: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+
+2026-02-17 15:34:20,236 - INFO - Emergency save: 1496 URLs preserved.
+2026-02-17 15:35:02,877 - INFO - ============================================================
+2026-02-17 15:35:02,878 - INFO -   NFX SIGNAL - URL COLLECTOR
+2026-02-17 15:35:02,878 - INFO - ============================================================
+2026-02-17 15:35:02,902 - INFO - Loaded 1496 existing URLs from disk
+2026-02-17 15:35:04,050 - INFO - Opening NFX Signal for login...
+2026-02-17 15:36:04,307 - ERROR - CRASH: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+2026-02-17 15:36:04,310 - ERROR - Traceback (most recent call last):
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\collect_urls.py", line 236, in main
+    success = asyncio.run(collect(LIST_URL))
+              ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\collect_urls.py", line 116, in collect
+    await page.goto("https://signal.nfx.com/login", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\async_api\_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+
+2026-02-17 15:36:04,347 - INFO - Emergency save: 1496 URLs preserved.
+2026-02-17 15:36:09,450 - INFO - ============================================================
+2026-02-17 15:36:09,451 - INFO -   NFX SIGNAL - URL COLLECTOR
+2026-02-17 15:36:09,451 - INFO - ============================================================
+2026-02-17 15:36:09,479 - INFO - Loaded 1496 existing URLs from disk
+2026-02-17 15:36:10,686 - INFO - Opening NFX Signal for login...
+2026-02-17 15:36:24,238 - INFO - 
+2026-02-17 15:36:24,238 - INFO - ============================================================
+2026-02-17 15:36:24,239 - INFO -   LOG IN MANUALLY in the browser window.
+2026-02-17 15:36:24,239 - INFO -   After you're logged in, press ENTER here.
+2026-02-17 15:36:24,239 - INFO - ============================================================
+2026-02-17 15:36:24,240 - INFO - 
+2026-02-17 15:36:48,298 - INFO - Login done. Loading investor list...
+
+2026-02-17 15:36:57,028 - INFO - Starting Load More loop...
+2026-02-17 15:37:29,345 - INFO -   Click #5 | 1496 URLs | saved to disk
+2026-02-17 15:37:47,727 - INFO -   Click #10 | 1496 URLs | saved to disk
+2026-02-17 15:38:02,629 - INFO - No new investors for 15 rounds. Collection complete!
+2026-02-17 15:38:02,643 - INFO - 
+2026-02-17 15:38:02,644 - INFO - ============================================================
+2026-02-17 15:38:02,644 - INFO -   URL COLLECTION COMPLETE
+2026-02-17 15:38:02,644 - INFO -   Total URLs: 1496
+2026-02-17 15:38:02,645 - INFO -   New this run: 0
+2026-02-17 15:38:02,645 - INFO -   Load More clicks: 14
+2026-02-17 15:38:02,646 - INFO -   Saved to: D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\data\all_investor_urls.json
+2026-02-17 15:38:02,646 - INFO - ============================================================
+2026-02-17 15:41:26,637 - INFO - ============================================================
+2026-02-17 15:41:26,638 - INFO -   NFX SIGNAL - URL COLLECTOR
+2026-02-17 15:41:26,638 - INFO -   Target: 3100+ URLs
+2026-02-17 15:41:26,638 - INFO - ============================================================
+2026-02-17 15:41:26,641 - INFO - Loaded 1496 existing URLs from disk
+2026-02-17 15:41:27,858 - INFO - Opening NFX Signal for login...
+2026-02-17 15:41:28,380 - INFO - 
+2026-02-17 15:41:28,380 - INFO - ============================================================
+2026-02-17 15:41:28,380 - INFO -   LOG IN MANUALLY in the browser window.
+2026-02-17 15:41:28,380 - INFO -   After you're logged in, press ENTER here.
+2026-02-17 15:41:28,381 - INFO - ============================================================
+2026-02-17 15:41:28,381 - INFO - 
+2026-02-17 15:42:01,618 - INFO - Login done. Loading investor list...
+
+2026-02-17 15:42:10,840 - INFO - Target: 3100 URLs. Currently have: 1496. Clicking Load More...
+
+2026-02-17 15:42:29,050 - INFO -   Click #5 | 1496 URLs (on page: 40) | saved
+2026-02-17 15:43:00,897 - INFO -   Click #10 | 1496 URLs (on page: 80) | saved
+2026-02-17 15:43:33,162 - INFO -   Click #15 | 1496 URLs (on page: 120) | saved
+2026-02-17 15:44:11,805 - INFO -   Click #20 | 1496 URLs (on page: 160) | saved
+2026-02-17 15:44:52,515 - INFO -   Click #25 | 1496 URLs (on page: 200) | saved
+2026-02-17 15:45:40,306 - INFO -   Click #30 | 1496 URLs (on page: 240) | saved
+2026-02-17 15:46:37,275 - INFO -   Click #35 | 1496 URLs (on page: 280) | saved
+2026-02-17 15:47:24,032 - INFO -   Click #40 | 1496 URLs (on page: 320) | saved
+2026-02-17 15:48:16,927 - INFO -   Click #45 | 1496 URLs (on page: 360) | saved
+2026-02-17 15:49:14,880 - INFO -   Click #50 | 1496 URLs (on page: 400) | saved
+2026-02-17 15:50:21,969 - INFO -   Click #55 | 1496 URLs (on page: 440) | saved
+2026-02-17 15:51:43,356 - INFO -   Click #60 | 1496 URLs (on page: 480) | saved
+2026-02-17 15:52:50,757 - INFO -   Click #65 | 1496 URLs (on page: 520) | saved
+2026-02-17 15:54:12,633 - INFO -   Click #70 | 1496 URLs (on page: 560) | saved
+2026-02-17 15:55:26,657 - INFO -   Click #75 | 1496 URLs (on page: 600) | saved
+2026-02-17 15:56:40,851 - INFO -   Click #80 | 1496 URLs (on page: 640) | saved
+2026-02-17 15:58:01,292 - INFO -   Click #85 | 1496 URLs (on page: 680) | saved
+2026-02-17 15:59:38,350 - INFO -   Click #90 | 1496 URLs (on page: 720) | saved
+2026-02-17 16:01:25,905 - INFO -   Click #95 | 1496 URLs (on page: 752) | saved
+2026-02-17 16:02:13,610 - WARNING -   No Load More button for 10 rounds. Have 1496/3100 URLs. Still trying...
+2026-02-17 16:03:29,524 - WARNING -   No Load More button for 20 rounds. Have 1496/3100 URLs. Still trying...
+2026-02-17 16:04:45,756 - WARNING -   No Load More button for 30 rounds. Have 1496/3100 URLs. Still trying...
+2026-02-17 16:04:45,757 - WARNING -   Reloading page to recover button...
+2026-02-17 16:05:20,731 - WARNING -   No Load More button for 10 rounds. Have 1496/3100 URLs. Still trying...
+2026-02-17 16:05:46,265 - WARNING -   No Load More button for 20 rounds. Have 1496/3100 URLs. Still trying...
+2026-02-17 16:06:31,047 - INFO -   Click #100 | 1496 URLs (on page: 40) | saved
+2026-02-17 16:06:53,277 - INFO -   Click #105 | 1496 URLs (on page: 80) | saved
+2026-02-17 16:07:01,407 - INFO - 
+Stopped by user. Progress saved.

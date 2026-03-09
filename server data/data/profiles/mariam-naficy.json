@@ -1,0 +1,209 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Mariam Naficy",
+    "website": "https://heretic.ventures/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Heretic Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/heretic-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hakeem \"Chamillionaire\" Seriki (Convoz)"
+      ],
+      "company": "Lumi Story",
+      "date": "Jul 2024",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Mallun Yen (Operator Collective)"
+      ],
+      "company": "The New Club",
+      "date": "Mar 2024",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Sriram Krishnan (Andreessen Horowitz)",
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Nat Friedman (C2 Investment)",
+        "Daniel Gross (C2 Investment)",
+        "John Collison",
+        "Mike Krieger",
+        "Patrick Collison",
+        "Fidji Simo",
+        "Baron Davis",
+        "Kevin Lin"
+      ],
+      "company": "Polywork",
+      "date": "Sep 2022",
+      "roundSize": "$28M",
+      "stage": "Series B",
+      "totalRaised": "$45M"
+    },
+    {
+      "coInvestors": [
+        "Nikil Viswanathan (Alchemy Ventures)",
+        "Matthew Kaness (Flexsteel Industries Inc.)",
+        "Drew Taggart (Mantis VC)",
+        "Alex Pall (Mantis VC)",
+        "Brigette Lau (Firework Ventures)",
+        "Daniel Kan",
+        "Henry Davis",
+        "Chris Fanini",
+        "James Beshara",
+        "Odell Beckham Jr."
+      ],
+      "company": "Maker Wine",
+      "date": "Nov 2021",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Maria Salamanca (Ulu Ventures)"
+      ],
+      "company": "The Landing",
+      "date": "Feb 2021",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Deep Nishar (General Catalyst)",
+        "David Cahn (Sequoia Capital)",
+        "Josh Shirazi (Alkeon Capital)",
+        "Neha Narkhede"
+      ],
+      "company": "Abacus.AI",
+      "date": "Jul 2020",
+      "roundSize": "$13M",
+      "stage": "Series A",
+      "totalRaised": "$68M"
+    },
+    {
+      "coInvestors": [
+        "Jerry Yang (AME Cloud Ventures)",
+        "Avichal Garg (Electric Capital)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Jerry Yang (Hardware Club)",
+        "Garry Tan (Y Combinator)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Max Levchin (Scifi Vc)",
+        "Julia Hartz",
+        "Ben Davenport",
+        "Aaron Levie",
+        "Paul Hewson (Bono)",
+        "Drew Houston"
+      ],
+      "company": "Color",
+      "date": "Apr 2015",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Ryan Merket (Comal Ventures)",
+        "Judd Morgenstern (Partners Resolute)",
+        "Max Altman (Saga)",
+        "Jacob Kerzner"
+      ],
+      "company": "Reddit",
+      "date": "Sep 2014",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$620M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlRNQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9079afeae47dac5158f64ca17113a3d5b141d44f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mariam-naficy",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "mariam-naficy",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mariam-naficy",
+    "linkedin": "https://www.linkedin.com/in/mariam-naficy/",
+    "twitter": "https://www.twitter.com/mnaficy",
+    "website": "https://www.heretic.ventures/team"
+  },
+  "scraped_at": "2026-02-12T08:49:12.093856"
+}

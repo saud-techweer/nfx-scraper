@@ -1,0 +1,135 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Nathaniel Montana",
+    "website": "https://liquid2.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Liquid 2 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/liquid-2-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$37.7M",
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Samit Kalra (1984 Ventures)",
+        "Ramy Adeeb (1984 Ventures)"
+      ],
+      "company": "Freckle",
+      "date": "Sep 2025",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Bob Williams (Canaan Partners)",
+        "Michael Goguen (Two Bear Capital)",
+        "Mike Reiner (Acrobator Ventures)",
+        "Joachim Laqueur (Acrobator Ventures)",
+        "Michael Sutton (Blu Venture Investors)"
+      ],
+      "company": "Binarly",
+      "date": "Mar 2024",
+      "roundSize": "$11M",
+      "stage": "Seed",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Paul Grossinger (Gaingels)",
+        "Chris Mullaly (Quantum Angels Venture Capital)",
+        "Stephen Cole"
+      ],
+      "company": "Biofire",
+      "date": "Feb 2024",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$45M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFhuQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c54ed9b1334a26736d908f5666a4f368505c01a7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nathaniel-montana",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nathaniel-montana",
+  "socials": {
+    "angellist": "https://www.angel.co/p/nathaniel-montana",
+    "crunchbase": "https://www.crunchbase.com/person/nathaniel-montana",
+    "linkedin": "https://www.linkedin.com/in/nathaniel-montana-86742988/",
+    "twitter": "https://www.twitter.com/scootermontana",
+    "website": "https://www.liquid2.vc/"
+  },
+  "scraped_at": "2026-02-11T11:30:51.747509"
+}

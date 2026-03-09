@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Shanghai",
+    "name": "Rickey Yao",
+    "website": "https://xvc.com/en/"
+  },
+  "experience": [
+    {
+      "company": "GGV Capital",
+      "dates": "2015 - 2017",
+      "position": "Associate"
+    },
+    {
+      "company": "The Carlyle Group",
+      "dates": "2013 - 2014",
+      "position": "Research Analyst"
+    },
+    {
+      "company": "BNP Paribas",
+      "dates": "2013 - 2013",
+      "position": "Fixed Income Intern Analyst"
+    },
+    {
+      "company": "Shenyin & Wanguo Securities Co. Ltd.",
+      "dates": "2012 - 2012",
+      "position": "Quantitative Intern Analyst"
+    },
+    {
+      "company": "The Boston Consulting Group",
+      "dates": "2012 - 2012",
+      "position": "Part time Assistant"
+    },
+    {
+      "company": "Cartier",
+      "dates": "2011 - 2012",
+      "position": "Product Marketing Intern"
+    },
+    {
+      "company": "XVC",
+      "dates": "2017 - Present",
+      "position": "Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "XVC",
+      "firmUrl": "https://signal.nfx.com/firms/xvc",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0FCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f43a6aa2edd4ef7b5663bc54088406b3a72714f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rickey-yao",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rickey-yao",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rickey-yao",
+    "crunchbase": "https://www.crunchbase.com/person/rickey-yao",
+    "linkedin": "https://www.linkedin.com/in/yao-rickey-b2875637/",
+    "website": "https://www.xvc.com/en/"
+  },
+  "scraped_at": "2026-02-28T04:46:34.508828"
+}

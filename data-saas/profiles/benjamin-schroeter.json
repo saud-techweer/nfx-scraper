@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Hamburg",
+    "name": "Benjamin Schroeter"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFA5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--77e8488490cc058bd740d34af2346c3764b6ce58/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/benjamin-schroeter",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "benjamin-schroeter",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/benjamin-schroeter",
+    "linkedin": "https://www.linkedin.com/in/benjamin-schroeter-8670a367/",
+    "twitter": "https://www.twitter.com/benpublic"
+  },
+  "scraped_at": "2026-02-26T08:43:47.084984"
+}

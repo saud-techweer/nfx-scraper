@@ -1,0 +1,219 @@
+{
+  "basicInfo": {
+    "name": "Vikas Sabnani",
+    "signalScore": 49,
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Product Operator",
+      "Investor"
+    ],
+    "location": "Oakland, California"
+  },
+  "investingProfile": {
+    "investmentRange": "$10K - $250K",
+    "sweetSpot": "$50K",
+    "investmentsOnRecord": 10
+  },
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Anthropic",
+      "stage": "Undisclosed",
+      "date": "Aug 2023",
+      "roundSize": null,
+      "totalRaised": "$2.7B",
+      "coInvestors": [
+        "Trevor Paladino (Lakeside Capital)",
+        "Bernard Moon (SparkLabs Group)",
+        "Brennda Reis (Friedom Partners)",
+        "Jack Leeney (7GC & Co)",
+        "Aatish Patel (GoAhead Ventures)",
+        "Adeel Hussain",
+        "Ishani Patel",
+        "Jason Haider",
+        "Siddharth Singhal"
+      ]
+    },
+    {
+      "company": "Flume",
+      "stage": "Seed",
+      "date": "Aug 2021",
+      "roundSize": "$3M",
+      "totalRaised": "$3.8M",
+      "coInvestors": [
+        "Samuel Garcia (Amplo)"
+      ]
+    },
+    {
+      "company": "Cabana",
+      "stage": "Seed",
+      "date": "May 2020",
+      "roundSize": "$4M",
+      "totalRaised": "$7.5M",
+      "coInvestors": [
+        "Ryan McCalley (SQN Venture Partners)"
+      ]
+    },
+    {
+      "company": "Outer",
+      "stage": "Seed",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Vince Thompson"
+      ]
+    },
+    {
+      "company": "Airbnb",
+      "stage": "Secondary Market",
+      "date": "Dec 2018",
+      "roundSize": null,
+      "totalRaised": "$2B",
+      "coInvestors": [
+        "Angela Zhu (IVP)",
+        "Federico Carrasco (Graypes GmbH)",
+        "Marcus Börner",
+        "Kevin Colas",
+        "Jabez Dewey"
+      ]
+    },
+    {
+      "company": "SpaceX",
+      "stage": "Secondary Market",
+      "date": "Sep 2018",
+      "roundSize": null,
+      "totalRaised": "$2.5B",
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Aatish Patel (GoAhead Ventures)",
+        "Joseph Metheny (GoAhead Ventures)",
+        "Omar Haque (Family Office)",
+        "Somesh Surapureddi (Angel Operator Partners (aop))",
+        "Michael Mealling (Starbridge Venture Capital)",
+        "Colton Cray (Litquidity Ventures)",
+        "Judd Morgenstern (Partners Resolute)",
+        "Maryanna Saenko (Future Ventures)",
+        "Michael Chase (Outliers Fund)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Junaid Mian (1435 Capital Management)",
+        "Trevor Paladino (Lakeside Capital)",
+        "Ana Levine (E1 Ventures)",
+        "Adeel Hussain",
+        "Mattia Astori",
+        "Priyank Chandra",
+        "Ishani Patel",
+        "Fanny Surjana",
+        "Louis Beryl",
+        "Kareem El-Sisi"
+      ]
+    },
+    {
+      "company": "Lyft",
+      "stage": "Secondary Market",
+      "date": "Jun 2017",
+      "roundSize": null,
+      "totalRaised": "$250M",
+      "coInvestors": [
+        "Chinedu Enekwe (Aux21 Capital)"
+      ]
+    },
+    {
+      "company": "Cerebras Systems",
+      "stage": "Series C",
+      "date": "Dec 2016",
+      "roundSize": "$60M",
+      "totalRaised": "$65M",
+      "coInvestors": [
+        "Rishi Ratan (Rough Draft Ventures)",
+        "Miras Mami",
+        "Bradley Horowitz"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Head of Product",
+      "company": "Transcarent",
+      "dates": "2020 - 2024"
+    },
+    {
+      "position": "VP Product & Data Science",
+      "company": "Glassdoor",
+      "dates": "2012 - 2019"
+    },
+    {
+      "position": "Sr Director, Strategy & Analytics",
+      "company": "Expedia, Inc.",
+      "dates": "2009 - 2012"
+    },
+    {
+      "position": "Founder",
+      "company": "FirstPhera",
+      "dates": "2007 - 2009"
+    },
+    {
+      "position": "Director, Revenue Optimization",
+      "company": "Hotwire.com",
+      "dates": "2003 - 2007"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/vsabnani/",
+    "twitter": "https://www.x.com/vsabnani"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1h1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--76dfdbabd8d21897e516c2b02c051745cefe47ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/vikas-sabnani",
+  "slug": "vikas-sabnani",
+  "scraped_at": "2026-02-24T13:30:55.347109"
+}

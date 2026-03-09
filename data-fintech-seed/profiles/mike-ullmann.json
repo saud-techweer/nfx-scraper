@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Oxford, United Kingdom",
+    "name": "Mike Ullmann"
+  },
+  "experience": [
+    {
+      "company": "Salaryo",
+      "dates": "2019 - Present",
+      "position": "Chairman"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFR2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b5c5eff8d72fc7d2bbdef2e5ecad8cf7383b09f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-ullmann",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "mike-ullmann",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mike-ullmann",
+    "linkedin": "https://www.linkedin.com/in/michael-ullmann-7a395b54/"
+  },
+  "scraped_at": "2026-03-03T22:40:42.893069"
+}

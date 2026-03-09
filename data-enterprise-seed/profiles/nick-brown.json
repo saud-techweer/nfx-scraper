@@ -1,0 +1,60 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Nicholas Brown",
+    "signalScore": 4,
+    "website": "https://imaginary.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Imaginary Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/imaginary-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e48cf3f2d4f28a197e27e4b450bd5e18822d0ae0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nick-brown",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nick-brown",
+  "socials": {
+    "angellist": "https://www.angel.co/nickbrown85",
+    "crunchbase": "https://www.crunchbase.com/person/nick-brown-b69e",
+    "linkedin": "https://www.linkedin.com/in/nickbrownimaginary/",
+    "website": "https://www.imaginary.co/"
+  },
+  "scraped_at": "2026-02-28T00:22:38.968088"
+}

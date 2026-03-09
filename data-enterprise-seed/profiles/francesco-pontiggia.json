@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Milan, Italy",
+    "name": "Francesco Pontiggia",
+    "website": "http://redseed.it/"
+  },
+  "experience": [
+    {
+      "company": "Kairos Partners SGR",
+      "dates": "2021 - 2022",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "RedSeed Ventures",
+      "dates": "2019 - 2021",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "EY",
+      "dates": "2018 - 2018",
+      "position": "Audit intern"
+    },
+    {
+      "company": "Gruppo Pontiggia",
+      "dates": "2022 - Present",
+      "position": "Controller"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "RedSeed Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/redseed-ventures",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmpDQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d577be2306122acb1a403155c1516e85c0f845ec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/francesco-pontiggia",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "francesco-pontiggia",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/francescopontiggia/",
+    "twitter": "https://www.twitter.com/Frances99667034",
+    "website": "https://www.redseed.it/"
+  },
+  "scraped_at": "2026-02-27T21:58:16.470183"
+}

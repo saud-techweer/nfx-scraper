@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Israel",
+    "name": "Benny Shneider"
+  },
+  "experience": [
+    {
+      "company": "Ness Technologies | נס טכנולוגיות",
+      "dates": "1999 - 2007",
+      "position": "VP | Department Manager - ConsultNess"
+    },
+    {
+      "company": "Compro Systems",
+      "dates": "1996 - 1999",
+      "position": "VP"
+    },
+    {
+      "company": "Israeli Military Industries",
+      "dates": "1995 - 1996",
+      "position": "Senior Software Engineer | Development team Leader"
+    },
+    {
+      "company": "Tadiran Communications",
+      "dates": "1993 - 1995",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Israeli Military Industries",
+      "dates": "1985 - 1993",
+      "position": "Software Development Manager"
+    },
+    {
+      "company": "Israel Defense Forces",
+      "dates": "1976 - 1981",
+      "position": "Major"
+    },
+    {
+      "company": "Gav Systems \"merkaz\"",
+      "dates": "2008 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1AwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d41f7f51a1b44582bb3f61302f748058992b2abc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/benny-shneider",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "benny-shneider",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/benny-shneider",
+    "linkedin": "https://www.linkedin.com/in/benny-shneider-a62ab110a/"
+  },
+  "scraped_at": "2026-02-27T20:39:45.466214"
+}

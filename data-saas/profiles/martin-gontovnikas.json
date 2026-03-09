@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "Scout"
+    ],
+    "location": "Berkeley, California",
+    "name": "Martin Gontovnikas",
+    "website": "https://gon.to/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Madrona Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/madrona-venture-group",
+      "position": "Scout"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$5K - $25K",
+    "sweetSpot": "$15K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMS9kQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8cf5931a7b83da6b8981123eb21971fde383068c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-gontovnikas",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "martin-gontovnikas",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/martin-gontovnikas",
+    "linkedin": "https://www.linkedin.com/in/mgonto/",
+    "twitter": "https://www.twitter.com/mgonto",
+    "website": "https://www.wellfound.com/p/gonto"
+  },
+  "scraped_at": "2026-02-27T02:31:29.009570"
+}

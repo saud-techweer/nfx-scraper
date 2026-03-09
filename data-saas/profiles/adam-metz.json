@@ -1,0 +1,109 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Advisor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Adam Metz",
+    "positionAndFirm": "G.P. , D.F.A. Capital",
+    "signalScore": 222,
+    "website": "http://www.dfacapital.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "D.F.A. Capital",
+      "firmUrl": "https://signal.nfx.com/firms/d-f-a-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$700K - $900K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$800K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yoav Knoll (MizMaa Ventures)",
+        "Kenny Tucker (Tucker Seed Fund LLC)"
+      ],
+      "company": "Hyperspace",
+      "date": "Feb 2022",
+      "roundSize": "$100K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [
+        "Irene Mingozzi (LombardStreet Ventures)",
+        "Kobi Shkuri (Shkuri Ventures)",
+        "Sri Batchu",
+        "Jonathan Chizick"
+      ],
+      "company": "Stonks",
+      "date": "Jan 2022",
+      "roundSize": "$5K",
+      "stage": "Seed",
+      "totalRaised": "$5K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3R6QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9f5dffe04cbfdad5c8af355aa98ab1e83f9d4d32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-metz",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "adam-metz",
+  "socials": {
+    "angellist": "https://www.angel.co/u/adam-thesocialconcept-com",
+    "crunchbase": "https://www.crunchbase.com/person/adam-metz",
+    "linkedin": "https://www.linkedin.com/in/adammetz/",
+    "twitter": "https://www.twitter.com/theMetz",
+    "website": "https://www.dfacapital.co/"
+  },
+  "scraped_at": "2026-02-26T06:32:50.930895"
+}

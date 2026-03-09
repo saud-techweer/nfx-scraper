@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Santa Monica, California",
+    "name": "Sky Dayton",
+    "website": "https://craftventures.com/team/sky-dayton"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Craft Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/craft-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$1M - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Marlon Nichols (MaC Venture Capital)",
+        "Abhinav Gupta (Thirdbase Capital)",
+        "Michael Tam (Craft Ventures)",
+        "Andrew Tymovskyi (Roosh Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "David Sacks (Craft Ventures)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Larry Chu (Eunoia Capital Partners)",
+        "Naval Ravikant (The Hit Forge)",
+        "Tx Zhuo (Fika Ventures)",
+        "Jon Runyan",
+        "Ryan Chan",
+        "Michael Ma",
+        "Shervin Pishevar",
+        "Valentin Gui",
+        "Sung ho Choi"
+      ],
+      "company": "Pipe",
+      "date": "Feb 2020",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$270M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHpKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--567370786dd35acd8619f46845e1060723d5548c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sky-dayton",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sky-dayton",
+  "socials": {
+    "angellist": "https://www.angel.co/p/sky-dayton",
+    "crunchbase": "https://www.crunchbase.com/person/sky-dayton",
+    "linkedin": "https://www.linkedin.com/in/skydayton/",
+    "twitter": "https://www.twitter.com/skydayton",
+    "website": "https://www.craftventures.com/team/sky-dayton"
+  },
+  "scraped_at": "2026-02-28T01:56:36.629154"
+}

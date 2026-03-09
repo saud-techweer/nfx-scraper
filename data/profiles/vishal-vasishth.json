@@ -1,0 +1,206 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Andrew Chen",
+    "signalScore": 216,
+    "website": "https://a16z.com/author/andrew-chen/"
+  },
+  "experience": [
+    {
+      "company": "Uber",
+      "dates": "2015 - 2018",
+      "position": "Growth"
+    },
+    {
+      "company": "andrewchen.co",
+      "dates": "2007 - 2018",
+      "position": "Entrepreneur-out-of-Residence"
+    },
+    {
+      "company": "AudienceScience",
+      "dates": "2003 - 2006",
+      "position": "Director of Product Marketing"
+    },
+    {
+      "company": "Mohr Davidow Ventures",
+      "dates": "2003",
+      "position": "Analyst"
+    },
+    {
+      "company": "Curated",
+      "dates": "2022 - Present",
+      "position": "Limited Partner"
+    },
+    {
+      "company": "Andreessen Horowitz",
+      "dates": "2018 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Kickball Labs",
+      "dates": "Present",
+      "position": "CEO and Co-Founder"
+    },
+    {
+      "company": "Mohr Davidow Ventures",
+      "dates": "Present",
+      "position": "Entrepreneur-in-Residence"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Andreessen Horowitz",
+      "firmUrl": "https://signal.nfx.com/firms/andreessen-horowitz",
+      "position": "General Partner"
+    },
+    "fundSize": "$2.2B",
+    "investmentRange": "$1M - $100.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Ulevitch (Andreessen Horowitz)",
+        "Greg Rosen (BoxGroup)",
+        "April Underwood (Adverb Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "Harry Stebbings (20VC)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Scott Belsky",
+        "Howie Liu",
+        "Drew Houston"
+      ],
+      "company": "Balsa",
+      "date": "Oct 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$50K"
+    },
+    {
+      "coInvestors": [
+        "Jason Yeh (Patron)",
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "David Sacks (Craft Ventures)",
+        "Rich Kleiman (Thirty Five Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Keisuke Honda (Dreamers VC)",
+        "Will Smith (Dreamers VC)",
+        "Katy Perry",
+        "Justin Timberlake",
+        "Rudra Peram",
+        "Peter Hunn",
+        "Sung ho Choi",
+        "Martin Li"
+      ],
+      "company": "Sandbox VR",
+      "date": "Oct 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekdNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e11ea5052db772e0e2e86cc1d41b599ef6240113/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-chen",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "vishal-vasishth",
+  "socials": {
+    "angellist": "https://www.angel.co/andrewchen",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-chen",
+    "linkedin": "https://www.linkedin.com/in/andrewchen/",
+    "twitter": "https://www.twitter.com/andrewchen",
+    "website": "https://www.a16z.com/author/andrew-chen/"
+  },
+  "scraped_at": "2026-02-16T01:45:23.949434",
+  "success": true
+}

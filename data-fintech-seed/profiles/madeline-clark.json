@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Madeline Clark",
+    "website": "https://grandvcp.com/"
+  },
+  "experience": [
+    {
+      "company": "SoFi",
+      "dates": "2023 - 2023",
+      "position": "Growth Product Manager, MBA Intern"
+    },
+    {
+      "company": "Jump Capital",
+      "dates": "2022 - 2022",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Grand Ventures",
+      "dates": "2022 - 2022",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Portfolia",
+      "dates": "2021 - 2022",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Leftbrain",
+      "dates": "2021 - 2021",
+      "position": "Product Marketing, MBA Intern"
+    },
+    {
+      "company": "Deloitte Consulting",
+      "dates": "2021 - 2021",
+      "position": "Senior Consultant"
+    },
+    {
+      "company": "Deloitte Consulting",
+      "dates": "2019 - 2021",
+      "position": "Consultant"
+    },
+    {
+      "company": "Deloitte Consulting",
+      "dates": "2017 - 2019",
+      "position": "Business Technology Analyst"
+    },
+    {
+      "company": "SoFi",
+      "dates": "2023 - Present",
+      "position": "Senior Product Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Grand Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/grand-ventures",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDBXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ec972b4fc907fdda6ba3a446733675b49145f405/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/madeline-clark",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "madeline-clark",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/madeline-clark-122b65107/",
+    "website": "https://www.grandvcp.com/"
+  },
+  "scraped_at": "2026-03-03T22:03:36.401656"
+}

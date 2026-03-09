@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Fabio Igel",
+    "website": "https://monashees.com.br/en"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "monashees",
+      "firmUrl": "https://signal.nfx.com/firms/monashees",
+      "position": "Partner"
+    },
+    "investmentRange": "$250K - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTVHQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--28ca2c7eff8482fafd5876a599029b10b26061b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fabio-igel",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "fabio-igel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/fabio-igel",
+    "linkedin": "https://www.linkedin.com/in/fabio-igel-253476200/?originalSubdomain=br",
+    "twitter": "https://www.twitter.com/Figel",
+    "website": "https://www.monashees.com.br/en"
+  },
+  "scraped_at": "2026-02-27T21:52:54.415778"
+}

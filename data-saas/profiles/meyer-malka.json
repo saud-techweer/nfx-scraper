@@ -1,0 +1,210 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Meyer \"Micky\" Malka",
+    "signalScore": 1,
+    "website": "https://ribbitcap.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Lemon, Inc.",
+      "dates": "2011 - 2013",
+      "position": "Co-Founder & Chairman"
+    },
+    {
+      "company": "Meck Ltd.",
+      "dates": "2002 - 2012",
+      "position": "Partner & CEO"
+    },
+    {
+      "company": "Bling Nation",
+      "dates": "2007 - 2011",
+      "position": "Co-CEO"
+    },
+    {
+      "company": "Patagon",
+      "dates": "1999 - 2002",
+      "position": "CEO for Venezuela"
+    },
+    {
+      "company": "Patagon Internet Bank (OpenBank SA)",
+      "dates": "2000 - 2001",
+      "position": "Interim CEO"
+    },
+    {
+      "company": "Heptagon Grupo Financiero",
+      "dates": "1992 - 1999",
+      "position": "Managing Director"
+    },
+    {
+      "company": "MercadoLibre.com",
+      "dates": "2013 - Present",
+      "position": "Co-Founder & Chairman"
+    },
+    {
+      "company": "Ribbit Capital",
+      "dates": "2012 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ribbit Capital",
+      "firmUrl": "https://signal.nfx.com/firms/ribbit-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$420M",
+    "investmentRange": "$2.0M - $15.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$8.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sam Lessin (Slow Ventures)",
+        "Paul Strachman (Red Sea Ventures)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Andy Dunn (Red Swan Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Adam D'Angelo",
+        "David Marcus",
+        "Javier Olivan",
+        "Jeff Arnold",
+        "Greg Brockman",
+        "Mike Krieger"
+      ],
+      "company": "Prefer",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Peter Thiel (Founders Fund)",
+        "Jake Seid (Ballistic Ventures)",
+        "Andres Morin (Vamos Ventures)",
+        "Anu Hariharan (Y Combinator)",
+        "Tim Brady (Y Combinator)",
+        "Michael Seibel (Y Combinator)",
+        "Paul Buchheit (Y Combinator)",
+        "Max Levchin (Scifi Vc)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Elad Gil"
+      ],
+      "company": "Brex",
+      "date": "Apr 2017",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlV5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6c554faefc2ed1f76fe491b0650bba28b8e9ade/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/meyer-malka",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "meyer-malka",
+  "socials": {
+    "angellist": "https://www.angel.co/mmalka",
+    "crunchbase": "https://www.crunchbase.com/person/meyer-malka",
+    "linkedin": "https://www.linkedin.com/in/meyermalka/",
+    "twitter": "https://www.twitter.com/mickymalka",
+    "website": "https://www.ribbitcap.com/team/"
+  },
+  "scraped_at": "2026-02-27T02:46:29.149979"
+}

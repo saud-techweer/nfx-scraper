@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Patrick Harrington",
+    "website": "https://anzupartners.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Anzu Partners",
+      "firmUrl": "https://signal.nfx.com/firms/anzu-partners",
+      "position": "Investor"
+    },
+    "fundSize": "$935M",
+    "investmentRange": "$3.0M - $15.0M",
+    "sweetSpot": "$8.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM084QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--059ab9b89b06aafa0131e1607b1a32bfaf3983a9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/patrick-harrington",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "patrick-harrington",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/patrickcharrington/",
+    "website": "https://www.anzupartners.com/"
+  },
+  "scraped_at": "2026-03-03T23:09:58.270812"
+}

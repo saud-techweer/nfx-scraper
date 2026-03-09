@@ -1,0 +1,187 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Advisor"
+    ],
+    "location": "Montana",
+    "name": "Cris Neckar",
+    "website": "https://twobearcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Concierge Defense",
+      "dates": "Present",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Divergent Security",
+      "dates": "Present",
+      "position": "Founder, Managing Partner"
+    },
+    {
+      "company": "Spring Labs",
+      "dates": "Present",
+      "position": "CISO"
+    },
+    {
+      "company": "Neohapsis, now part of Cisco",
+      "dates": "Present",
+      "position": "Application Security Practice Lead"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Chrome Security"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Two Bear Capital",
+      "firmUrl": "https://signal.nfx.com/firms/two-bear-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$5.0M - $12.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$7.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "QuSecure",
+      "date": "Oct 2024",
+      "roundSize": "$28M",
+      "stage": "A",
+      "totalRaised": "$28M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGNOQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--574e59f9fe83c1772da34fab8be9d1c44da8448d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cris-neckar",
+  "sectorRankings": [
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    }
+  ],
+  "slug": "cris-neckar",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/cris-neckar-a44f",
+    "linkedin": "https://www.linkedin.com/in/crisneckar/",
+    "website": "https://www.twobearcapital.com/"
+  },
+  "scraped_at": "2026-02-26T09:53:07.109788"
+}

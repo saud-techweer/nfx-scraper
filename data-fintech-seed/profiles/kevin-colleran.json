@@ -1,0 +1,208 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Sales Operator"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Kevin Colleran",
+    "signalScore": 396,
+    "website": "http://slow.co/"
+  },
+  "experience": [
+    {
+      "company": "Facebook",
+      "dates": "2005 - 2011",
+      "position": "Global Advertising Sales / First 10 Employees"
+    },
+    {
+      "company": "Slow Ventures",
+      "dates": "2013 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "The Wall Street Journal",
+      "dates": "2012 - Present",
+      "position": "Wall Street Journal Columnist"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Slow Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/slow-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$325M",
+    "investmentRange": "$250K - $3.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Roman",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUhTQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--29e718b5911a63308b11b72a2213b96807c50884/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-colleran",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-a-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kevin-colleran",
+  "socials": {
+    "angellist": "https://www.angel.co/p/kevincolleran",
+    "crunchbase": "https://www.crunchbase.com/person/kevin-colleran",
+    "linkedin": "https://www.linkedin.com/in/kevcoll/",
+    "twitter": "https://www.twitter.com/kevincolleran",
+    "website": "https://www.slow.co/"
+  },
+  "scraped_at": "2026-02-27T01:47:07.667241"
+}

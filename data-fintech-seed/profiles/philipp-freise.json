@@ -1,0 +1,48 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "London",
+    "name": "Philipp Freise",
+    "positionAndFirm": "Partner, Co-Head of European Private Equity at KKR"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOS95QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ff4e21ddffbdfb8f80890ca533f47dff798d5543/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/philipp-freise",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "philipp-freise",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/philipp-freise",
+    "linkedin": "https://www.linkedin.com/in/phfreise/"
+  },
+  "scraped_at": "2026-03-03T23:20:52.789133"
+}

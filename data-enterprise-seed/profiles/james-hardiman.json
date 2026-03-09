@@ -1,0 +1,149 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "James Hardiman",
+    "signalScore": 2,
+    "website": "https://www.dcvc.com/bio/core/james-hardiman.html"
+  },
+  "experience": [
+    {
+      "company": "Data Collective",
+      "dates": "2013 - 2016",
+      "position": "Principal"
+    },
+    {
+      "company": "The Blackstone Group",
+      "dates": "2013 - 2013",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "ZS Associates",
+      "dates": "2007 - 2012",
+      "position": "Consultant"
+    },
+    {
+      "company": "Lam Research",
+      "dates": "2005 - 2007",
+      "position": "Technical Intern"
+    },
+    {
+      "company": "Alameda Applied Sciences Corporation",
+      "dates": "2004 - 2005",
+      "position": "Technical Intern"
+    },
+    {
+      "company": "Data Collective",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DCVC (Data Collective)",
+      "firmUrl": "https://signal.nfx.com/firms/data-collective",
+      "position": "Partner"
+    },
+    "fundSize": "$725M",
+    "investmentRange": "$5.0M - $25.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelliQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c603176eb903045e9a292e9de293371ac12edd4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-hardiman",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    }
+  ],
+  "slug": "james-hardiman",
+  "socials": {
+    "angellist": "https://www.angel.co/u/james-hardiman",
+    "crunchbase": "https://www.crunchbase.com/person/james-hardiman",
+    "linkedin": "https://www.linkedin.com/in/hardimanjames/",
+    "twitter": "https://www.twitter.com/hardimanjames",
+    "website": "https://www.dcvc.com/bio/core/james-hardiman.html"
+  },
+  "scraped_at": "2026-02-27T22:29:44.538084"
+}

@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Founder",
+      "CEO"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "David Vélez"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Spencer Rascoff (75 & Sunny)",
+        "Hernan Kazah (Kaszek Ventures)",
+        "Brian Requarth (Latitud)",
+        "Hadi Partovi"
+      ],
+      "company": "La Haus",
+      "date": "Jun 2020",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$45M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUFpQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--433731355ec0cf20a178bb43d5dc84f51f6bb682/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-velez",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-velez",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-velez",
+    "linkedin": "https://www.linkedin.com/in/david-v%C3%A9lez-1004875/?originalSubdomain=br"
+  },
+  "scraped_at": "2026-03-03T17:01:01.610318"
+}

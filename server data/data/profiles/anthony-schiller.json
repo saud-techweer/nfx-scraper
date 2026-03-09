@@ -1,0 +1,119 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Anthony Schiller",
+    "signalScore": 101,
+    "website": "https://greenbayventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Excelerate Energy",
+      "dates": "2008 - 2010",
+      "position": "Director, Upstream Development"
+    },
+    {
+      "company": "Newfoundland LNG",
+      "dates": "2004 - 2006",
+      "position": "Vice President, Business Development"
+    },
+    {
+      "company": "Green Bay Advisors, LLC",
+      "dates": "2011 - Present",
+      "position": "Founding Partner & Managing Member"
+    },
+    {
+      "company": "Green Bay Ventures, LLC",
+      "dates": "Present",
+      "position": "Co-Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Green Bay Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/green-bay-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFBoIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1cb93e87484d6f27cd495b1b47e39ebb9fdd3354/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anthony-schiller",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AutoTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-a-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "anthony-schiller",
+  "socials": {
+    "angellist": "https://www.angel.co/anthonyschiller",
+    "crunchbase": "https://www.crunchbase.com/person/anthony-schiller-2",
+    "linkedin": "https://www.linkedin.com/in/anthony-schiller-0712628/",
+    "twitter": "https://www.twitter.com/anthonyschiller",
+    "website": "https://www.greenbayventures.com/"
+  },
+  "scraped_at": "2026-02-11T11:52:44.533226"
+}

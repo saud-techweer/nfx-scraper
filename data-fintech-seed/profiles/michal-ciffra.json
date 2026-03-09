@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Prague",
+    "name": "Michal Ciffra",
+    "signalScore": 241,
+    "website": "https://depoventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DEPO Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/depo-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$20K - $300K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Raimonds Kulbergs (BADideas.fund)"
+      ],
+      "company": "Blockmate",
+      "date": "Oct 2021",
+      "roundSize": null,
+      "stage": "angel",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Milad Alucozai (BoxOne Ventures)",
+        "Peter Lasinger (3VC)"
+      ],
+      "company": "Tatum",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "pre-seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "Smartguide",
+      "date": "Mar 2019",
+      "roundSize": null,
+      "stage": "pre-seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEx4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5d0e682548b1acfa82fb8776a32011ac1b3755f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michal-ciffra",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "michal-ciffra",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/michalciffra/",
+    "twitter": "https://www.twitter.com/ciffra",
+    "website": "https://www.depoventures.com/"
+  },
+  "scraped_at": "2026-03-03T22:37:05.876066"
+}

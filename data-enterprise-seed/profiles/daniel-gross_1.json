@@ -1,0 +1,131 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Daniel Gross",
+    "website": "https://dcgross.com/"
+  },
+  "experience": [
+    {
+      "company": "Y Combinator",
+      "dates": "2017 - 2018",
+      "position": "Partner"
+    },
+    {
+      "company": "Apple",
+      "dates": "2013 - 2017",
+      "position": "Director"
+    },
+    {
+      "company": "Cue (formerly Greplin)",
+      "dates": "2010 - 2013",
+      "position": "Co-Founder and CEO"
+    },
+    {
+      "company": "Pioneer.app",
+      "dates": "2018 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Various",
+      "dates": "2013 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "C2 Investment",
+      "firmUrl": "https://signal.nfx.com/firms/c2-investment",
+      "position": "Investor"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$1M - $100.0M",
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKy9QQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--de3f6a9694654737d53effa107a66b8941a420f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/daniel-gross_1",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "daniel-gross_1",
+  "socials": {
+    "angellist": "https://www.angel.co/p/danielgross",
+    "crunchbase": "https://www.crunchbase.com/person/daniel-gross",
+    "linkedin": "https://www.linkedin.com/in/danielgrossca/",
+    "twitter": "https://www.twitter.com/danielgross",
+    "website": "https://www.dcgross.com/"
+  },
+  "scraped_at": "2026-02-27T21:17:36.170244"
+}

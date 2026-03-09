@@ -1,0 +1,239 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Operator",
+      "Angel"
+    ],
+    "location": "New York City",
+    "name": "Arra Malekzadeh",
+    "signalScore": 367,
+    "website": "https://craftventures.com/team/arra-malekzadeh"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Craft Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/craft-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$1M - $50.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Allen Gannett"
+      ],
+      "company": "Showrunner",
+      "date": "May 2022",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Maryanna Saenko (Future Ventures)"
+      ],
+      "company": "Ockam",
+      "date": "Jan 2022",
+      "roundSize": "$13M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [
+        "Abhishek Sharma (Nexus Venture Partners)"
+      ],
+      "company": "Fingerprint",
+      "date": "Nov 2021",
+      "roundSize": "$32M",
+      "stage": "Series B",
+      "totalRaised": "$77M"
+    },
+    {
+      "coInvestors": [
+        "James Tamplin (Founder Collective)",
+        "Jeffrey Silverstein (Andreessen Horowitz)",
+        "Sigalit Perelson (Sequoia Capital)",
+        "Max Altman (Saga)",
+        "Lachy Groom (LGF)",
+        "Elizabeth Caven (Next Level Ventures)",
+        "Amjad Masad",
+        "Leore Avidar",
+        "Greg Brockman",
+        "Harry Hurst",
+        "Guillermo Rauch"
+      ],
+      "company": "Roboflow",
+      "date": "Sep 2021",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$64M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmpHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8acd3fa1f1327cab09384d71017516787a6d6f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/arra-malekzadeh",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "arra-malekzadeh",
+  "socials": {
+    "angellist": "https://www.angel.co/u/arra-malekzadeh",
+    "crunchbase": "https://www.crunchbase.com/person/arra-malekzadeh",
+    "linkedin": "https://www.linkedin.com/in/arramalek/",
+    "twitter": "https://www.twitter.com/arramalek?lang=en",
+    "website": "https://www.craftventures.com/team/arra-malekzadeh"
+  },
+  "scraped_at": "2026-02-12T11:42:42.993795"
+}

@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Rachel ten Brink",
+    "website": "https://redbikecapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Red Bike Capital",
+      "firmUrl": "https://signal.nfx.com/firms/red-bike-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTMrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9828673b2ca1c35b6cbea171d4c23758499c0d61/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rachel-ten-brink",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "rachel-ten-brink",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rachel-ten-brink",
+    "crunchbase": "https://www.crunchbase.com/person/rachel-ten-brink",
+    "linkedin": "https://www.linkedin.com/in/rachel-ten-brink-a08151/",
+    "twitter": "https://www.twitter.com/rtenbrink1",
+    "website": "https://www.redbikecapital.com/"
+  },
+  "scraped_at": "2026-02-27T03:47:17.155119"
+}

@@ -1,0 +1,267 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Investor",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "David S. Rose",
+    "positionAndFirm": "Managing Partner, Rose Tech Ventures",
+    "signalScore": 1022,
+    "website": "https://davidsrose.com/"
+  },
+  "experience": [
+    {
+      "company": "BookitNGo",
+      "dates": "2023 - Present",
+      "position": "Chairman"
+    },
+    {
+      "company": "Thinkable AI",
+      "dates": "2023 - Present",
+      "position": "Chairman"
+    },
+    {
+      "company": "Gust",
+      "dates": "2004 - Present",
+      "position": "Founder & Executive Chairman"
+    },
+    {
+      "company": "New York Angels",
+      "dates": "2004 - Present",
+      "position": "Founder & Chairman Emeritus"
+    },
+    {
+      "company": "Rose Tech Ventures",
+      "dates": "1999 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "U.S. Real Estate Market",
+      "dates": "Present",
+      "position": "Chairman & CEO"
+    },
+    {
+      "company": "92nd Street Y",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "KoolSpan",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "Singularity University",
+      "dates": "Present",
+      "position": "Associate Founder & Founding Track Chair, Finance & Entrepreneurship"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Rose Tech Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/rose-tech-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "KidZui",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Gust",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Thinkable AI",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "BookitNGo",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "U.S. Real Estate Market",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1FGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f40f2749c9e73bdf0ca59f0bf1b0a23fbe8deaad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-s-rose",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Smart Cities/UrbanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smart-cities-urbantech-pre-seed-investors"
+    },
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "ConstructionTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-series-a-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Smart Cities/UrbanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smart-cities-urbantech-series-a-investors"
+    },
+    {
+      "name": "Smart Cities/UrbanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smart-cities-urbantech-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    }
+  ],
+  "slug": "david-s-rose",
+  "socials": {
+    "angellist": "https://www.angel.co/davidsrose",
+    "crunchbase": "https://www.crunchbase.com/person/david-s-rose",
+    "linkedin": "https://www.linkedin.com/in/davidsrose/",
+    "twitter": "https://www.twitter.com/davidsrose",
+    "website": "https://www.davidsrose.com/"
+  },
+  "scraped_at": "2026-02-26T10:17:31.788685"
+}

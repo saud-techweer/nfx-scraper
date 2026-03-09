@@ -1,0 +1,160 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Yoav Knoll",
+    "signalScore": 601,
+    "website": "https://www.mizmaa.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MizMaa Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mizmaa-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$1M - $6.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Anima",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "CHEQ",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Kenny Tucker (Tucker Seed Fund LLC)",
+        "Adam Metz (D.F.A. Capital)"
+      ],
+      "company": "Hyperspace",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Loadmill",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOU1aQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f14a8869b0ec6a364f0372a5e9df32b6574c4685/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yoav-knoll",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "yoav-knoll",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/yoav-knoll",
+    "linkedin": "https://www.linkedin.com/in/yoav-knoll-15bb0a155/",
+    "website": "https://www.mizmaa.com/"
+  },
+  "scraped_at": "2026-02-27T05:43:06.159739"
+}

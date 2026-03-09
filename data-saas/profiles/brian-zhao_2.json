@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Brian Zhao",
+    "website": "https://m12.vc/team/brian-zhao/"
+  },
+  "experience": [
+    {
+      "company": "Microsoft",
+      "dates": "2020 - 2022",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Alpha Bridge Ventures",
+      "dates": "2019 - 2021",
+      "position": "Associate"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2019 - 2019",
+      "position": "Financial Analyst Intern - Device Market Intelligence & Strategy"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2018 - 2018",
+      "position": "Financial Analyst Intern - Central Finance Team"
+    },
+    {
+      "company": "American Airlines",
+      "dates": "2017 - 2017",
+      "position": "Fuel Finance Intern"
+    },
+    {
+      "company": "Caila",
+      "dates": "2016 - 2016",
+      "position": "Digital Marketing Manager"
+    },
+    {
+      "company": "M12 - Microsoft's Venture Fund",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "M12",
+      "firmUrl": "https://signal.nfx.com/firms/m12",
+      "position": "Investor"
+    },
+    "fundSize": "$35M",
+    "investmentRange": "$2.0M - $10.0M",
+    "sweetSpot": "$6.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGRzQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bc4226ff66ba50c33f7536f0603a4a961e9b5f3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-zhao_2",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brian-zhao_2",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/brianzhao1/",
+    "website": "https://www.m12.vc/team/brian-zhao/"
+  },
+  "scraped_at": "2026-02-26T08:59:23.602636"
+}

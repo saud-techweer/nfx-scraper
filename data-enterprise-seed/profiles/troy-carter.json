@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Troy Carter",
+    "signalScore": 369
+  },
+  "experience": [
+    {
+      "company": "Atom Factory Inc.",
+      "dates": "Present",
+      "position": "CEO & Founder"
+    }
+  ],
+  "investingProfile": {
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Tisch (BoxGroup)",
+        "Mo Koyfman (Shine Capital)"
+      ],
+      "company": "Storefront",
+      "date": "Apr 2014",
+      "roundSize": "$7.3M",
+      "stage": "Series A",
+      "totalRaised": "$7.3M"
+    },
+    {
+      "coInvestors": [
+        "Noah Goodhart"
+      ],
+      "company": "Bread",
+      "date": "Jan 2012",
+      "roundSize": "$3.4M",
+      "stage": "Series A",
+      "totalRaised": "$3.4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0NVQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f8128b6dc1fcdef96411e430378123b8be58ee4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/troy-carter",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "troy-carter",
+  "socials": {
+    "angellist": "https://www.angel.co/troy-atomfactory-com",
+    "crunchbase": "https://www.crunchbase.com/person/troy-carter",
+    "linkedin": "https://www.linkedin.com/in/troyearthshot/"
+  },
+  "scraped_at": "2026-02-28T14:09:10.047311"
+}

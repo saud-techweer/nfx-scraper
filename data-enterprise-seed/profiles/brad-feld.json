@@ -1,0 +1,225 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Boulder, Colorado",
+    "name": "Brad Feld",
+    "signalScore": 297,
+    "website": "https://foundrygroup.com/"
+  },
+  "experience": [
+    {
+      "company": "Foundry Group",
+      "dates": "2007 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Mobius Venture Capital",
+      "dates": "2001 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Intensity Ventures",
+      "dates": "Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Techstars",
+      "dates": "Present",
+      "position": "Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Foundry Group",
+      "firmUrl": "https://signal.nfx.com/firms/foundry-group",
+      "position": "Partner"
+    },
+    "fundSize": "$750M",
+    "investmentRange": "$100K - $30.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Seth Levine (Foundry Group)",
+        "Venky Ganesan (Menlo Ventures)",
+        "Greg Gottesman (Pioneer Square Labs)",
+        "Megan Quinn"
+      ],
+      "company": "Rover",
+      "date": "Jul 2017",
+      "roundSize": "$65M",
+      "stage": "Series F",
+      "totalRaised": "$65M"
+    },
+    {
+      "coInvestors": [
+        "Nabeel Hyatt (Spark Capital)"
+      ],
+      "company": "Harmonix Music Systems",
+      "date": "Sep 2015",
+      "roundSize": "$15M",
+      "stage": "Venture Round",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVRHQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--145446867e912a9c28737b0dd650243cb519a737/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brad-feld",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brad-feld",
+  "socials": {
+    "angellist": "https://www.angel.co/bfeld",
+    "crunchbase": "https://www.crunchbase.com/person/brad-feld",
+    "linkedin": "https://www.linkedin.com/in/bfeld/",
+    "twitter": "https://www.twitter.com/bfeld",
+    "website": "https://www.foundrygroup.com/"
+  },
+  "scraped_at": "2026-02-26T08:52:26.020260"
+}

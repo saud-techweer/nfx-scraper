@@ -1,0 +1,122 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "Strategy Operator",
+      "Scout"
+    ],
+    "location": "London",
+    "name": "Duane Hall",
+    "signalScore": 141,
+    "website": "https://www.weunearth.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "UnEarth",
+      "firmUrl": "https://signal.nfx.com/firms/unearth",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$5K - $20K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Piinky",
+      "date": "Jan 2021",
+      "roundSize": "$630K",
+      "stage": "Seed",
+      "totalRaised": "$630K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nimbld",
+      "date": "Feb 2020",
+      "roundSize": "$5K",
+      "stage": "Pre-seed",
+      "totalRaised": "$5K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Unavine",
+      "date": "Jan 2020",
+      "roundSize": "$5K",
+      "stage": "Seed",
+      "totalRaised": "$5K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1R0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a664480dc8f34c82f2d4eae2ec8106b2402ddbdb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/duane-hall",
+  "sectorRankings": [
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "duane-hall",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/duane-hall",
+    "linkedin": "https://www.linkedin.com/in/deehoffy/",
+    "website": "https://www.weunearth.com/"
+  },
+  "scraped_at": "2026-02-26T23:31:39.608918"
+}

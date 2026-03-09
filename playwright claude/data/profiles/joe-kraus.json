@@ -1,0 +1,118 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Joe Kraus",
+    "website": "https://li.me/en-us/home"
+  },
+  "experience": [
+    {
+      "company": "Google Ventures",
+      "dates": "2009 - 2018",
+      "position": "Partner"
+    },
+    {
+      "company": "Google",
+      "dates": "2006 - 2009",
+      "position": "Director of Product Management"
+    },
+    {
+      "company": "JotSpot",
+      "dates": "2003 - 2006",
+      "position": "CEO"
+    },
+    {
+      "company": "DigitalConsumer.org",
+      "dates": "2002 - 2005",
+      "position": "Founder"
+    },
+    {
+      "company": "Excite.com",
+      "dates": "1993 - 2000",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "GV (Google Ventures)",
+      "firmUrl": "https://signal.nfx.com/firms/gv",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$8B",
+    "investmentRange": "$250K - $50.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Roger Lee (Battery Ventures)",
+        "Griffin Schroeder (Tiger Global Management)",
+        "Ron Conway (SV Angel)",
+        "Ronald Conway Sr. (SV Angel)",
+        "Jared Middleman (Dragoneer Investment Group)",
+        "Scooter Braun (TQ Ventures)",
+        "Ted Leonsis (Revolution)",
+        "Karlie Kloss (Klossy)",
+        "Shana Fisher (Third Kind Ventures)",
+        "Jonathon Triest (Ludlow Ventures)",
+        "Mark Wahlberg",
+        "Steve Aoki",
+        "Marc Benioff"
+      ],
+      "company": "StockX",
+      "date": "Sep 2018",
+      "roundSize": "$44M",
+      "stage": "Series B",
+      "totalRaised": "$580M"
+    },
+    {
+      "coInvestors": [
+        "Zach Coelius (Coelius Capital)",
+        "Greg Castle (Anorak Ventures)",
+        "Dovey Wan (Primitive Ventures)"
+      ],
+      "company": "Loom.ai",
+      "date": "Jun 2016",
+      "roundSize": "$1.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjdHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c45f0eae10967cf5209782fccd2a4705982a173e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joe-kraus",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "joe-kraus",
+  "socials": {
+    "angellist": "https://www.angel.co/p/joe-kraus",
+    "crunchbase": "https://www.crunchbase.com/person/joe-kraus",
+    "linkedin": "https://www.linkedin.com/in/jkraus/",
+    "twitter": "https://www.twitter.com/jkraus",
+    "website": "https://www.li.me/en-us/home"
+  },
+  "scraped_at": "2026-02-11T10:51:28.469395"
+}

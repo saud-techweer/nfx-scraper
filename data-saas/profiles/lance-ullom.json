@@ -1,0 +1,102 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "CEO",
+      "VC"
+    ],
+    "location": "Alexandria, Virginia",
+    "name": "Lance Ullom",
+    "website": "https://bluetriangle.com/"
+  },
+  "experience": [
+    {
+      "company": "ClearEdge3D, Inc.",
+      "dates": "2011 - 2018",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Alesco Financial and Institutional Financial Markets, Inc.",
+      "dates": "2006 - 2013",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Brazen Careerist",
+      "dates": "2011 - 2013",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Investor / Mentor",
+      "dates": "2008 - 2011",
+      "position": "Private Angel Investor"
+    },
+    {
+      "company": "ETRADE Financial, Metro DC Area",
+      "dates": "1996 - 2007",
+      "position": "Executive Vice President, EVP"
+    },
+    {
+      "company": "Blue Triangle",
+      "dates": "2016 - Present",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Reference Point",
+      "dates": "2016 - Present",
+      "position": "Executive Advisor"
+    },
+    {
+      "company": "SocialToaster, LLC",
+      "dates": "2012 - Present",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Blu Venture Investors, LLC",
+      "dates": "2011 - Present",
+      "position": "Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blu Venture Investors",
+      "firmUrl": "https://signal.nfx.com/firms/blu-venture-investors",
+      "position": "Principal"
+    },
+    "investmentRange": "$500K - $1M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMy9BQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fc87bdd48760d299eea6790115cc07d28cda0086/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lance-ullom",
+  "sectorRankings": [
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "lance-ullom",
+  "socials": {
+    "angellist": "https://www.angel.co/p/lance-ullom",
+    "crunchbase": "https://www.crunchbase.com/person/lance-ullom",
+    "linkedin": "https://www.linkedin.com/in/lance-ullom-3146a914/",
+    "twitter": "https://www.twitter.com/LanceUllom",
+    "website": "https://www.bluetriangle.com/"
+  },
+  "scraped_at": "2026-02-27T01:57:47.947785"
+}

@@ -1,0 +1,226 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Adam Zobler",
+    "signalScore": 220,
+    "website": "https://foundamental.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Foundamental",
+      "firmUrl": "https://signal.nfx.com/firms/foundamental",
+      "position": "General Partner"
+    },
+    "fundSize": "$130M",
+    "investmentRange": "$250K - $3.0M",
+    "investmentsOnRecord": 26,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Burak Cendek (Autotech Ventures)"
+      ],
+      "company": "Desteia",
+      "date": "Feb 2025",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Faisal Butt (Pi Labs)"
+      ],
+      "company": "Tangible",
+      "date": "May 2023",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PermitFlow",
+      "date": "May 2023",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Clelia Warburg Peters (Era Ventures)"
+      ],
+      "company": "Welcome Homes",
+      "date": "Jan 2023",
+      "roundSize": "$29M",
+      "stage": "Series A",
+      "totalRaised": "$34M"
+    },
+    {
+      "coInvestors": [
+        "Mark Blackwell (Builders VC)"
+      ],
+      "company": "SafeAI",
+      "date": "Dec 2022",
+      "roundSize": "$38M",
+      "stage": "Series B",
+      "totalRaised": "$64M"
+    },
+    {
+      "coInvestors": [
+        "David Haber (Andreessen Horowitz)"
+      ],
+      "company": "Adaptive Real Estate",
+      "date": "Jul 2022",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Dan Wenhold (Fifth Wall)",
+        "Stephen Chau (Sequoia Capital)"
+      ],
+      "company": "Cottage",
+      "date": "Apr 2022",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Scott Shleifer (Tiger Global Management)",
+        "Patric Hellermann (Foundamental)",
+        "Guillermo Gomez"
+      ],
+      "company": "Tul",
+      "date": "Jan 2022",
+      "roundSize": "$180M",
+      "stage": "Series B",
+      "totalRaised": "$180M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemRWQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--494433bdf3387c6b1e49a46b0406fd4387a9f0e0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-zobler",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "ConstructionTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-series-a-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "adam-zobler",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/adam-zobler",
+    "linkedin": "https://www.linkedin.com/in/adam-zobler-55bbb37/",
+    "website": "https://www.foundamental.com/"
+  },
+  "scraped_at": "2026-02-11T13:04:16.436932"
+}

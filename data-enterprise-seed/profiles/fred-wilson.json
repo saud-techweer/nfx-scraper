@@ -1,0 +1,103 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Fred Wilson",
+    "signalScore": 43,
+    "website": "https://usv.com/people/fred-wilson/"
+  },
+  "experience": [
+    {
+      "company": "Union Square Ventures",
+      "dates": "2003 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Flatiron Partners",
+      "dates": "1996 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Union Square Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/union-square-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$275M",
+    "investmentRange": "$1M - $6.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$4.3M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "John Borthwick (Betaworks Ventures)",
+        "Jalak Jobanputra (Future Perfect Ventures)"
+      ],
+      "company": "Outside.in",
+      "date": "Dec 2009",
+      "roundSize": "$7M",
+      "stage": "Series B",
+      "totalRaised": "$7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb2tEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e943b21c79a0f0a1ab90e134b95cceddb00e6507/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fred-wilson",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "fred-wilson",
+  "socials": {
+    "angellist": "https://www.angel.co/p/fredwilson",
+    "crunchbase": "https://www.crunchbase.com/person/fred-wilson",
+    "linkedin": "https://www.linkedin.com/in/fredwilson/",
+    "twitter": "https://www.twitter.com/fredwilson",
+    "website": "https://www.usv.com/people/fred-wilson/"
+  },
+  "scraped_at": "2026-02-27T21:59:51.222940"
+}

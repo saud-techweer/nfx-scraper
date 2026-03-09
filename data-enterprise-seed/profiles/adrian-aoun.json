@@ -1,0 +1,157 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Adrian Aoun"
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "dates": "2014 - 2016",
+      "position": "Director, Special Projects for the CEO/Founder Larry Page"
+    },
+    {
+      "company": "Sidewalk Labs (an Alphabet/Google company)",
+      "dates": "2014 - 2016",
+      "position": "Founder"
+    },
+    {
+      "company": "The White House",
+      "dates": "2015 - 2015",
+      "position": "President's Council of Advisors on Science and Technology"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2006 - 2007",
+      "position": "Microsoft Office"
+    },
+    {
+      "company": "Startups",
+      "dates": "2010 - Present",
+      "position": "Investor/Advisor"
+    },
+    {
+      "company": "wavii",
+      "dates": "Present",
+      "position": "CEO & Founder (acquired by Google)"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Artificial Intelligence"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Director, Special Projects for the CEO"
+    },
+    {
+      "company": "Forward",
+      "dates": "Present",
+      "position": "CEO & Founder"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "Present",
+      "position": "Program Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $50K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Gabe Greenbaum (B Capital Group)",
+        "Justin Kan (Goat Capital)",
+        "Jeremy Levine (Bessemer Venture Partners)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Adam Bain (01 Advisors)",
+        "Ali Rowghani (Y Combinator)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Anne Dwane (Village Global)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Chris Keller (NextGen Venture Partners)",
+        "Harry Stebbings (20VC)",
+        "Jordan Fliegel (Techstars)",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "Jennifer Lum",
+        "Elad Gil",
+        "Joshua Reeves",
+        "David Cancel",
+        "Kevin Weil"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Eva Lau (Two Small Fish Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Fritz Lanman (Acequia Capital)",
+        "Jeff Bonforte (Catapult Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Bradley Horowitz",
+        "Gokul Rajaram",
+        "Joshua Schachter",
+        "Pete Koomen",
+        "Steve Chen",
+        "Evan Moore"
+      ],
+      "company": "Printify",
+      "date": "May 2019",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNExjQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f1569e6c3209a5a821253bf94e199b7974134bf0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adrian-aoun",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "adrian-aoun",
+  "socials": {
+    "angellist": "https://www.angel.co/adrian-aoun",
+    "crunchbase": "https://www.crunchbase.com/person/adrian-aoun",
+    "linkedin": "https://www.linkedin.com/in/adrianaoun/",
+    "twitter": "https://www.twitter.com/adrianaoun"
+  },
+  "scraped_at": "2026-02-27T19:55:16.629600"
+}

@@ -1,0 +1,65 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Sales Operator",
+      "Growth Operator"
+    ],
+    "name": "John Gleeson",
+    "signalScore": 19
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$5K - $20K",
+    "sweetSpot": "$10K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlEQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--57041214a5c9b93238080c05589db887c7ae9afa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-gleeson",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "john-gleeson",
+  "socials": {
+    "angellist": "https://www.angel.co/u/johngleeson10",
+    "crunchbase": "https://www.crunchbase.com/person/john-gleeson",
+    "linkedin": "https://www.linkedin.com/in/johngleeson10/",
+    "twitter": "https://www.twitter.com/JohnGleeson10"
+  },
+  "scraped_at": "2026-02-27T01:14:29.387469"
+}

@@ -1,0 +1,170 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Matt Garratt",
+    "positionAndFirm": "General Partner, USVP",
+    "signalScore": 334,
+    "website": "https://www.usvp.com/team/matt-garratt/"
+  },
+  "experience": [
+    {
+      "company": "Salesforce",
+      "dates": "2018 - 2021",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "U.S. Venture Partners (USVP)",
+      "firmUrl": "https://signal.nfx.com/firms/us-venture-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$500K - $40.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$13.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Austin Arensberg (Okta Ventures)",
+        "Moshe Lifschitz"
+      ],
+      "company": "Crossbeam",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenBqQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--32fd3fbfc5754e9ce5e10f48598cdb519a5bda1a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matthew-garratt",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "matthew-garratt",
+  "socials": {
+    "angellist": "https://www.angel.co/p/mdgarratt",
+    "crunchbase": "https://www.crunchbase.com/person/matthew-garratt",
+    "linkedin": "https://www.linkedin.com/in/matthewgarratt/",
+    "twitter": "https://www.twitter.com/mdgarratt?lang=en",
+    "website": "https://www.usvp.com/team/matt-garratt/"
+  },
+  "scraped_at": "2026-03-03T22:23:54.360369"
+}

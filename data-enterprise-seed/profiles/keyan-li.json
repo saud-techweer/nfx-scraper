@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Keyan Li",
+    "signalScore": 137
+  },
+  "experience": [
+    {
+      "company": "-",
+      "dates": "2018 - Present",
+      "position": "Logistics"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "General Partner",
+    "investmentRange": "$50K - $150K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBai85IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5d240cab1d4a374541eec7d189fb10923335028e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/keyan-li",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "keyan-li",
+  "socials": {
+    "angellist": "https://www.angel.co/newdo-venture-capital",
+    "crunchbase": "https://www.crunchbase.com/organization/newdo-venture",
+    "linkedin": "https://www.linkedin.com/in/keyan-li-76684450/"
+  },
+  "scraped_at": "2026-02-27T23:10:16.583227"
+}

@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Austin, Texas",
+    "name": "Danny Gillespie",
+    "website": "https://capitalfactory.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Capital Factory",
+      "firmUrl": "https://signal.nfx.com/firms/capital-factory",
+      "position": "Partner"
+    },
+    "fundSize": "$20M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Trumid",
+      "date": "Oct 2021",
+      "roundSize": "$210M",
+      "stage": "Private Equity Round",
+      "totalRaised": "$260M"
+    }
+  ],
+  "profilePicture": "https://d1hcaw05lpqmfw.cloudfront.net/star-icon-investor-profile-v4.svg",
+  "profileUrl": "https://signal.nfx.com/investors/danny-gillespie",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "danny-gillespie",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/dannygillespie/",
+    "twitter": "https://mobile.twitter.com/coldspring",
+    "website": "https://www.capitalfactory.com/"
+  },
+  "scraped_at": "2026-02-27T21:20:13.030731"
+}

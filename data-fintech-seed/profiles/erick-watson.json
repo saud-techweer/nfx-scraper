@@ -1,0 +1,264 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Erick Watson",
+    "signalScore": 3,
+    "website": "https://www.sproutvest.com/"
+  },
+  "experience": [
+    {
+      "company": "Quantarium LLC",
+      "dates": "2017 - 2019",
+      "position": "Chief Product Officer"
+    },
+    {
+      "company": "Inception Capital Management",
+      "dates": "2009 - 2019",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Moodwire",
+      "dates": "2013 - 2017",
+      "position": "Chief Product Officer"
+    },
+    {
+      "company": "GAEMS Inc.",
+      "dates": "2011 - 2017",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2011 - 2013",
+      "position": "Principal Program Manager - Data Science, Machine Learning & Artificial Intelligence"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2010 - 2011",
+      "position": "Director, Business Strategy & Market Development; Microsoft Asia R&D"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2007 - 2010",
+      "position": "Lead Partner Marketing Manager, Executive Engagement; WW Enterprise Partner Group (EPG)"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2005 - 2007",
+      "position": "Lead Product Marketing Manager, IT Pro Audience Marketing; US Server & Tools"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2004 - 2005",
+      "position": "Practice Manager, Consulting Services; Pacific Northwest District"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2001 - 2003",
+      "position": "Practice Manager, Support Services; Southern California District"
+    },
+    {
+      "company": "Consonus Technologies",
+      "dates": "2000 - 2001",
+      "position": "Sr. Director, Operations"
+    },
+    {
+      "company": "SproutVest, Ltd.",
+      "dates": "2013 - Present",
+      "position": "Founder & Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SproutVest Ltd. Co.",
+      "firmUrl": "https://signal.nfx.com/firms/sproutvest",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$5K - $250K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Kurt Bilafer"
+      ],
+      "company": "Xemelgo",
+      "date": "Nov 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Genprex",
+      "date": "Sep 2018",
+      "roundSize": "$10M",
+      "stage": "Series B",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Fiero.live",
+      "date": "Nov 2017",
+      "roundSize": "$1M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Moodwire",
+      "date": "Oct 2015",
+      "roundSize": "$6M",
+      "stage": "Venture Round",
+      "totalRaised": "$6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFphQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cf68bafee51df8a8ed02e4cd1aeaa55f869ad51/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/erick-watson",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Travel (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "erick-watson",
+  "socials": {
+    "angellist": "https://www.angel.co/erickwa",
+    "crunchbase": "https://www.crunchbase.com/person/erick-watson",
+    "linkedin": "https://www.linkedin.com/in/erick-watson/",
+    "twitter": "https://www.twitter.com/erickwa",
+    "website": "https://www.sproutvest.com/"
+  },
+  "scraped_at": "2026-03-05T19:23:19.136695"
+}

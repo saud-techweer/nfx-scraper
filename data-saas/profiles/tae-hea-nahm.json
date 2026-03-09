@@ -1,0 +1,65 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Tae Hea Nahm",
+    "website": "https://stormventures.com/author/tae/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Storm Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/storm-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$130.4M",
+    "investmentRange": "$500K - $7.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjczQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e60b1838a12945ed73c6cca604393a6c8a063984/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tae-hea-nahm",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tae-hea-nahm",
+  "socials": {
+    "angellist": "https://www.angel.co/u/tae-hea-nahm",
+    "crunchbase": "https://www.crunchbase.com/person/tae-hea-nahm",
+    "linkedin": "https://www.linkedin.com/in/tnahm/",
+    "twitter": "https://www.twitter.com/taeheanahm",
+    "website": "https://www.stormventures.com/author/tae/"
+  },
+  "scraped_at": "2026-02-27T04:59:02.816615"
+}

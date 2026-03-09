@@ -1,0 +1,44 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Leo Giertz",
+    "website": "https://icebreakervc.recruitee.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Icebreaker.vc",
+      "firmUrl": "https://signal.nfx.com/firms/icebreaker-vc",
+      "position": "General Partner"
+    },
+    "investmentRange": "$175K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFoxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a81cca2cf9c831c71f79be61ac002ee48aa1647b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/leo-giertz",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "leo-giertz",
+  "socials": {
+    "angellist": "https://www.angel.co/u/leo-giertz",
+    "crunchbase": "https://www.crunchbase.com/person/leo-giertz",
+    "linkedin": "https://www.linkedin.com/in/leogiertz/?originalSubdomain=se",
+    "twitter": "https://www.twitter.com/leogiertz?lang=en",
+    "website": "https://icebreakervc.recruitee.com/"
+  },
+  "scraped_at": "2026-02-27T23:21:16.871215"
+}

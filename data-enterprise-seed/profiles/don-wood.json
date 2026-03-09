@@ -1,0 +1,66 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Don Wood",
+    "website": "https://dfj.com/people/don-wood/?category_match=Operations"
+  },
+  "experience": [
+    {
+      "company": "Energy Impact Partners",
+      "dates": "2016 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "DFJ",
+      "dates": "2006 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "B Capital Group",
+      "firmUrl": "https://signal.nfx.com/firms/b-capital-group",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$406.1M",
+    "investmentRange": "$2.0M - $10.0M",
+    "sweetSpot": "$6.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaUlCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c14dcdfadc0a56df644f0df01b13644101ed275c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/don-wood",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "don-wood",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/don-wood",
+    "linkedin": "https://www.linkedin.com/in/don-wood-b422b520/",
+    "twitter": "https://www.twitter.com/dfwood",
+    "website": "https://www.dfj.com/people/don-wood/?category_match=Operations"
+  },
+  "scraped_at": "2026-02-27T21:34:46.080362"
+}

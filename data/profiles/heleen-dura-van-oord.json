@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "name": "Heleen Dura - van Oord",
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "website": "https://heleenduravanoord.com/",
+    "location": "Netherlands"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peak",
+      "firmUrl": "https://signal.nfx.com/firms/peak",
+      "position": "Partner"
+    },
+    "investmentRange": "$260K - $4.2M",
+    "sweetSpot": "$2.2M",
+    "investmentsOnRecord": 2
+  },
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Winc Academy",
+      "stage": "Seed",
+      "date": "Jan 2022",
+      "roundSize": "$3M",
+      "totalRaised": "$3M",
+      "coInvestors": []
+    },
+    {
+      "company": "Polarsteps",
+      "stage": "Seed",
+      "date": "Aug 2017",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": [
+        "Herman Kienhuis (Curiosity VC)"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "Co-Founder",
+      "company": "Vivid Ventures",
+      "dates": "2019 - Present"
+    },
+    {
+      "position": "Founding Partner",
+      "company": "FutureFoodFund",
+      "dates": "2016 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.heleenduravanoord.com/",
+    "linkedin": "https://www.linkedin.com/in/heleenvanoord/",
+    "twitter": "https://www.twitter.com/heleenvanoord",
+    "angellist": "https://www.angel.co/u/heleen-dura-van-oord",
+    "crunchbase": "https://www.crunchbase.com/person/heleen-dura-van-oord"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0NXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd2b9fa13c5ea0f693ded96f77a9116cd7927a01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/heleen-dura-van-oord",
+  "slug": "heleen-dura-van-oord",
+  "scraped_at": "2026-02-24T11:14:15.295493"
+}

@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "London",
+    "name": "Jamie Bristow",
+    "website": "https://frontline.vc/people/jamie-bristow/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Frontline Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/frontline-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWRsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--081847da6e166deebed4729ef50ad178e75aef3f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jamie-bristow",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jamie-bristow",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jamie-bristow-1",
+    "crunchbase": "https://www.crunchbase.com/person/jamie-bristow",
+    "linkedin": "https://www.linkedin.com/in/jamesbristow/",
+    "twitter": "https://www.twitter.com/_jamiebristow",
+    "website": "https://www.frontline.vc/people/jamie-bristow/"
+  },
+  "scraped_at": "2026-02-27T00:46:21.143220"
+}

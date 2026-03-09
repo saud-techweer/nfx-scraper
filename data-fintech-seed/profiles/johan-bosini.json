@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Cape Town, South Africa",
+    "name": "Johan Bosini",
+    "website": "https://quona.com/team/johan-bosini/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Quona Capital",
+      "firmUrl": "https://signal.nfx.com/firms/quona-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$203M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Monica Brand Engel (Quona Capital)"
+      ],
+      "company": "AllLife",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Venture Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFhhQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a83bdd82c718b36904a9413f9b8f1ca75de73388/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/johan-bosini",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "johan-bosini",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/johan-bosini",
+    "linkedin": "https://www.linkedin.com/in/johanbosini/",
+    "twitter": "https://www.twitter.com/JohanBosini",
+    "website": "https://www.quona.com/team/johan-bosini/"
+  },
+  "scraped_at": "2026-03-03T21:04:04.489068"
+}

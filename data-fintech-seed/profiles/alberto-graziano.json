@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Piedmont",
+    "name": "Alberto Graziano",
+    "website": "https://www.nevasgr.com/content/neva/it.html"
+  },
+  "experience": [
+    {
+      "company": "NEVA SGR",
+      "dates": "2021 - 2022",
+      "position": "Venture Capital Analyst"
+    },
+    {
+      "company": "QUADRIVIO GROUP",
+      "dates": "2021 - 2021",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Neuberger Berman",
+      "dates": "2020 - 2021",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "QUADRIVIO GROUP",
+      "dates": "2023 - Present",
+      "position": "Private Equity Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NEVA SGR",
+      "firmUrl": "https://signal.nfx.com/firms/neva-sgr",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2ZJQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a933fd9681f9431621664ed0f197646f6670dbb9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alberto-graziano",
+  "sectorRankings": [
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alberto-graziano",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/alberto-graziano-8892a7203/",
+    "website": "https://www.nevasgr.com/content/neva/it.html"
+  },
+  "scraped_at": "2026-02-27T23:51:08.655136"
+}

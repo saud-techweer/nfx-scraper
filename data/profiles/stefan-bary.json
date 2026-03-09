@@ -1,0 +1,135 @@
+{
+  "basicInfo": {
+    "name": "Stefan Bary",
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "website": "https://peak.capital/team/",
+    "location": "Amsterdam, Netherlands"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peak",
+      "firmUrl": "https://signal.nfx.com/firms/peak",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$260K - $4.2M",
+    "sweetSpot": "$2.2M",
+    "investmentsOnRecord": 18
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Circula",
+      "stage": "Series A",
+      "date": "May 2025",
+      "roundSize": "$17M",
+      "totalRaised": "$30M",
+      "coInvestors": [
+        "Madeline Lawrence (Peak)"
+      ]
+    },
+    {
+      "company": "Bling.de",
+      "stage": "Series A",
+      "date": "Jun 2024",
+      "roundSize": "$12M",
+      "totalRaised": "$16M",
+      "coInvestors": [
+        "Madeline Lawrence (Peak)"
+      ]
+    },
+    {
+      "company": "Neople",
+      "stage": "Pre Seed",
+      "date": "Jun 2023",
+      "roundSize": "$2M",
+      "totalRaised": "$3.6M",
+      "coInvestors": [
+        "Herman Kienhuis (Curiosity VC)"
+      ]
+    },
+    {
+      "company": "Whale",
+      "stage": "Seed",
+      "date": "Apr 2023",
+      "roundSize": "$3M",
+      "totalRaised": "$3M",
+      "coInvestors": []
+    },
+    {
+      "company": "CarbonCloud",
+      "stage": "Series A",
+      "date": "Feb 2023",
+      "roundSize": "$8M",
+      "totalRaised": "$8M",
+      "coInvestors": []
+    },
+    {
+      "company": "Creative Fabrica",
+      "stage": "Series B",
+      "date": "Jan 2023",
+      "roundSize": "$61M",
+      "totalRaised": "$69M",
+      "coInvestors": [
+        "Johan van Mil (Peak)"
+      ]
+    },
+    {
+      "company": "Stack",
+      "stage": "Series A",
+      "date": "Jul 2022",
+      "roundSize": "$3M",
+      "totalRaised": "$3.9M",
+      "coInvestors": []
+    },
+    {
+      "company": "Channable",
+      "stage": "Series B",
+      "date": "Jan 2022",
+      "roundSize": "$62M",
+      "totalRaised": "$62M€55M",
+      "coInvestors": [
+        "Johan van Mil (Peak)"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.peak.capital/team/",
+    "linkedin": "https://www.linkedin.com/in/stefanbary/",
+    "angellist": "https://www.angel.co/u/stefan-bary",
+    "crunchbase": "https://www.crunchbase.com/person/stefan-bary"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkNVQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8fdc85860883573c03817934b2f509f756b561b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stefan-bary",
+  "slug": "stefan-bary",
+  "scraped_at": "2026-02-24T13:13:04.394656"
+}

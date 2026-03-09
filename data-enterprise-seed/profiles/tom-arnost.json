@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Tom Arnost",
+    "website": "https://www.verizonventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Verizon Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/verizon-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTRRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--434d2779e01ea3fb88e698b37dfa711adb488502/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tom-arnost",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tom-arnost",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tomarnost/",
+    "website": "https://www.verizonventures.com/"
+  },
+  "scraped_at": "2026-02-28T05:44:27.394316"
+}

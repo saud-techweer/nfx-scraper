@@ -1,0 +1,92 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Filipe Lobão de Almeida",
+    "website": "https://www.spventures.com.br/"
+  },
+  "experience": [
+    {
+      "company": "KondZilla",
+      "dates": "Present",
+      "position": "Chief Financial Officer"
+    },
+    {
+      "company": "SP Ventures",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "We Capital",
+      "dates": "Present",
+      "position": "Investment Professional"
+    },
+    {
+      "company": "Aqua Capital",
+      "dates": "Present",
+      "position": "Private Equity Professional"
+    },
+    {
+      "company": "ODATA",
+      "dates": "Present",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "Credit Suisse",
+      "dates": "Present",
+      "position": "Equity Research Intern"
+    },
+    {
+      "company": "Omega Energia",
+      "dates": "Present",
+      "position": "Intern in the Solution team"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SP Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sp-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $6.0M",
+    "sweetSpot": "$3.1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekpHQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4433aa1574b41c255ae5c2bf941d7bab40010a4b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/filipe-lobao-de-almeida",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "filipe-lobao-de-almeida",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/filipe-almeida-917882110/",
+    "website": "https://www.spventures.com.br/"
+  },
+  "scraped_at": "2026-03-05T19:30:29.571107"
+}

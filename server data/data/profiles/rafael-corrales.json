@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Rafael Corrales",
+    "website": "https://www.linkedin.com/pulse/introducing-background-capital-rafael-corrales/"
+  },
+  "experience": [
+    {
+      "company": "CRV",
+      "dates": "2013 - 2018",
+      "position": "General Partner"
+    },
+    {
+      "company": "LearnBoost",
+      "dates": "2010 - 2013",
+      "position": "CEO / Co-founder (acquired by Wordpress)"
+    },
+    {
+      "company": "Xerox",
+      "dates": "2007 - 2008",
+      "position": "Mergers & Acquisitions"
+    },
+    {
+      "company": "Background Capital",
+      "dates": "2018 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Background Capital",
+      "firmUrl": "https://signal.nfx.com/firms/background-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$9.2M",
+    "investmentRange": "$100K - $250K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDhIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f945fe0965f69d8ba9f4fddd451e6e1f025f466a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rafael-corrales",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "rafael-corrales",
+  "socials": {
+    "angellist": "https://www.angel.co/rafael-corrales",
+    "crunchbase": "https://www.crunchbase.com/person/rafael-corrales",
+    "linkedin": "https://www.linkedin.com/in/rafaelcorrales/"
+  },
+  "scraped_at": "2026-02-11T10:20:14.805205"
+}

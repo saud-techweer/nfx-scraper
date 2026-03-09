@@ -1,0 +1,164 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Marketing Operator",
+      "VC",
+      "Strategy Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Vijay Chattha",
+    "signalScore": 615,
+    "website": "https://vsc.com/"
+  },
+  "experience": [
+    {
+      "company": "VSC Consulting",
+      "dates": "Present",
+      "position": "CEO"
+    },
+    {
+      "company": "Smithsonian Institution",
+      "dates": "Present",
+      "position": "Coordinator, Smithsonian Sikh Heritage Project"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VSC Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/vsc-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$275K - $500K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Malte Barth (BITKRAFT Ventures)",
+        "Matias Serebrinsky (PsyMed Ventures)",
+        "Paul Palmieri (Grit Capital Partners)",
+        "Ted Moskovitz"
+      ],
+      "company": "TRIPP",
+      "date": "Jun 2021",
+      "roundSize": "$25K",
+      "stage": "SEED",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Steph Curry (Penny Jar Capital)",
+        "Jared Middleman (Dragoneer Investment Group)",
+        "Serena Williams (Serena Ventures)",
+        "Steven Lurie (Team Builder Ventures)",
+        "Larry Chu (Eunoia Capital Partners)",
+        "Sue Bird",
+        "Gautam Shah",
+        "Tim Kendall",
+        "Paul George"
+      ],
+      "company": "Tonal",
+      "date": "Jan 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$45000B"
+    },
+    {
+      "coInvestors": [
+        "Micah Rutiz (Ehukai Investments)"
+      ],
+      "company": "Junglee Games",
+      "date": "Jan 2014",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzB4QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b3dcc409525fa0334a21591775a9f85fd419aa1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vijay-chattha",
+  "sectorRankings": [
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    }
+  ],
+  "slug": "vijay-chattha",
+  "socials": {
+    "angellist": "https://www.angel.co/p/vijay-chattha",
+    "crunchbase": "https://www.crunchbase.com/person/vijay-chattha",
+    "linkedin": "https://www.linkedin.com/in/vijaychattha/",
+    "twitter": "https://www.twitter.com/vijaychattha",
+    "website": "https://www.vsc.com/"
+  },
+  "scraped_at": "2026-02-11T10:39:10.746519"
+}

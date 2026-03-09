@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Scout"
+    ],
+    "location": "Ann Arbor, Michigan",
+    "name": "Moses Lee",
+    "website": "https://grandvcp.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Grand Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/grand-ventures",
+      "position": "Scout"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFVXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e182de7dc0d60d6021cc12f358e6477ebed4525/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/moses-lee",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "moses-lee",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/mosesklee/",
+    "twitter": "https://www.twitter.com/mosesklee",
+    "website": "https://www.grandvcp.com/"
+  },
+  "scraped_at": "2026-02-27T03:02:06.297290"
+}

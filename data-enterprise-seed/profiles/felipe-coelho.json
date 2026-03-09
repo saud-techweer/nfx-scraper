@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Felipe Coelho",
+    "website": "https://www.abseed.com.br/time"
+  },
+  "experience": [
+    {
+      "company": "ABSeed Ventures",
+      "dates": "Present",
+      "position": "Partner - GTM Sales"
+    },
+    {
+      "company": "Vendas Fora da Caixa",
+      "dates": "Present",
+      "position": "Professor"
+    },
+    {
+      "company": "RD Station",
+      "dates": "Present",
+      "position": "Sales - SaaS"
+    },
+    {
+      "company": "TBIT - Tecnologia e Sistemas",
+      "dates": "Present",
+      "position": "Sales"
+    },
+    {
+      "company": "UFLA Junior Consultoria Administrativa",
+      "dates": "Present",
+      "position": "Diretor de Projetos"
+    },
+    {
+      "company": "FEJEMG",
+      "dates": "Present",
+      "position": "Gerente de Parcerias"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "A.B.Seed Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/a-b-seed-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$150K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzlIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9a6d204f8afc78006d2a89d02cb280ba749f3dd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/felipe-coelho",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "felipe-coelho",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/coelhofarc/",
+    "website": "https://www.abseed.com.br/time"
+  },
+  "scraped_at": "2026-02-26T23:54:11.238350"
+}

@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "CEO",
+      "Angel"
+    ],
+    "location": "Virginia",
+    "name": "Rami Essaid",
+    "signalScore": 283,
+    "website": "https://pioneerfund.vc/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pioneer Fund",
+      "firmUrl": "https://signal.nfx.com/firms/pioneer-fund",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$200K - $300K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXIvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b1a2b7bdace5ffa809b692a292f1f5091011610d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rami-essaid",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "rami-essaid",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rami-essaid",
+    "crunchbase": "https://www.crunchbase.com/person/rami-essaid",
+    "linkedin": "https://www.linkedin.com/in/ramiessaid/",
+    "twitter": "https://www.twitter.com/ramiessaid",
+    "website": "https://www.pioneerfund.vc/team"
+  },
+  "scraped_at": "2026-02-27T03:50:29.951722"
+}

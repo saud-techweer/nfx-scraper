@@ -1,0 +1,161 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Blake Patton",
+    "signalScore": 290,
+    "website": "https://techsquareventures.com/"
+  },
+  "experience": [
+    {
+      "company": "North Carolina State University",
+      "dates": "Present",
+      "position": "Chancellor's Innovation Fund Selection Committee"
+    },
+    {
+      "company": "Georgia Research Alliance",
+      "dates": "Present",
+      "position": "Industry Fellow"
+    },
+    {
+      "company": "Tech Square Ventures",
+      "dates": "Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Pointivo",
+      "dates": "Present",
+      "position": "Chairman"
+    },
+    {
+      "company": "Cypress.io",
+      "dates": "Present",
+      "position": "Chairman"
+    },
+    {
+      "company": "Georgia Institute of Technology",
+      "dates": "Present",
+      "position": "Scheller College of Business"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tech Square Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/tech-square-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $4.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dean Hatton (Las Olas Venture Capital)"
+      ],
+      "company": "Devcon Detect",
+      "date": "Dec 2018",
+      "roundSize": "$4.5M",
+      "stage": "Seed",
+      "totalRaised": "$4.5M"
+    },
+    {
+      "coInvestors": [
+        "Dean Hatton (Las Olas Venture Capital)"
+      ],
+      "company": "Cypress.io",
+      "date": "Jun 2018",
+      "roundSize": "$4000B",
+      "stage": "Seed",
+      "totalRaised": "$4000B"
+    },
+    {
+      "coInvestors": [
+        "Thiago Olson (EVE Atlas)"
+      ],
+      "company": "Freightwaves",
+      "date": "Nov 2017",
+      "roundSize": "$3.4M",
+      "stage": "Seed",
+      "totalRaised": "$24M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBldz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8c1f299c6f9f5c4d98bf3b99fb200bc71a53c856/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/blake-patton",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "blake-patton",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/blake-patton",
+    "linkedin": "https://www.linkedin.com/in/blakepatton/",
+    "twitter": "https://www.twitter.com/BlakePatton",
+    "website": "https://www.techsquareventures.com/"
+  },
+  "scraped_at": "2026-02-26T08:48:41.856831"
+}

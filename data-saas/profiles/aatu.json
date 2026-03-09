@@ -1,0 +1,273 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Operator",
+      "Investor",
+      "Strategy Operator"
+    ],
+    "location": "London",
+    "name": "Aatish Patel",
+    "signalScore": 52,
+    "website": "https://aatishjpatel.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "GoAhead Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/goahead-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$48.5M",
+    "investmentRange": "$500K - $1M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$700K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Trevor Paladino (Lakeside Capital)",
+        "Bernard Moon (SparkLabs Group)",
+        "Brennda Reis (Friedom Partners)",
+        "Jack Leeney (7GC & Co)",
+        "Adeel Hussain",
+        "Ishani Patel",
+        "Jason Haider",
+        "Siddharth Singhal",
+        "Vikas Sabnani"
+      ],
+      "company": "Anthropic",
+      "date": "May 2023",
+      "roundSize": "$450M",
+      "stage": "Series C",
+      "totalRaised": "$2.7B"
+    },
+    {
+      "coInvestors": [],
+      "company": "Freetrade",
+      "date": "Nov 2021",
+      "roundSize": "£8.2M",
+      "stage": "Series B",
+      "totalRaised": "£8.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paysend",
+      "date": "Jul 2019",
+      "roundSize": "$13M",
+      "stage": "Series B",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Moneybox",
+      "date": "Jul 2018",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Kevin Durant (Thirty Five Ventures)"
+      ],
+      "company": "Acorns",
+      "date": "Jul 2017",
+      "roundSize": "$35M",
+      "stage": "Series D",
+      "totalRaised": "$70M"
+    },
+    {
+      "coInvestors": [
+        "Jamie Shortill (Strand Venture Partners)",
+        "Matthew White",
+        "Anita Carmichael Roberts"
+      ],
+      "company": "MISO Robotics",
+      "date": "Feb 2017",
+      "roundSize": null,
+      "stage": "Angel Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Trevor Paladino (Lakeside Capital)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Ana Levine (E1 Ventures)",
+        "Joseph Metheny (GoAhead Ventures)",
+        "Somesh Surapureddi (Angel Operator Partners (aop))",
+        "Omar Haque (Family Office)",
+        "Michael Mealling (Starbridge Venture Capital)",
+        "Michael Chase (Outliers Fund)",
+        "Junaid Mian (1435 Capital Management)",
+        "Colton Cray (Litquidity Ventures)",
+        "Maryanna Saenko (Future Ventures)",
+        "Judd Morgenstern (Partners Resolute)",
+        "Adeel Hussain",
+        "Mattia Astori",
+        "Priyank Chandra",
+        "Ishani Patel",
+        "Vikas Sabnani",
+        "Fanny Surjana",
+        "Louis Beryl",
+        "Kareem El-Sisi"
+      ],
+      "company": "SpaceX",
+      "date": "Jan 2015",
+      "roundSize": "$1B",
+      "stage": "Series G",
+      "totalRaised": "$2.5B"
+    },
+    {
+      "coInvestors": [],
+      "company": "Chip",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbW9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0946ba8f975209377d44785578f98608d629d233/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/aatu",
+  "sectorRankings": [
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    }
+  ],
+  "slug": "aatu",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/aatishjpatel/",
+    "twitter": "https://www.twitter.com/investor_mint",
+    "website": "https://www.aatishjpatel.com/"
+  },
+  "scraped_at": "2026-02-26T06:31:39.244090"
+}

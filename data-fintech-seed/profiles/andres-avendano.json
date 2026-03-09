@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Andres Avendano",
+    "website": "https://www.chingona.ventures/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Chingona Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/chingona-ventures",
+      "position": "Associate"
+    },
+    "fundSize": "$52M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$625K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBME52QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3876aa3594aedd5b8abf2b007627422f1b416a0b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andres-avendano",
+  "sectorRankings": [
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andres-avendano",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/andresavendano92/",
+    "twitter": "https://www.twitter.com/andresav92",
+    "website": "https://www.chingona.ventures/team"
+  },
+  "scraped_at": "2026-02-28T00:13:51.082379"
+}

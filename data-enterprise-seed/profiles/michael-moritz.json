@@ -1,0 +1,115 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Michael Moritz"
+  },
+  "experience": [
+    {
+      "company": "Instacart",
+      "dates": "2014 - 2014",
+      "position": "Shopper and Delivery Person"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$50K - $200.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Cindy Padnos (Illuminate Ventures)",
+        "Jai Choi (Tekton Ventures)",
+        "Benjamin Sun (Primary Venture Partners)"
+      ],
+      "company": "Coupang",
+      "date": "May 2014",
+      "roundSize": "$100M",
+      "stage": "Venture Round",
+      "totalRaised": "$100M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c65e20a611fdfae93d1b9756eb7bebf5e4b2324b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-moritz",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-moritz",
+  "socials": {
+    "angellist": "https://www.angel.co/michael-moritz-1",
+    "crunchbase": "https://www.crunchbase.com/person/michael-moritz",
+    "linkedin": "https://www.linkedin.com/in/michaelmoritz/",
+    "twitter": "https://www.twitter.com/moritzkbe"
+  },
+  "scraped_at": "2026-02-27T23:52:45.653361"
+}

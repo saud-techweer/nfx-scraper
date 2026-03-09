@@ -1,0 +1,35 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "name": "David Friend"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Advisor"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbXZmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b1f120342a1c4219e336a1db5b476f75ce1aea45/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-friend",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    }
+  ],
+  "slug": "david-friend",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-friend",
+    "linkedin": "https://www.linkedin.com/in/davidhfriend/"
+  },
+  "scraped_at": "2026-02-27T21:24:20.172005"
+}

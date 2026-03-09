@@ -1,0 +1,290 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Scout",
+      "Investor",
+      "Operator"
+    ],
+    "location": "Jerusalem, Israel",
+    "name": "Noah Pickholtz",
+    "signalScore": 117
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $1M",
+    "investmentsOnRecord": 17,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Eric Brook (B Capital Group)"
+      ],
+      "company": "Ripple Foods",
+      "date": "Oct 2019",
+      "roundSize": null,
+      "stage": "Series D",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Kfir Kachlon (91 Ventures)",
+        "Kevin O'Hara (Trivian Capital)"
+      ],
+      "company": "BOL Pharma",
+      "date": "Dec 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Memed",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Series D",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Chaim Meir Tessler"
+      ],
+      "company": "Vayavision",
+      "date": "May 2018",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "BrainQ",
+      "date": "Mar 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Doron Gonen (Nec Corporation)"
+      ],
+      "company": "Hailo",
+      "date": "Nov 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Klook",
+      "date": "Oct 2017",
+      "roundSize": null,
+      "stage": "Series C",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "NSLComm",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVNWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5932b0702d8e4d43a18ff6a06e000f0cada256c2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/noah-pickholtz",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-b-investors"
+    },
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Semiconductors (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "noah-pickholtz",
+  "socials": {
+    "angellist": "https://www.angel.co/p/noah-pickholtz",
+    "crunchbase": "https://www.crunchbase.com/person/noah-pickholtz",
+    "linkedin": "https://www.linkedin.com/in/noahpickholtz/"
+  },
+  "scraped_at": "2026-03-03T23:00:14.072037"
+}

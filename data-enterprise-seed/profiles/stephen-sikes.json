@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Stephen Sikes",
+    "website": "https://sociallyfinanced.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Socially Financed",
+      "firmUrl": "https://signal.nfx.com/firms/socially-financed",
+      "position": "Investor"
+    },
+    "investmentRange": "$50K - $150K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0RVQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--05da6dea4cacee04429bc59de802599d015b7dcf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stephen-sikes",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "stephen-sikes",
+  "socials": {
+    "angellist": "https://www.angel.co/p/sikes",
+    "crunchbase": "https://www.crunchbase.com/person/stephen-sikes",
+    "linkedin": "https://www.linkedin.com/in/stephensikes/",
+    "twitter": "https://www.twitter.com/stephensikes_",
+    "website": "https://www.sociallyfinanced.com/"
+  },
+  "scraped_at": "2026-02-28T05:14:32.520335"
+}

@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Erik Buchanan",
+    "website": "https://c3.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "C3 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/c3-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFZKQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d92cf95d087b03a1c1f4edce3686000ec3e0d65b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/erik-buchanan",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "erik-buchanan",
+  "socials": {
+    "angellist": "https://www.angel.co/u/erikbuchanan",
+    "crunchbase": "https://www.crunchbase.com/person/erik-buchanan",
+    "linkedin": "https://www.linkedin.com/in/erikbuchanan/",
+    "twitter": "https://www.twitter.com/erikbuchanan",
+    "website": "https://www.c3.ventures/"
+  },
+  "scraped_at": "2026-02-26T23:45:39.793054"
+}

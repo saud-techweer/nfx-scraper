@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Tampa, Florida",
+    "name": "Steven MacDonald",
+    "positionAndFirm": "Partner, Board Member, Investment Committee at Florida Funders",
+    "website": "https://www.floridafunders.com/team/"
+  },
+  "experience": [
+    {
+      "company": "MacDonald Ventures",
+      "dates": "2020 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Florida Funders",
+      "firmUrl": "https://signal.nfx.com/firms/florida-funders",
+      "position": "Partner"
+    },
+    "fundSize": "$60M",
+    "investmentRange": "$15K - $20K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$18K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Zach Coelius (Coelius Capital)",
+        "Hansell Shook",
+        "Jules Walker",
+        "Kamiar Kordari"
+      ],
+      "company": "Finexio",
+      "date": "Jan 2018",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWNhQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b88f8606fe0cf0aaa3e742534a2c7e9732d262e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/steven-macdonald",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "steven-macdonald",
+  "socials": {
+    "angellist": "https://www.angel.co/p/steve-goingalt-com",
+    "crunchbase": "https://www.crunchbase.com/person/steven-macdonald",
+    "linkedin": "https://www.linkedin.com/in/steven-macdonald-mv/",
+    "website": "https://www.floridafunders.com/team/"
+  },
+  "scraped_at": "2026-02-27T04:54:32.823976"
+}

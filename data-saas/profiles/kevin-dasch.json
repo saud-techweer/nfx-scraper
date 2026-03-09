@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Austin, Texas",
+    "name": "Kevin Dasch",
+    "website": "https://socialstarts.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Social Starts",
+      "firmUrl": "https://signal.nfx.com/firms/social-starts",
+      "position": "Partner"
+    },
+    "investmentRange": "$50K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Aydin Senkut (Felicis Ventures)",
+        "Fabrice Grinda (FJ Labs)",
+        "Auren Hoffman (Flex Capital)",
+        "Julia Popowitz (Broadway Angels)",
+        "Yervand Sarkisyan (Granatus Ventures)",
+        "Charlie Songhurst",
+        "Russ Fradin"
+      ],
+      "company": "CodeSignal",
+      "date": "Apr 2015",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFRLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ac1b98755b6b82035f317f9c7cbd67a508265a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-dasch",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kevin-dasch",
+  "socials": {
+    "angellist": "https://www.angel.co/u/kevin-dasch-1",
+    "crunchbase": "https://www.crunchbase.com/person/kevin-dasch",
+    "linkedin": "https://www.linkedin.com/in/kmdasch/",
+    "twitter": "https://www.twitter.com/kmdasch?lang=en",
+    "website": "https://www.socialstarts.com/"
+  },
+  "scraped_at": "2026-02-27T01:47:21.132192"
+}

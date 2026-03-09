@@ -1,0 +1,74 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Paris, France",
+    "name": "Jerome Bestel",
+    "website": "https://www.frst.vc/"
+  },
+  "experience": [
+    {
+      "company": "50 Partners",
+      "dates": "2023 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Headline",
+      "dates": "2022 - Present",
+      "position": "Investor (L.P)"
+    },
+    {
+      "company": "Alven",
+      "dates": "2021 - Present",
+      "position": "Investor (L.P)"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Frst",
+      "firmUrl": "https://signal.nfx.com/firms/frst",
+      "position": "Investor"
+    },
+    "fundSize": "€100M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0VhQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dd579862f7c534d7a5262412b3d0bcb87fe736e8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jerome-bestel",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jerome-bestel",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jbestel/",
+    "twitter": "https://www.twitter.com/bestelgram",
+    "website": "https://www.wellfound.com/u/jerome-bestel"
+  },
+  "scraped_at": "2026-03-03T20:57:50.551812"
+}

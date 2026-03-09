@@ -1,0 +1,223 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Mexico City, Mexico",
+    "name": "Cristobal Perdomo",
+    "signalScore": 216,
+    "website": "https://www.jaguarvc.com/"
+  },
+  "experience": [
+    {
+      "company": "Navent",
+      "dates": "2012 - 2015",
+      "position": "VP Latin America"
+    },
+    {
+      "company": "Groupalia",
+      "dates": "2010 - 2012",
+      "position": "VP Latin America"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wollef Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/wollef-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$250K - $3.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$1.6M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sacha Spitz (Newtopia VC)",
+        "Eric Pérez-Grovas (Wollef Ventures)",
+        "Allan Boruchowicz (Carao Ventures)",
+        "Felipe Damonte (Newtopia VC)"
+      ],
+      "company": "aviva",
+      "date": "Dec 2022",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Brian Ma (Iterative)",
+        "Rafa de la Guia (Quona Capital)",
+        "Javier Diaz Evans",
+        "Jonathan Wasserstrum"
+      ],
+      "company": "Castia",
+      "date": "Jun 2021",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Griffin Schroeder (Tiger Global Management)",
+        "Mike Packer (QED Investors)",
+        "Justin Mateen",
+        "Cornelius Boersch",
+        "Manolo Atala"
+      ],
+      "company": "Kavak",
+      "date": "Oct 2020",
+      "roundSize": "$750K",
+      "stage": "Series B",
+      "totalRaised": "$1.1B"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ponta Media",
+      "date": "Aug 2016",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Nubimetrics",
+      "date": "Jan 2015",
+      "roundSize": "$400K",
+      "stage": "Seed",
+      "totalRaised": "$400K"
+    },
+    {
+      "coInvestors": [
+        "Ariel Arrieta (NXTP Labs)"
+      ],
+      "company": "Zolvers",
+      "date": "Dec 2014",
+      "roundSize": "$500K",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWVEQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ddbab6e0f3568fb5deeb44a723db60c22cee275/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cristobal-perdomo",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-a-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "cristobal-perdomo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/cristobal-perdomo",
+    "linkedin": "https://www.linkedin.com/in/cristobalperdomo/",
+    "twitter": "https://www.twitter.com/cristobaperdomo",
+    "website": "https://www.jaguarvc.com/"
+  },
+  "scraped_at": "2026-02-12T08:29:18.182194"
+}

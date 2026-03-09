@@ -1,0 +1,254 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Maria Cirino",
+    "website": "https://www.406ventures.com/team/maria_cirino"
+  },
+  "experience": [
+    {
+      "company": "Digitalsmiths",
+      "dates": "2008 - 2014",
+      "position": "Director"
+    },
+    {
+      "company": "Memento",
+      "dates": "2006 - 2012",
+      "position": "Director"
+    },
+    {
+      "company": "Onapsis Inc.",
+      "dates": "2014 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "AuthAir, Inc.",
+      "dates": "2013 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Threat Stack, Inc",
+      "dates": "2013 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Attend.com",
+      "dates": "2013 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Urban Compass",
+      "dates": "2012 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Pwnie Express",
+      "dates": "2012 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Vaultive",
+      "dates": "2011 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "MineralTree, Inc.",
+      "dates": "2011 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Kaltura",
+      "dates": "2008 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Carbon Black, Inc.",
+      "dates": "2005 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Software City",
+      "dates": "Present",
+      "position": "VP and General Management"
+    },
+    {
+      "company": "Lotus",
+      "dates": "Present",
+      "position": "Senior Manager Channel Marketing"
+    },
+    {
+      "company": "Shiva",
+      "dates": "Present",
+      "position": "VP Sales, Americas"
+    },
+    {
+      "company": "i-Cube",
+      "dates": "Present",
+      "position": "SVP Sales and Marketing"
+    },
+    {
+      "company": "Guardent",
+      "dates": "Present",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "VeriSign",
+      "dates": "Present",
+      "position": "SVP Security Services"
+    },
+    {
+      "company": "Adtuitive",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "ThreatGRID, part of Cisco",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "Veracode Inc.",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": ".406 Ventures",
+      "dates": "Present",
+      "position": "Founding Managing Partner"
+    },
+    {
+      "company": "Simon Data",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "Edgewise Networks",
+      "dates": "Present",
+      "position": "Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": ".406 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/406-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$1.4B",
+    "investmentRange": "$2.0M - $5.0M",
+    "investmentsOnRecord": 21,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sanjay Aggarwal (F-Prime Capital Partners)",
+        "Dave Barrett (Polaris Partners)",
+        "Jesse Hertzberg"
+      ],
+      "company": "Simon Data",
+      "date": "Jul 2018",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Jisto Inc.",
+      "date": "Feb 2016",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Onapsis Inc.",
+      "date": "Sep 2015",
+      "roundSize": "$17M",
+      "stage": "Series B",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Threat Stack",
+      "date": "Aug 2015",
+      "roundSize": "$7.9M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Sanjay Aggarwal (F-Prime Capital Partners)"
+      ],
+      "company": "MineralTree",
+      "date": "Feb 2015",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Attend, Inc.",
+      "date": "Feb 2015",
+      "roundSize": "$2.6M",
+      "stage": "Series A",
+      "totalRaised": "$6.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Vaultive",
+      "date": "Jan 2015",
+      "roundSize": "$8M",
+      "stage": "Series B",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Rick Grinnell (Glasswing Ventures)"
+      ],
+      "company": "Pwnie Express",
+      "date": "Jul 2013",
+      "roundSize": "$5.1M",
+      "stage": "Series A",
+      "totalRaised": "$5.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdE1DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0d4eb3522b1efcf0aa5dab1f990a8261b295ef47/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/maria-cirino",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "maria-cirino",
+  "socials": {
+    "angellist": "https://www.angel.co/maria-cirino",
+    "crunchbase": "https://www.crunchbase.com/person/maria-cirino",
+    "linkedin": "https://www.linkedin.com/pub/maria-cirino/3/642/48a/",
+    "website": "https://www.406ventures.com/team/maria_cirino"
+  },
+  "scraped_at": "2026-02-27T02:23:58.062911"
+}

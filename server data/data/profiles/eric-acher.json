@@ -1,0 +1,162 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Eric Acher",
+    "website": "https://monashees.com.br/en/equipe/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "monashees",
+      "firmUrl": "https://signal.nfx.com/firms/monashees",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 19,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "IORQ",
+      "date": "Aug 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Justin David Blau",
+        "Steve Aoki"
+      ],
+      "company": "Music AI",
+      "date": "Jan 2025",
+      "roundSize": "$40M",
+      "stage": "Series A",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Kiko Lumack (Valutia)",
+        "Sydnie Keddington (Kickstart Fund)"
+      ],
+      "company": "Moises",
+      "date": "Jun 2022",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Alex Cook (Tiger Global Management)",
+        "Guilherme Bonifacio",
+        "Gregory Waldorf"
+      ],
+      "company": "Nomad",
+      "date": "Jul 2021",
+      "roundSize": "$19M",
+      "stage": "Series A",
+      "totalRaised": "$88M"
+    },
+    {
+      "coInvestors": [
+        "Marcelo Lima (monashees)",
+        "José Galló",
+        "Renato Freitas"
+      ],
+      "company": "Gal",
+      "date": "Jun 2021",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Derek Lundgren Bittar (Indicator Capital)",
+        "Thomas Bittar (Indicator Capital)",
+        "Florian Hagenbuch (Canary Ventures)",
+        "Leonardo Teixeira (Iporanga Ventures)",
+        "Marcelo Sampaio"
+      ],
+      "company": "Back4app",
+      "date": "May 2018",
+      "roundSize": "$730K",
+      "stage": "Seed",
+      "totalRaised": "$1.9M"
+    },
+    {
+      "coInvestors": [
+        "Scott Shleifer (Tiger Global Management)",
+        "Carlo Dapuzzo (monashees)",
+        "Adeyemi Ajao (Base10 (Base10 Partners) )",
+        "David Thevenon (Balderton Capital)",
+        "Gregory Waldorf"
+      ],
+      "company": "99",
+      "date": "Jan 2017",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$240MR$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "EduK",
+      "date": "May 2015",
+      "roundSize": "$10M",
+      "stage": "Series B",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWhHQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aaaaaa6351d95d964746c24ba577115013a6cc5a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eric-acher",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "eric-acher",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/eric-acher",
+    "linkedin": "https://www.linkedin.com/in/eric-a-21134b/",
+    "twitter": "https://www.twitter.com/eacher",
+    "website": "https://www.monashees.com.br/en/equipe/"
+  },
+  "scraped_at": "2026-02-11T11:33:05.557557"
+}

@@ -1,0 +1,153 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Ryan Floyd",
+    "signalScore": 543,
+    "website": "https://stormventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Lumentum",
+      "dates": "1998 - 2000",
+      "position": "Director Business Developement - E-TEK / JDSU"
+    },
+    {
+      "company": "Storm Ventures",
+      "dates": "2000 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Summit Partners",
+      "dates": "Present",
+      "position": "Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Storm Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/storm-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$130.4M",
+    "investmentRange": "$500K - $7.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzRHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--be2d02e925f9287b69d9c543d1906e9161037d1f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ryan-floyd",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ryan-floyd",
+  "socials": {
+    "angellist": "https://www.angel.co/ryanfloyd",
+    "crunchbase": "https://www.crunchbase.com/person/ryan-floyd",
+    "linkedin": "https://www.linkedin.com/in/ryanfloyd1/",
+    "twitter": "https://www.twitter.com/RyanFloyd",
+    "website": "https://www.stormventures.com/"
+  },
+  "scraped_at": "2026-02-27T04:14:31.238602"
+}

@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Esther Tricoche",
+    "website": "https://kaporcapital.com/who-we-are/esther-tricoche/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kapor Capital",
+      "firmUrl": "https://signal.nfx.com/firms/kapor-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$125M",
+    "investmentRange": "$100K - $200K",
+    "sweetSpot": "$175K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2JoQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--35f227860f1b194ef165f0c2ce2372e8d2864e39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/esther-tricoche",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "esther-tricoche",
+  "socials": {
+    "angellist": "https://www.angel.co/u/esther-tricoche",
+    "crunchbase": "https://www.crunchbase.com/person/esther-tricoche",
+    "linkedin": "https://www.linkedin.com/in/esthertricoche/",
+    "twitter": "https://www.twitter.com/EstherTricoche",
+    "website": "https://www.kaporcapital.com/who-we-are/esther-tricoche/"
+  },
+  "scraped_at": "2026-03-05T19:24:49.341893"
+}

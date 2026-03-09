@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Ireland",
+    "name": "Alan Merriman",
+    "website": "https://www.elkstonepartners.com/team#VentureTeam"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Elkstone",
+      "firmUrl": "https://signal.nfx.com/firms/elkstone",
+      "position": "Investor"
+    },
+    "fundSize": "€100m",
+    "investmentRange": "$1M - $3.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlFhQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6332ab8d927ebe290763bf8603a7de6f86640a49/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alan-merriman",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alan-merriman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alan-merriman",
+    "linkedin": "https://www.linkedin.com/in/alan-merriman-3a7b643a/",
+    "website": "https://www.elkstonepartners.com/team#VentureTeam"
+  },
+  "scraped_at": "2026-02-27T23:50:15.834464"
+}

@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "VC",
+      "CEO"
+    ],
+    "location": "United States",
+    "name": "Dawid Siekiera",
+    "website": "https://altss.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Altss",
+      "firmUrl": "https://signal.nfx.com/firms/altss",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Comiq AI",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVkyQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee57e1d4ae5b92cf0d47f2b76ae64c52f86cd3f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dawid-siekiera",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Messaging (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Messaging (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    }
+  ],
+  "slug": "dawid-siekiera",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/dsiekiera/",
+    "website": "https://www.altss.com/"
+  },
+  "scraped_at": "2026-02-26T10:19:50.517185"
+}

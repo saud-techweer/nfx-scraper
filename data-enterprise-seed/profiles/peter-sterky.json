@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Peter Sterky"
+  },
+  "experience": [
+    {
+      "company": "Spotify",
+      "dates": "2010 - 2015",
+      "position": "Chief Financial Officer / Chief Operating Officer"
+    },
+    {
+      "company": "Pharmadule",
+      "dates": "2003 - 2010",
+      "position": "Chief Financial Officer"
+    },
+    {
+      "company": "Springboard Capital",
+      "dates": "2001 - 2002",
+      "position": "Investment Manager"
+    },
+    {
+      "company": "TradeDoubler",
+      "dates": "2000 - 2001",
+      "position": "Chief Financial Officer"
+    },
+    {
+      "company": "Industrial Development & Investment",
+      "dates": "1997 - 1999",
+      "position": "Analyst"
+    },
+    {
+      "company": "Sterky Data",
+      "dates": "1988 - 1995",
+      "position": "Software Developer"
+    },
+    {
+      "company": "Röko AB",
+      "dates": "2019 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Trift Capital II Limited",
+      "dates": "2018 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Trift Capital",
+      "dates": "2017 - Present",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "GLD Invest",
+      "dates": "2011 - Present",
+      "position": "Board Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOG9EQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3e3683ac59b94dc1d5293560b3ab3980d5529998/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-sterky",
+  "sectorRankings": [
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "peter-sterky",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/peter-sterky",
+    "linkedin": "https://www.linkedin.com/in/peter-sterky/",
+    "twitter": "https://www.twitter.com/psterky"
+  },
+  "scraped_at": "2026-02-28T00:52:18.075786"
+}

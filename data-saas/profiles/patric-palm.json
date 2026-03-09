@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Sweden",
+    "name": "Patric Palm",
+    "website": "https://behold.vc/"
+  },
+  "experience": [
+    {
+      "company": "node.vc",
+      "dates": "2022 - Present",
+      "position": "Limited Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Behold Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/behold-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVE2QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5beb207fa9c42fc52deaa64e3b1db66de0a37388/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/patric-palm",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "patric-palm",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/patric-palm",
+    "linkedin": "https://www.linkedin.com/in/patricpalm/",
+    "twitter": "https://www.twitter.com/patricpalm",
+    "website": "https://www.behold.vc/"
+  },
+  "scraped_at": "2026-02-27T03:28:41.782250"
+}

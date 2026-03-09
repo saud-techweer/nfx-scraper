@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Alexander Lloyd"
+  },
+  "experience": [
+    {
+      "company": "Accelerator Venture Capital",
+      "dates": "2008 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Accelerator Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/accelerator-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$50K - $500K",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDRKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--89517feed2725bf66f9d1733510fb8e3cea3a48f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexander-lloyd",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alexander-lloyd",
+  "socials": {
+    "angellist": "https://www.angel.co/alex01",
+    "crunchbase": "https://www.crunchbase.com/person/alexander-lloyd",
+    "linkedin": "https://www.linkedin.com/in/alexander01/",
+    "twitter": "https://www.twitter.com/alex01"
+  },
+  "scraped_at": "2026-02-27T20:04:32.207009"
+}

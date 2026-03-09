@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Borja Breña",
+    "signalScore": 20,
+    "website": "https://nautacapital.com/team/borja-brena/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Nauta Capital",
+      "firmUrl": "https://signal.nfx.com/firms/nauta-capital",
+      "position": "Principal"
+    },
+    "fundSize": "€55M",
+    "investmentRange": "$1M - $6.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Thomas Bigagli (Plug & Play Ventures)"
+      ],
+      "company": "Weecover",
+      "date": "Oct 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "QueryLayer",
+      "date": "Aug 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVUrQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe9895dda9ec0d0d2984506d1835bc684f12dd1c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/borja-brena",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    }
+  ],
+  "slug": "borja-brena",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/borja-brena-lajas",
+    "linkedin": "https://www.linkedin.com/in/borjabrena/",
+    "twitter": "https://www.twitter.com/borjabrela",
+    "website": "https://www.nautacapital.com/team/borja-brena/"
+  },
+  "scraped_at": "2026-02-26T08:51:26.961672"
+}

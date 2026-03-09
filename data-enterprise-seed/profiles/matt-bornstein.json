@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Matt Bornstein",
+    "signalScore": 335,
+    "website": "https://a16z.com/author/matt-bornstein/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Andreessen Horowitz",
+      "firmUrl": "https://signal.nfx.com/firms/andreessen-horowitz",
+      "position": "Partner"
+    },
+    "fundSize": "$2.2B",
+    "investmentRange": "$1M - $100.0M",
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3lNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4614f456094c5523239e56c8bf9dfd95a2f785a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matt-bornstein",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "matt-bornstein",
+  "socials": {
+    "angellist": "https://www.angel.co/u/matt-bornstein",
+    "crunchbase": "https://www.crunchbase.com/person/matt-bornstein",
+    "linkedin": "https://www.linkedin.com/in/mattbornstein/",
+    "twitter": "https://www.twitter.com/bornsteinmatt",
+    "website": "https://www.a16z.com/author/matt-bornstein/"
+  },
+  "scraped_at": "2026-02-27T23:41:42.504848"
+}

@@ -1,0 +1,139 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Jake Knapp",
+    "website": "https://jakeknapp.com/"
+  },
+  "experience": [
+    {
+      "company": "GV",
+      "dates": "2012 - 2017",
+      "position": "Design Partner"
+    },
+    {
+      "company": "Google",
+      "dates": "2007 - 2012",
+      "position": "Designer"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2000 - 2007",
+      "position": "Designer"
+    },
+    {
+      "company": "Oakley",
+      "dates": "1999 - 2001",
+      "position": "Designer"
+    },
+    {
+      "company": "Character",
+      "dates": "2021 - Present",
+      "position": "Co-Founder & Startup Advisor"
+    },
+    {
+      "company": "Jake Knapp Inc",
+      "dates": "2017 - Present",
+      "position": "Consultant"
+    },
+    {
+      "company": "IDEO",
+      "dates": "2017 - Present",
+      "position": "Visiting Fellow"
+    },
+    {
+      "company": "Self-Employed",
+      "dates": "2017 - Present",
+      "position": "Writer"
+    },
+    {
+      "company": "none",
+      "dates": "2003 - Present",
+      "position": "Parent"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Character",
+      "firmUrl": "https://signal.nfx.com/firms/character",
+      "position": "Investor"
+    },
+    "investmentRange": "$500K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUt0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--72e6ca1dfc556ef4f4f5d8393d9ed2ee77625978/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jake-knapp",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "jake-knapp",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jakek",
+    "crunchbase": "https://www.crunchbase.com/person/jake-knapp",
+    "linkedin": "https://www.linkedin.com/in/jake-knapp/",
+    "twitter": "https://www.twitter.com/jakek",
+    "website": "https://www.jakeknapp.com/"
+  },
+  "scraped_at": "2026-03-03T20:41:32.167023"
+}

@@ -1,0 +1,197 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Lance Dietz",
+    "positionAndFirm": "Venture investor focused on sports, digital fitness/health, and gaming.",
+    "signalScore": 65,
+    "website": "https://www.kbpartners.com/"
+  },
+  "experience": [
+    {
+      "company": "JP Morgan",
+      "dates": "2015 - 2018",
+      "position": "Investment Banking Associate"
+    },
+    {
+      "company": "US Army",
+      "dates": "2008 - 2013",
+      "position": "Army Engineer Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "KB Partners",
+      "firmUrl": "https://signal.nfx.com/firms/kb-partners",
+      "position": "Principal"
+    },
+    "fundSize": "$40M",
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1.3M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Rupie",
+      "date": "Apr 2020",
+      "roundSize": "$1.4M",
+      "stage": "Seed",
+      "totalRaised": "$1.4M"
+    },
+    {
+      "coInvestors": [
+        "Steve Ahern (KB Partners)",
+        "Keith Bank (KB Partners)"
+      ],
+      "company": "Workforce Athletics",
+      "date": "Jun 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Steve Ahern (KB Partners)",
+        "Keith Bank (KB Partners)",
+        "Steve Schlafman"
+      ],
+      "company": "Hammerhead",
+      "date": "Mar 2019",
+      "roundSize": "$4.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.2M"
+    },
+    {
+      "coInvestors": [
+        "Keith Bank (KB Partners)",
+        "Steve Ahern (KB Partners)"
+      ],
+      "company": "StreamLayer",
+      "date": "Aug 2018",
+      "roundSize": "$800K",
+      "stage": "Seed Round",
+      "totalRaised": "$800K"
+    },
+    {
+      "coInvestors": [
+        "Steve Ahern (KB Partners)"
+      ],
+      "company": "asensei",
+      "date": "Aug 2018",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [
+        "Keith Bank (KB Partners)",
+        "Steve Ahern (KB Partners)"
+      ],
+      "company": "ANGLR",
+      "date": "Jul 2018",
+      "roundSize": "$3.3M",
+      "stage": "Series A",
+      "totalRaised": "$3.3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVBnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--344fc43cecc4bb1280068a2868b603aa85db436c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lance-dietz",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lance-dietz",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/lance-dietz",
+    "linkedin": "https://www.linkedin.com/in/lancedietz/",
+    "website": "https://www.kbpartners.com/"
+  },
+  "scraped_at": "2026-02-27T01:57:32.885935"
+}

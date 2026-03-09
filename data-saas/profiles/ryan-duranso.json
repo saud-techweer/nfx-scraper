@@ -1,0 +1,228 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Founder",
+      "Advisor"
+    ],
+    "location": "Connecticut",
+    "name": "Ryan Duranso",
+    "signalScore": 18
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Bezel",
+      "date": "Jan 2023",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Rohit Jain"
+      ],
+      "company": "Lob",
+      "date": "Feb 2021",
+      "roundSize": "$50M",
+      "stage": "Series C",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mantle",
+      "date": "Feb 2020",
+      "roundSize": "$400K",
+      "stage": "Seed",
+      "totalRaised": "$400K"
+    },
+    {
+      "coInvestors": [
+        "Alejandro Galvez (99 Startups)",
+        "Michael Lombardi"
+      ],
+      "company": "Grin",
+      "date": "Oct 2019",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$33M"
+    },
+    {
+      "coInvestors": [
+        "Vic Koch (Koch Fund)",
+        "Jack Leeney (7GC & Co)"
+      ],
+      "company": "Hims & Hers",
+      "date": "Jan 2019",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$150M"
+    },
+    {
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Brian Bell (Team Ignite Ventures)",
+        "Kyrylo Medvediev (01 Ventures)",
+        "Sung ho Choi",
+        "Evan Lee"
+      ],
+      "company": "Bolt",
+      "date": "Jun 2018",
+      "roundSize": "$22M",
+      "stage": "Series B",
+      "totalRaised": "$79M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ARTA",
+      "date": "Sep 2017",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDRPQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d939a5ab647d9ade161d516104e0159776f9700a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ryan-duranso",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-b-investors"
+    },
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-b-investors"
+    },
+    {
+      "name": "Games (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-a-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    }
+  ],
+  "slug": "ryan-duranso",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ryanduranso/"
+  },
+  "scraped_at": "2026-02-27T04:14:26.626245"
+}

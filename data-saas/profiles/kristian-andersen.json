@@ -1,0 +1,171 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Indianapolis, Indiana",
+    "name": "Kristian Andersen",
+    "signalScore": 168,
+    "website": "https://kristian.vc/"
+  },
+  "experience": [
+    {
+      "company": "High Alpha",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Visible.vc",
+      "dates": "2012 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "The ARK Challenge",
+      "dates": "2012 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "The Iron Yard",
+      "dates": "2012 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Lesson.ly",
+      "dates": "2012 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Octiv",
+      "dates": "2010 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Gravity Ventures LLC",
+      "dates": "2008 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Studio Science",
+      "dates": "2003 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Pathagility",
+      "dates": "Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "High Alpha",
+      "firmUrl": "https://signal.nfx.com/firms/high-alpha",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHZzQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa5e3592dd310069c3d7f2e08fcff427196a5aae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kristian-andersen",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kristian-andersen",
+  "socials": {
+    "angellist": "https://www.angel.co/kristianindy",
+    "crunchbase": "https://www.crunchbase.com/person/kristian-andersen",
+    "linkedin": "https://www.linkedin.com/in/kandersen1/",
+    "twitter": "https://www.twitter.com/KristianIndy",
+    "website": "https://www.kristian.vc/"
+  },
+  "scraped_at": "2026-02-27T01:54:04.756591"
+}

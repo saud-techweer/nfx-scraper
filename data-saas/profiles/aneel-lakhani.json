@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Aneel Lakhani",
+    "positionAndFirm": "Seed investor focused on critical infrastructure software in AI, data, dev, payments, and supply chains",
+    "signalScore": 256,
+    "website": "https://crane.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Crane Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/crane-venture-partners",
+      "position": "Investor"
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Paolo Guida (Blockchain Valley Ventures)"
+      ],
+      "company": "Veratrak",
+      "date": "Feb 2022",
+      "roundSize": "$6.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nuclia",
+      "date": "Dec 2021",
+      "roundSize": "$5.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODlyQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b9cf10c40dd4c976bf9d9433719971ae141f8f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aneel-lakhani",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "aneel-lakhani",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/aneel-lakhani",
+    "linkedin": "https://www.linkedin.com/in/aneel/",
+    "twitter": "https://www.twitter.com/aneel/",
+    "website": "https://www.crane.vc/"
+  },
+  "scraped_at": "2026-02-26T08:18:36.032431"
+}

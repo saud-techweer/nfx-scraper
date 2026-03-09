@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Illinois",
+    "name": "David Zyer",
+    "website": "https://www.ocaventures.com/team/david-zyer/"
+  },
+  "experience": [
+    {
+      "company": "Operation Walk Chicago",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Harmony Community Cares",
+      "dates": "2018 - Present",
+      "position": "Vice President, Board of Directors"
+    },
+    {
+      "company": "OCA Ventures",
+      "dates": "2009 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Window to the World Communications (WTTW/WFMT)",
+      "dates": "2008 - Present",
+      "position": "Trustee"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "OCA Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/oca-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$125M",
+    "investmentRange": "$50K - $4.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2FlQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef753e3dcdf4855a27c8e48fffa0f2658044d0ea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-zyer",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-zyer",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-zyer",
+    "linkedin": "https://www.linkedin.com/in/david-zyer-944678/",
+    "website": "https://www.ocaventures.com/team/david-zyer/"
+  },
+  "scraped_at": "2026-03-03T17:01:22.527752"
+}

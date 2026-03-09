@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Investor",
+      "Founder",
+      "Finance Operator"
+    ],
+    "location": "India",
+    "name": "Samyak Ramteke",
+    "signalScore": 9
+  },
+  "experience": [
+    {
+      "company": "Humming World",
+      "dates": "2023 - 2023",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Maker’s Mark",
+      "dates": "2022 - 2022",
+      "position": "Marketing Apprentice"
+    },
+    {
+      "company": "Intellify",
+      "dates": "2020 - 2020",
+      "position": "Market Research Intern"
+    },
+    {
+      "company": "Neatprompts.com",
+      "dates": "2023 - Present",
+      "position": "Content Marketer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Scout",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMW9BQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ef27f3f6c44c2f7f40159ed793de1def4a8d1a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/samyak-ramteke",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "samyak-ramteke",
+  "socials": {
+    "angellist": "https://www.angel.co/u/samyak-ramteke",
+    "linkedin": "https://www.linkedin.com/in/samyakr/"
+  },
+  "scraped_at": "2026-02-28T01:34:36.010228"
+}

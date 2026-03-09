@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Tim Lee"
+  },
+  "experience": [
+    {
+      "company": "Sequoia Capital",
+      "dates": "2009 - 2015",
+      "position": "Partner"
+    },
+    {
+      "company": "Google UK",
+      "dates": "2006 - 2008",
+      "position": "Product Marketing Manager"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2004 - 2006",
+      "position": "Management Consultant"
+    },
+    {
+      "company": "ARM",
+      "dates": "2003 - 2003",
+      "position": "Segment Marketing"
+    }
+  ],
+  "investingProfile": {},
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/tim-lee",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tim-lee",
+  "socials": {
+    "angellist": "https://www.angel.co/tim-lee",
+    "crunchbase": "https://www.crunchbase.com/person/tim-lee",
+    "linkedin": "https://www.linkedin.com/in/timothytclee/"
+  },
+  "scraped_at": "2026-02-28T14:08:00.629087"
+}

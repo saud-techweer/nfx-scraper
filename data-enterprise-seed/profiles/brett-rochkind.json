@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Brett Rochkind",
+    "signalScore": 29,
+    "website": "https://visionfund.com/"
+  },
+  "experience": [
+    {
+      "company": "General Atlantic",
+      "dates": "2002 - 2017",
+      "position": "Managing Director"
+    },
+    {
+      "company": "SoftBank Vision Fund",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SoftBank Investment Advisers",
+      "firmUrl": "https://signal.nfx.com/firms/softbank-investment-advisers",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $20.0M",
+    "sweetSpot": "$13.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekFEQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b754c3be0343082cbfcf3e87784b177bd66cc8db/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brett-rochkind",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brett-rochkind",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brett-rochkind",
+    "crunchbase": "https://www.crunchbase.com/person/brett-rochkind",
+    "linkedin": "https://www.linkedin.com/in/brochkind/",
+    "twitter": "https://www.twitter.com/brochkind",
+    "website": "https://www.visionfund.com/"
+  },
+  "scraped_at": "2026-02-27T20:48:33.173182"
+}

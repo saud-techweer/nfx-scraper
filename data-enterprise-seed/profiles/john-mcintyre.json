@@ -1,0 +1,103 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "John McIntyre",
+    "signalScore": 116
+  },
+  "experience": [
+    {
+      "company": "Citrix Systems",
+      "dates": "2010 - 2016",
+      "position": "Managing Director, Citrix Startup Accelerator"
+    },
+    {
+      "company": "Americas Software and Services.",
+      "dates": "2007 - 2010",
+      "position": "SVP West Coast."
+    },
+    {
+      "company": "InnerWorkings",
+      "dates": "2002 - 2007",
+      "position": "Co-Founder, VP of Business Development"
+    },
+    {
+      "company": "SmartForce",
+      "dates": "2000 - 2002",
+      "position": "Director of Strategic Relations/Business Development"
+    },
+    {
+      "company": "Intel",
+      "dates": "1997 - 2000",
+      "position": "Director, Content Group"
+    },
+    {
+      "company": "Intel",
+      "dates": "1991 - 1997",
+      "position": "Enterprise Architecture Manager"
+    },
+    {
+      "company": "Intel",
+      "dates": "1989 - 1991",
+      "position": "Technical Sales Engineer"
+    },
+    {
+      "company": "Intel",
+      "dates": "1987 - 1989",
+      "position": "Product Marketing Engineer"
+    },
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2016 - Present",
+      "position": "VP, Kauffman Fellows Network"
+    },
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2013 - Present",
+      "position": "Founder, Accelerator and Corporate Innovation Special Interest Group"
+    }
+  ],
+  "investingProfile": {},
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzhiQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8768de3864af5d132c06f8684c8da97b18fc1b73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-mcintyre",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-mcintyre",
+  "socials": {
+    "angellist": "https://www.angel.co/jgmc",
+    "crunchbase": "https://www.crunchbase.com/person/john-mcintyre",
+    "linkedin": "https://www.linkedin.com/in/jgmcintyre/"
+  },
+  "scraped_at": "2026-02-27T22:48:46.673857"
+}

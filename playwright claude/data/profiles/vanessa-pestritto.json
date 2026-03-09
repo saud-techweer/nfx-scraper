@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Vanessa Pestritto",
+    "signalScore": 304,
+    "website": "https://vanessa.vc/"
+  },
+  "experience": [
+    {
+      "company": "Ripple",
+      "dates": "2018 - Present",
+      "position": "Xpring"
+    },
+    {
+      "company": "Lattice Ventures",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lattice Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/lattice-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$2.1M",
+    "investmentRange": "$50K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c05d80e8250f0b0bec096aa4d49683fd0d98452/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vanessa-pestritto",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "vanessa-pestritto",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/vanessa-alexandra-pestritto",
+    "linkedin": "https://www.linkedin.com/in/vanessaalexandra/",
+    "twitter": "https://www.twitter.com/tastelifewrite",
+    "website": "https://www.vanessa.vc/"
+  },
+  "scraped_at": "2026-02-11T13:44:11.096725"
+}

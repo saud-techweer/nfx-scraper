@@ -1,0 +1,52 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Barcelona, Spain",
+    "name": "Daniel Sanchez",
+    "website": "https://www.nautacapital.com/team1/daniel-s%C3%A1nchez"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Nauta Capital",
+      "firmUrl": "https://signal.nfx.com/firms/nauta-capital",
+      "position": "Partner"
+    },
+    "fundSize": "€55M",
+    "investmentRange": "$500K - $7.5M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVVIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ebe5095f0f2da73a8570e3fd410bd124b68ff7d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/daniel-sanchez",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "daniel-sanchez",
+  "socials": {
+    "angellist": "https://www.angel.co/daniel-sanchez-1",
+    "crunchbase": "https://www.crunchbase.com/person/daniel-sanchez",
+    "linkedin": "https://es.linkedin.com/in/daniel-sanchez-942a61/",
+    "website": "https://www.nautacapital.com/team1/daniel-s%C3%A1nchez"
+  },
+  "scraped_at": "2026-02-27T21:19:13.315215"
+}

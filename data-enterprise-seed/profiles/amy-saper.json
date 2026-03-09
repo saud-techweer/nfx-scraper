@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Amy Saper"
+  },
+  "experience": [
+    {
+      "company": "Accel",
+      "dates": "2019 - 2023",
+      "position": "Partner"
+    },
+    {
+      "company": "Uncork Capital",
+      "dates": "2023 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2020 - Present",
+      "position": "Lecturer"
+    },
+    {
+      "company": "Tapulous (acquired by Disney)",
+      "dates": "Present",
+      "position": "Management Intern"
+    },
+    {
+      "company": "Twitter",
+      "dates": "Present",
+      "position": "Product Marketing, International Expansion, and Partnerships"
+    },
+    {
+      "company": "Uber",
+      "dates": "Present",
+      "position": "Product Management MBA Intern"
+    },
+    {
+      "company": "Accel Partners",
+      "dates": "Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Stripe",
+      "dates": "Present",
+      "position": "Product Marketing Lead, Applications"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "Present",
+      "position": "Sequoia Scout"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Uncork Capital",
+      "firmUrl": "https://signal.nfx.com/firms/uncork-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$15.0M - $70.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0FHQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8669b215da44fd133261d691e7cc32dc911d17a8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amy-saper",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "amy-saper",
+  "socials": {
+    "angellist": "https://www.angel.co/amy-saper",
+    "crunchbase": "https://www.crunchbase.com/person/amy-saper",
+    "linkedin": "https://www.linkedin.com/in/amysaper/",
+    "twitter": "https://www.twitter.com/amy"
+  },
+  "scraped_at": "2026-02-26T08:12:28.926000"
+}

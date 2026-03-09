@@ -1,0 +1,143 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Alexander Rosen",
+    "signalScore": 3,
+    "website": "https://ridge.vc/"
+  },
+  "experience": [
+    {
+      "company": "Sprout Group",
+      "dates": "1996 - 2003",
+      "position": "General Partner"
+    },
+    {
+      "company": "Ridge Ventures (Formerly known as IDG Ventures USA)",
+      "dates": "2006 - Present",
+      "position": "Managing Director and Co-Founder"
+    },
+    {
+      "company": "Credit Suisse",
+      "dates": "Present",
+      "position": "Analyst"
+    },
+    {
+      "company": "General Atlantic Partners",
+      "dates": "Present",
+      "position": "Junior Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ridge Ventures (Formerly known as IDG Ventures USA)",
+      "firmUrl": "https://signal.nfx.com/firms/ridge-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$130M",
+    "investmentRange": "$1M - $7.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBak1DIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4df88e4611a253f807dfa6971760981f1fcac587/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexander-rosen",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alexander-rosen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/arosen",
+    "crunchbase": "https://www.crunchbase.com/person/alexander-rosen",
+    "linkedin": "https://www.linkedin.com/in/rosenalexander/",
+    "twitter": "https://www.twitter.com/Rosenrosen",
+    "website": "https://www.ridge.vc/"
+  },
+  "scraped_at": "2026-02-26T06:44:22.946066"
+}

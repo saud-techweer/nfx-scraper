@@ -1,0 +1,141 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "London",
+    "name": "Megan Quinn",
+    "positionAndFirm": "Investor, Builder, Board Director"
+  },
+  "experience": [
+    {
+      "company": "Spark Capital",
+      "dates": "2020",
+      "position": "General Partner"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Product Management & Strategic Partnership Development"
+    },
+    {
+      "company": "Square",
+      "dates": "Present",
+      "position": "Head of Product"
+    },
+    {
+      "company": "Kleiner Perkins Caufield & Byers",
+      "dates": "Present",
+      "position": "Investment Partner"
+    },
+    {
+      "company": "Genentech",
+      "dates": "Present",
+      "position": "Corporate Marketing"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $250K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Will Kohler (Lightspeed Venture Partners)",
+        "Toni Schneider (True Ventures)",
+        "Laura Yao (EQT Ventures)",
+        "Alastair Mitchell (Odyssey Ventures)",
+        "Eric Feng"
+      ],
+      "company": "Handshake",
+      "date": "Oct 2018",
+      "roundSize": "$40M",
+      "stage": "Series C",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Craig Sherman (Meritech Capital Partners)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Scott Banister",
+        "Jason Stomel"
+      ],
+      "company": "Niantic",
+      "date": "Nov 2017",
+      "roundSize": "$200M",
+      "stage": "Series B",
+      "totalRaised": "$210M"
+    },
+    {
+      "coInvestors": [
+        "Brad Feld (Foundry Group)",
+        "Seth Levine (Foundry Group)",
+        "Venky Ganesan (Menlo Ventures)",
+        "Greg Gottesman (Pioneer Square Labs)"
+      ],
+      "company": "Rover",
+      "date": "Jul 2017",
+      "roundSize": "$65M",
+      "stage": "Series F",
+      "totalRaised": "$65M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdUFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--450d3941e34517a9b588e78eda79248400f776c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/megan-quinn",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "megan-quinn",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/megan-quinn",
+    "linkedin": "https://www.linkedin.com/in/meganquinn/",
+    "twitter": "https://www.twitter.com/msquinn"
+  },
+  "scraped_at": "2026-02-27T02:44:38.442417"
+}

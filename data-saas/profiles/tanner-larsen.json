@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Salt Lake City, Utah",
+    "name": "Tanner Larsen",
+    "website": "https://petersonventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peterson Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/peterson-ventures",
+      "position": "Associate"
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$250K - $2.5M",
+    "sweetSpot": "$1.4M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2VsQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3fc88b6eca7b4b8fefdcce49279a0e55f8a6db8a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tanner-larsen",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "tanner-larsen",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/tanner-larsen",
+    "linkedin": "https://www.linkedin.com/in/tanner-larsen-467a92130/",
+    "website": "https://www.petersonventures.com/"
+  },
+  "scraped_at": "2026-02-27T05:00:43.650357"
+}

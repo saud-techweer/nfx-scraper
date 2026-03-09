@@ -1,0 +1,237 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Paulina Szyzdek",
+    "signalScore": 344,
+    "website": "https://paulinaszyzdek.substack.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Robert Bosch Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/robert-bosch-venture-capital",
+      "position": "Investor"
+    },
+    "fundSize": "€200M",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$9.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ana Levine (E1 Ventures)",
+        "William Guo (The Venture Collective (TVC))",
+        "Faris Lodin (Sterling Equity)",
+        "Michael Mealling (Starbridge Venture Capital)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Junaid Mian (1435 Capital Management)",
+        "Sung ho Choi"
+      ],
+      "company": "Axiom Space",
+      "date": "Dec 2019",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Daniel Rumennik (AirAngels)",
+        "Vinicius Alves (Base Partners)",
+        "Andy Chen (Outcast Ventures)",
+        "Kevin Colas"
+      ],
+      "company": "Figma",
+      "date": "Jan 2019",
+      "roundSize": null,
+      "stage": "Series C",
+      "totalRaised": "$250M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Spenny",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Sanjay Sathe (Raigad Ventures)"
+      ],
+      "company": "Inversion Space",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Pico MES",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Nick Davidov (Davidovs VC)"
+      ],
+      "company": "Respell",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMW9iQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--10cc5b3fdca10ed55c32aaa1093f16e33fc7dc0b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paulina",
+  "sectorRankings": [
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_b-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-b-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    }
+  ],
+  "slug": "paulina",
+  "socials": {
+    "angellist": "https://www.angel.co/paulina-szyzdek-1",
+    "linkedin": "https://www.linkedin.com/in/paulina-szyzdek/",
+    "twitter": "https://www.twitter.com/Szy_Paula",
+    "website": "https://www.investinginpassion.com/about/"
+  },
+  "scraped_at": "2026-02-27T03:34:04.514550"
+}

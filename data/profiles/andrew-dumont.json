@@ -1,0 +1,215 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Andrew Dumont",
+    "signalScore": 250,
+    "website": "https://andrewdumont.me/"
+  },
+  "experience": [
+    {
+      "company": "Stamped",
+      "dates": "2021 - 2023",
+      "position": "CEO"
+    },
+    {
+      "company": "Tiny",
+      "dates": "2018 - 2022",
+      "position": "CEO in Residence"
+    },
+    {
+      "company": "Bitly",
+      "dates": "2015 - 2018",
+      "position": "CMO (Acquired by Spectrum Equity)"
+    },
+    {
+      "company": "betaworks",
+      "dates": "2014 - 2015",
+      "position": "Head of Growth"
+    },
+    {
+      "company": "Moz",
+      "dates": "2011 - 2014",
+      "position": "Director of Business Development (Acquired by iContact)"
+    },
+    {
+      "company": "Strideapp.com",
+      "dates": "2012 - 2013",
+      "position": "Co-Founder (Acquired by Copper)"
+    },
+    {
+      "company": "Seesmic",
+      "dates": "2010 - 2011",
+      "position": "Director of Growth (Acquired by Hootsuite)"
+    },
+    {
+      "company": "Tatango",
+      "dates": "2006 - 2009",
+      "position": "Director of Marketing"
+    },
+    {
+      "company": "Curious",
+      "dates": "2017 - Present",
+      "position": "Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Curious Capital",
+      "firmUrl": "https://signal.nfx.com/firms/curious-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andrew Tymovskyi (Roosh Ventures)"
+      ],
+      "company": "Facemoji",
+      "date": "Oct 2021",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGRUQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a3c7e672aaca6494269a2b122c73091ea753ac9a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-dumont",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    }
+  ],
+  "slug": "andrew-dumont",
+  "socials": {
+    "angellist": "https://www.angel.co/p/andrewdumont",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-dumont",
+    "linkedin": "https://www.linkedin.com/in/andrewdumont/",
+    "twitter": "https://www.twitter.com/AndrewDumont",
+    "website": "https://www.andrewdumont.me/"
+  },
+  "scraped_at": "2026-02-12T10:18:51.786028"
+}

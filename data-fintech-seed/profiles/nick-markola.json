@@ -1,0 +1,144 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor"
+    ],
+    "location": "New York, New York",
+    "name": "Nick Markola"
+  },
+  "experience": [
+    {
+      "company": "VU Venture Partners",
+      "dates": "2019 - 2021",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Fieldpoint Private",
+      "dates": "2008 - 2018",
+      "position": "Managing Director - Head of Research"
+    },
+    {
+      "company": "Thomas Weisel Partners",
+      "dates": "2007 - 2008",
+      "position": "Senior Vice President"
+    },
+    {
+      "company": "PGA Fund of Hedge Funds",
+      "dates": "2005 - 2006",
+      "position": "Senior Vice President"
+    },
+    {
+      "company": "Citigroup - Smith Barney",
+      "dates": "2003 - 2005",
+      "position": "Senior Vice President"
+    },
+    {
+      "company": "Banc of America Securities",
+      "dates": "2000 - 2003",
+      "position": "Vice President"
+    },
+    {
+      "company": "Type One Ventures",
+      "dates": "2021 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Markola Group",
+      "dates": "2008 - Present",
+      "position": "Managing Partner & CIO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Type One Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/type-one-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXV3QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98a8cb305d2274119d70ffe94dff31a6c09bcd00/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nick-markola",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nick-markola",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nick-markola",
+    "linkedin": "https://www.linkedin.com/in/nick-markola-cima%C2%AE-b16049b/"
+  },
+  "scraped_at": "2026-03-03T22:55:36.838655"
+}

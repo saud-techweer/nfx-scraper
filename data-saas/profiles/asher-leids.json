@@ -1,0 +1,268 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Advisor",
+      "Attorney"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Asher Leids",
+    "signalScore": 112
+  },
+  "experience": [
+    {
+      "company": "Donahue, Mesereau & Leids, LLP",
+      "dates": "1997 - 2000",
+      "position": "Partner"
+    },
+    {
+      "company": "I AM CURRENTLY DISABLED",
+      "dates": "Present",
+      "position": "Owner"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ashish Toshniwal",
+        "John M. Mueller",
+        "Alina Tioupikova"
+      ],
+      "company": "Blokable, Inc.",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jason Calacanis (LAUNCH)",
+        "Kurt Bilafer"
+      ],
+      "company": "Inside.com",
+      "date": "Sep 2018",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Kurt Bilafer",
+        "Michael Lombardi"
+      ],
+      "company": "Cafe X",
+      "date": "Jan 2018",
+      "roundSize": "$14M",
+      "stage": "Seed",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Zachary Ginsburg (Gaingels)",
+        "Stephen Reisert (RSE Ventures)"
+      ],
+      "company": "Omaze",
+      "date": "Apr 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Frank Gruber (NextGen Venture Partners)",
+        "John Braze (MIR Ventures)",
+        "Kurt Bilafer"
+      ],
+      "company": "Klickly",
+      "date": "Aug 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Cyberdontics",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3lkQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b0feb50dfebc5bb5edde24e33d1dd2df98b5914/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/asher-leids",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "asher-leids",
+  "socials": {
+    "angellist": "https://www.angel.co/asher-leids",
+    "crunchbase": "https://www.crunchbase.com/person/asher-leids",
+    "linkedin": "https://www.linkedin.com/in/asher-leids-94571b3/"
+  },
+  "scraped_at": "2026-02-26T08:32:01.225066"
+}

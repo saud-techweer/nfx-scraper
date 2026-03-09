@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Burlingame, California",
+    "name": "Ric Fenton",
+    "website": "https://tcv.com/team/ric-fenton/"
+  },
+  "experience": [
+    {
+      "company": "Simpson Thacher & Bartlett LLP",
+      "dates": "2000 - 2008",
+      "position": "Attorney"
+    },
+    {
+      "company": "Rogers & Wells LLP",
+      "dates": "1999 - 1999",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Hunton & Williams LLP",
+      "dates": "1998 - 1998",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Technology Crossover Ventures",
+      "dates": "2008 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TCV",
+      "firmUrl": "https://signal.nfx.com/firms/tcv",
+      "position": "General Partner"
+    },
+    "fundSize": "$5.5B",
+    "investmentRange": "$10.0M - $30.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWZoQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--35e51ef3c781b5650f32eb9cfef0f8290a31a878/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ric-fenton",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "ric-fenton",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ric-fenton",
+    "linkedin": "https://www.linkedin.com/in/ricfenton/",
+    "website": "https://www.tcv.com/team/ric-fenton/"
+  },
+  "scraped_at": "2026-03-05T19:55:19.243805"
+}

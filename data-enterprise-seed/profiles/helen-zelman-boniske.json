@@ -1,0 +1,164 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Helen Zelman Boniske",
+    "signalScore": 1,
+    "website": "https://lemnos.vc/"
+  },
+  "experience": [
+    {
+      "company": "Arizona Diamondbacks",
+      "dates": "2006 - 2010",
+      "position": "Baseball Operations & Scouting"
+    },
+    {
+      "company": "Lemnos",
+      "dates": "2011 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lemnos Labs",
+      "firmUrl": "https://signal.nfx.com/firms/lemnos-labs",
+      "position": "General Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$500K - $1.3M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Chris Fisher (GPO Fund)",
+        "Lewis Jones (Seraphim Space)",
+        "Key Compton"
+      ],
+      "company": "Spire Global",
+      "date": "Nov 2017",
+      "roundSize": "$50M",
+      "stage": "Series C",
+      "totalRaised": "$90M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Momentum Machines",
+      "date": "Mar 2013",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9LIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1d2d774b12ba112a6a0b5a3282a685dd36c66568/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/helen-zelman-boniske",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "helen-zelman-boniske",
+  "socials": {
+    "angellist": "https://www.angel.co/helz",
+    "crunchbase": "https://www.crunchbase.com/person/helen-zelman",
+    "linkedin": "https://www.linkedin.com/in/helenzelman/",
+    "website": "https://www.lemnos.vc/"
+  },
+  "scraped_at": "2026-02-27T22:15:24.208186"
+}

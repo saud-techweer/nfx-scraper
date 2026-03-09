@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Cambridge, Massachusetts",
+    "name": "Eric Paley",
+    "positionAndFirm": "Managing Partner, Founder Collective",
+    "signalScore": 2,
+    "website": "https://www.foundercollective.com/team"
+  },
+  "experience": [
+    {
+      "company": "Harvard Business School",
+      "dates": "2011 - 2015",
+      "position": "Entrepreneur-In-Residence"
+    },
+    {
+      "company": "3M Brontes Technologies",
+      "dates": "2002 - 2008",
+      "position": "Co-Founder/CEO/General Manager"
+    },
+    {
+      "company": "Abstract Edge",
+      "dates": "1999 - 2001",
+      "position": "Co-Founder/CEO"
+    },
+    {
+      "company": "Monitor Group",
+      "dates": "1998 - 1999",
+      "position": "Consultant"
+    },
+    {
+      "company": "Founder Collective",
+      "dates": "2009 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founder Collective",
+      "firmUrl": "https://signal.nfx.com/firms/founder-collective",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$75M",
+    "investmentRange": "$400K - $2.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Cyan Banister (Long Journey Ventures)",
+        "Jarrid Tingle (Harlem Capital)",
+        "Lee Jacobs (Long Journey Ventures)",
+        "Scott Belsky"
+      ],
+      "company": "CASHDROP",
+      "date": "Aug 2020",
+      "roundSize": "$2.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.7M"
+    },
+    {
+      "coInvestors": [
+        "Scott Hartley (Everywhere Ventures (The Fund))",
+        "Adeyemi Ajao (Base10 (Base10 Partners) )",
+        "Jonathan Swanson"
+      ],
+      "company": "CoverWallet",
+      "date": "Mar 2016",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2ZDQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e0bd5a5fca5ac8f2dc8c80d048e39c937381e65b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eric-paley",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "eric-paley",
+  "socials": {
+    "angellist": "https://www.angel.co/epaley",
+    "crunchbase": "https://www.crunchbase.com/person/eric-paley",
+    "linkedin": "https://www.linkedin.com/in/epaley/",
+    "twitter": "https://www.twitter.com/epaley",
+    "website": "https://www.foundercollective.com/team"
+  },
+  "scraped_at": "2026-02-11T10:28:00.864481"
+}

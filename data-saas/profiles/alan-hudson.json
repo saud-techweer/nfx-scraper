@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": ["VC"],
+    "location": "London",
+    "name": "Alan Hudson",
+    "signalScore": null,
+    "website": "https://mercuri.vc/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mercuri",
+      "firmUrl": "https://signal.nfx.com/firms/mercuri",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M",
+    "currentFundSize": "£50M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/alan-hudson",
+  "sectorRankings": [
+    {"name": "Payments (Seed)"},
+    {"name": "Payments (Series A)"},
+    {"name": "London"},
+    {"name": "Future of Work (Series A)"},
+    {"name": "Future of Work (Seed)"},
+    {"name": "Developer Tools (Seed)"},
+    {"name": "SaaS (Series A)"},
+    {"name": "Gaming/eSports (Seed)"},
+    {"name": "Developer Tools (Series A)"},
+    {"name": "Gaming/eSports (Series A)"},
+    {"name": "Media/Content (Seed)"},
+    {"name": "Media/Content (Series A)"},
+    {"name": "AI (Series A)"},
+    {"name": "SaaS (Seed)"},
+    {"name": "Creator/Passion Economy (Seed)"},
+    {"name": "Creator/Passion Economy (Series A)"},
+    {"name": "Generative Tech/AI (Seed)"},
+    {"name": "Generative Tech/AI (Series A)"},
+    {"name": "AI (Seed)"}
+  ],
+  "slug": "alan-hudson",
+  "socials": {},
+  "scraped_at": "2026-02-26T06:47:40.109588"
+}

@@ -1,0 +1,185 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor",
+      "Founder",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "David Orban",
+    "signalScore": 404,
+    "website": "https://davidorban.com/"
+  },
+  "experience": [
+    {
+      "company": "SingularityU Italy Summit",
+      "dates": "2016 - 2020",
+      "position": "Founder"
+    },
+    {
+      "company": "SingularityU Milan",
+      "dates": "2015 - 2017",
+      "position": "Chapter Ambassador"
+    },
+    {
+      "company": "Startupbusiness",
+      "dates": "2010 - 2015",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "WideTag, Inc.",
+      "dates": "2008 - 2011",
+      "position": "Founder & Chief Evangelist"
+    },
+    {
+      "company": "Questar",
+      "dates": "1993 - 2009",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Network Society Ventures",
+      "dates": "2015 - Present",
+      "position": "Founder & Managing Partner"
+    },
+    {
+      "company": "Network Society Research",
+      "dates": "2014 - Present",
+      "position": "Trustee"
+    },
+    {
+      "company": "Axelera",
+      "dates": "2012 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Thiel Fellowship",
+      "dates": "2011 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "davidorban.com",
+      "dates": "2004 - Present",
+      "position": "Speaker and Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Network Society Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/network-society-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $500K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3NaQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--11461c92c399ff4186200d217baebc81d25c8264/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-orban_1",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "david-orban_1",
+  "socials": {
+    "angellist": "https://www.angel.co/davidorban",
+    "crunchbase": "https://www.crunchbase.com/person/david-orban",
+    "linkedin": "https://www.linkedin.com/in/davidorban/",
+    "twitter": "https://www.x.com/davidorban",
+    "website": "https://www.davidorban.com/"
+  },
+  "scraped_at": "2026-02-11T11:09:33.175456"
+}

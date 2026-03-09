@@ -1,0 +1,182 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Parker Barrile",
+    "website": "https://nvp.com/team/parker-barrile/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Norwest Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/norwest-venture-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$1M - $30.0M",
+    "investmentsOnRecord": 29,
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Casey Caruso (Paradigm)",
+        "Julian Roeoes (Picus Capital)",
+        "Kumar Dandapani (Cadenza Capital Management)",
+        "Alex Macdonald (sequel)",
+        "Apoorva Ruparel",
+        "Musaab Hakami",
+        "Russell Cook"
+      ],
+      "company": "Rain",
+      "date": "Jan 2026",
+      "roundSize": "$250M",
+      "stage": "Series C",
+      "totalRaised": "$460M"
+    },
+    {
+      "coInvestors": [
+        "Lisa Suennen (Aphelion Capital)",
+        "Nikhil Krishnan"
+      ],
+      "company": "Neura Health",
+      "date": "Sep 2025",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [
+        "Jordan Leites (Norwest Venture Partners)",
+        "Carey Ransom (Operate)"
+      ],
+      "company": "Stablecore",
+      "date": "Sep 2025",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Anomalo",
+      "date": "Jan 2024",
+      "roundSize": "$33M",
+      "stage": "Series B",
+      "totalRaised": "$66M"
+    },
+    {
+      "coInvestors": [
+        "Zach Perret (Mischief Venture Capital)",
+        "Youcef Es-skouri"
+      ],
+      "company": "Exponential DeFi",
+      "date": "Oct 2022",
+      "roundSize": "$14M",
+      "stage": "Seed",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Pebl",
+      "date": "May 2022",
+      "roundSize": "$400M",
+      "stage": "Series B",
+      "totalRaised": "$400M"
+    },
+    {
+      "coInvestors": [
+        "James Conigliaro (Array Ventures)"
+      ],
+      "company": "Revvo",
+      "date": "May 2022",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Allan Jean-Baptiste (Ansa Capital)"
+      ],
+      "company": "Policygenius",
+      "date": "Mar 2022",
+      "roundSize": "$130M",
+      "stage": "Series E",
+      "totalRaised": "$260M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1BMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3506a025c8c82eff5258192ae5d4827eaf85641/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/parker-barrile",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "parker-barrile",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/parker-barrile",
+    "linkedin": "https://www.linkedin.com/in/parkerbarrile/",
+    "twitter": "https://www.twitter.com/parkerbarrile?lang=en",
+    "website": "https://www.nvp.com/team/parker-barrile/"
+  },
+  "scraped_at": "2026-02-12T11:43:19.029617"
+}

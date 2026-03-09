@@ -1,0 +1,199 @@
+{
+  "basicInfo": {
+    "name": "Joshua Lee",
+    "signalScore": 25,
+    "investorTypes": [
+      "Angel",
+      "Operator",
+      "Founder"
+    ],
+    "location": "Seattle, Washington"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Consumer Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/consumer-ventures",
+      "position": "Angel"
+    },
+    "investmentRange": "$25K - $75K",
+    "sweetSpot": "$50K",
+    "investmentsOnRecord": 6
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Parenting/Families (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Parenting/Families (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-pre-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Live Aware Labs",
+      "stage": "Seed",
+      "date": "Oct 2024",
+      "roundSize": "$5M",
+      "totalRaised": "$5M",
+      "coInvestors": []
+    },
+    {
+      "company": "Plunk",
+      "stage": "Seed",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Tilting Motor Works",
+      "stage": "Series A",
+      "date": "Nov 2015",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "OtoSense",
+      "stage": "Series A",
+      "date": "Jun 2015",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "AppLovin",
+      "stage": "Series A",
+      "date": "Jun 2014",
+      "roundSize": "$50K",
+      "totalRaised": "$50K",
+      "coInvestors": []
+    },
+    {
+      "company": "KiwiCo",
+      "stage": "Seed",
+      "date": "Oct 2011",
+      "roundSize": "$2M",
+      "totalRaised": "$2M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Product Manager",
+      "company": "Pushpay",
+      "dates": "2016 - 2017"
+    },
+    {
+      "position": "Principal",
+      "company": "Keiretsu Forum",
+      "dates": "2014 - 2016"
+    },
+    {
+      "position": "Financial Management Program (FMP) Intern",
+      "company": "GE",
+      "dates": "2013 - 2013"
+    },
+    {
+      "position": "Financial Analyst Intern",
+      "company": "Broadridge",
+      "dates": "2012 - 2012"
+    },
+    {
+      "position": "Founder",
+      "company": "First Light Studios",
+      "dates": "2021 - Present"
+    },
+    {
+      "position": "Advisor",
+      "company": "Live Aware Labs",
+      "dates": "2019 - Present"
+    },
+    {
+      "position": "Founding Member #1",
+      "company": "Plunk",
+      "dates": "2018 - Present"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/onejoshualee/",
+    "twitter": "https://www.twitter.com/onejoshualee"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFRUQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--40a9e0b9624182e378993a1ea00378f7f2baf6bf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/joshua-lee_1",
+  "slug": "joshua-lee_1",
+  "scraped_at": "2026-02-24T11:36:58.917316"
+}

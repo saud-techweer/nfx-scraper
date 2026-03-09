@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Staffan Helgesson",
+    "website": "https://www.creandum.com/team/staffan-helgesson"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Creandum",
+      "firmUrl": "https://signal.nfx.com/firms/creandum",
+      "position": "General Partner"
+    },
+    "investmentRange": "$200K - $7.5M",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa01IIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cda54d8b703c375386b73f1ecd9fbf3227a7d865/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/staffan-helgesson",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "staffan-helgesson",
+  "socials": {
+    "angellist": "https://www.angel.co/staffan-helgesson",
+    "crunchbase": "https://www.crunchbase.com/person/staffan-helgesson",
+    "linkedin": "https://www.linkedin.com/in/staffanhelgesson/",
+    "twitter": "https://www.twitter.com/shelgesson",
+    "website": "https://www.creandum.com/team/staffan-helgesson"
+  },
+  "scraped_at": "2026-02-27T04:48:33.035298"
+}

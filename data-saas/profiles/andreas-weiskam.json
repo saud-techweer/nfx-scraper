@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "London",
+    "name": "Andreas Weiskam",
+    "website": "https://sapphireventures.com/team/andreas-weiskam/"
+  },
+  "experience": [
+    {
+      "company": "Sapphire Ventures, LLC",
+      "dates": "2006 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sapphire Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sapphire-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$1.4B",
+    "investmentRange": "$10.0M - $100.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDMrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9ffcc37e0449483cecb8ed54da615f2b48e8cad5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andreas-weiskam",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "andreas-weiskam",
+  "socials": {
+    "angellist": "https://www.angel.co/u/andreas-weiskam",
+    "crunchbase": "https://www.crunchbase.com/person/andreas-weiskam",
+    "linkedin": "https://www.linkedin.com/in/andreasweiskam/",
+    "twitter": "https://www.twitter.com/Weiskam",
+    "website": "https://www.sapphireventures.com/team/andreas-weiskam/"
+  },
+  "scraped_at": "2026-02-26T07:50:29.894960"
+}

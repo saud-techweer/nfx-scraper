@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Brian Devaney",
+    "signalScore": 506,
+    "website": "https://underscore.vc/team/brian-devaney/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Underscore VC",
+      "firmUrl": "https://signal.nfx.com/firms/underscore-vc",
+      "position": "Partner"
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$500K - $4.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Quilt Health",
+      "date": "Jun 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Terra Security",
+      "date": "Apr 2025",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Movemint",
+      "date": "Mar 2025",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Clockwork AI",
+      "date": "Apr 2022",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Luminai",
+      "date": "Oct 2020",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2ab5d1ccb54d425e328830042bccee04a392a39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/brian-devaney",
+  "sectorRankings": [
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brian-devaney",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/devaneybrian/",
+    "website": "https://www.underscore.vc/team/brian-devaney/"
+  },
+  "scraped_at": "2026-03-03T16:18:06.771977"
+}

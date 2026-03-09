@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Calvin Ling",
+    "website": "https://calvinling.com/"
+  },
+  "experience": [
+    {
+      "company": "415 Investments",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Prefix Capital",
+      "firmUrl": "https://signal.nfx.com/firms/prefix-capital",
+      "position": "Principal"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHpsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4f9d31124db3293f4d1928cda202e15828292349/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/calvin-ling",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "calvin-ling",
+  "socials": {
+    "angellist": "https://www.angel.co/u/cling626",
+    "crunchbase": "https://www.crunchbase.com/person/calvin-ling",
+    "linkedin": "https://www.linkedin.com/in/cling626/",
+    "twitter": "https://www.twitter.com/calvinling626",
+    "website": "https://www.calvinling.com/"
+  },
+  "scraped_at": "2026-02-28T15:03:53.781408"
+}

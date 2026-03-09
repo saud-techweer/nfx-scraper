@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "name": "Sean r",
+    "signalScore": 1,
+    "investorTypes": [
+      "Investor"
+    ]
+  },
+  "investingProfile": {
+    "investmentsOnRecord": 1
+  },
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "SimplyCircle",
+      "stage": "Angel Round",
+      "date": "Jan 2015",
+      "roundSize": "$1.1M",
+      "totalRaised": "$1.1M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/seanaggarwal/",
+    "angellist": "https://www.angel.co/sean-aggarwal"
+  },
+  "profilePicture": "https://d1hcaw05lpqmfw.cloudfront.net/edit-investor-profile/chair-icon.svg",
+  "profileUrl": "https://signal.nfx.com/investors/sean-aggarwal",
+  "slug": "sean-aggarwal",
+  "scraped_at": "2026-02-26T01:28:44.603572"
+}

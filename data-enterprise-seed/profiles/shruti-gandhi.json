@@ -1,0 +1,202 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Shruti Gandhi",
+    "signalScore": 129,
+    "website": "https://www.array.vc/#/team"
+  },
+  "experience": [
+    {
+      "company": "Gigster",
+      "dates": "2017 - Present",
+      "position": "Gigster Investment Fund Manager"
+    },
+    {
+      "company": "Array Ventures",
+      "dates": "2015 - Present",
+      "position": "Founder and Managing Partner"
+    },
+    {
+      "company": "International Business Machines",
+      "dates": "Present",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Penseev",
+      "dates": "Present",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "Samsung Electronics",
+      "dates": "Present",
+      "position": "Principal, Samsung Next"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Array Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/array-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$56M",
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Morris Wheeler (Drummond Road Capital)",
+        "Jason Lemkin"
+      ],
+      "company": "Mapistry",
+      "date": "May 2018",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [
+        "Eric Rosenblum (Foothill Ventures (formerly Tsingyuan Ventures))",
+        "Mathieu Guerville"
+      ],
+      "company": "Openprise, Inc.",
+      "date": "Sep 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Baris Aksoy (AV8 Ventures)"
+      ],
+      "company": "Pulse Q&A",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$6.4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWI5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--503e375e35707b95a3439234356c031ad956082b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/shruti-gandhi",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "shruti-gandhi",
+  "socials": {
+    "angellist": "https://www.angel.co/shruti_gandhi",
+    "crunchbase": "https://www.crunchbase.com/person/shruti-gandhi",
+    "linkedin": "https://www.linkedin.com/in/shrutigandhi/",
+    "twitter": "https://www.twitter.com/atShruti",
+    "website": "https://www.array.vc/#/team"
+  },
+  "scraped_at": "2026-02-27T04:41:06.258241"
+}

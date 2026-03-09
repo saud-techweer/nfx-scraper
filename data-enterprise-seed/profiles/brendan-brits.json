@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Brendan Brits",
+    "website": "https://bdmifund.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BDMI - Bertelsmann Digital Media Investments",
+      "firmUrl": "https://signal.nfx.com/firms/bdmi-bertelsmann-digital-media-investments",
+      "position": "Investor"
+    },
+    "fundSize": "$63M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJDQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ec649d4a5d2d8d3ec3c7805dfcc47fca72e69425/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brendan-brits",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brendan-brits",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brendan-brits",
+    "crunchbase": "https://www.crunchbase.com/person/brendan-brits",
+    "linkedin": "https://www.linkedin.com/in/brendanbrits/",
+    "website": "https://www.bdmifund.com/team"
+  },
+  "scraped_at": "2026-02-27T20:46:57.025641"
+}

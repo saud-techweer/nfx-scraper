@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Anna Piñol",
+    "signalScore": 1251,
+    "website": "https://www.nfx.com/team/anna-pinol"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NFX",
+      "firmUrl": "https://signal.nfx.com/firms/nfx",
+      "position": "Partner"
+    },
+    "fundSize": "$450M",
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Peter Specht (Creandum)"
+      ],
+      "company": "Maisa",
+      "date": "Aug 2025",
+      "roundSize": "$25M",
+      "stage": "Seed",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Metaphi",
+      "date": "Jul 2022",
+      "roundSize": "$1M",
+      "stage": "Pre Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNm16QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d7140c17bfb53f82c082dc8cce0aa1654917773d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anna-pinol-mediano",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "anna-pinol-mediano",
+  "socials": {
+    "angellist": "https://www.angel.co/u/anna-pinol",
+    "crunchbase": "https://www.crunchbase.com/person/anna-pi%C3%B1ol-mediano",
+    "linkedin": "https://www.linkedin.com/in/annapinolmediano/",
+    "twitter": "https://www.twitter.com/annapinol_"
+  },
+  "scraped_at": "2026-02-11T10:05:34.424789"
+}

@@ -1,0 +1,134 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Mike Fernandez",
+    "signalScore": 1
+  },
+  "experience": [
+    {
+      "company": "B Capital Group",
+      "dates": "2015 - 2023",
+      "position": "Senior Principal"
+    },
+    {
+      "company": "Velos Partners",
+      "dates": "2013 - 2015",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Bain & Company",
+      "dates": "2007 - 2011",
+      "position": "Senior Associate Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$25.0M - $60.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Rashmi Gopinath (B Capital Group)",
+        "Sunil Kurkure (Intel Capital)",
+        "Karim Faris (GV (Google Ventures))",
+        "Glenn Solomon (Notable Capital (formerly GGV Capital))",
+        "Tamara Steffens (Thomson Reuters Ventures)",
+        "Theodore Schlein (Ballistic Ventures)"
+      ],
+      "company": "Synack",
+      "date": "May 2020",
+      "roundSize": "$52M",
+      "stage": "Series D",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [],
+      "company": "AImotive",
+      "date": "Jan 0218",
+      "roundSize": "$38M",
+      "stage": "Series C",
+      "totalRaised": "$38M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEQ0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c5bdbac196c9596ceaf311572014a1fcf5573825/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-fernandez",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mike-fernandez",
+  "socials": {
+    "angellist": "https://www.angel.co/u/mike-fernandez",
+    "crunchbase": "https://www.crunchbase.com/person/mike-fernandez-2",
+    "linkedin": "https://www.linkedin.com/in/mikefernandez1/",
+    "twitter": "https://www.twitter.com/MikeFernandezCA"
+  },
+  "scraped_at": "2026-02-27T23:56:19.898157"
+}

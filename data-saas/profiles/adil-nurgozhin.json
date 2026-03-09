@@ -1,0 +1,74 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Singapore",
+    "name": "Adil Nurgozhin",
+    "website": "https://bigskycapital.co/"
+  },
+  "experience": [
+    {
+      "company": "Quest Ventures",
+      "dates": "2022 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "I2BF Global Ventures",
+      "dates": "2015 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Big Sky Capital",
+      "firmUrl": "https://signal.nfx.com/firms/big-sky-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$20M",
+    "investmentRange": "$250K - $500K",
+    "sweetSpot": "$375K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1BuQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef9bc9fa47021f83dfdef29825016c75aa6c7257/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adil-nurgozhin",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "adil-nurgozhin",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/adil-nurgozhin",
+    "linkedin": "https://www.linkedin.com/in/adil-nurgozhin-304757b/",
+    "website": "https://www.wellfound.com/p/adil-nurgozhin"
+  },
+  "scraped_at": "2026-02-26T06:33:17.654011"
+}

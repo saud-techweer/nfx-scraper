@@ -1,0 +1,271 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Mountain View, California",
+    "name": "Paul Buchheit",
+    "website": "https://ycombinator.com/people/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$150K - $150K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Niko Bonatsos (General Catalyst)"
+      ],
+      "company": "Microverse",
+      "date": "Feb 2020",
+      "roundSize": "$3.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [
+        "Chase Coleman (Tiger Global Management)",
+        "Sriram Krishnan (Andreessen Horowitz)",
+        "Meyer \"Micky\" Malka (Ribbit Capital)",
+        "Peter Thiel (Founders Fund)",
+        "Alex Cook (Tiger Global Management)",
+        "Saurabh Gupta (DST Global)",
+        "Marc Stad (Dragoneer Investment Group)",
+        "David Zhang (TCV)",
+        "Andres Morin (Vamos Ventures)",
+        "Marcos Gonzalez (Vamos Ventures)",
+        "Anu Hariharan (Y Combinator)",
+        "Tim Brady (Y Combinator)",
+        "Michael Seibel (Y Combinator)",
+        "Max Levchin (Scifi Vc)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Jake Seid (Ballistic Ventures)",
+        "Justin Mateen",
+        "Elad Gil",
+        "Larry Summers"
+      ],
+      "company": "Brex",
+      "date": "Apr 2017",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$1.2B"
+    },
+    {
+      "coInvestors": [
+        "Fabrice Grinda (FJ Labs)",
+        "Andy McLoughlin (Uncork Capital)",
+        "Charlie Pinto (Bling Capital)",
+        "Cameron McLain (Giant Ventures)",
+        "Jared Friedman (Y Combinator)",
+        "Kevin Mahaffey (SNR)",
+        "Christina Brodbeck (Rivet Ventures)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Naveen Jain",
+        "Darius Contractor",
+        "Jugoslav Petkovic",
+        "Joshua Reeves",
+        "Jonathan Swanson",
+        "Sumon Sadhu",
+        "Jeremy Yap"
+      ],
+      "company": "Zesty",
+      "date": "Mar 2014",
+      "roundSize": "$3.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVB3QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--453cd94e4c59fd8f3e5efb8804a7ce5eee18429f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-buchheit",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Local Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-b-investors"
+    },
+    {
+      "name": "Local Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Travel (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-b-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Local Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-pre-seed-investors"
+    },
+    {
+      "name": "Travel (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-pre-seed-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "paul-buchheit",
+  "socials": {
+    "angellist": "https://www.angel.co/p/buchheit",
+    "crunchbase": "https://www.crunchbase.com/person/paul-buchheit",
+    "twitter": "https://www.twitter.com/paultoo",
+    "website": "https://www.ycombinator.com/people/"
+  },
+  "scraped_at": "2026-02-11T10:49:56.952571"
+}

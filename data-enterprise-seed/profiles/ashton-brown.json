@@ -1,0 +1,60 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Ashton Brown",
+    "website": "https://hyper.com/#partners"
+  },
+  "experience": [
+    {
+      "company": "Sequoia Capital",
+      "dates": "2019 - 2021",
+      "position": "Founder Programs & Community"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hyper",
+      "firmUrl": "https://signal.nfx.com/firms/hyper",
+      "position": "Investor"
+    },
+    "investmentRange": "$300K - $300K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDN5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ddd193cfc9f510d51021995f8fdf653b5338eede/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ashton-brown",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ashton-brown",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ashton-brown-2",
+    "linkedin": "https://www.linkedin.com/in/ashtonabrown/",
+    "twitter": "https://www.twitter.com/ashtonabrown",
+    "website": "https://www.hyper.com/#partners"
+  },
+  "scraped_at": "2026-02-27T20:31:02.076120"
+}

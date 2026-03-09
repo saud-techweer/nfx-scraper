@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "R \"Ray\" Wang",
+    "website": "https://mindfulventurecapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mindful Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/mindful-venture-capital",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Ron Conway (SV Angel)",
+        "Adam Nash (Daffy)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Steven Trieu",
+        "Matt Tucker"
+      ],
+      "company": "Overlay",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Angel Round",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0pDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c84bea39ceb47e15549d1c4a70ecfe86f53daed8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/r-ray-wang",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "r-ray-wang",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/r-ray-wang",
+    "linkedin": "https://www.linkedin.com/in/rwang0/",
+    "twitter": "https://www.twitter.com/rwang0",
+    "website": "https://www.mindfulventurecapital.com/"
+  },
+  "scraped_at": "2026-03-05T19:40:03.465984"
+}

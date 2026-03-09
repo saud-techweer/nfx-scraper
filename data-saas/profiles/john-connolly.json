@@ -1,0 +1,42 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "John Connolly"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Eaglehead Capital",
+      "firmUrl": "https://signal.nfx.com/firms/eaglehead-capital",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb3pjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4decc46a1594b461dc83d86735cb77525adf96db/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-connolly",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    }
+  ],
+  "slug": "john-connolly",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-connolly",
+    "linkedin": "https://www.linkedin.com/in/johnmconnolly/",
+    "twitter": "https://www.twitter.com/johnconnolly"
+  },
+  "scraped_at": "2026-02-27T01:13:04.767088"
+}

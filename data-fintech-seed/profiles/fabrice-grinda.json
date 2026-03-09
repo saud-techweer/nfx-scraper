@@ -1,0 +1,256 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Fabrice Grinda",
+    "signalScore": 287,
+    "website": "https://fabricegrinda.com/about-me/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FJ Labs",
+      "firmUrl": "https://signal.nfx.com/firms/fj-labs",
+      "position": "Partner"
+    },
+    "fundSize": "$175M",
+    "investmentRange": "$220K - $1.3M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Scott Friend (Bain Capital Ventures)",
+        "Angela Tran (Version One Ventures)",
+        "Reed Duchscher (Night Ventures)",
+        "Serena Williams (Serena Ventures)",
+        "Josh Richards (REMUS Capital)",
+        "Guy Oseary (Sound Ventures)",
+        "Jeff Fluhr (Craft Ventures)",
+        "Alex Chung (Curious Capital)",
+        "Logan Paul",
+        "Pir Granoff",
+        "Brian Sugar",
+        "Ian Borthwick",
+        "Casey Neistat",
+        "Baron Davis"
+      ],
+      "company": "Lolli",
+      "date": "May 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$31M"
+    },
+    {
+      "coInvestors": [
+        "Andrew Vigneault (Flexcap)",
+        "Matt Gorin (Contour Venture Partners)",
+        "Jed Katz (Javelin Venture Partners)",
+        "Luis Valdich (Citi Ventures)",
+        "Mark A. Johnson (TTV Capital)"
+      ],
+      "company": "SmartAsset",
+      "date": "Jun 2018",
+      "roundSize": "$28M",
+      "stage": "Series C",
+      "totalRaised": "$240M"
+    },
+    {
+      "coInvestors": [
+        "Aydin Senkut (Felicis Ventures)",
+        "JP (Jean-Paul) Sanday (Menlo Ventures)",
+        "Auren Hoffman (Flex Capital)",
+        "Yervand Sarkisyan (Granatus Ventures)",
+        "Kevin Dasch (Social Starts)",
+        "Julia Popowitz (Broadway Angels)",
+        "Marek Olszewski",
+        "Charlie Songhurst",
+        "Russ Fradin"
+      ],
+      "company": "CodeSignal",
+      "date": "Apr 2015",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$91M"
+    },
+    {
+      "coInvestors": [
+        "Andy McLoughlin (Uncork Capital)",
+        "Charlie Pinto (Bling Capital)",
+        "Christina Brodbeck (Rivet Ventures)",
+        "Paul Buchheit (Y Combinator)",
+        "Cameron McLain (Giant Ventures)",
+        "Kevin Mahaffey (SNR)",
+        "Jared Friedman (Y Combinator)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Joshua Reeves",
+        "Jugoslav Petkovic",
+        "Naveen Jain",
+        "Jeremy Yap",
+        "Sumon Sadhu",
+        "Darius Contractor",
+        "Jonathan Swanson"
+      ],
+      "company": "Zesty",
+      "date": "Mar 2014",
+      "roundSize": "$3.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFhCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df40b3e8c0fe33d0dec920ae28abf1dd3404f816/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fabrice-grinda",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Education (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "fabrice-grinda",
+  "socials": {
+    "angellist": "https://www.angel.co/fabrice",
+    "crunchbase": "https://www.crunchbase.com/person/fabrice-grinda",
+    "linkedin": "https://www.linkedin.com/in/fabricegrinda/",
+    "twitter": "https://www.twitter.com/fabricegrinda",
+    "website": "https://www.fabricegrinda.com/about-me/"
+  },
+  "scraped_at": "2026-02-11T10:08:58.434085"
+}

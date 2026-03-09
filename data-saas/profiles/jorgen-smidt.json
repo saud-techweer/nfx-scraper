@@ -1,0 +1,42 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Copenhagen, Denmark",
+    "name": "Jorgen Smidt",
+    "website": "https://www.heartcore.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Heartcore Capital",
+      "firmUrl": "https://signal.nfx.com/firms/heartcore-capital",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$250M",
+    "investmentRange": "$50K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXJZQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e94dc715dfc54e5d6cdcb7f0d3cdc0a4656c7c1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jorgen-smidt",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jorgen-smidt",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jorgen-smidt",
+    "linkedin": "https://www.linkedin.com/in/jorgen-smidt-047904/",
+    "website": "https://www.heartcore.com/"
+  },
+  "scraped_at": "2026-02-27T01:23:05.709141"
+}

@@ -1,0 +1,235 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Former CEO",
+      "Engineering Operator",
+      "Product Operator"
+    ],
+    "name": "Andres Barreto",
+    "signalScore": 2927
+  },
+  "experience": [
+    {
+      "company": "Techstars",
+      "dates": "2023 - 2023",
+      "position": "Managing Director Miami 2023"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2022 - 2022",
+      "position": "Managing Director Miami 2022"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2022 - 2022",
+      "position": "Managing Director Boulder 2022"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2021 - 2021",
+      "position": "Managing Director Boulder 2021"
+    },
+    {
+      "company": "ENTER.CO",
+      "dates": "2020 - 2020",
+      "position": "Investor & Board Member"
+    },
+    {
+      "company": "Holberton School Colombia",
+      "dates": "2019 - 2020",
+      "position": "Investor & Board Member"
+    },
+    {
+      "company": "PulsoSocial",
+      "dates": "2008 - 2020",
+      "position": "Founder"
+    },
+    {
+      "company": "AtomHouse",
+      "dates": "2013 - 2018",
+      "position": "Founder"
+    },
+    {
+      "company": "Onswipe",
+      "dates": "2010 - 2012",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2011 - 2011",
+      "position": "Entrepreneur"
+    },
+    {
+      "company": "Cloudomatic",
+      "dates": "2010 - 2010",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Grooveshark",
+      "dates": "2006 - 2007",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2022 - Present",
+      "position": "Managing Director Techstars Miami"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2020 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Firstrock Capital",
+      "dates": "2016 - Present",
+      "position": "Founder & General Partner"
+    },
+    {
+      "company": "Coderise",
+      "dates": "2012 - Present",
+      "position": "Founder & Board Member"
+    },
+    {
+      "company": "Socialatom Group",
+      "dates": "2005 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Techstars",
+      "firmUrl": "https://signal.nfx.com/firms/techstars",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$20K - $120K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$120K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Trevor Paladino (Lakeside Capital)",
+        "Adam Sah (Zero Capital)",
+        "John M. Mueller"
+      ],
+      "company": "Kiwibot",
+      "date": "Jun 2021",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3ljQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3497e4e59713cf83564044bec7f0d5e48e3a3988/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andres-barreto",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andres-barreto",
+  "socials": {
+    "angellist": "https://www.angel.co/andresbarreto",
+    "crunchbase": "https://www.crunchbase.com/person/andres-barreto",
+    "linkedin": "https://www.linkedin.com/in/andreshb/",
+    "twitter": "https://www.twitter.com/andresbarreto"
+  },
+  "scraped_at": "2026-02-26T07:50:44.470141"
+}

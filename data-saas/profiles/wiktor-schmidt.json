@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Poland",
+    "name": "Wiktor Schmidt",
+    "signalScore": 177,
+    "website": "https://superchargecap.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Supercharge Capital",
+      "firmUrl": "https://signal.nfx.com/firms/supercharge-capital",
+      "position": "Investor"
+    },
+    "fundSize": "€360M",
+    "investmentRange": "$5.0M - $10.0M",
+    "sweetSpot": "$7.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi9RQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c9796a3c0c51cf40ca0979ab37adc042a3ce68b0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/wiktor-schmidt",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "wiktor-schmidt",
+  "socials": {
+    "angellist": "https://www.angel.co/p/wiktorschmidt",
+    "crunchbase": "https://www.crunchbase.com/person/wiktor-schmidt",
+    "linkedin": "https://www.linkedin.com/in/wiktorschmidt/",
+    "twitter": "https://www.twitter.com/wiktorschmidt",
+    "website": "https://www.superchargecap.com/"
+  },
+  "scraped_at": "2026-02-27T05:35:35.881123"
+}

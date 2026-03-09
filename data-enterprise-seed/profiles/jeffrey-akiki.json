@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jeffrey Akiki",
+    "website": "https://bolt.io/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bolt",
+      "firmUrl": "https://signal.nfx.com/firms/bolt",
+      "position": "Associate"
+    },
+    "fundSize": "$80.3M",
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1JCQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe93fb0848379be9ad46cf58f8ea68d399479d29/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeffrey-akiki",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jeffrey-akiki",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jeffrey-akiki",
+    "crunchbase": "https://www.crunchbase.com/person/jeffrey-akiki",
+    "linkedin": "https://www.linkedin.com/in/jeffrey-akiki/",
+    "twitter": "https://www.twitter.com/AkikiJeffrey",
+    "website": "https://www.bolt.io/team"
+  },
+  "scraped_at": "2026-02-27T22:37:18.486934"
+}

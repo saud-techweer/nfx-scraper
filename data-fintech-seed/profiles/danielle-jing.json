@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Danielle Jing",
+    "website": "https://daniellejing.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pear VC",
+      "firmUrl": "https://signal.nfx.com/firms/pear-vc",
+      "position": "Associate"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$250K - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWxBQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ce7a4be711f262069a907ff3c69192e93dce560/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/danielle-jing",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "danielle-jing",
+  "socials": {
+    "angellist": "https://www.angel.co/u/danielle-jing",
+    "crunchbase": "https://www.crunchbase.com/person/danielle-jing",
+    "linkedin": "https://www.linkedin.com/in/daniellejing/",
+    "twitter": "https://www.twitter.com/daniellejing",
+    "website": "https://www.daniellejing.com/"
+  },
+  "scraped_at": "2026-03-03T16:52:00.740431"
+}

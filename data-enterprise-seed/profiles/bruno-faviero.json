@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Bruno Faviero",
+    "signalScore": 367,
+    "website": "https://alloyfund.com/"
+  },
+  "experience": [
+    {
+      "company": "Graduate Fund",
+      "dates": "2017 - 2021",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "Kensho",
+      "dates": "2013 - 2017",
+      "position": "Software Engineer / PM"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alloy Fund",
+      "firmUrl": "https://signal.nfx.com/firms/alloy-fund",
+      "position": "General Partner"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzNaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9c1c7e2efe8e87b3cfc9745e24c4f6dcd59f8e57/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bruno-faviero",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bruno-faviero",
+  "socials": {
+    "angellist": "https://www.angel.co/p/bfaviero",
+    "crunchbase": "https://www.crunchbase.com/person/bruno-faviero",
+    "linkedin": "https://www.linkedin.com/in/faviero/",
+    "twitter": "https://www.twitter.com/bfaviero",
+    "website": "https://www.alloyfund.com/"
+  },
+  "scraped_at": "2026-02-27T20:52:32.497733"
+}

@@ -1,0 +1,205 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Advisor",
+      "Angel",
+      "Former CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Adam Sah",
+    "signalScore": 1
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Zero Capital",
+      "firmUrl": "https://signal.nfx.com/firms/zero-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jose Gaztelu"
+      ],
+      "company": "Invisible Technologies",
+      "date": "May 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$2.6M"
+    },
+    {
+      "coInvestors": [
+        "Trevor Paladino (Lakeside Capital)",
+        "Andres Barreto (Techstars)",
+        "John M. Mueller"
+      ],
+      "company": "Kiwibot",
+      "date": "Jul 2017",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Karl Kerksiek (Endeavor8)"
+      ],
+      "company": "Placer.ai",
+      "date": "Nov 2016",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": "$100M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PayJoy",
+      "date": "Aug 2015",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Massive Computing",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Christy Johnson (Fireroad)"
+      ],
+      "company": "Methodic",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzNCQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1a57c2054fe49d54c5179e3eb16d5c9d07c4d1b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-sah",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-pre-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-b-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    }
+  ],
+  "slug": "adam-sah",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/adamsah/"
+  },
+  "scraped_at": "2026-02-27T19:54:15.306474"
+}

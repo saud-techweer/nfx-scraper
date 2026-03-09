@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Nevada",
+    "name": "Brad Greiwe",
+    "website": "https://fifthwall.com/team/brad-greiwe"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Fifth Wall",
+      "firmUrl": "https://signal.nfx.com/firms/fifth-wall",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$2.9B",
+    "investmentRange": "$10.0M - $25.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$17.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Vic Singh (ENIAC Ventures)",
+        "Hadley Harris (ENIAC Ventures)",
+        "Tim Young (ENIAC Ventures)",
+        "Nihal Mehta (ENIAC Ventures)",
+        "Rebecca Lynn (Canvas Ventures)",
+        "Jeffrey Berman (Camber Creek)",
+        "Courtney Cooper (Alate Partners)"
+      ],
+      "company": "Eden",
+      "date": "Nov 2019",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$25M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0c3QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a485e820b91fb0b5421ebef7498f3442309e16f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brad-greiwe",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "brad-greiwe",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/brad-greiwe",
+    "linkedin": "https://www.linkedin.com/in/brad-greiwe-96022a38/",
+    "twitter": "https://www.twitter.com/Bradley_Greiwe",
+    "website": "https://www.fifthwall.com/team/brad-greiwe"
+  },
+  "scraped_at": "2026-02-28T01:02:22.599020"
+}

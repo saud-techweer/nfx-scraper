@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Lenny Pruss",
+    "signalScore": 1,
+    "website": "https://amplifypartners.com/team/lenny-pruss/"
+  },
+  "experience": [
+    {
+      "company": "Redpoint Ventures",
+      "dates": "2015 - 2017",
+      "position": "Principal"
+    },
+    {
+      "company": "Dataminr, Inc.",
+      "dates": "2013 - 2013",
+      "position": "Product Manager"
+    },
+    {
+      "company": "JAT Capital Management, LP",
+      "dates": "2013 - 2013",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "RRE Ventures",
+      "dates": "2010 - 2012",
+      "position": "Associate"
+    },
+    {
+      "company": "Jefferies & Company",
+      "dates": "2009 - 2010",
+      "position": "Technology Investment Banking Analyst"
+    },
+    {
+      "company": "Amplify Partners",
+      "dates": "2017 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Amplify Partners",
+      "firmUrl": "https://signal.nfx.com/firms/amplify-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$700M",
+    "investmentRange": "$500K - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1hIQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--49e08e2c5ef9a4a113ea788501d9d24181dcff76/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lenny-pruss",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lenny-pruss",
+  "socials": {
+    "angellist": "https://www.angel.co/p/lenny-pruss",
+    "crunchbase": "https://www.crunchbase.com/person/lenny-pruss",
+    "linkedin": "https://www.linkedin.com/in/lennypruss/",
+    "twitter": "https://www.twitter.com/lennypruss",
+    "website": "https://www.amplifypartners.com/team/lenny-pruss/"
+  },
+  "scraped_at": "2026-02-27T23:20:59.908423"
+}

@@ -1,0 +1,118 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Former CEO",
+      "Product Operator"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Diego Oppenheimer",
+    "signalScore": 284
+  },
+  "experience": [
+    {
+      "company": "DataRobot",
+      "dates": "2021 - 2022",
+      "position": "Executive Vice President - MLOps"
+    },
+    {
+      "company": "Algorithmia",
+      "dates": "2014 - 2021",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2008 - 2013",
+      "position": "Program Manager"
+    },
+    {
+      "company": "Factory",
+      "dates": "Present",
+      "position": "CEO-in- Residence"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Partner",
+    "investmentRange": "$2.0M - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "BrainLogic AI",
+      "date": "Nov 2023",
+      "roundSize": "$5.5",
+      "stage": "Seed",
+      "totalRaised": "$5.5"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOElvQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3a21d38302851ac023300239569a098287b9144b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/diego-oppenheimer_1",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    }
+  ],
+  "slug": "diego-oppenheimer_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/diego-oppenheimer",
+    "linkedin": "https://www.linkedin.com/in/doppenheimer/",
+    "twitter": "https://www.x.com/doppenhe"
+  },
+  "scraped_at": "2026-02-27T21:32:20.245095"
+}

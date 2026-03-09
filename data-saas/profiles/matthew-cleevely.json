@@ -1,0 +1,102 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO",
+      "Advisor"
+    ],
+    "location": "Cambridge, United Kingdom",
+    "name": "Matthew Cleevely"
+  },
+  "experience": [
+    {
+      "company": "EarlyBird",
+      "dates": "2015 - 2016",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "Imperial College London",
+      "dates": "2009 - 2012",
+      "position": "PhD Student"
+    },
+    {
+      "company": "white dot publishing",
+      "dates": "2011 - 2012",
+      "position": "Publishing Director"
+    },
+    {
+      "company": "CRFS",
+      "dates": "2007 - 2009",
+      "position": "Advisor"
+    },
+    {
+      "company": "Ofcom",
+      "dates": "2006 - 2007",
+      "position": "Contractor"
+    },
+    {
+      "company": "Ofcom",
+      "dates": "2005 - 2005",
+      "position": "Research Associate"
+    },
+    {
+      "company": "Cambridge Broadband",
+      "dates": "2003 - 2003",
+      "position": "Accounting Clerk"
+    },
+    {
+      "company": "The Choral Hub",
+      "dates": "2020 - Present",
+      "position": "Director/advisor"
+    },
+    {
+      "company": "AI VIVO",
+      "dates": "2019 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Pint Shop",
+      "dates": "2013 - Present",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "10to8 Appointment Scheduling",
+      "dates": "2011 - Present",
+      "position": "CEO, Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOW5wQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3d997e2a79abd0631d0e45f302c46496c2cab170/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matthew-cleevely",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "matthew-cleevely",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/matthew-cleevely",
+    "linkedin": "https://www.linkedin.com/in/matthewcleevely/",
+    "twitter": "https://www.twitter.com/matthewcleevely"
+  },
+  "scraped_at": "2026-02-27T02:38:27.945145"
+}

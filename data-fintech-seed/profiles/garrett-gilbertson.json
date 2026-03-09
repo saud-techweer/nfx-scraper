@@ -1,0 +1,175 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Garrett Gilbertson",
+    "signalScore": 175,
+    "website": "https://www.startupmavericks.com/"
+  },
+  "experience": [
+    {
+      "company": "Band of Angels",
+      "dates": "2019 - Present",
+      "position": "Chair, LA SiG"
+    },
+    {
+      "company": "Tech Coast Angels",
+      "dates": "2016 - Present",
+      "position": "Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Startup Mavericks",
+      "firmUrl": "https://signal.nfx.com/firms/startup-mavericks",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$10K - $100K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lance Cottrell (Obscura)"
+      ],
+      "company": "Irrigreen",
+      "date": "Dec 2019",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Verifir",
+      "date": "Dec 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "UNest",
+      "date": "Nov 2019",
+      "roundSize": "$3.5M",
+      "stage": "Seed",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mechanodontics",
+      "date": "Apr 2019",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGdtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6aa1d15956e030cbc27fe8bb854744feb4445272/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/garrett-gilbertson",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "garrett-gilbertson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/garrett-gilbertson",
+    "website": "https://www.startupmavericks.com/"
+  },
+  "scraped_at": "2026-02-27T00:03:43.653918"
+}

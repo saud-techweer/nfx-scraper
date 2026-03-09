@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "United Kingdom",
+    "name": "Kieran Gibbs",
+    "website": "https://www.byldventures.com/team"
+  },
+  "experience": [
+    {
+      "company": "Class 5 Global",
+      "dates": "2020 - Present",
+      "position": "Limited Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Byld Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/byld-ventures",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$500K - $500K",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEh3QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--861e4ce9e895807c973c60aaf5e4722091baa795/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kieran-gibbs",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "kieran-gibbs",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/kieran-gibbs",
+    "linkedin": "https://www.linkedin.com/in/kieran-gibbs-77a8b914b/",
+    "twitter": "https://www.twitter.com/kierangibbs",
+    "website": "https://www.byldventures.com/team"
+  },
+  "scraped_at": "2026-03-03T21:38:42.879935"
+}

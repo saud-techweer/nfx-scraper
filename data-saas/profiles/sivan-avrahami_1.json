@@ -1,0 +1,129 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Sivan Avrahami",
+    "signalScore": 13
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "XT Hi-Tech",
+      "firmUrl": "https://signal.nfx.com/firms/xt-hi-tech",
+      "position": "Analyst"
+    },
+    "investmentRange": "$1M - $30.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yoav Sebba (XT Hi-Tech)"
+      ],
+      "company": "NeuReality",
+      "date": "Jun 2022",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$35M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Epitome Biosystems",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Yoav Sebba (XT Hi-Tech)",
+        "Ori Friedman (Mitsui & Co)"
+      ],
+      "company": "Phytech",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Yoav Sebba (XT Hi-Tech)"
+      ],
+      "company": "Sofwave",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Yoav Sebba (XT Hi-Tech)"
+      ],
+      "company": "Cymbio",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/sivan-avrahami_1",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sivan-avrahami_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/sivan-avrahami/"
+  },
+  "scraped_at": "2026-02-27T04:44:22.951418"
+}

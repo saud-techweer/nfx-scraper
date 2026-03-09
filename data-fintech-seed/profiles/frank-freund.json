@@ -1,0 +1,44 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Berlin, Germany",
+    "name": "Frank Freund"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelR1QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--475cfb027ff633dc6cd618c688a54dced6b2196d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/frank-freund",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "frank-freund",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/frank-freund",
+    "linkedin": "https://www.linkedin.com/in/ffreund/",
+    "twitter": "https://www.twitter.com/freund_frank"
+  },
+  "scraped_at": "2026-03-05T19:33:43.556332"
+}

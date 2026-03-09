@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Flavio Garcia",
+    "website": "https://www.bossainvest.com/"
+  },
+  "experience": [
+    {
+      "company": "MBM Business School",
+      "dates": "2001 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bossanova Investimentos",
+      "firmUrl": "https://signal.nfx.com/firms/bossa-nova",
+      "position": "Investor"
+    },
+    "investmentRange": "$17K - $88K",
+    "sweetSpot": "$53K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNiszQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c2b0e50074f048964d9e32e64e1237743173e3f3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/flavio-garcia",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "flavio-garcia",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/flavio-garcia-aa7a1023/",
+    "website": "https://www.bossainvest.com/"
+  },
+  "scraped_at": "2026-02-27T21:56:38.081776"
+}

@@ -1,0 +1,127 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Parker Thompson",
+    "signalScore": 209,
+    "website": "https://angel.co/pt"
+  },
+  "experience": [
+    {
+      "company": "500 Startups",
+      "dates": "2013 - 2015",
+      "position": "Partner"
+    },
+    {
+      "company": "Pivotal Labs",
+      "dates": "2010 - 2013",
+      "position": "Director of Business Development"
+    },
+    {
+      "company": "Pivotal Labs",
+      "dates": "2006 - 2010",
+      "position": "Senior Engineer"
+    },
+    {
+      "company": "PlaceSite",
+      "dates": "2005 - 2006",
+      "position": "Co-Founder/CTO"
+    },
+    {
+      "company": "AngelList",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Internet Archive",
+      "dates": "Present",
+      "position": "Data Archivist"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TNT Venture",
+      "firmUrl": "https://signal.nfx.com/firms/tnt-venture",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbElHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e0f6dcee72a7c0297aab0bc0f1239c5a47bd407b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/parker-thompson",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Local Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "parker-thompson",
+  "socials": {
+    "angellist": "https://www.angel.co/p/pt",
+    "crunchbase": "https://www.crunchbase.com/person/parker-thompson",
+    "linkedin": "https://www.linkedin.com/in/parkert/",
+    "twitter": "https://www.twitter.com/pt"
+  },
+  "scraped_at": "2026-02-11T10:45:44.156894"
+}

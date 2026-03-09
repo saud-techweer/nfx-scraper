@@ -1,0 +1,178 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Elizabeth Weil",
+    "website": "https://scribble.vc/elizabeth"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Scribble Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/scribble-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$300K - $750K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Topher Conway (SV Angel)",
+        "Matt Scott (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Ashley Flucas (Flucas Ventures)",
+        "Chris Moreno (Infinite Niches)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Alex Roetter (Moxxie Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Lucy Guo (Backend Capital)",
+        "Niv Dror (Shrug Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Yagiz Sozmen",
+        "Alper Kiresepi",
+        "Rudra Peram",
+        "Howard Charney",
+        "Zach Segal",
+        "Kevin Weil",
+        "Peter Hunn",
+        "Moshe Lifschitz",
+        "Tyler Willis"
+      ],
+      "company": "MainStreet",
+      "date": "Jun 2020",
+      "roundSize": "$2.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$70M"
+    },
+    {
+      "coInvestors": [
+        "Ruchi Sanghvi (South Park Commons)",
+        "Jeff Bonforte (Catapult Capital)",
+        "Katie Stanton (Moxxie Ventures)"
+      ],
+      "company": "Sheltr",
+      "date": "Jun 2019",
+      "roundSize": "$3.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [
+        "Eva Lau (Two Small Fish Ventures)",
+        "Fritz Lanman (Acequia Capital)",
+        "Jeff Bonforte (Catapult Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Pete Koomen",
+        "Evan Moore",
+        "Steve Chen",
+        "Bradley Horowitz",
+        "Joshua Schachter",
+        "Adrian Aoun",
+        "Gokul Rajaram"
+      ],
+      "company": "Printify",
+      "date": "May 2019",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Meyer \"Micky\" Malka (Ribbit Capital)",
+        "Sam Lessin (Slow Ventures)",
+        "Paul Strachman (Red Sea Ventures)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Andy Dunn (Red Swan Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Javier Olivan",
+        "Mike Krieger",
+        "Jeff Arnold",
+        "David Marcus",
+        "Adam D'Angelo",
+        "Greg Brockman"
+      ],
+      "company": "Prefer",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBek54QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18416020f43183749ee4dd434b2874d8add2d85a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/elizabeth-weil",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "ConstructionTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-series-a-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "elizabeth-weil",
+  "socials": {
+    "angellist": "https://www.angel.co/p/elizabeth-weil",
+    "crunchbase": "https://www.crunchbase.com/person/elizabeth-weil",
+    "linkedin": "https://www.linkedin.com/in/elizabethweil/",
+    "twitter": "https://www.twitter.com/elizabeth",
+    "website": "https://www.scribble.vc/elizabeth"
+  },
+  "scraped_at": "2026-02-26T23:38:45.267578"
+}

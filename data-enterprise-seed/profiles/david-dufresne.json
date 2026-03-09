@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Montreal",
+    "name": "David Dufresne",
+    "signalScore": 383,
+    "website": "https://panache.vc/"
+  },
+  "experience": [
+    {
+      "company": "Bandcamp",
+      "dates": "2015 - 2016",
+      "position": "Head of Strategy and Growth"
+    },
+    {
+      "company": "Bandzoogle",
+      "dates": "2010 - 2015",
+      "position": "CEO"
+    },
+    {
+      "company": "JLA Ventures / BlackBerry Partners Fund",
+      "dates": "2008 - 2010",
+      "position": "Venture Associate"
+    },
+    {
+      "company": "Desjardins Venture Capital",
+      "dates": "2001 - 2008",
+      "position": "Investment Manager"
+    },
+    {
+      "company": "Laboratoire de Recherche sur la Performance des Entreprises",
+      "dates": "1996 - 2001",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Sydney Organising Committee for The Olympic Games",
+      "dates": "2000 - 2001",
+      "position": "Accreditation Supervisor"
+    },
+    {
+      "company": "500 Startups",
+      "dates": "2016 - Present",
+      "position": "Partner - 500 Canada"
+    },
+    {
+      "company": "FounderFuel",
+      "dates": "2013 - Present",
+      "position": "Mentor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Panache Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/panache-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$58M",
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNS9QQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d71b41757b11b23c2b308ef6459c099cc32b23fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-dufresne",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-dufresne",
+  "socials": {
+    "angellist": "https://www.angel.co/u/david-dufresne",
+    "crunchbase": "https://www.crunchbase.com/person/david-dufresne",
+    "linkedin": "https://www.linkedin.com/in/davduf/",
+    "twitter": "https://www.twitter.com/DavidDufresne",
+    "website": "https://www.panache.vc/"
+  },
+  "scraped_at": "2026-02-27T21:23:38.340277"
+}

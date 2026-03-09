@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jocelyn Goldfein",
+    "signalScore": 944,
+    "website": "https://jocelyngoldfein.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Zetta Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/zetta-venture-partners",
+      "position": "Managing Director"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$750K - $4.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Opsani",
+      "date": "Apr 2018",
+      "roundSize": "$4.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.7M"
+    },
+    {
+      "coInvestors": [
+        "Sanjay Nath (Blume Ventures)"
+      ],
+      "company": "Nutanix Beam",
+      "date": "Aug 2017",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcGtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ef9cadba4fc7947e04574103beed1d7e9b3ee838/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jocelyn-goldfein",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jocelyn-goldfein",
+  "socials": {
+    "angellist": "https://www.angel.co/jeg",
+    "crunchbase": "https://www.crunchbase.com/person/jocelyn-goldfein",
+    "linkedin": "https://www.linkedin.com/in/jgoldfein/",
+    "twitter": "https://www.twitter.com/jgoldfein",
+    "website": "https://www.jocelyngoldfein.com/"
+  },
+  "scraped_at": "2026-02-27T22:44:32.029639"
+}

@@ -1,0 +1,255 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Investor"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Errol Damelin",
+    "signalScore": 351,
+    "website": "https://twitter.com/ErrolDamelin"
+  },
+  "experience": [
+    {
+      "company": "Wonga",
+      "dates": "2006 - 2013",
+      "position": "Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $750K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "LifeQ",
+      "date": "May 2021",
+      "roundSize": "$47M",
+      "stage": "Later Stage VC",
+      "totalRaised": "$47M"
+    },
+    {
+      "coInvestors": [
+        "Andreas Dittes",
+        "Flavio Nicolay Guimaraes"
+      ],
+      "company": "Unbabel",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Wonga",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "PurpleBricks",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Clicktale",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "LightSense Technologies",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTNhQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ee4d175a350724bf9ef18b8e4c774c42430841c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/errol-damelin",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "errol-damelin",
+  "socials": {
+    "angellist": "https://www.angel.co/errol-damelin",
+    "crunchbase": "https://www.crunchbase.com/person/errol-damelin",
+    "linkedin": "https://www.linkedin.com/in/erroldamelin/",
+    "twitter": "https://www.twitter.com/erroldamelin"
+  },
+  "scraped_at": "2026-03-05T19:24:28.006104"
+}

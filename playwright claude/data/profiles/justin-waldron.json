@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Mike Miller",
+    "website": "https://liquid2.vc/"
+  },
+  "experience": [
+    {
+      "company": "IBM Cloudant",
+      "dates": "2014",
+      "position": "Founder, Chief Scientist"
+    },
+    {
+      "company": "Yale University",
+      "dates": "1999 - 2004",
+      "position": "Graduate Student"
+    },
+    {
+      "company": "Liquid 2 Ventures, LLC",
+      "dates": "2015 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "University of Washington",
+      "dates": "2012 - Present",
+      "position": "Affiliate Professor"
+    },
+    {
+      "company": "Massachusetts Institute of Technology",
+      "dates": "2005 - Present",
+      "position": "Postdoctoral Fellow"
+    },
+    {
+      "company": "CERN",
+      "dates": "Present",
+      "position": "Tier-0 Coordinator"
+    },
+    {
+      "company": "University of Washington",
+      "dates": "Present",
+      "position": "Research Assistant Professor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Liquid 2 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/liquid-2-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$37.7M",
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL29zQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9872544e5fee98f159359c12be7abd217615130/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-miller",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "justin-waldron",
+  "socials": {
+    "angellist": "https://www.angel.co/mike-miller-15",
+    "crunchbase": "https://www.crunchbase.com/person/mike-miller-b97a",
+    "linkedin": "https://www.linkedin.com/in/mlmilleratmit/",
+    "twitter": "https://www.twitter.com/mlmilleratmit",
+    "website": "https://www.liquid2.vc/"
+  },
+  "scraped_at": "2026-02-16T01:45:25.293564",
+  "success": true
+}

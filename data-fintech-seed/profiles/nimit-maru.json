@@ -1,0 +1,162 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Angel",
+      "Engineering Operator",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Nimit Maru",
+    "signalScore": 91,
+    "website": "https://www.nimit.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $250K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Promaxo",
+      "date": "Oct 2023",
+      "roundSize": null,
+      "stage": "Undisclosed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jano Búza (ZAKA Ventures)"
+      ],
+      "company": "Lime Therapeutics",
+      "date": "Jun 2023",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ana Levine (E1 Ventures)",
+        "Lance Matthews (DTCP)",
+        "Brad Bitler",
+        "Adeel Hussain"
+      ],
+      "company": "Cohere AI",
+      "date": "Jun 2023",
+      "roundSize": "$280",
+      "stage": "Series C",
+      "totalRaised": "$280"
+    },
+    {
+      "coInvestors": [],
+      "company": "Zolt",
+      "date": "Jun 2021",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Eric Brook (B Capital Group)",
+        "Philippe Suchet (PS Investments)",
+        "Jim Kim (Builders VC)",
+        "Hana Besbes"
+      ],
+      "company": "Carbon Health",
+      "date": "Nov 2020",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$490M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mantl",
+      "date": "Feb 2020",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "GrubMarket",
+      "date": "Apr 2019",
+      "roundSize": "$25M",
+      "stage": "Series C",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ChargeItSpot",
+      "date": "Jun 2014",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBalFKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0bd5611e7df4d1f30152fee5418c929c4c633890/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/nimit-maru",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Education (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "nimit-maru",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/nimit/",
+    "twitter": "https://www.x.com/nimit",
+    "website": "https://www.nimit.com/"
+  },
+  "scraped_at": "2026-03-03T22:58:48.691487"
+}

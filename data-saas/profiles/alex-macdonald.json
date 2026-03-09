@@ -1,0 +1,237 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Founder",
+      "Investor"
+    ],
+    "location": "United Kingdom",
+    "name": "Alex Macdonald",
+    "signalScore": 197,
+    "website": "https://sequel.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "sequel",
+      "firmUrl": "https://signal.nfx.com/firms/sequel",
+      "position": ""
+    },
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Landscape",
+      "date": "Jan 2022",
+      "roundSize": "$1M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lawhive",
+      "date": "Jan 2022",
+      "roundSize": "$150K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Gama",
+      "date": "Jan 2022",
+      "roundSize": "$750K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$750K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sellar",
+      "date": "Jun 2021",
+      "roundSize": "$500K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Honest Mobile",
+      "date": "Nov 2020",
+      "roundSize": "$700K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$700K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nubreed Hotels (EventBeds)",
+      "date": "Nov 2019",
+      "roundSize": "$500K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Snap It",
+      "date": "Jul 2019",
+      "roundSize": "$300K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$300K"
+    },
+    {
+      "coInvestors": [],
+      "company": "I Hate Ironing",
+      "date": "Jun 2019",
+      "roundSize": "$300K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$300K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWp5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9ef86cafe0001b1f46b70b6e1e0048fd549774f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-macdonald",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-b-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-b-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "alex-macdonald",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alex-macdonald",
+    "linkedin": "https://www.linkedin.com/in/alex-macdonald-48331625/",
+    "twitter": "https://www.twitter.com/alexfmac",
+    "website": "https://www.sequel.co/"
+  },
+  "scraped_at": "2026-02-26T06:43:09.850073"
+}

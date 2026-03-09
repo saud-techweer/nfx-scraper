@@ -1,0 +1,143 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Cupertino, California",
+    "name": "Jess Lee",
+    "website": "https://sequoiacap.com/people/jess-lee/"
+  },
+  "experience": [
+    {
+      "company": "Yahoo! Inc.",
+      "dates": "2015 - 2016",
+      "position": "VP Product, Lifestyle"
+    },
+    {
+      "company": "Polyvore",
+      "dates": "2008 - 2016",
+      "position": "Co-Founder & CEO"
+    },
+    {
+      "company": "Google",
+      "dates": "2006 - 2008",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Google",
+      "dates": "2004 - 2006",
+      "position": "Associate Product Manager"
+    },
+    {
+      "company": "NTT DoCoMo",
+      "dates": "2004 - 2004",
+      "position": "Software Engineer Intern"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Stephen Chau (Sequoia Capital)",
+        "Erik Kriessmann (Index Ventures)",
+        "Kirsten Green (Forerunner Ventures)"
+      ],
+      "company": "Faire (formerly Indigo Fair)",
+      "date": "Nov 2017",
+      "roundSize": "$3.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$190M"
+    },
+    {
+      "coInvestors": [
+        "Alfred Lin (Sequoia Capital)",
+        "Micah Rosenbloom (Founder Collective)",
+        "Gaurav Jain (Afore Capital)",
+        "Rob Go (NextView Ventures)"
+      ],
+      "company": "Dia&Co",
+      "date": "Sep 2016",
+      "roundSize": "$20M",
+      "stage": "Venture Round",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmlWQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c179f85e6146587b6616c1df07dd7a61f4cfd34/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jess-lee",
+  "sectorRankings": [
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jess-lee",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jessyoko",
+    "crunchbase": "https://www.crunchbase.com/person/jess-lee",
+    "linkedin": "https://www.linkedin.com/in/jesskah/",
+    "twitter": "https://www.twitter.com/jesskah",
+    "website": "https://www.sequoiacap.com/people/jess-lee/"
+  },
+  "scraped_at": "2026-02-27T22:40:12.430036"
+}

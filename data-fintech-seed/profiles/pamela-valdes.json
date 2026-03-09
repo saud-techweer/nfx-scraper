@@ -1,0 +1,41 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO",
+      "Founder"
+    ],
+    "location": "Mexico City, Mexico",
+    "name": "Pamela Valdes",
+    "website": "https://pamelavaldes.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUR4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9bc3ecc558e31a80222afd27c29f6939e3502ff2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pamela-valdes",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "pamela-valdes",
+  "socials": {
+    "angellist": "https://www.angel.co/u/pamela-valdes-esteva",
+    "crunchbase": "https://www.crunchbase.com/person/pamela-valdes",
+    "linkedin": "https://www.linkedin.com/in/pamelavaldesesteva/",
+    "twitter": "https://www.twitter.com/pamevls",
+    "website": "https://www.pamelavaldes.com/"
+  },
+  "scraped_at": "2026-03-03T23:07:11.309680"
+}

@@ -1,0 +1,224 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Karl Alomar",
+    "signalScore": 499,
+    "website": "https://www.m13.co/"
+  },
+  "experience": [
+    {
+      "company": "DigitalOcean",
+      "dates": "2013 - 2018",
+      "position": "COO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "M13",
+      "firmUrl": "https://signal.nfx.com/firms/m13",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$175M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Teleskope",
+      "date": "Nov 2025",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [
+        "Paul Grossinger (Gaingels)"
+      ],
+      "company": "Estuary",
+      "date": "Oct 2025",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Peter Najarian (RW3 Ventures)"
+      ],
+      "company": "CAT Labs",
+      "date": "Dec 2024",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Zenlytic",
+      "date": "Sep 2024",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Tanja Emmerling (High-Tech Gründerfonds)",
+        "Friedrich A. Neuman (Amino Collective)",
+        "Rolf Schrömgens"
+      ],
+      "company": "Bunch AI",
+      "date": "Aug 2022",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Homelister",
+      "date": "Jun 2022",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Robert Olson (M13)",
+        "Mark Poag (Fitz Gate Ventures)",
+        "Robert Berluti (RTP Global)",
+        "Nan Li (Dimension Capital)",
+        "Sandy Cass (Red Swan Ventures)",
+        "Andreas Ehn"
+      ],
+      "company": "Visor",
+      "date": "Sep 2021",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Robert Olson (M13)"
+      ],
+      "company": "PINATA",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Series Unknown",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTFaQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--087e2cd473a4cb726cc831f0f5957280001f06bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/karl-alomar",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "karl-alomar",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/karl-alomar",
+    "linkedin": "https://www.linkedin.com/in/karl-alomar-0516a219/",
+    "website": "https://www.m13.co/"
+  },
+  "scraped_at": "2026-02-11T13:09:24.500253"
+}

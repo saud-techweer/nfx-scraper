@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Christina Brodbeck"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Rivet Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/rivet-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Eric Bunting"
+      ],
+      "company": "SAFE",
+      "date": "Jan 2018",
+      "roundSize": "$1.8M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [
+        "Andy McLoughlin (Uncork Capital)",
+        "Fabrice Grinda (FJ Labs)",
+        "Charlie Pinto (Bling Capital)",
+        "Kevin Mahaffey (SNR)",
+        "Cameron McLain (Giant Ventures)",
+        "Jared Friedman (Y Combinator)",
+        "Paul Buchheit (Y Combinator)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Joshua Reeves",
+        "Jeremy Yap",
+        "Sumon Sadhu",
+        "Darius Contractor",
+        "Jonathan Swanson",
+        "Naveen Jain",
+        "Jugoslav Petkovic"
+      ],
+      "company": "Zesty",
+      "date": "Mar 2014",
+      "roundSize": "$3.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.7M"
+    },
+    {
+      "coInvestors": [
+        "Cyan Banister (Long Journey Ventures)"
+      ],
+      "company": "FelicityMariex",
+      "date": "Aug 2010",
+      "roundSize": "$700K",
+      "stage": "Angel Round",
+      "totalRaised": "$700K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0w3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e0214db22091407486f4ac0cf1ea6bd71a6912a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/christina-brodbeck",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "christina-brodbeck",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/christina-brodbeck",
+    "linkedin": "https://www.linkedin.com/in/christinabrodbeck/",
+    "twitter": "https://www.twitter.com/jellyfishbloom"
+  },
+  "scraped_at": "2026-02-12T09:52:40.693021"
+}

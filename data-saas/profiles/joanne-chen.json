@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Joanne Chen",
+    "website": "https://foundationcapital.com/member/joanne-chen/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Foundation Capital",
+      "firmUrl": "https://signal.nfx.com/firms/foundation-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$350M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ashu Garg (Foundation Capital)",
+        "Cindy Padnos (Illuminate Ventures)",
+        "Eugene Zhang (TSVC Capital)"
+      ],
+      "company": "findera",
+      "date": "Jul 2015",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$7.9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnZKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6727c0f4bcd529c54f2e53abcff71f651284ebc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joanne-chen",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "joanne-chen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/joannezchen",
+    "crunchbase": "https://www.crunchbase.com/person/joanne-chen",
+    "linkedin": "https://www.linkedin.com/in/joanne-chen-8486677/",
+    "twitter": "https://www.twitter.com/joannezchen?lang=en",
+    "website": "https://www.foundationcapital.com/member/joanne-chen/"
+  },
+  "scraped_at": "2026-02-27T01:07:59.284587"
+}

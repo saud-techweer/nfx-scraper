@@ -1,0 +1,207 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Satya Patel",
+    "signalScore": 4305,
+    "website": "https://homebrew.co/team"
+  },
+  "experience": [
+    {
+      "company": "Homebrew",
+      "dates": "2013 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Geocapital Partners",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Impact Venture Partners",
+      "dates": "Present",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "DoubleClick Inc.",
+      "dates": "Present",
+      "position": "Senior Product Manager"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Senior Product Manager"
+    },
+    {
+      "company": "Battery Ventures",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Twitter",
+      "dates": "Present",
+      "position": "VP Product"
+    },
+    {
+      "company": "Monitor Company",
+      "dates": "Present",
+      "position": "Strategy Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Homebrew",
+      "firmUrl": "https://signal.nfx.com/firms/homebrew",
+      "position": "General Partner"
+    },
+    "fundSize": "$90M",
+    "investmentRange": "$50K - $250K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hunter Walk (Homebrew)",
+        "Craig Hunter (Operator Ventures)",
+        "Dan Teran (Gutter Capital)",
+        "Scott Belsky",
+        "Jen Rubio Butterfield"
+      ],
+      "company": "Sanzo",
+      "date": "Aug 2020",
+      "roundSize": "$1.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [
+        "Tim Connors (PivotNorth Capital)",
+        "Benjamin Savage (Clocktower Technology Ventures)",
+        "Miles Dowling (Clocktower Technology Ventures)",
+        "Lauren Kolodny (aCrew Capital)",
+        "Zander Lurie",
+        "Kevin Colas"
+      ],
+      "company": "Chime",
+      "date": "Nov 2014",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$720M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEhlQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--98721b0871a6ac224f1df9cc46d522f469747c93/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/satya-patel",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "brian-feinstein",
+  "socials": {
+    "angellist": "https://www.angel.co/satyap",
+    "crunchbase": "https://www.crunchbase.com/person/satya-patel",
+    "linkedin": "https://www.linkedin.com/in/satyapatel/",
+    "twitter": "https://www.twitter.com/satyap",
+    "website": "https://www.homebrew.co/team"
+  },
+  "scraped_at": "2026-02-16T01:45:59.544509",
+  "success": true
+}

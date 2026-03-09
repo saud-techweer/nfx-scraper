@@ -1,0 +1,179 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Vivien Ho",
+    "signalScore": 444
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pear VC",
+      "firmUrl": "https://signal.nfx.com/firms/pear-vc",
+      "position": "Principal"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$25K - $3.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yuri Namikawa (Offline Ventures)",
+        "Julie Wroblewski (Magnify Ventures)"
+      ],
+      "company": "Seven Starling",
+      "date": "Sep 2025",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Carl Byers (F-Prime Capital Partners)",
+        "Gustaf Alströmer (Y Combinator)",
+        "Eric Ong (Lightbank)",
+        "Nikhil Krishnan",
+        "Ralph Gootee"
+      ],
+      "company": "Axle Health",
+      "date": "May 2025",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Grove AI",
+      "date": "Jan 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Julie Yoo (Andreessen Horowitz)"
+      ],
+      "company": "Counsel Health",
+      "date": "Oct 2024",
+      "roundSize": "$11M",
+      "stage": "Seed",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Streamline Climate",
+      "date": "Jun 2022",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFg0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--552fcb4034ecdadb124ad334673719bcd36bdb99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vivien-ho",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "vivien-ho",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/vivien-ho",
+    "linkedin": "https://www.linkedin.com/in/vivienlho/",
+    "twitter": "https://www.twitter.com/VivHo"
+  },
+  "scraped_at": "2026-02-11T12:05:21.362963"
+}

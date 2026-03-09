@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "name": "Sam Hodges",
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "CEO",
+      "Investor"
+    ],
+    "website": "https://www.vouch.us/about",
+    "location": "San Francisco Bay Area"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Vouch Insurance",
+      "firmUrl": "https://signal.nfx.com/firms/vouch-insurance",
+      "position": "Angel"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [],
+  "socials": {
+    "website": "https://www.vouch.us/about",
+    "linkedin": "https://www.linkedin.com/in/samhodges/",
+    "twitter": "https://www.twitter.com/hodgessam",
+    "angellist": "https://www.angel.co/p/samuelhodges",
+    "crunchbase": "https://www.crunchbase.com/person/sam-hodges"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDNYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2ac5b09bd8dd741b7dab9eb14518a627d07874a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sam-hodges",
+  "slug": "sam-hodges",
+  "scraped_at": "2026-02-24T13:02:13.525311"
+}

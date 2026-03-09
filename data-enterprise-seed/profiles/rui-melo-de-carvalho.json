@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Lisbon, Portugal",
+    "name": "Rui Melo de Carvalho",
+    "website": "https://faber-ventures.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Faber",
+      "dates": "Present",
+      "position": "Partner & CFO @ Faber"
+    },
+    {
+      "company": "Faber",
+      "dates": "Present",
+      "position": "CFO @ Faber Ventures"
+    },
+    {
+      "company": "Farol Musica (Grupo Media Capital)",
+      "dates": "Present",
+      "position": "Financial Controller @ Farol Musica"
+    },
+    {
+      "company": "Farol Musica (Grupo Media Capital)",
+      "dates": "Present",
+      "position": "Financial Controller @ TVI"
+    },
+    {
+      "company": "Fundação do Gil",
+      "dates": "Present",
+      "position": "Financial Manager"
+    },
+    {
+      "company": "Deloitte",
+      "dates": "Present",
+      "position": "Audit - Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Faber",
+      "firmUrl": "https://signal.nfx.com/firms/faber",
+      "position": "Partner"
+    },
+    "investmentRange": "$115K - $1.7M",
+    "sweetSpot": "$850K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzZIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0fbeca095bd863964ef89b2a8d4e364cb75b683d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rui-melo-de-carvalho",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rui-melo-de-carvalho",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rui-melo-de-carvalho",
+    "crunchbase": "https://www.crunchbase.com/person/rui-melo-de-carvalho",
+    "linkedin": "https://www.linkedin.com/in/rui-melo-de-carvalho-520487/?originalSubdomain=pt",
+    "twitter": "https://www.twitter.com/ruimelocarvalho?lang=en",
+    "website": "https://www.faber-ventures.com/team/"
+  },
+  "scraped_at": "2026-02-28T01:28:44.200204"
+}

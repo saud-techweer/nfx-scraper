@@ -1,0 +1,171 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Paris, France",
+    "name": "Clarisse Lam",
+    "signalScore": 21
+  },
+  "experience": [
+    {
+      "company": "KPMG",
+      "dates": "2020 - 2020",
+      "position": "TS Analyst"
+    },
+    {
+      "company": "Truffle Capital",
+      "dates": "2019 - 2019",
+      "position": "VC Analyst"
+    },
+    {
+      "company": "PwC",
+      "dates": "2018 - 2018",
+      "position": "Junior auditor"
+    },
+    {
+      "company": "NewAlpha",
+      "dates": "2020 - Present",
+      "position": "VC Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NewAlpha",
+      "firmUrl": "https://signal.nfx.com/firms/newalpha",
+      "position": "Principal"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Supervizor",
+      "date": "Apr 2024",
+      "roundSize": "$20M",
+      "stage": "Venture",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "LIZY",
+      "date": "Sep 2022",
+      "roundSize": "$8.5M",
+      "stage": "Series A",
+      "totalRaised": "$8.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "NEAT Protect",
+      "date": "Sep 2022",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Next Gate Tech",
+      "date": "May 2022",
+      "roundSize": "$5M",
+      "stage": "Venture",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Thomas Bigagli (Plug & Play Ventures)"
+      ],
+      "company": "Lovys",
+      "date": "Dec 2020",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SESAMm",
+      "date": "Dec 2020",
+      "roundSize": "$9.1M",
+      "stage": "Series B",
+      "totalRaised": "$9.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEFyQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b89e7f5ed6f86f9c538d43758ac4c60ec052593/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/clarisse-lam",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "clarisse-lam",
+  "socials": {
+    "angellist": "https://www.angel.co/u/clarisse-3",
+    "crunchbase": "https://www.crunchbase.com/person/clarisse-lam",
+    "linkedin": "https://www.linkedin.com/in/clarisse-lam/",
+    "twitter": "https://www.twitter.com/ClarisseLam"
+  },
+  "scraped_at": "2026-02-26T09:47:53.536250"
+}

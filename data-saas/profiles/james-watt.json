@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Scotland",
+    "name": "James Watt"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLy9yQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--75ed1680722d20ed491b9dc78cce634f7f3d6168/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-watt",
+  "sectorRankings": [
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "AutoTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "james-watt",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/james-watt",
+    "linkedin": "https://www.linkedin.com/in/james-watt-21a5a912b/",
+    "twitter": "https://www.twitter.com/BrewDogJames"
+  },
+  "scraped_at": "2026-02-27T00:46:12.074769"
+}

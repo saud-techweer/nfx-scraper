@@ -1,0 +1,49 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Berlin, Germany",
+    "name": "Ramzi Rizk",
+    "website": "https://expedite.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Expedite Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/expedite-ventures",
+      "position": "Angel"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkxRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f6f3df05d75ef7e2101c810e8396a4a2fce9d08d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ramzi-rizk",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "ramzi-rizk",
+  "socials": {
+    "angellist": "https://www.angel.co/p/ramz",
+    "crunchbase": "https://www.crunchbase.com/person/ramzi-rizk",
+    "linkedin": "https://www.linkedin.com/in/ramzirizk/",
+    "twitter": "https://www.twitter.com/ramz",
+    "website": "https://www.expedite.ventures/"
+  },
+  "scraped_at": "2026-03-05T19:51:14.196388"
+}

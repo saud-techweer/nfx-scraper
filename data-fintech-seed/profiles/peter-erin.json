@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Sales Operator"
+    ],
+    "location": "Pittsburgh, Pennsylvania",
+    "name": "Peter Erin",
+    "signalScore": 429,
+    "website": "https://innovationworks.org/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Innovation Works",
+      "firmUrl": "https://signal.nfx.com/firms/innovation-works",
+      "position": "Senior Associate"
+    },
+    "investmentRange": "$100K - $300K",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2ljQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--557ed310d4661b8abc85aa2bed5a8557df877048/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-erin",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "peter-erin",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/peter-erin-40b1",
+    "linkedin": "https://www.linkedin.com/in/peter-erin-cfa-0791845/",
+    "website": "https://www.innovationworks.org/"
+  },
+  "scraped_at": "2026-03-03T23:17:25.567497"
+}

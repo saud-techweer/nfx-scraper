@@ -1,0 +1,59 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Edinburgh, Scotland",
+    "name": "Paul Atkinson",
+    "website": "https://www.parequity.com/about-us/our-people/paul-atkinson"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Par Equity",
+      "firmUrl": "https://signal.nfx.com/firms/par-equity",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0czQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--355ac22943b63f9b12e7d2eb54d316fe1dd333e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-atkinson",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paul-atkinson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paul-atkinson-cb18",
+    "linkedin": "https://www.linkedin.com/in/paul-atkinson-52413a/",
+    "twitter": "https://www.twitter.com/parequitypaul",
+    "website": "https://www.parequity.com/about-us/our-people/paul-atkinson"
+  },
+  "scraped_at": "2026-03-03T23:11:08.054510"
+}

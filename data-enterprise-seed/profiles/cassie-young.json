@@ -1,0 +1,145 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Operator",
+      "Sales Operator",
+      "Growth Operator"
+    ],
+    "name": "Cassie Young",
+    "positionAndFirm": "Partner at Primary Venture Partners, Former CRO at Sailthru, CCO at Campaign Monitor, VP at GLG",
+    "signalScore": 419
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Primary Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/primary-venture-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$1M - $8.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tim Chang (Mayfield)",
+        "Stephanie Palmeri (NextView Ventures)"
+      ],
+      "company": "Lantern",
+      "date": "Dec 2020",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Chris Farmer (SignalFire)"
+      ],
+      "company": "Lyric",
+      "date": "Sep 2016",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHNLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--908cd184fa4bef80d1468f720ec40b83d5d1fc0f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/cassie-young",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "cassie-young",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/cassyoung/"
+  },
+  "scraped_at": "2026-02-26T09:09:49.114711"
+}

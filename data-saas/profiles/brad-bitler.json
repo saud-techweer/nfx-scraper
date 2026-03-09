@@ -1,0 +1,245 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Design Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Brad Bitler",
+    "positionAndFirm": "I love all things tech, travel, and tacos"
+  },
+  "experience": [
+    {
+      "company": "Autodesk",
+      "dates": "2018 - 2019",
+      "position": "Principal UX Designer"
+    },
+    {
+      "company": "SideReel",
+      "dates": "2014 - 2016",
+      "position": "UX Designer"
+    },
+    {
+      "company": "US Marine Corps",
+      "dates": "2003 - 2007",
+      "position": "Sergeant"
+    },
+    {
+      "company": "Apple",
+      "dates": "2019 - Present",
+      "position": "Product Design Lead"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lance Matthews (DTCP)",
+        "Ana Levine (E1 Ventures)",
+        "Nimit Maru",
+        "Adeel Hussain"
+      ],
+      "company": "Cohere AI",
+      "date": "May 2023",
+      "roundSize": "$280",
+      "stage": "Series C",
+      "totalRaised": "$280"
+    },
+    {
+      "coInvestors": [
+        "Matthew Hartman (Factorial)",
+        "Ronny Conway (A Capital)",
+        "Ana Levine (E1 Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Ronny Conway"
+      ],
+      "company": "Hugging Face",
+      "date": "May 2022",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$110M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDhZQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16f10e91bd5c5a409fd73eee02183a08c97ffaeb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brad-bitler",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "Travel (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-pre-seed-investors"
+    },
+    {
+      "name": "Travel (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-b-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "AR/VR (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "AgTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-series-b-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-series-a-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brad-bitler",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/bradbitler/",
+    "twitter": "https://www.twitter.com/BradBitler"
+  },
+  "scraped_at": "2026-02-26T08:52:04.853879"
+}

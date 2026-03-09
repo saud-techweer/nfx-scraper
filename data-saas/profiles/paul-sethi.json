@@ -1,0 +1,231 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Founder",
+      "Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Paul Sethi",
+    "signalScore": 659,
+    "website": "https://www.2048.vc/"
+  },
+  "experience": [
+    {
+      "company": "REDBOOKS",
+      "dates": "2010 - 2018",
+      "position": "CEO"
+    },
+    {
+      "company": "Jesmar International (Karisma)",
+      "dates": "2001 - 2018",
+      "position": "Director"
+    },
+    {
+      "company": "Iroquois Capital (Vertical Ventures)",
+      "dates": "2001 - 2006",
+      "position": "Partner / Analyst"
+    },
+    {
+      "company": "Trajectory Capital Management",
+      "dates": "2022 - Present",
+      "position": "Founder and Managing Partner"
+    },
+    {
+      "company": "ROBUZZ",
+      "dates": "2015 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "2048 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/2048-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$67M",
+    "investmentRange": "$300K - $600K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$450K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ellie Wheeler"
+      ],
+      "company": "Penrose Hill",
+      "date": "Jun 2015",
+      "roundSize": "$2.3M",
+      "stage": "Seed",
+      "totalRaised": "$6.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Zinier",
+      "date": "Mar 2015",
+      "roundSize": "$500K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [
+        "Sheel Mohnot (Better Tomorrow Ventures)",
+        "Bill Trenchard (First Round Capital)",
+        "Henry Fertik (Strategic Beta)",
+        "Yuri Sagalov (10100)",
+        "Gianni Martire"
+      ],
+      "company": "Flexport",
+      "date": "Sep 2014",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMm9PQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f846649913c644b2291e52ae043fd0da1079de4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-sethi",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "paul-sethi",
+  "socials": {
+    "angellist": "https://www.angel.co/paulsethi",
+    "crunchbase": "https://www.crunchbase.com/person/paul-sethi",
+    "linkedin": "https://www.linkedin.com/in/paulsethi/",
+    "twitter": "https://www.twitter.com/paulsethi",
+    "website": "https://www.2048.vc/"
+  },
+  "scraped_at": "2026-02-27T03:32:55.732602"
+}

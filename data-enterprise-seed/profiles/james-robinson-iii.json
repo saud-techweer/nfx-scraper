@@ -1,0 +1,151 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "James Robinson III",
+    "website": "https://rre.com/team/james-d-robinson-iii"
+  },
+  "experience": [
+    {
+      "company": "American Express",
+      "dates": "1970 - 1993",
+      "position": "Former Chairman/CEO"
+    },
+    {
+      "company": "RRE Ventures",
+      "dates": "Present",
+      "position": "Gen Partner"
+    },
+    {
+      "company": "RRE Ventures",
+      "dates": "Present",
+      "position": "General Partner/Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "RRE Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/rre-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$265M",
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 24,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "First Performance Global",
+      "date": "Jan 2017",
+      "roundSize": "$18M",
+      "stage": "Venture Round",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Katie Haun (Haun Ventures)"
+      ],
+      "company": "Chain",
+      "date": "Sep 2015",
+      "roundSize": "$30M",
+      "stage": "Series C",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "K2 Intelligence",
+      "date": "Aug 2010",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Semtek Innovative Solutions",
+      "date": "Sep 2009",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Revolution Money",
+      "date": "Jun 2009",
+      "roundSize": "$15M",
+      "stage": "Series D",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "James D Robinson (RRE Ventures)",
+        "Aaron Peterman"
+      ],
+      "company": "SkyGrid",
+      "date": "Aug 2008",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "James D Robinson (RRE Ventures)",
+        "Laura B. Sachar (StarVest Partners)",
+        "Ren Riley (Fin Capital)"
+      ],
+      "company": "iCrossing",
+      "date": "Mar 2008",
+      "roundSize": "$15M",
+      "stage": "Series F",
+      "totalRaised": "$110M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PrimeRevenue",
+      "date": "Jul 2007",
+      "roundSize": "$10M",
+      "stage": "Series B",
+      "totalRaised": "$22M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0VaQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9ead21db4132950670b487513321df7ac883b7d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-robinson-iii",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "james-robinson-iii",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/james-d-robinson-iii",
+    "linkedin": "https://www.linkedin.com/pub/james-d-robinson-111/23/625/108/",
+    "twitter": "https://www.twitter.com/JDRIII",
+    "website": "https://www.rre.com/team/james-d-robinson-iii"
+  },
+  "scraped_at": "2026-02-27T22:30:54.701739"
+}

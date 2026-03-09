@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Adrian Petersen",
+    "website": "https://www.afterwork.vc/who-we-are#"
+  },
+  "experience": [
+    {
+      "company": "The Fund",
+      "dates": "2020 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2020 - Present",
+      "position": "Mentor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AfterWork Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/afterwork-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$30M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0g5QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b635972f9f1be4e63675b3174394bde68095061a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adrian-petersen",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "adrian-petersen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/adrianmpetersen",
+    "crunchbase": "https://www.crunchbase.com/person/adrian-petersen",
+    "linkedin": "https://www.linkedin.com/in/adrianpetersen93/",
+    "twitter": "https://www.twitter.com/adrianmpetersen",
+    "website": "https://www.afterwork.vc/who-we-are"
+  },
+  "scraped_at": "2026-02-27T19:55:32.852338"
+}

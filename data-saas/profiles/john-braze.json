@@ -1,0 +1,249 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Strategy Operator",
+      "Growth Operator",
+      "Product Operator"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "John Braze",
+    "positionAndFirm": "Investing in companies that deepen interactions among  machines, humans, technology, and society through communication,  collaboration, and convening.",
+    "signalScore": 593,
+    "website": "https://www.mirmeridian.com/"
+  },
+  "experience": [
+    {
+      "company": "Varian Medical Systems",
+      "dates": "2009 - 2017",
+      "position": "Worldwide Advanced Support, Protons"
+    },
+    {
+      "company": "United States Navy",
+      "dates": "1990 - 1996",
+      "position": "Fast Attack Nuclear Submarine Service"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MIR Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mir-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Rapid Flow Technologies",
+      "date": "Jun 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "RoadBotics",
+      "date": "Nov 2018",
+      "roundSize": null,
+      "stage": "Seed Equity",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Health Hero",
+      "date": "Aug 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Adam Lisagor"
+      ],
+      "company": "Qorum",
+      "date": "Apr 2018",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Barrel Park Investments",
+      "date": "Nov 2017",
+      "roundSize": null,
+      "stage": "SAFE",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "OneKloud",
+      "date": "Jun 2017",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Frank Gruber (NextGen Venture Partners)",
+        "Kurt Bilafer",
+        "Asher Leids"
+      ],
+      "company": "Klickly",
+      "date": "Aug 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Motion2AI",
+      "date": "N/A",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBay9iIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3bb6d01fe02b7a8688be50758155b15ba7010ee5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-braze",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-braze",
+  "socials": {
+    "angellist": "https://www.angel.co/ja_braze",
+    "crunchbase": "https://www.crunchbase.com/person/john-braze",
+    "linkedin": "https://www.linkedin.com/in/jbraze/",
+    "website": "https://www.mirmeridian.com/"
+  },
+  "scraped_at": "2026-02-27T01:12:37.126149"
+}

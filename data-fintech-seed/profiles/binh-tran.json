@@ -1,0 +1,245 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Binh Tran",
+    "signalScore": 586,
+    "website": "https://avv.co/"
+  },
+  "experience": [
+    {
+      "company": "Klout",
+      "dates": "2008 - 2014",
+      "position": "CTO / Co-founder"
+    },
+    {
+      "company": "500 Startups Vietnam",
+      "dates": "Present",
+      "position": "Co-founder and GP"
+    },
+    {
+      "company": "Ascend Vietnam Ventures",
+      "dates": "Present",
+      "position": "Co-founder and GP"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ascend Vietnam Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ascend-vietnam-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Kleida Martiro (Glasswing Ventures)"
+      ],
+      "company": "Retrocausal",
+      "date": "Jun 2020",
+      "roundSize": "$750K",
+      "stage": "Pre Seed",
+      "totalRaised": "$8.8M"
+    },
+    {
+      "coInvestors": [
+        "Steven Abrams (BDC Venture Capital)",
+        "David Lau-Kee",
+        "Joao Otavio Oliverio",
+        "Brad Lewthwaite"
+      ],
+      "company": "Bunch",
+      "date": "Nov 2018",
+      "roundSize": "$3.8M",
+      "stage": "Seed",
+      "totalRaised": "$33M"
+    },
+    {
+      "coInvestors": [
+        "Ivan Zolochevskii (Altaclub VC)",
+        "Eddie Thai (Ascend Vietnam Ventures)",
+        "Dmitry Alimov (Frontier Ventures)",
+        "Kintan Brahmbhatt",
+        "Evan Lee",
+        "Mathieu Guerville",
+        "Julian Wright",
+        "Marty Weiss"
+      ],
+      "company": "Turing.com",
+      "date": "Oct 2018",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$51M"
+    },
+    {
+      "coInvestors": [
+        "Chandra Tjan (Alpha JWC Ventures)"
+      ],
+      "company": "Base.vn",
+      "date": "Aug 2018",
+      "roundSize": "$100K",
+      "stage": "Seed Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Vagan Khranyan (CM Ventures)"
+      ],
+      "company": "Productfy",
+      "date": "Jul 2018",
+      "roundSize": "$100K",
+      "stage": "Pre Seed",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Amanda Donohue-Hansen (Sandbox Industries)"
+      ],
+      "company": "Copper Cow Coffee",
+      "date": "Mar 2018",
+      "roundSize": "$150K",
+      "stage": "Seed Round",
+      "totalRaised": "$9.2M"
+    },
+    {
+      "coInvestors": [
+        "Scott Stern (Origin Ventures)"
+      ],
+      "company": "Lumanu",
+      "date": "Sep 2017",
+      "roundSize": "$150K",
+      "stage": "Pre-seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Eddie Thai (Ascend Vietnam Ventures)"
+      ],
+      "company": "Applyboard",
+      "date": "Jul 2017",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1JGQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c608ce274c26f3cd4d660a8551b6f04ea4c5c5b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/binh-tran",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "binh-tran",
+  "socials": {
+    "angellist": "https://www.angel.co/binhtran",
+    "crunchbase": "https://www.crunchbase.com/person/binh-tran",
+    "linkedin": "https://www.linkedin.com/in/binhqtran/",
+    "twitter": "https://www.twitter.com/binhtran",
+    "website": "https://www.avv.co/"
+  },
+  "scraped_at": "2026-02-11T11:08:02.941432"
+}

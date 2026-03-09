@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Alex Franz"
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "dates": "2000 - 2010",
+      "position": "Research Scientist"
+    },
+    {
+      "company": "Sony Electronics",
+      "dates": "1998 - 2000",
+      "position": "Manager, Natural Language Processing"
+    },
+    {
+      "company": "Sony",
+      "dates": "1995 - 1998",
+      "position": "Research Scientist"
+    },
+    {
+      "company": "Carnegie Mellon University",
+      "dates": "1993 - 1995",
+      "position": "Research Computational Linguist"
+    }
+  ],
+  "investingProfile": {},
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/alex-franz",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alex-franz",
+  "socials": {
+    "angellist": "https://www.angel.co/alex-franz",
+    "crunchbase": "https://www.crunchbase.com/person/alex-franz",
+    "linkedin": "https://www.linkedin.com/pub/alex-franz/0/95/712/"
+  },
+  "scraped_at": "2026-02-27T23:54:20.020814"
+}

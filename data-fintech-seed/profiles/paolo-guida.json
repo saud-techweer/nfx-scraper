@@ -1,0 +1,221 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Zurich",
+    "name": "Paolo Guida",
+    "positionAndFirm": "We wanted flying cars, instead we got 140 characters",
+    "signalScore": 294,
+    "website": "https://bvventures.ch/"
+  },
+  "experience": [
+    {
+      "company": "Taggalo",
+      "dates": "2014 - 2018",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Jusp",
+      "dates": "2012 - 2014",
+      "position": "CFO / Business Development"
+    },
+    {
+      "company": "Eidos Partners",
+      "dates": "2010 - 2012",
+      "position": "Advisory and Principal Investments"
+    },
+    {
+      "company": "Privet Capital",
+      "dates": "2009 - 2010",
+      "position": "Investment Director"
+    },
+    {
+      "company": "Lehman Brothers",
+      "dates": "2006 - 2008",
+      "position": "Associate FIG"
+    },
+    {
+      "company": "Value Partners",
+      "dates": "2003 - 2006",
+      "position": "Senior Engagement Manager"
+    },
+    {
+      "company": "Arthur D. Little",
+      "dates": "1999 - 2001",
+      "position": "Manager"
+    },
+    {
+      "company": "Gemini Consulting",
+      "dates": "1997 - 1999",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "Blockchain Valley Ventures",
+      "dates": "2018 - Present",
+      "position": "Head of Investments"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blockchain Valley Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/blockchain-valley-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Infinigold",
+      "date": "Feb 2021",
+      "roundSize": "$6.3M",
+      "stage": "Round A",
+      "totalRaised": "$6.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Coadjute",
+      "date": "Nov 2020",
+      "roundSize": "$4.1M",
+      "stage": "Seed",
+      "totalRaised": "$4.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Coinfirm",
+      "date": "Jan 2020",
+      "roundSize": "$4M",
+      "stage": "Round A",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Measure Protocol",
+      "date": "Jan 2020",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Keyless",
+      "date": "Nov 2019",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Algotrader",
+      "date": "Oct 2019",
+      "roundSize": "$3.7M",
+      "stage": "Round A",
+      "totalRaised": "$3.7M"
+    },
+    {
+      "coInvestors": [
+        "Aneel Lakhani (Crane Venture Partners)"
+      ],
+      "company": "Veratrak",
+      "date": "Apr 2019",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$7.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Peddler",
+      "date": "Feb 2019",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDZlQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5607aa17b4a2db6f79613f2fca2b6d110a765f0c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paolo-guida",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paolo-guida",
+  "socials": {
+    "angellist": "https://www.angel.co/u/paolo-guida",
+    "crunchbase": "https://www.crunchbase.com/person/paolo-guida",
+    "linkedin": "https://www.linkedin.com/in/pguida/",
+    "twitter": "https://www.twitter.com/PaoloGuida11",
+    "website": "https://www.bvventures.ch/"
+  },
+  "scraped_at": "2026-03-03T23:07:58.038810"
+}

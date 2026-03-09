@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Devdutt Yellurkar",
+    "signalScore": 4,
+    "website": "https://propellervc.com/"
+  },
+  "experience": [
+    {
+      "company": "Rho Ventures",
+      "dates": "2006 - 2008",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Sterling Commerce",
+      "dates": "2005 - 2006",
+      "position": "Chief Strategy Officer"
+    },
+    {
+      "company": "Yantra Corporation",
+      "dates": "1995 - 2005",
+      "position": "co-founder / CEO"
+    },
+    {
+      "company": "Infosys",
+      "dates": "1987 - 1995",
+      "position": "SVP Sales & Marketing"
+    },
+    {
+      "company": "CRV (Charles River Ventures)",
+      "dates": "2008 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Propeller VC",
+      "firmUrl": "https://signal.nfx.com/firms/propeller-vc",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $20.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$13.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Alex Taussig (Lightspeed Venture Partners)",
+        "Paul Maeder (Highland Capital Partners)"
+      ],
+      "company": "Rethink Robotics",
+      "date": "Nov 2010",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEhMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--41692fa4152537807f2c395b67a4be403e0ee5a3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/devdutt-yellurkar",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "devdutt-yellurkar",
+  "socials": {
+    "angellist": "https://www.angel.co/devdutt-yellurkar",
+    "crunchbase": "https://www.crunchbase.com/person/devdutt-yellurkar",
+    "linkedin": "https://www.linkedin.com/pub/devdutt-yellurkar/5/972/6a1/",
+    "twitter": "https://www.twitter.com/devdutt",
+    "website": "https://www.propellervc.com/"
+  },
+  "scraped_at": "2026-02-26T10:24:38.158988"
+}

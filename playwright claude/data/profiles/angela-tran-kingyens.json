@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Angela Tran",
+    "signalScore": 560,
+    "website": "https://versionone.vc/"
+  },
+  "experience": [
+    {
+      "company": "Computer History Museum",
+      "dates": "2014 - 2019",
+      "position": "NextGen Advisory Board Member"
+    },
+    {
+      "company": "Insight Data Science",
+      "dates": "2012 - 2013",
+      "position": "Partner"
+    },
+    {
+      "company": "The C100",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Computer History Museum",
+      "dates": "2019 - Present",
+      "position": "Trustee"
+    },
+    {
+      "company": "Computer History Museum",
+      "dates": "2019 - Present",
+      "position": "NextGen Advisory Board Chair"
+    },
+    {
+      "company": "Creative Destruction Lab",
+      "dates": "2017 - Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Version One Ventures",
+      "dates": "2013 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Insight Data Science",
+      "dates": "2013 - Present",
+      "position": "Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Version One Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/version-one-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$70M",
+    "investmentRange": "$500K - $750K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$625K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Boris Wertz (Version One Ventures)",
+        "Phil Nadel (Forefront Venture Partners)"
+      ],
+      "company": "DemandStar Corporation",
+      "date": "Jun 2020",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Fabrice Grinda (FJ Labs)",
+        "Scott Friend (Bain Capital Ventures)",
+        "Reed Duchscher (Night Ventures)",
+        "Alex Chung (Curious Capital)",
+        "Serena Williams (Serena Ventures)",
+        "Josh Richards (REMUS Capital)",
+        "Guy Oseary (Sound Ventures)",
+        "Jeff Fluhr (Craft Ventures)",
+        "Baron Davis",
+        "Logan Paul",
+        "Pir Granoff",
+        "Brian Sugar",
+        "Ian Borthwick",
+        "Casey Neistat"
+      ],
+      "company": "Lolli",
+      "date": "May 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$31M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGVBQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--25cc416597522832b24cdffcdcd250e0868d45e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/angela-tran-kingyens",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "angela-tran-kingyens",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ange-tran",
+    "crunchbase": "https://www.crunchbase.com/person/angela-tran-kingyens",
+    "linkedin": "https://www.linkedin.com/in/angela-tran-38262131/",
+    "twitter": "https://www.twitter.com/angelatytran",
+    "website": "https://www.versionone.vc/"
+  },
+  "scraped_at": "2026-02-11T10:03:04.738421"
+}

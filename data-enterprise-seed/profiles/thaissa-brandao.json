@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Rio De Janeiro, Brazil",
+    "name": "Thaissa Brandão",
+    "website": "https://globoventures.globo.com/"
+  },
+  "experience": [
+    {
+      "company": "Piemonte Holding",
+      "dates": "Present",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Globo Ventures",
+      "dates": "Present",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "Grupo Globo - Mídia e Conteúdo",
+      "dates": "Present",
+      "position": "Senior Business Development Analyst"
+    },
+    {
+      "company": "Piemonte Holding",
+      "dates": "Present",
+      "position": "Investment Banking Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Globo Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/globo-ventures",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/thaissa-brandao",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "thaissa-brandao",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/thaissabrandao/?originalSubdomain=br",
+    "website": "https://globoventures.globo.com/"
+  },
+  "scraped_at": "2026-02-28T05:37:13.547188"
+}

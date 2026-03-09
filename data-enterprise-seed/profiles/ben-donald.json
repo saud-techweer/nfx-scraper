@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Ben Donald",
+    "positionAndFirm": "Chief Of Staff, Area 120 at Google",
+    "website": "https://area120.google.com/"
+  },
+  "experience": [
+    {
+      "company": "Bessemer Venture Partners",
+      "dates": "2015 - 2017",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Area 120",
+      "firmUrl": "https://signal.nfx.com/firms/area-120",
+      "position": "Investor"
+    },
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2JSQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--39150635be4ba74a3ffd0efcf865a6773d9decb7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ben-donald",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ben-donald",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ben-donald",
+    "crunchbase": "https://www.crunchbase.com/person/ben-donald",
+    "linkedin": "https://www.linkedin.com/in/benldonald/",
+    "twitter": "https://www.twitter.com/benldonald",
+    "website": "https://area120.google.com/"
+  },
+  "scraped_at": "2026-02-27T20:36:54.233702"
+}

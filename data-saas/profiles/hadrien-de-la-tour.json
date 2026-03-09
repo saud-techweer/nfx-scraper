@@ -1,0 +1,184 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Luxembourg City, Luxembourg",
+    "name": "Hadrien de La Tour",
+    "website": "http://dufinvestments.com/"
+  },
+  "experience": [
+    {
+      "company": "Forbes",
+      "dates": "2020 - 2021",
+      "position": "30 Under 30 - Entrepreneur"
+    },
+    {
+      "company": "Bryan, Garnier & Co",
+      "dates": "2016 - 2018",
+      "position": "Equity distribution / Healthcare spec sales"
+    },
+    {
+      "company": "ODDO BHF",
+      "dates": "2014 - 2016",
+      "position": "Syndication / ECM (Focus on Healthcare)"
+    },
+    {
+      "company": "TimesSquare Capital Management, LLC",
+      "dates": "2013 - 2014",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "LaTour Media Group",
+      "dates": "2023 - Present",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Terres Rouges - Scénographie Urbaine",
+      "dates": "2023 - Present",
+      "position": "President"
+    },
+    {
+      "company": "Seiki",
+      "dates": "2023 - Present",
+      "position": "President"
+    },
+    {
+      "company": "off&away",
+      "dates": "2022 - Present",
+      "position": "Co-founder & President"
+    },
+    {
+      "company": "Caocao Mobility France",
+      "dates": "2022 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "CovWorld",
+      "dates": "2021 - Present",
+      "position": "Founder & Owner"
+    },
+    {
+      "company": "Adriver Group",
+      "dates": "2019 - Present",
+      "position": "Founder & President"
+    },
+    {
+      "company": "DuF Investments Group",
+      "dates": "2016 - Present",
+      "position": "Founder & Owner"
+    },
+    {
+      "company": "FrenchFounders",
+      "dates": "2016 - Present",
+      "position": "Active Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DuF Investments",
+      "firmUrl": "https://signal.nfx.com/firms/duf-investments",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWs0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fccb07493b5af75a1b5779d624b90710dde5b092/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hadrien-de-la-tour",
+  "sectorRankings": [
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "hadrien-de-la-tour",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/hadrien-de-la-tour-9a71b274/",
+    "twitter": "https://www.twitter.com/Hadriendelatour/",
+    "website": "https://www.dufinvestments.com/"
+  },
+  "scraped_at": "2026-02-27T00:17:45.571777"
+}

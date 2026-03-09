@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "name": "Fred Campbell",
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "website": "https://tracvc.com/",
+    "location": "San Francisco, California"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TRAC (Third Round Analytics Capital)",
+      "firmUrl": "https://signal.nfx.com/firms/trac-third-round-analytics-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$625K"
+  },
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [],
+  "socials": {
+    "website": "https://www.tracvc.com/",
+    "linkedin": "https://www.linkedin.com/in/fred-campbell-3bb0731b/",
+    "crunchbase": "https://www.crunchbase.com/person/fred-campbell-5f3e"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2ZuQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--51018afede14696623a4f17df76af67f4fcfb2cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fred-campbell",
+  "slug": "fred-campbell",
+  "scraped_at": "2026-02-24T11:07:07.328502"
+}

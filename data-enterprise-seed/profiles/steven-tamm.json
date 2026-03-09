@@ -1,0 +1,74 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Steven Tamm",
+    "signalScore": 8
+  },
+  "experience": [
+    {
+      "company": "Salesforce.com",
+      "dates": "2004 - 2010",
+      "position": "Principal Architect"
+    },
+    {
+      "company": "IXOS Software AG/OpenText",
+      "dates": "2002 - 2004",
+      "position": "Lead Architect"
+    },
+    {
+      "company": "SAP Markets",
+      "dates": "2001 - 2002",
+      "position": "Sr Software Engineer"
+    },
+    {
+      "company": "Calico Commerce",
+      "dates": "1997 - 2001",
+      "position": "Sr Software Engineer"
+    },
+    {
+      "company": "Salesforce",
+      "dates": "2004 - Present",
+      "position": "Chief Technology Officer"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$10K - $150K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMU11QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cbc4902597d4a2097064a06c99c6ea7e9e0b3f5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/steven-tamm",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "steven-tamm",
+  "socials": {
+    "angellist": "https://www.angel.co/steventamm",
+    "crunchbase": "https://www.crunchbase.com/person/steven-tamm",
+    "linkedin": "https://www.linkedin.com/in/steventamm/",
+    "twitter": "https://www.twitter.com/tammforce"
+  },
+  "scraped_at": "2026-02-28T14:05:55.051911"
+}

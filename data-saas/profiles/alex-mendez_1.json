@@ -1,0 +1,141 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Alex Mendez",
+    "signalScore": 17,
+    "website": "https://www.stormventures.com/author/alex/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Storm Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/storm-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$130.4M",
+    "investmentsOnRecord": 22
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Walter Kortschak (Summit Partners)"
+      ],
+      "company": "Rafter",
+      "date": "Sep 2012",
+      "roundSize": "$20M",
+      "stage": "Series D",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [
+        "David Hartwig (Sapphire Ventures)"
+      ],
+      "company": "Qumu",
+      "date": "Sep 2010",
+      "roundSize": "$8.8M",
+      "stage": "Debt Financing",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [
+        "Sanjay Subhedar (Storm Ventures)"
+      ],
+      "company": "Bivio Networks",
+      "date": "Dec 2008",
+      "roundSize": "$16M",
+      "stage": "Venture Round",
+      "totalRaised": "$61M"
+    },
+    {
+      "coInvestors": [],
+      "company": "3Leaf",
+      "date": "Sep 2008",
+      "roundSize": "$35M",
+      "stage": "Series C",
+      "totalRaised": "$65M"
+    },
+    {
+      "coInvestors": [
+        "Douglas Carlisle"
+      ],
+      "company": "Cellfire",
+      "date": "Feb 2008",
+      "roundSize": "$12M",
+      "stage": "Series C",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Jangl",
+      "date": "Jul 2006",
+      "roundSize": "$7M",
+      "stage": "Series B",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Venturi Wireless",
+      "date": "Jan 2005",
+      "roundSize": "$10M",
+      "stage": "Series C",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Matthew Howard (Norwest Venture Partners)"
+      ],
+      "company": "Airespace",
+      "date": "Jul 2004",
+      "roundSize": "$20M",
+      "stage": "Series D",
+      "totalRaised": "$62M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNklLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7868b9c050da1467517969933d1bd901a12fc6f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-mendez_1",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "alex-mendez_1",
+  "socials": {
+    "angellist": "https://www.angel.co/alexmendez",
+    "crunchbase": "https://www.crunchbase.com/person/alex-mendez",
+    "linkedin": "https://www.linkedin.com/in/alexmendez/",
+    "twitter": "https://www.twitter.com/alexstormvc",
+    "website": "https://www.stormventures.com/author/alex/"
+  },
+  "scraped_at": "2026-02-26T06:43:04.395165"
+}

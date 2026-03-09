@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Avidan Ross",
+    "website": "https://root.vc/"
+  },
+  "experience": [
+    {
+      "company": "The CIM Group",
+      "dates": "2004 - 2012",
+      "position": "Chief Technology Officer / Investments"
+    },
+    {
+      "company": "WHW Capital",
+      "dates": "2002 - 2004",
+      "position": "Director of Technology"
+    },
+    {
+      "company": "Excite@Home",
+      "dates": "2000 - 2000",
+      "position": "Network / Hardware Engineer"
+    },
+    {
+      "company": "Root Ventures",
+      "dates": "2011 - Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Root Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/root-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$150M",
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Shaper",
+      "date": "Aug 2014",
+      "roundSize": null,
+      "stage": "Angel Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkFFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f84452ca2a183515878223a86beab9817efce249/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/avidan-ross",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "avidan-ross",
+  "socials": {
+    "angellist": "https://www.angel.co/avidan",
+    "crunchbase": "https://www.crunchbase.com/person/avidan-ross",
+    "linkedin": "https://www.linkedin.com/in/avidanross/",
+    "twitter": "https://www.twitter.com/avidanross",
+    "website": "https://www.root.vc/"
+  },
+  "scraped_at": "2026-02-27T20:32:33.842218"
+}

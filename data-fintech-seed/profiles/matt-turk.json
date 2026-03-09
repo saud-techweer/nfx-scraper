@@ -1,0 +1,141 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Scout",
+      "Angel",
+      "Engineering Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Matt Turk",
+    "signalScore": 7,
+    "website": "https://cleanlab.ai/"
+  },
+  "experience": [
+    {
+      "company": "Coinbase",
+      "dates": "2021 - 2022",
+      "position": "Quant Researcher"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2018 - 2021",
+      "position": "Quant Researcher"
+    },
+    {
+      "company": "DeepChecks",
+      "dates": "2025 - Present",
+      "position": "Scout"
+    },
+    {
+      "company": "Cleanlab",
+      "dates": "2024 - Present",
+      "position": "Senior Data Scientist"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$50K - $10.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Supachai Kid Parchariyanon (SeaX Ventures)"
+      ],
+      "company": "Koywe",
+      "date": "Mar 2023",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Double",
+      "date": "Aug 2018",
+      "roundSize": "$1.6M",
+      "stage": "Pre Seed Round",
+      "totalRaised": "$1.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Minerva",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "InvestEd",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTk2QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c3e3bc900d1163d79366a1eeb5e77bd3c1eabdf/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matt-turk",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "matt-turk",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/mturk24/",
+    "twitter": "https://www.twitter.com/turkmatthew",
+    "website": "https://www.cleanlab.ai/"
+  },
+  "scraped_at": "2026-03-03T22:22:36.292039"
+}

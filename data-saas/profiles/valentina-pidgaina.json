@@ -1,0 +1,132 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Scout",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Valentina Pidgaina",
+    "signalScore": 478,
+    "website": "https://vibranium.vc/"
+  },
+  "experience": [
+    {
+      "company": "MTS StartUp Hub",
+      "dates": "2020 - 2021",
+      "position": "Scout"
+    },
+    {
+      "company": "GVA - Global Venture Alliance",
+      "dates": "2016 - 2020",
+      "position": "Project Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Vibranium.VC",
+      "firmUrl": "https://signal.nfx.com/firms/vibranium-vc",
+      "position": "Scout"
+    },
+    "fundSize": "$621B",
+    "investmentRange": "$200K - $500K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Zamir Shukho (Vibranium.VC)",
+        "Valentyna Pidgaina",
+        "Ella Shukho"
+      ],
+      "company": "MotionRay",
+      "date": "May 2022",
+      "roundSize": "$250K",
+      "stage": "Seed",
+      "totalRaised": "$250K"
+    },
+    {
+      "coInvestors": [
+        "Zamir Shukho (Vibranium.VC)",
+        "Ella Shukho",
+        "Valentyna Pidgaina"
+      ],
+      "company": "Everytale",
+      "date": "Apr 2022",
+      "roundSize": "$200K",
+      "stage": "Seed",
+      "totalRaised": "$200K"
+    },
+    {
+      "coInvestors": [
+        "Chris Cunningham (C2Ventures)",
+        "Sandy Cass (Red Swan Ventures)",
+        "Zamir Shukho (Vibranium.VC)"
+      ],
+      "company": "Otis",
+      "date": "N/A",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [
+        "Zamir Shukho (Vibranium.VC)"
+      ],
+      "company": "PicUP",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Zamir Shukho (Vibranium.VC)"
+      ],
+      "company": "iSchoolConnect",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "preA",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Zamir Shukho (Vibranium.VC)"
+      ],
+      "company": "IVM Markets",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmxvQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--78e407be115e6a46c85d1b0c7db0304d3900c521/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/valentina-pidgaina",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "valentina-pidgaina",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/organization/vibranium-venture-capital",
+    "linkedin": "https://www.linkedin.com/in/valentyna-pidgaina/",
+    "twitter": "https://www.twitter.com/VPidgaina",
+    "website": "https://www.vibranium.vc/"
+  },
+  "scraped_at": "2026-02-27T05:25:42.770174"
+}

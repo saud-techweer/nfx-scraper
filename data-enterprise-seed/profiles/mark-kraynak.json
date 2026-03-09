@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Carlos, California",
+    "name": "Mark Kraynak",
+    "positionAndFirm": "Early Stage Venture Capitalist, Founding Partner at Acrew Capital",
+    "website": "https://acrewcapital.com/team/mark-kraynak/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "aCrew Capital",
+      "firmUrl": "https://signal.nfx.com/firms/acrew-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$250M",
+    "investmentRange": "$1M - $7.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0g1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e00273a51226266989830e9c05f56bca5efe2dea/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mark-kraynak",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mark-kraynak",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mark-kraynak",
+    "linkedin": "https://www.linkedin.com/in/mark-kraynak-581100/",
+    "twitter": "https://www.twitter.com/raknak",
+    "website": "https://www.acrewcapital.com/team/mark-kraynak/"
+  },
+  "scraped_at": "2026-02-27T23:36:47.787853"
+}

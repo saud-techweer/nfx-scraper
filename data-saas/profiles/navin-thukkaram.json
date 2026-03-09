@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Advisor"
+    ],
+    "location": "Utah",
+    "name": "Navin Thukkaram",
+    "positionAndFirm": "I teach entrepreneurs how to fundraise, scale, and exit like pros | $3B in exits | Investor | Advisor | Entrepreneur | 4-Step Fundraising Program",
+    "website": "https://skykick.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tim Ferriss"
+      ],
+      "company": "SkyKick",
+      "date": "May 2018",
+      "roundSize": "$40M",
+      "stage": "Venture Round",
+      "totalRaised": "$50M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3pnQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1f07979898b80937248c5c1dde91525f439ca80b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/navin-thukkaram",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "navin-thukkaram",
+  "socials": {
+    "angellist": "https://www.angel.co/p/navin-thukkaram",
+    "crunchbase": "https://www.crunchbase.com/person/navin-thukkaram",
+    "linkedin": "https://www.linkedin.com/in/navinthukkaram/",
+    "website": "https://www.skykick.com/"
+  },
+  "scraped_at": "2026-02-27T03:07:48.696369"
+}

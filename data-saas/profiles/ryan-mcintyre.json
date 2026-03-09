@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Boulder, Colorado",
+    "name": "Ryan McIntyre",
+    "website": "https://foundry.vc/"
+  },
+  "experience": [
+    {
+      "company": "Mobius Venture Capital",
+      "dates": "2000 - 2014",
+      "position": "Principal"
+    },
+    {
+      "company": "Excite@Home",
+      "dates": "1993 - 1999",
+      "position": "Principal Engineer & Co-founder"
+    },
+    {
+      "company": "Oracle Corporation",
+      "dates": "1993 - 1994",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Foundry Group",
+      "dates": "2007 - Present",
+      "position": "Managing Director, Co-Founder"
+    },
+    {
+      "company": "Excite.com",
+      "dates": "Present",
+      "position": "Co-founder and Principal Engineer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Foundry Group",
+      "firmUrl": "https://signal.nfx.com/firms/foundry-group",
+      "position": "Managing Director"
+    },
+    "fundSize": "$750M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXJaIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bdda82a15e08fb3b7767df3503983e39a361d99c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ryan-mcintyre",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ryan-mcintyre",
+  "socials": {
+    "angellist": "https://www.angel.co/p/ryan_mcintyre",
+    "crunchbase": "https://www.crunchbase.com/person/ryan-mcintyre",
+    "linkedin": "https://www.linkedin.com/in/ryanmcintyre/",
+    "twitter": "https://www.twitter.com/ryan_mcintyre",
+    "website": "https://www.foundry.vc/"
+  },
+  "scraped_at": "2026-02-27T04:15:25.706702"
+}

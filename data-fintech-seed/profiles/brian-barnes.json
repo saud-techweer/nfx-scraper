@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Brian Barnes",
+    "positionAndFirm": "Founder & CEO, M1 Finance"
+  },
+  "experience": [
+    {
+      "company": "B2 Bank",
+      "dates": "2021 - Present",
+      "position": "Owner and Chair of the Board"
+    },
+    {
+      "company": "M1",
+      "dates": "2015 - Present",
+      "position": "Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFA4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7d322453f2caf1b4af4500f9d3c20c1c88d814a2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-barnes",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "brian-barnes",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brian-barnes-1",
+    "crunchbase": "https://www.crunchbase.com/person/brian-barnes-3928",
+    "linkedin": "https://www.linkedin.com/in/brian-barnes-50903029/",
+    "twitter": "https://www.twitter.com/Barnes_M1"
+  },
+  "scraped_at": "2026-03-03T16:17:29.815851"
+}

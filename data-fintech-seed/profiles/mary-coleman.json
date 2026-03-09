@@ -1,0 +1,68 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Mary Coleman",
+    "website": "https://www.waldenintl.com/simplified/team/mary_coleman.aspx"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Walden International",
+      "firmUrl": "https://signal.nfx.com/firms/walden-international",
+      "position": "Managing Director"
+    },
+    "fundSize": "$122.6M",
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Xangati",
+      "date": "Sep 2007",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1VJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f466db1c229f4be762101099c566c2025f292828/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mary-coleman",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "mary-coleman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mary-coleman-2",
+    "linkedin": "https://www.linkedin.com/pub/mary-coleman/0/187/9b7/",
+    "website": "https://www.waldenintl.com/simplified/team/mary_coleman.aspx"
+  },
+  "scraped_at": "2026-02-27T02:32:59.576723"
+}

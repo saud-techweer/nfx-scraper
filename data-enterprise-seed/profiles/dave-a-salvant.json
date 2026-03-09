@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York City",
+    "name": "Dave A. Salvant",
+    "signalScore": 251,
+    "website": "https://thecommunity.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The Community Fund",
+      "firmUrl": "https://signal.nfx.com/firms/the-community-fund",
+      "position": "Partner"
+    },
+    "fundSize": "$5M",
+    "investmentRange": "$25K - $50K",
+    "sweetSpot": "$38K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkhqQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0d326c95f0b739d29eab7000a198d401cf0ab70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dave-a-salvant",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "dave-a-salvant",
+  "socials": {
+    "angellist": "https://www.angel.co/u/dave-salvant",
+    "crunchbase": "https://www.crunchbase.com/person/dave-salvant",
+    "linkedin": "https://www.linkedin.com/in/davesalvant/",
+    "twitter": "https://www.twitter.com/davesalvant?lang=en",
+    "website": "https://www.thecommunity.vc/"
+  },
+  "scraped_at": "2026-02-27T21:21:54.662357"
+}

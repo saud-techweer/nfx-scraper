@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "name": "Will Smith",
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "website": "https://dreamers.vc/team",
+    "location": "United States"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Dreamers VC",
+      "firmUrl": "https://signal.nfx.com/firms/dreamers-vc",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M",
+    "investmentsOnRecord": 2
+  },
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Public.com",
+      "stage": "Series B",
+      "date": "Mar 2020",
+      "roundSize": "$15M",
+      "totalRaised": "$80M",
+      "coInvestors": [
+        "Sameer Gandhi (Accel)",
+        "Ian Rountree (Cantos Ventures)",
+        "Keisuke Honda (Dreamers VC)",
+        "Jason Ostheimer (Advancit Capital)",
+        "Ian Sigalow (Greycroft)",
+        "Nina Faulhaber",
+        "Casey Neistat",
+        "Scott Belsky"
+      ]
+    },
+    {
+      "company": "Sandbox VR",
+      "stage": "Series A",
+      "date": "Oct 2019",
+      "roundSize": "$11M",
+      "totalRaised": "$11M",
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Andrew Chen (Andreessen Horowitz)",
+        "Jason Yeh (Patron)",
+        "Keisuke Honda (Dreamers VC)",
+        "Rich Kleiman (Thirty Five Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "David Sacks (Craft Ventures)",
+        "Justin Timberlake",
+        "Sung ho Choi",
+        "Katy Perry",
+        "Peter Hunn",
+        "Rudra Peram"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.dreamers.vc/team",
+    "crunchbase": "https://www.crunchbase.com/person/will-smith-7"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWl4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7193ec74287037fc12b726280d318e63208161ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/will-smith_1",
+  "slug": "will-smith_1",
+  "scraped_at": "2026-02-24T13:32:47.949704"
+}

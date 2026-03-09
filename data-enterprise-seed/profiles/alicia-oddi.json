@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Columbus, Ohio",
+    "name": "Alicia Oddi",
+    "website": "https://rev1ventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Rev1 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/rev1-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$15M",
+    "investmentRange": "$150K - $325K",
+    "sweetSpot": "$240K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM09jQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2a985e524fa3117079a7136b3776b4445d6d029f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alicia-oddi",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alicia-oddi",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alicia-oddi",
+    "linkedin": "https://www.linkedin.com/in/alicia-oddi-4a62798/",
+    "twitter": "https://www.twitter.com/aoddi",
+    "website": "https://www.rev1ventures.com/"
+  },
+  "scraped_at": "2026-02-27T20:07:44.232538"
+}

@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Antonia Heiss",
+    "website": "https://www.battery.com/people/antonia-heiss/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Battery Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/battery-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$3.8B",
+    "investmentRange": "$250K - $60.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG9BQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6263f79c94af64e8ea670c02416ef1072431a1d4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/antonia-heiss",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "antonia-heiss",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/antonia-heiss",
+    "linkedin": "https://www.linkedin.com/in/antonia-heiss-11167192/",
+    "website": "https://www.battery.com/people/antonia-heiss/"
+  },
+  "scraped_at": "2026-02-26T08:25:33.209751"
+}

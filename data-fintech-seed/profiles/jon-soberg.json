@@ -1,0 +1,175 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Jon Soberg",
+    "signalScore": 440,
+    "website": "https://jonsoberg.com/"
+  },
+  "experience": [
+    {
+      "company": "Blumberg Capital",
+      "dates": "2010 - 2014",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MS&AD Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ms-and-ad-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Konstantin von Unger"
+      ],
+      "company": "Socotra",
+      "date": "Sep 2018",
+      "roundSize": "$5.5M",
+      "stage": "Series A",
+      "totalRaised": "$5.5M"
+    },
+    {
+      "coInvestors": [
+        "Rebecca Lynn (Canvas Ventures)"
+      ],
+      "company": "Owl Cameras",
+      "date": "Aug 2018",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Tetsuro Miyatake (DG Incubation)"
+      ],
+      "company": "Qunomedical",
+      "date": "Aug 2018",
+      "roundSize": null,
+      "stage": "Bridge Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Alejandro Ponce (Ataria Ventures)"
+      ],
+      "company": "FeeX",
+      "date": "Nov 2017",
+      "roundSize": null,
+      "stage": "Venture Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Max Swicegood (Savano Capital Partners)",
+        "Neil Sirni (Arrive)"
+      ],
+      "company": "Super",
+      "date": "Nov 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$50"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaWNKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cc3d4df82aa3c74b36a0e5d6404b913a36fab479/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jon-soberg",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jon-soberg",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jpsoberg",
+    "crunchbase": "https://www.crunchbase.com/person/jon-soberg",
+    "linkedin": "https://www.linkedin.com/in/jonsoberg/",
+    "twitter": "https://www.twitter.com/Jon_Soberg",
+    "website": "https://www.jonsoberg.com/"
+  },
+  "scraped_at": "2026-03-03T21:08:44.581350"
+}

@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Maryland",
+    "name": "Jack Plank",
+    "website": "https://conversioncapital.com/people/"
+  },
+  "experience": [
+    {
+      "company": "StepStone Group",
+      "dates": "2023 - 2023",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Ridgeline",
+      "dates": "2023 - 2023",
+      "position": "Spring Analyst"
+    },
+    {
+      "company": "Conversion Capital",
+      "dates": "2021 - 2022",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Georgetown Preparatory School",
+      "dates": "2019 - 2019",
+      "position": "Campus Management and Development Intern"
+    },
+    {
+      "company": "University of Pennsylvania",
+      "dates": "2020 - Present",
+      "position": "Student-Athlete (Football)"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Conversion Capital",
+      "firmUrl": "https://signal.nfx.com/firms/conversion-capital",
+      "position": "Analyst"
+    },
+    "fundSize": "$122M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.8M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUtnQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3b80d84585020f4e0474ea20004315ee58ef2bd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-plank",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jack-plank",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jack-plank-a92587204/",
+    "twitter": "https://www.twitter.com/jackplank8",
+    "website": "https://www.conversioncapital.com/people/"
+  },
+  "scraped_at": "2026-02-27T22:26:01.615675"
+}

@@ -1,0 +1,52 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Scout"
+    ],
+    "location": "United States",
+    "name": "Kenneth Aucoin III",
+    "website": "https://www.sweaterventures.com/"
+  },
+  "experience": [
+    {
+      "company": "GoAhead Ventures",
+      "dates": "2022 - Present",
+      "position": "Investment Scout"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sweater Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sweater-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$620B",
+    "investmentRange": "$250K - $500K",
+    "sweetSpot": "$375K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1dpQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--29cc0fc98bb8661ad5f587afed4cd9c37d95b79b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kenneth-aucoin-iii",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "kenneth-aucoin-iii",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kenneth-aucoin-iii-47b7851a7/",
+    "website": "https://www.sweaterventures.com/"
+  },
+  "scraped_at": "2026-03-03T21:33:13.181643"
+}

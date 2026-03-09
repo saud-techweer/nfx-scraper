@@ -1,0 +1,147 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Former CEO"
+    ],
+    "location": "Santiago, Chile",
+    "name": "Alejandro Carboni Llanet",
+    "website": "https://www.impacta.vc/"
+  },
+  "experience": [
+    {
+      "dates": "1994 - 2002",
+      "title": "McKinsey & Company"
+    },
+    {
+      "dates": "2023 - Present",
+      "title": "Impacta VC"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Impacta VC",
+      "firmUrl": "https://signal.nfx.com/firms/impacta-vc",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "John Newkirk (Kamay Ventures)"
+      ],
+      "company": "Muta",
+      "date": "Jun 2023",
+      "roundSize": "$180K",
+      "stage": "Pre Seed",
+      "totalRaised": "$180K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Wheel the World",
+      "date": "Mar 2023",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Carryt",
+      "date": "Jul 2021",
+      "roundSize": "$900K",
+      "stage": "Seed",
+      "totalRaised": "$900K"
+    },
+    {
+      "coInvestors": [
+        "Jose Luis Silva (Dux Capital)"
+      ],
+      "company": "Mozper",
+      "date": "Dec 2020",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$5.4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Betterfly",
+      "date": "Oct 2018",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "John Newkirk (Kamay Ventures)"
+      ],
+      "company": "Kilimo",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Capitalizarme",
+      "date": "Dec 2017",
+      "roundSize": "$1M",
+      "stage": "Series Unknown",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOW9MQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c2a87727c0211f393c5e9b784242f96e5b76535d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alejandro-carboni",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    }
+  ],
+  "slug": "alejandro-carboni",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/alejandrocarbonillanet/",
+    "website": "https://www.impacta.vc/"
+  },
+  "scraped_at": "2026-02-26T08:10:43.223519"
+}

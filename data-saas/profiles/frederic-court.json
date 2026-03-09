@@ -1,0 +1,120 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "London",
+    "name": "Frederic Court",
+    "signalScore": 46,
+    "website": "https://www.felixcap.com/frederic-court/"
+  },
+  "experience": [
+    {
+      "company": "Etexx",
+      "dates": "1999 - 2001",
+      "position": "Entrepreneur"
+    },
+    {
+      "company": "Lazard",
+      "dates": "1994 - 1999",
+      "position": "Investment Banker"
+    },
+    {
+      "company": "Felix Capital",
+      "dates": "2014 - Present",
+      "position": "Founder and Managing Partner"
+    },
+    {
+      "company": "Advent Venture Partners",
+      "dates": "2001 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Felix Capital",
+      "firmUrl": "https://signal.nfx.com/firms/felix-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$600M",
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tony Florence (New Enterprise Associates (NEA))",
+        "Nicole Quinn (Lightspeed Venture Partners)"
+      ],
+      "company": "Goop",
+      "date": "Mar 2018",
+      "roundSize": "$50M",
+      "stage": "Series C",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [
+        "Stacey Bishop (Scale Venture Partners)"
+      ],
+      "company": "Vitrue",
+      "date": "Feb 2011",
+      "roundSize": "$17M",
+      "stage": "Series C",
+      "totalRaised": "$27M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcVVKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--619ceb4d55d7ffced9a2c3b2c647b4f50e9b25c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/frederic-court",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Fashion (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "frederic-court",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/frdric-court",
+    "linkedin": "https://www.linkedin.com/in/fredericcourt/",
+    "website": "https://www.felixcap.com/frederic-court/"
+  },
+  "scraped_at": "2026-02-27T00:00:32.105250"
+}

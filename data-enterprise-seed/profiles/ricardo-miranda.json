@@ -1,0 +1,68 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "CEO"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Ricardo Miranda",
+    "website": "https://bossainvest.com/agtech/"
+  },
+  "experience": [
+    {
+      "company": "AgroNeural",
+      "dates": "2020 - Present",
+      "position": "CEO & Co-Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bossanova Investimentos",
+      "firmUrl": "https://signal.nfx.com/firms/bossa-nova",
+      "position": "Investor"
+    },
+    "investmentRange": "$17K - $88K",
+    "sweetSpot": "$53K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLysyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d405724252e1a98f782c8d069d22d8aca7785b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ricardo-miranda",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ricardo-miranda",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ricardo-miranda-agro/",
+    "website": "https://www.bossainvest.com/agtech/"
+  },
+  "scraped_at": "2026-02-28T02:46:13.943659"
+}

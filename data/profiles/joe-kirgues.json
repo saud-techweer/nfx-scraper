@@ -1,0 +1,248 @@
+{
+  "basicInfo": {
+    "name": "Joe Kirgues",
+    "signalScore": 136,
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "website": "https://www.gener8tor.com/",
+    "location": "Milwaukee, Wisconsin"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "gener8tor",
+      "firmUrl": "https://signal.nfx.com/firms/gener8tor",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $100K",
+    "sweetSpot": "$100K",
+    "investmentsOnRecord": 16
+  },
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-pre-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Even",
+      "stage": "Accelerator",
+      "date": "Dec 2021",
+      "roundSize": null,
+      "totalRaised": "$5M",
+      "coInvestors": [
+        "Elizabeth Caven (Next Level Ventures)"
+      ]
+    },
+    {
+      "company": "Brandefy",
+      "stage": "Accelerator",
+      "date": "Jan 2021",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Dustin Dunbar (01 Ventures)"
+      ]
+    },
+    {
+      "company": "Sigo Seguros",
+      "stage": "Accelerator",
+      "date": "Dec 2020",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Pear Commerce",
+      "stage": "Accelerator",
+      "date": "Jan 2019",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Fiveable",
+      "stage": "Accelerator",
+      "date": "Dec 2017",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Kimmy Paluch (Beta Boom)",
+        "Sergio Paluch (Beta Boom)"
+      ]
+    },
+    {
+      "company": "PAXAFE",
+      "stage": "Accelerator",
+      "date": "Jul 2017",
+      "roundSize": null,
+      "totalRaised": "$9M",
+      "coInvestors": [
+        "Harkirat Ahluwalia (Framework Venture Partners)",
+        "Peter Misek (Framework Venture Partners)"
+      ]
+    },
+    {
+      "company": "FactoryFix",
+      "stage": "Accelerator",
+      "date": "May 2017",
+      "roundSize": null,
+      "totalRaised": "$1M",
+      "coInvestors": [
+        "Doug Berg"
+      ]
+    },
+    {
+      "company": "Player’s Health",
+      "stage": "Accelerator",
+      "date": "Dec 2016",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Cofounder",
+      "company": "gener8tor",
+      "dates": "2012 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.gener8tor.com/",
+    "linkedin": "https://www.linkedin.com/in/joekirgues/",
+    "angellist": "https://www.angel.co/p/jkirgues",
+    "crunchbase": "https://www.crunchbase.com/person/joe-kirgues"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU5wQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--da552aa00db9bf99281aec8e0e3c6365c0c29283/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joe-kirgues",
+  "slug": "joe-kirgues",
+  "scraped_at": "2026-02-24T11:33:07.431510"
+}

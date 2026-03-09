@@ -1,0 +1,113 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Samuel Clemens",
+    "website": "https://accomplice.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Accomplice VC",
+      "firmUrl": "https://signal.nfx.com/firms/accomplice-vc",
+      "position": "Partner"
+    },
+    "investmentRange": "$1.5M - $3.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andrew Peterson (Sweater Ventures)"
+      ],
+      "company": "1up",
+      "date": "Nov 2023",
+      "roundSize": "$3M",
+      "stage": "Pre Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Scot Wingo",
+        "Christian Bach"
+      ],
+      "company": "Wrangle",
+      "date": "Jan 2022",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Matt Scott (Alumni Ventures )",
+        "Omar Darwazah (AAF Management Ltd.)"
+      ],
+      "company": "NeighborSchools",
+      "date": "Oct 2019",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [
+        "Diogo Monica (Haun Ventures)",
+        "John Zannos (Inflection)",
+        "Jutta Steiner"
+      ],
+      "company": "Privy",
+      "date": "Oct 2018",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMi8yQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--20396b1c6a569d45d5df9bfc5edd0004fd665e72/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/samuel-clemens",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "samuel-clemens",
+  "socials": {
+    "angellist": "https://www.angel.co/p/samuel-clemens",
+    "crunchbase": "https://www.crunchbase.com/person/samuel-clemens",
+    "linkedin": "https://www.linkedin.com/in/sclemens/",
+    "twitter": "https://www.twitter.com/scclemens",
+    "website": "https://www.accomplice.co/"
+  },
+  "scraped_at": "2026-02-12T10:35:45.870404"
+}

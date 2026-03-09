@@ -1,0 +1,157 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "AJ Solimine",
+    "signalScore": 183,
+    "website": "https://script.capital/"
+  },
+  "experience": [
+    {
+      "company": "Nitrous Inc.",
+      "dates": "2012 - 2016",
+      "position": "Co Founder, CEO"
+    },
+    {
+      "company": "Anideo",
+      "dates": "2008 - 2013",
+      "position": "Co-founder, Managing Director"
+    },
+    {
+      "company": "122 WEST VENTURES",
+      "dates": "2017 - Present",
+      "position": "Founder, Managing Partner"
+    },
+    {
+      "company": "Harvard University Graduate School of Design",
+      "dates": "Present",
+      "position": "Research Staff"
+    },
+    {
+      "company": "Firefly Health",
+      "dates": "Present",
+      "position": "Co-founder and Chief Product Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Script Capital",
+      "firmUrl": "https://signal.nfx.com/firms/script-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $1M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Anvil Foundry",
+      "date": "Jun 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Renaud Visage (Point Nine Capital)",
+        "Rodolphe Menegaux (Alven)",
+        "Jean de La Rochebrochard (Kima Ventures)"
+      ],
+      "company": "Sqreen",
+      "date": "Apr 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1FDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aed6680fd9144db27e5fed489d62cb6660928d01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-solimine",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andrew-solimine",
+  "socials": {
+    "angellist": "https://www.angel.co/ajhit406",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-solimine",
+    "linkedin": "https://www.linkedin.com/in/ajsolimine/",
+    "twitter": "https://www.twitter.com/ajhit406",
+    "website": "https://www.script.capital/"
+  },
+  "scraped_at": "2026-02-26T08:14:55.241918"
+}

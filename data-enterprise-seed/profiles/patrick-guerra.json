@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor",
+      "Angel",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Patrick Guerra",
+    "website": "https://www.nevasgr.com/content/neva/it.html"
+  },
+  "experience": [
+    {
+      "company": "Lions Peak",
+      "dates": "2002 - Present",
+      "position": "Founder and Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NEVA SGR",
+      "firmUrl": "https://signal.nfx.com/firms/neva-sgr",
+      "position": "Investor"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDdMQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--43612076d9ba11f459d0a46938cc2e1873b2d97b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/patrick-guerra",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "patrick-guerra",
+  "socials": {
+    "angellist": "https://www.angel.co/u/patrick-guerra",
+    "linkedin": "https://www.linkedin.com/in/patrick-guerra-01a503/",
+    "twitter": "https://www.twitter.com/pontifices",
+    "website": "https://www.nevasgr.com/content/neva/it.html"
+  },
+  "scraped_at": "2026-02-28T02:32:06.489750"
+}

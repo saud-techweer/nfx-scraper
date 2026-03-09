@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "David Samuel",
+    "signalScore": 704,
+    "website": "https://freestyle.vc/team_members/dave-samuel/"
+  },
+  "experience": [
+    {
+      "company": "Brondell Inc.",
+      "dates": "2003 - 2010",
+      "position": "Founder Chairman"
+    },
+    {
+      "company": "Crackle (formerly Grouper)",
+      "dates": "2003 - 2008",
+      "position": "Founder President"
+    },
+    {
+      "company": "Spinner.com (Internet Radio Web1.0 Company)",
+      "dates": "1996 - 2000",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Oracle",
+      "dates": "1994 - 1996",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Freestyle Capital",
+      "dates": "2008 - Present",
+      "position": "Founding General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Freestyle Capital",
+      "firmUrl": "https://signal.nfx.com/firms/freestyle-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$565M",
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "M.G. Siegler (GV (Google Ventures))",
+        "Louis Beryl"
+      ],
+      "company": "Digit",
+      "date": "Sep 2019",
+      "roundSize": "$28M",
+      "stage": "Series C",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [
+        "Peter Fenton (Benchmark)",
+        "Max Gazor (CRV)",
+        "Dan Rose (Coatue)",
+        "Joshua Kushner (Thrive Capital)",
+        "Sarah Smith (Sarah Smith Fund)",
+        "Alexa von Tobel (Inspired Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Evan Lee"
+      ],
+      "company": "Airtable",
+      "date": "Nov 2018",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$470M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVJkQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f2a0bc38d8ae6e2127ea0192b1548635ca2f8280/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dave-samuel",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "dave-samuel",
+  "socials": {
+    "angellist": "https://www.angel.co/dsamuel",
+    "crunchbase": "https://www.crunchbase.com/person/david-samuel",
+    "linkedin": "https://www.linkedin.com/in/thedjdave/",
+    "twitter": "https://www.twitter.com/dsamuel",
+    "website": "https://www.freestyle.vc/team_members/dave-samuel/"
+  },
+  "scraped_at": "2026-02-26T10:08:41.202742"
+}

@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Jack Brody",
+    "website": "https://manaventures.vc/about-us"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mana Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mana-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$8.24M",
+    "investmentRange": "$10K - $250K",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVZFQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eb5c9e289994743cdba5e8b0f105e70827ac3184/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-brody",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jack-brody",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jackdbrody",
+    "crunchbase": "https://www.crunchbase.com/person/jack-brody",
+    "linkedin": "https://www.linkedin.com/in/jack-brody-84936737/",
+    "twitter": "https://www.twitter.com/jackdbrody",
+    "website": "https://www.manaventures.vc/about-us"
+  },
+  "scraped_at": "2026-02-27T22:25:27.045316"
+}

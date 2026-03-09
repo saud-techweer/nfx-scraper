@@ -1,0 +1,184 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Advisor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Andrey Doronichev"
+  },
+  "experience": [
+    {
+      "company": "Self-employed",
+      "dates": "2021 - 2022",
+      "position": "Investor / Product advisor"
+    },
+    {
+      "company": "Google",
+      "dates": "2018 - 2021",
+      "position": "Director of Product Management"
+    },
+    {
+      "company": "Google",
+      "dates": "2014 - 2018",
+      "position": "Director Product Management"
+    },
+    {
+      "company": "Google",
+      "dates": "2010 - 2014",
+      "position": "Head of Mobile, YouTube"
+    },
+    {
+      "company": "Google",
+      "dates": "2007 - 2009",
+      "position": "Product Manager"
+    },
+    {
+      "company": "DobryDom",
+      "dates": "2006 - 2008",
+      "position": "Co-founder"
+    },
+    {
+      "company": "RIPID s.r.o",
+      "dates": "2006 - 2008",
+      "position": "Head of Product, co-founder"
+    },
+    {
+      "company": "Mobile Finance Management Solutions",
+      "dates": "2006 - 2006",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Tapok.ru",
+      "dates": "2004 - 2006",
+      "position": "Co-founder, Business Development Director"
+    },
+    {
+      "company": "Golden Telecom",
+      "dates": "2004 - 2005",
+      "position": "Project manager"
+    },
+    {
+      "company": "Combellga",
+      "dates": "2002 - 2004",
+      "position": "Tech Lead / Software Engineer"
+    },
+    {
+      "company": "Combellga",
+      "dates": "2000 - 2002",
+      "position": "Java Developer"
+    },
+    {
+      "company": "OPTIC",
+      "dates": "2022 - Present",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Mesto",
+      "dates": "2020 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkxwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f4b0e2469bc7bf0aca6b2405e43897e60258b540/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrey-doronichev",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Fashion (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-pre-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andrey-doronichev",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andrey-doronichev",
+    "linkedin": "https://www.linkedin.com/in/doronichev/",
+    "twitter": "https://www.twitter.com/dobry"
+  },
+  "scraped_at": "2026-02-26T08:16:30.864247"
+}

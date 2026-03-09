@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Daniel Leff",
+    "website": "https://waverleycapital.com/our-team"
+  },
+  "experience": [
+    {
+      "company": "Globespan Capital Partners",
+      "dates": "2008 - 2013",
+      "position": "Partner"
+    },
+    {
+      "company": "& Managing Director",
+      "dates": "2004 - 2007",
+      "position": "Executive Vice President"
+    },
+    {
+      "company": "Redpoint Ventures",
+      "dates": "2000 - 2001",
+      "position": "Venture Consultant"
+    },
+    {
+      "company": "Luminari Capital",
+      "dates": "2013 - Present",
+      "position": "Founder & Managing Partner"
+    },
+    {
+      "company": "Intel Corporation",
+      "dates": "Present",
+      "position": "Manager, Strategic Investments"
+    },
+    {
+      "company": "Sevin Rosen Funds",
+      "dates": "Present",
+      "position": "Senior Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Waverley Capital",
+      "firmUrl": "https://signal.nfx.com/firms/waverley-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTRNQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0e99bbe66e5e462349bd3fc06c9c5d11e8e50ecb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/daniel-leff",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "daniel-leff",
+  "socials": {
+    "angellist": "https://www.angel.co/p/daniel-leff",
+    "crunchbase": "https://www.crunchbase.com/person/daniel-leff",
+    "linkedin": "https://www.linkedin.com/in/daniel-leff/",
+    "twitter": "https://www.twitter.com/dr_daniel_leff",
+    "website": "https://www.waverleycapital.com/our-team"
+  },
+  "scraped_at": "2026-02-26T10:01:40.262364"
+}

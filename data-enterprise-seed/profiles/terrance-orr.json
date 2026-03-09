@@ -1,0 +1,175 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Operator",
+      "Advisor",
+      "Angel"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Terrance Orr",
+    "positionAndFirm": "Venture Builder, Investor, and Advisor",
+    "signalScore": 190,
+    "website": "https://terranceorr.com/"
+  },
+  "experience": [
+    {
+      "company": "Mach49",
+      "dates": "2021 - 2025",
+      "position": "Operating Partner"
+    },
+    {
+      "company": "Antler",
+      "dates": "2021 - 2023",
+      "position": "Advisor"
+    },
+    {
+      "company": "SAP.iO",
+      "dates": "2020 - 2021",
+      "position": "Entrepreneur in Residence"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2020 - 2020",
+      "position": "Business Development + Growth"
+    },
+    {
+      "company": "Next Anomaly Group",
+      "dates": "2024 - Present",
+      "position": "Founder & Managing Partner"
+    },
+    {
+      "company": "NextGen Venture Partners",
+      "dates": "2021 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "High Alpha Innovation",
+      "dates": "2021 - Present",
+      "position": "Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NextGen Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/nextgen-venture-partners",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$20.7M",
+    "investmentRange": "$10K - $1M",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDhnQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--39cbfe0cb7bb3bbe57741aa87c29ed419386b040/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/terrance-orr",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "terrance-orr",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/terrance-orr",
+    "linkedin": "https://www.linkedin.com/in/terranceorr/",
+    "twitter": "https://www.twitter.com/terrance_orr",
+    "website": "https://www.terranceorr.com/"
+  },
+  "scraped_at": "2026-02-27T05:03:39.962253"
+}

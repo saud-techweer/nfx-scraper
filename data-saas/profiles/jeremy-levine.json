@@ -1,0 +1,131 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Jeremy Levine",
+    "signalScore": 224,
+    "website": "https://bvp.com/team/jeremy-levine"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bessemer Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/bessemer-venture-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$1.85B",
+    "investmentRange": "$50K - $100.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Justin Kan (Goat Capital)",
+        "Gabe Greenbaum (B Capital Group)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Adam Bain (01 Advisors)",
+        "Ali Rowghani (Y Combinator)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Chris Keller (NextGen Venture Partners)",
+        "Harry Stebbings (20VC)",
+        "Anne Dwane (Village Global)",
+        "Jordan Fliegel (Techstars)",
+        "Elad Gil",
+        "Joshua Reeves",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "David Cancel",
+        "Jennifer Lum",
+        "Kevin Weil",
+        "Adrian Aoun"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2ZJQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be7914bbc8e3498d0d729c61773ad366a958354b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeremy-levine",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jeremy-levine",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jeremyl",
+    "crunchbase": "https://www.crunchbase.com/person/jeremy-levine",
+    "linkedin": "https://www.linkedin.com/in/jeremyl/",
+    "twitter": "https://www.twitter.com/jeremyl",
+    "website": "https://www.bvp.com/team/jeremy-levine"
+  },
+  "scraped_at": "2026-02-27T01:01:24.157914"
+}

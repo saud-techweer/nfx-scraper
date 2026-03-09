@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Martin Mignot",
+    "website": "https://indexventures.com/team/martin-mignot/"
+  },
+  "experience": [
+    {
+      "company": "UBS Investment Bank",
+      "dates": "2007 - 2009",
+      "position": "Analyst"
+    },
+    {
+      "company": "RSP.FM",
+      "dates": "2005 - 2007",
+      "position": "Founder"
+    },
+    {
+      "company": "Index Ventures",
+      "dates": "2010 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Index Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/index-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$100K - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ralph Baddour (Badhouse Ventures)",
+        "Dan Jones (Jigsaw VC)",
+        "David Murray-Hundley (Pario Ventures)",
+        "Tom Stafford (DST Global)",
+        "Klaus Hommels (Lakestar)",
+        "Stephen Romanoff"
+      ],
+      "company": "Revolut",
+      "date": "Apr 2018",
+      "roundSize": "$250M",
+      "stage": "Series C",
+      "totalRaised": "$250M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFFCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--86c3af9440363c4bb373b33a0d13f8b5562094be/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-mignot",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "martin-mignot",
+  "socials": {
+    "angellist": "https://www.angel.co/p/martin-mignot",
+    "crunchbase": "https://www.crunchbase.com/person/martin-mignot",
+    "linkedin": "https://www.linkedin.com/in/martinmignot/",
+    "twitter": "https://www.twitter.com/martinmignot",
+    "website": "https://www.indexventures.com/team/martin-mignot/"
+  },
+  "scraped_at": "2026-03-03T22:16:11.995469"
+}

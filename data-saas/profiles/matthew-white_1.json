@@ -1,0 +1,118 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Angel",
+      "Advisor",
+      "Founder"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Matthew White",
+    "positionAndFirm": "Founder, CEO, Board Member, Advisor. Passionate about B2G Startups",
+    "signalScore": 91
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $80K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$30K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Candelytics",
+      "date": "Mar 2022",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Aatish Patel (GoAhead Ventures)",
+        "Jamie Shortill (Strand Venture Partners)",
+        "Anita Carmichael Roberts"
+      ],
+      "company": "MISO Robotics",
+      "date": "Feb 2017",
+      "roundSize": null,
+      "stage": "Angel Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHpRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--360f5bf46caf9a24f32740ab8ededff5b84483e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matthew-white_1",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Smart Cities/UrbanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smart-cities-urbantech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "matthew-white_1",
+  "socials": {
+    "angellist": "https://www.angel.co/u/matthew-c-white",
+    "crunchbase": "https://www.crunchbase.com/person/matthew-white-af42",
+    "linkedin": "https://www.linkedin.com/in/matthewwhite-/"
+  },
+  "scraped_at": "2026-02-27T02:40:48.312922"
+}

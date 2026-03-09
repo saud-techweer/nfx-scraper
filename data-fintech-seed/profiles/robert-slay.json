@@ -1,0 +1,101 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Robert Slay",
+    "website": "https://blackangelgroup.com/#about"
+  },
+  "experience": [
+    {
+      "company": "Aon",
+      "dates": "2015 - 2020",
+      "position": "Senior Internal Auditor"
+    },
+    {
+      "company": "Aon",
+      "dates": "2014 - 2020",
+      "position": "Financial Leadership Program Associate (2nd Rotation - Internal Audit - Internal Audit Associate)"
+    },
+    {
+      "company": "Aon",
+      "dates": "2014 - 2014",
+      "position": "Financial Leadership Program Associate (1st Rotation - Shared Service Finance - Accounting Associate"
+    },
+    {
+      "company": "Chicago Tribune Media Group",
+      "dates": "2012 - 2014",
+      "position": "Corporate Tax Intern"
+    },
+    {
+      "company": "MillerCoors",
+      "dates": "2012 - 2012",
+      "position": "Finance Intern (Commerical Planning & Forecasting)"
+    },
+    {
+      "company": "McGladrey",
+      "dates": "2012 - 2012",
+      "position": "Audit/Assurance Intern (Real Estate)"
+    },
+    {
+      "company": "MillerCoors",
+      "dates": "2011 - 2011",
+      "position": "Finance Extern"
+    },
+    {
+      "company": "McGraw-Hill",
+      "dates": "2010 - 2010",
+      "position": "Finance Intern"
+    },
+    {
+      "company": "UBS",
+      "dates": "2008 - 2008",
+      "position": "Information Technology Intern"
+    },
+    {
+      "company": "UBS",
+      "dates": "2007 - 2007",
+      "position": "Corporate Services Intern"
+    },
+    {
+      "company": "Google",
+      "dates": "2020 - Present",
+      "position": "Internal Auditing"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Black Angel Group",
+      "firmUrl": "https://signal.nfx.com/firms/black-angel-group",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2tRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b26d7a584a7ddba783b080e170045890fe783a26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robert-slay",
+  "sectorRankings": [
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "robert-slay",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/rslay/",
+    "website": "https://www.blackangelgroup.com/#about"
+  },
+  "scraped_at": "2026-03-05T20:00:58.212276"
+}

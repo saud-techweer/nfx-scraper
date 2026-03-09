@@ -1,0 +1,49 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Marcos Olmos",
+    "website": "https://en.voxcapital.com.br/nossotime"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VOX Capital",
+      "firmUrl": "https://signal.nfx.com/firms/vox-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$90K - $1.4M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0JMQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--87e3e5726c8acb95795cdcd714d6e259e5b6e940/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marcos-olmos",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "marcos-olmos",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/marcos-olmos",
+    "linkedin": "https://www.linkedin.com/in/marcosolmos/?originalSubdomain=br",
+    "website": "https://en.voxcapital.com.br/nossotime"
+  },
+  "scraped_at": "2026-02-27T23:33:26.820193"
+}

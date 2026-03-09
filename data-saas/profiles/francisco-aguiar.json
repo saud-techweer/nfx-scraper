@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Francisco Aguiar",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SaaSholic Fund",
+      "firmUrl": "https://signal.nfx.com/firms/saasholic-fund",
+      "position": "Investor"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$63K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1FzQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--27657ab83b4be8e0704d924ef1e64c9b70ad0ca1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/francisco-aguiar",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "francisco-aguiar",
+  "socials": {
+    "angellist": "https://www.angel.co/u/chico-4",
+    "linkedin": "https://www.linkedin.com/in/francisco-aguiar-a894ab36/",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "scraped_at": "2026-02-26T23:57:49.331427"
+}

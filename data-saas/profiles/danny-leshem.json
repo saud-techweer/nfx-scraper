@@ -1,0 +1,111 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Founder",
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Danny Leshem",
+    "website": "https://dannyleshem.com/"
+  },
+  "experience": [
+    {
+      "company": "Wix",
+      "dates": "2014 - 2018",
+      "position": "General Manager"
+    },
+    {
+      "company": "OpenRest",
+      "dates": "2010 - 2014",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "ConvertMedia",
+      "dates": "2010 - 2011",
+      "position": "Machine Learning Consultant"
+    },
+    {
+      "company": "Kidaro",
+      "dates": "2005 - 2005",
+      "position": "Co-Founder & Chief Architect"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "INT3",
+      "firmUrl": "https://signal.nfx.com/firms/int3",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Multinarity",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Next Silicon",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Griin",
+      "date": "Feb 2020",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Approve.com",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM05RQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e1757efa44d3079b99326ab66072848df659c24a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/danny-leshem",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "danny-leshem",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/danny-leshem",
+    "linkedin": "https://www.linkedin.com/in/danny-leshem/",
+    "twitter": "https://www.x.com/DannyLeshem",
+    "website": "https://www.dannyleshem.com/"
+  },
+  "scraped_at": "2026-02-26T10:05:11.647033"
+}

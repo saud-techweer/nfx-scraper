@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "name": "Annie Evans",
+    "signalScore": 436,
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "CEO",
+      "Founder"
+    ],
+    "website": "https://dreamventures.co/",
+    "location": "New York, New York"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Dream VC",
+      "firmUrl": "https://signal.nfx.com/firms/dream-vc",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [],
+  "socials": {
+    "website": "https://www.dreamventures.co/",
+    "linkedin": "https://www.linkedin.com/in/annierevans/",
+    "angellist": "https://www.angel.co/u/annie-evans",
+    "crunchbase": "https://www.crunchbase.com/person/annie-evans"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekFRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06712a8ee1638fc361558006b6a6f340a27b6881/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/annie-evans",
+  "slug": "annie-evans",
+  "scraped_at": "2026-02-24T10:16:12.013393"
+}

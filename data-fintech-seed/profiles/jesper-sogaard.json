@@ -1,0 +1,52 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Copenhagen, Denmark",
+    "name": "Jesper Søgaard",
+    "website": "https://dreamcraft.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Dreamcraft",
+      "firmUrl": "https://signal.nfx.com/firms/dreamcraft",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $2.5M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUN5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--65e1cad0485b627a773aa3f97da011dacfb246b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jesper-sogaard",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jesper-sogaard",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jesper-sgaard",
+    "linkedin": "https://www.linkedin.com/in/jesper-s%C3%B8gaard-88a4071/",
+    "twitter": "https://www.twitter.com/jespersoegaard",
+    "website": "https://www.dreamcraft.vc/"
+  },
+  "scraped_at": "2026-03-03T20:58:26.974758"
+}

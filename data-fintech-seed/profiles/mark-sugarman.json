@@ -1,0 +1,111 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Mark Sugarman",
+    "signalScore": 634
+  },
+  "experience": [
+    {
+      "company": "MHS Capital",
+      "dates": "2006 - Present",
+      "position": "Founding General Partner"
+    },
+    {
+      "company": "Internet Capital Group",
+      "dates": "Present",
+      "position": "Analyst"
+    },
+    {
+      "company": "VerticalNet",
+      "dates": "Present",
+      "position": "SVP M&A and Strategic Parnterships"
+    },
+    {
+      "company": "Nutrisystem (NTRI)",
+      "dates": "Present",
+      "position": "Interim VP business development and marketing"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MHS Capital",
+      "firmUrl": "https://signal.nfx.com/firms/mhs-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Josh Breinlinger (Turtle Ventures)",
+        "Alex Gurevich (Javelin Venture Partners)"
+      ],
+      "company": "Kindly Care",
+      "date": "Jul 2018",
+      "roundSize": "$5.4M",
+      "stage": "Series A",
+      "totalRaised": "$5.4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeW9KQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--64ccc265731039bf1a489383bc113ac6029e0b29/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mark-sugarman",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "mark-sugarman",
+  "socials": {
+    "angellist": "https://www.angel.co/mark-sugarman",
+    "crunchbase": "https://www.crunchbase.com/person/mark-sugarman",
+    "linkedin": "https://www.linkedin.com/in/msugarman/"
+  },
+  "scraped_at": "2026-02-11T12:20:05.477510"
+}

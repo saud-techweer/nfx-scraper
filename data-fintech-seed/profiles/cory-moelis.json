@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "New York City",
+    "name": "Cory Moelis",
+    "website": "https://www.groundup.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ground Up Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ground-up-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$20M",
+    "investmentRange": "$250K - $500K",
+    "sweetSpot": "$375K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEk0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--06b15eb23c963fcd8ae089714b84c6baed47e251/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cory-moelis",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "cory-moelis",
+  "socials": {
+    "angellist": "https://www.angel.co/u/cory-moelis",
+    "crunchbase": "https://www.crunchbase.com/person/cory-moelis-ca71",
+    "linkedin": "https://www.linkedin.com/in/cory-moelis-6a24a127/",
+    "twitter": "https://www.twitter.com/CoryMoelis",
+    "website": "https://www.groundup.vc/"
+  },
+  "scraped_at": "2026-02-28T02:01:50.889121"
+}

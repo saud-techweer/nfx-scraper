@@ -1,0 +1,220 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Amr Abdelaziz",
+    "positionAndFirm": "VC Partner, M&A Professional, Angel Investor",
+    "signalScore": 33,
+    "website": "https://azangels.vc/"
+  },
+  "experience": [
+    {
+      "company": "Connor Group",
+      "dates": "2013 - 2015",
+      "position": "Mergers & Acquisitions"
+    },
+    {
+      "company": "PwC",
+      "dates": "2003 - 2013",
+      "position": "Director - Corporate Finance"
+    },
+    {
+      "company": "A'Z Angels",
+      "dates": "2018 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "A'Z Angels",
+      "dates": "2018 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Equinix",
+      "dates": "2015 - Present",
+      "position": "Senior Director - Global M&A & Strategy Finance"
+    },
+    {
+      "company": "Equinix, Inc.",
+      "dates": "2015 - Present",
+      "position": "Global Head of M&A"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "A'Z Angels",
+      "firmUrl": "https://signal.nfx.com/firms/a-z-angels",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $5.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Valu",
+      "date": "Aug 2022",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Teleskope Security",
+      "date": "Mar 2022",
+      "roundSize": "$2",
+      "stage": "preseed",
+      "totalRaised": "$2"
+    },
+    {
+      "coInvestors": [],
+      "company": "FTX Exchange",
+      "date": "Jan 2022",
+      "roundSize": "$400M",
+      "stage": "Series B",
+      "totalRaised": "$400M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Pilleve",
+      "date": "May 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Block Tackle",
+      "date": "N/A",
+      "roundSize": "$2",
+      "stage": "Seed",
+      "totalRaised": "$2"
+    },
+    {
+      "coInvestors": [
+        "Tripp Jones (Uncork Capital)"
+      ],
+      "company": "Paysail",
+      "date": "N/A",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Ravindra Krishnappa (July Ventures)"
+      ],
+      "company": "Stockal",
+      "date": "N/A",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Faris Lodin (Sterling Equity)"
+      ],
+      "company": "RAIN",
+      "date": "N/A",
+      "roundSize": "$75",
+      "stage": "Series B",
+      "totalRaised": "$75"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWpnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--af3435cba00e5236bd7fd85b91e491eb410bf513/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amr-abdelaziz",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "amr-abdelaziz",
+  "socials": {
+    "angellist": "https://www.angel.co/u/amr-h-abdelaziz",
+    "crunchbase": "https://www.crunchbase.com/person/amr-abdelaziz-fd4c",
+    "linkedin": "https://www.linkedin.com/in/amrabdelaziz/",
+    "website": "https://www.azangels.vc/"
+  },
+  "scraped_at": "2026-02-28T00:10:01.044601"
+}

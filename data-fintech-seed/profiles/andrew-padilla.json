@@ -1,0 +1,230 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Scout"
+    ],
+    "location": "New York, New York",
+    "name": "Andrew Padilla",
+    "signalScore": 254,
+    "website": "http://www.andrewpadilla.com/"
+  },
+  "experience": [
+    {
+      "company": "Mithril",
+      "dates": "2019 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "GCM Grosvenor",
+      "dates": "2017 - 2019",
+      "position": "Principal"
+    },
+    {
+      "company": "Simplending",
+      "dates": "2015 - 2018",
+      "position": "Founder"
+    },
+    {
+      "company": "Alumni Ventures Group",
+      "dates": "2021 - Present",
+      "position": "Senior Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alumni Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/alumni-ventures-group",
+      "position": "Partner"
+    },
+    "fundSize": "$539.4M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 22,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Precision Neuroscience",
+      "date": "Nov 2022",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Modicus Prime",
+      "date": "Oct 2022",
+      "roundSize": "$1.2M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Brave Health",
+      "date": "Oct 2022",
+      "roundSize": "$40M",
+      "stage": "Series C",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Genetesis",
+      "date": "Oct 2022",
+      "roundSize": "$18M",
+      "stage": "Series C",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mayk.It",
+      "date": "Aug 2022",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cruisebound",
+      "date": "Jul 2022",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nixtla",
+      "date": "Apr 2022",
+      "roundSize": "$1M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Ludwig Schulze (Alumni Ventures )"
+      ],
+      "company": "Build a Rocket Boy",
+      "date": "Dec 2021",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$100M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFhjQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5f4635a592ec2e47b65ac50320a29dcb985839cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-padilla",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andrew-padilla",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/andrewpadilla/",
+    "twitter": "https://www.twitter.com/andrewrpadilla",
+    "website": "https://www.andrewpadilla.com/"
+  },
+  "scraped_at": "2026-02-26T08:14:15.496249"
+}

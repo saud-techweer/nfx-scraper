@@ -1,0 +1,145 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Former CEO"
+    ],
+    "location": "Palo Alto, California",
+    "name": "T.M. Ravi",
+    "positionAndFirm": "Managing Director, The Hive",
+    "signalScore": 288,
+    "website": "https://hivedata.com/"
+  },
+  "experience": [
+    {
+      "company": "Iron Mountain",
+      "dates": "2011 - 2011",
+      "position": "Chief Marketing Officer"
+    },
+    {
+      "company": "Iron Mountain Digital",
+      "dates": "2010 - 2010",
+      "position": "Chief Marketing Officer"
+    },
+    {
+      "company": "Mimosa Systems",
+      "dates": "2003 - 2009",
+      "position": "Founder, President & CEO"
+    },
+    {
+      "company": "Peakstone Corporation",
+      "dates": "2003",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Computer Associates",
+      "dates": "1998 - 2001",
+      "position": "Vice President"
+    },
+    {
+      "company": "Cheyenne Software",
+      "dates": "1996 - 1998",
+      "position": "Vice President"
+    },
+    {
+      "company": "Media Blitz, Inc.",
+      "dates": "1994 - 1996",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "The Hive, LLC",
+      "dates": "2012 - Present",
+      "position": "Founder & Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The Hive",
+      "firmUrl": "https://signal.nfx.com/firms/the-hive",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$1.5M - $3.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.8M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Evans (Sentiero Ventures)",
+        "JC Lee"
+      ],
+      "company": "Geminus.ai",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c2ab5d1ccb54d425e328830042bccee04a392a39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/t-m-ravi",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "t-m-ravi",
+  "socials": {
+    "angellist": "https://www.angel.co/tmravi",
+    "crunchbase": "https://www.crunchbase.com/person/t-m-ravi",
+    "linkedin": "https://www.linkedin.com/in/tmravi/",
+    "twitter": "https://www.twitter.com/tmravi",
+    "website": "https://www.hivedata.com/"
+  },
+  "scraped_at": "2026-02-27T04:58:47.972735"
+}

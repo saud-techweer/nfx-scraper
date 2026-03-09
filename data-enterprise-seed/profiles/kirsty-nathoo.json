@@ -1,0 +1,79 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Kirsty Nathoo",
+    "positionAndFirm": "Partner, CFO at Y Combinator",
+    "website": "https://www.ycombinator.com/people/"
+  },
+  "experience": [
+    {
+      "company": "Y Combinator",
+      "dates": "2011 - 2012",
+      "position": "VP Finance and Operations"
+    },
+    {
+      "company": "Price Waterhouse Coopers",
+      "dates": "2002 - 2010",
+      "position": "Audit manager"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2012 - Present",
+      "position": "Partner, CFO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "Partner"
+    },
+    "investmentRange": "$150K - $150K",
+    "sweetSpot": "$150K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGdJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e9dece5abba67476689a6416e16d76eff36e667/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kirsty-nathoo",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kirsty-nathoo",
+  "socials": {
+    "angellist": "https://www.angel.co/kirsty-nathoo",
+    "crunchbase": "https://www.crunchbase.com/person/kirsty-nathoo",
+    "linkedin": "https://www.linkedin.com/in/kirstynathoo/",
+    "website": "https://www.ycombinator.com/people/"
+  },
+  "scraped_at": "2026-02-27T23:11:41.457566"
+}

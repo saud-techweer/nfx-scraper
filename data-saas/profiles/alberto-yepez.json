@@ -1,0 +1,155 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Mateo, California",
+    "name": "Alberto Yépez",
+    "positionAndFirm": "Serial entrepreneur, experienced investor and company builder",
+    "website": "https://forgepointcap.com/team/alberto-yepez/"
+  },
+  "experience": [
+    {
+      "company": "DeVenCI",
+      "dates": "2011 - 2012",
+      "position": "Venture Capital Consultant to the US Department of Defense"
+    },
+    {
+      "company": "Thor Technologies",
+      "dates": "2003 - 2005",
+      "position": "Chairman and CEO"
+    },
+    {
+      "company": "Thor Technologies",
+      "dates": "2002 - 2003",
+      "position": "Executive Chairman"
+    },
+    {
+      "company": "Warburg Pincus",
+      "dates": "2001 - 2002",
+      "position": "Entrepreneur in Residence"
+    },
+    {
+      "company": "Entrust",
+      "dates": "2000 - 2001",
+      "position": "President and Co-CEO"
+    },
+    {
+      "company": "enCommerce, Inc.",
+      "dates": "1995 - 2000",
+      "position": "Founder, Chairman and CEO"
+    },
+    {
+      "company": "Apple",
+      "dates": "1986 - 1995",
+      "position": "Various Leadership Roles"
+    },
+    {
+      "company": "ForgePoint Capital",
+      "dates": "2015 - Present",
+      "position": "Co-Founder and Managing Director"
+    },
+    {
+      "company": "Trident Capital, Inc.",
+      "dates": "2008 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ForgePoint Capital",
+      "firmUrl": "https://signal.nfx.com/firms/forgepoint-capital",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$5.0M - $30.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$17.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Zilberman (Norwest Venture Partners)"
+      ],
+      "company": "Uptycs",
+      "date": "Jun 2018",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Vin Lingathoti (Paladin Capital Group)",
+        "Simon Andrews (Edge VC)",
+        "Ken Gonzalez (NightDragon)"
+      ],
+      "company": "BehavioSec",
+      "date": "Jan 2018",
+      "roundSize": "$18M",
+      "stage": "Series B",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Attivo Networks",
+      "date": "Oct 2017",
+      "roundSize": "$21M",
+      "stage": "Series C",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [
+        "David Ibnale (AVP (Advance Venture Partners))"
+      ],
+      "company": "HyTrust",
+      "date": "Jul 2017",
+      "roundSize": "$36M",
+      "stage": "Series E",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Bayshore Networks, Inc.",
+      "date": "May 2016",
+      "roundSize": "$6.6M",
+      "stage": "Series A",
+      "totalRaised": "$6.6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK01lQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--03052d6c00e308eacff2f895da14158e56afb9b4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alberto-yepez",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alberto-yepez",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alberto-yepez",
+    "linkedin": "https://www.linkedin.com/in/albertoyepez/",
+    "twitter": "https://www.twitter.com/alyepez",
+    "website": "https://www.forgepointcap.com/team/alberto-yepez/"
+  },
+  "scraped_at": "2026-02-26T06:42:04.405117"
+}

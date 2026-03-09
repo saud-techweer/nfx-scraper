@@ -1,0 +1,92 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Erik Kriessmann",
+    "website": "https://www.indexventures.com/team/erik-kriessman/"
+  },
+  "experience": [
+    {
+      "company": "Index Ventures",
+      "dates": "2018 - Present",
+      "position": "VP Talent"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Index Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/index-ventures",
+      "position": "Vice President"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$100K - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jess Lee (Sequoia Capital)",
+        "Kirsten Green (Forerunner Ventures)",
+        "Stephen Chau (Sequoia Capital)"
+      ],
+      "company": "Faire (formerly Indigo Fair)",
+      "date": "Feb 2018",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$190M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2JoQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--087dbec8bc15dd910c89d999412b02d24644c6f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/erik-kriessmann",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "erik-kriessmann",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/erik-kriessmann",
+    "linkedin": "https://www.linkedin.com/in/erikkriessmann/",
+    "twitter": "https://www.twitter.com/ekriessmann",
+    "website": "https://www.indexventures.com/team/erik-kriessman/"
+  },
+  "scraped_at": "2026-02-26T23:46:02.641411"
+}

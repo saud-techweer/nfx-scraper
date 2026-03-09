@@ -1,0 +1,234 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Nnamdi Okike",
+    "signalScore": 958,
+    "website": "https://645ventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Insight Venture Partners",
+      "dates": "2009 - 2013",
+      "position": "Principal"
+    },
+    {
+      "company": "Verne Global",
+      "dates": "2008 - 2009",
+      "position": "Business Development Officer"
+    },
+    {
+      "company": "Kayne Anderson Capital Advisors",
+      "dates": "2006 - 2007",
+      "position": "Summer MBA Associate (Summers 2006 and 2007)"
+    },
+    {
+      "company": "Insight Venture Partners",
+      "dates": "2002 - 2005",
+      "position": "Associate"
+    },
+    {
+      "company": "Boston Consulting Group",
+      "dates": "2001 - 2001",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "645 Ventures",
+      "dates": "2013 - Present",
+      "position": "Co-Founder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "645 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/645-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$41M",
+    "investmentRange": "$750K - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Spector (ThirdLove)",
+        "Heidi Zak"
+      ],
+      "company": "MM.LaFleur",
+      "date": "May 2015",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jonathan Axelrod (Entrepreneurs Roundtable Accelerator (ERA))"
+      ],
+      "company": "Trendalytics Innovation Labs",
+      "date": "Jan 2014",
+      "roundSize": null,
+      "stage": "Venture Round",
+      "totalRaised": "$40K"
+    },
+    {
+      "coInvestors": [
+        "Maryanna Saenko (Future Ventures)",
+        "Adam Zobler (Foundamental)",
+        "Igor Shoifot (Tmt Investments)",
+        "Ian Rountree (Cantos Ventures)",
+        "Mo El-Bibany"
+      ],
+      "company": "ALICE Technologies",
+      "date": "Jan 0001",
+      "roundSize": "$0",
+      "stage": "seed",
+      "totalRaised": "$43M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGJpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c290292b3172cafef65ac5083a59bdc8a00047e0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nnamdi-okike",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "nnamdi-okike",
+  "socials": {
+    "angellist": "https://www.angel.co/nokike",
+    "crunchbase": "https://www.crunchbase.com/person/nnamdi-okike",
+    "linkedin": "https://www.linkedin.com/in/nnamdiokike/",
+    "twitter": "https://www.twitter.com/thedatavc",
+    "website": "https://www.645ventures.com/"
+  },
+  "scraped_at": "2026-02-11T11:09:51.184584"
+}

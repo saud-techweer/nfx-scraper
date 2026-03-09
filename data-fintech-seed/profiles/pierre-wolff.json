@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Mill Valley, California",
+    "name": "Pierre Wolff",
+    "signalScore": 245
+  },
+  "experience": [
+    {
+      "company": "InCountry",
+      "dates": "2020 - Present",
+      "position": "Chief Strategy Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ExecConnect",
+      "firmUrl": "https://signal.nfx.com/firms/execconnect",
+      "position": "Managing Director"
+    },
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Majestic Research",
+      "date": "Oct 2004",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Revere Data",
+      "date": "Feb 2001",
+      "roundSize": "$5M",
+      "stage": "Series B",
+      "totalRaised": "$5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--77851dbf177ed9ad42aa04c199252b38009a1912/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pierre-wolff",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "pierre-wolff",
+  "socials": {
+    "angellist": "https://www.angel.co/direwolff",
+    "crunchbase": "https://www.crunchbase.com/person/pierre-wolff",
+    "linkedin": "https://www.linkedin.com/in/pierre/",
+    "twitter": "https://www.twitter.com/direwolff"
+  },
+  "scraped_at": "2026-03-03T23:22:44.667468"
+}

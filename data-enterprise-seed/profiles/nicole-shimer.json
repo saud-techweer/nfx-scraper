@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York City",
+    "name": "Nicole Shimer",
+    "website": "https://www.insightpartners.com/team/nicole-shimer"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Insight Partners",
+      "firmUrl": "https://signal.nfx.com/firms/insight-partners",
+      "position": "Principal"
+    },
+    "fundSize": "$20B",
+    "investmentRange": "$10.0M - $350.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcTNjIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--37351c05a17ae0d432f72195595d2b1add51a841/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nicole-shimer",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nicole-shimer",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nicole-shimer",
+    "linkedin": "https://www.linkedin.com/in/nicole-shimer-518aa773/",
+    "twitter": "https://www.twitter.com/NicoleAShimer",
+    "website": "https://www.insightpartners.com/team/nicole-shimer"
+  },
+  "scraped_at": "2026-02-27T03:14:32.174025"
+}

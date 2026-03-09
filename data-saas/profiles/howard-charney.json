@@ -1,0 +1,222 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Howard Charney"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Topher Conway (SV Angel)",
+        "Matt Scott (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Ashley Flucas (Flucas Ventures)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Alex Roetter (Moxxie Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Lucy Guo (Backend Capital)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Niv Dror (Shrug Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Chris Moreno (Infinite Niches)",
+        "Rudra Peram",
+        "Kevin Weil",
+        "Peter Hunn",
+        "Moshe Lifschitz",
+        "Zach Segal",
+        "Alper Kiresepi",
+        "Yagiz Sozmen",
+        "Tyler Willis"
+      ],
+      "company": "MainStreet",
+      "date": "Jun 2020",
+      "roundSize": "$2.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$70M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeURkQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a186e5c716e7d28e0c1c66715d0be52e2f2bb1ec/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/howard-charney",
+  "sectorRankings": [
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Material Science (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Material Science (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-series-a-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-pre-seed-investors"
+    },
+    {
+      "name": "Material Science (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "howard-charney",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/howard-charney",
+    "linkedin": "https://www.linkedin.com/in/howardcharney/"
+  },
+  "scraped_at": "2026-02-27T00:27:26.286055"
+}

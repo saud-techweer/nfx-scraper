@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Charlie Kleinsmith",
+    "website": "https://charliekleinsmith.xyz/"
+  },
+  "experience": [
+    {
+      "company": "Syno Capital",
+      "dates": "2021 - 2023",
+      "position": "Analyst"
+    },
+    {
+      "company": "KPMG US",
+      "dates": "2019 - 2021",
+      "position": "Associate"
+    },
+    {
+      "company": "SineWave Ventures",
+      "dates": "2023 - Present",
+      "position": "Senior Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SineWave Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sinewave-ventures",
+      "position": "Senior Associate"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL01IQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2364dbd7eda222c49e5e6d933bfb8a25685ef278/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/charlie-kleinsmith",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "charlie-kleinsmith",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/charles-kleinsmith/",
+    "twitter": "https://www.twitter.com/kIeinsmith",
+    "website": "https://www.charliekleinsmith.xyz/"
+  },
+  "scraped_at": "2026-02-27T21:01:37.423476"
+}

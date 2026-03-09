@@ -1,0 +1,102 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Utah",
+    "name": "James Pearson",
+    "website": "https://ret.vc/"
+  },
+  "experience": [
+    {
+      "company": "RET Ventures",
+      "dates": "2021 - 2023",
+      "position": "Investor"
+    },
+    {
+      "company": "Cumming Capital Management",
+      "dates": "2021 - 2021",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "Peak Financial Network Solutions",
+      "dates": "2019 - 2021",
+      "position": "Relationship & Reporting Specialist"
+    },
+    {
+      "company": "Sorenson Impact",
+      "dates": "2020 - 2021",
+      "position": "Impact Investor"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2020 - 2020",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "United Nations",
+      "dates": "2019 - 2019",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Greystar",
+      "dates": "2023 - Present",
+      "position": "Innovation Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "RET Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ret-ventures",
+      "position": "Analyst"
+    },
+    "fundSize": "$165M",
+    "investmentRange": "$2.0M - $50.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFFOQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b0720c1e890c40ed9898239e4bf7c08350501b30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-pearson",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "james-pearson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/james-pearson-0dad",
+    "linkedin": "https://www.linkedin.com/in/james-c-pearson/",
+    "website": "https://www.ret.vc/"
+  },
+  "scraped_at": "2026-02-12T10:27:13.974338"
+}

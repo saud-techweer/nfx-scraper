@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "name": "Rafael Duton",
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "website": "https://norte.capital/",
+    "location": "Rio De Janeiro, Brazil"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Norte Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/norte-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [
+    {
+      "position": "Investor",
+      "company": "big_bets",
+      "dates": "2020 - Present"
+    },
+    {
+      "position": "Co-Founder",
+      "company": "Movile",
+      "dates": "2000 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.norte.capital/",
+    "linkedin": "https://www.linkedin.com/in/duton/",
+    "twitter": "https://www.twitter.com/rduton",
+    "angellist": "https://www.angel.co/u/rafael-duton",
+    "crunchbase": "https://www.crunchbase.com/person/rafael-duton"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0R5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8aef98c5b71e621b93ad661af5c8a963e3ecb95e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rafael-duton",
+  "slug": "rafael-duton",
+  "scraped_at": "2026-02-24T12:50:31.593448"
+}

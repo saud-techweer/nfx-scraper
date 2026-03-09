@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Kathryn Brown",
+    "website": "https://k1capital.com/"
+  },
+  "experience": [
+    {
+      "company": "K1 Investment Management",
+      "dates": "2019 - 2021",
+      "position": "Senior Analyst, Marketing"
+    },
+    {
+      "company": "K1 Investment Management",
+      "dates": "2016 - 2018",
+      "position": "Analyst"
+    },
+    {
+      "company": "Netflix",
+      "dates": "2015 - 2016",
+      "position": "LOVE, Season 1"
+    },
+    {
+      "company": "AMC Networks",
+      "dates": "2013 - 2014",
+      "position": "Mad Men, Season 7"
+    },
+    {
+      "company": "ABC Television",
+      "dates": "2013 - 2013",
+      "position": "Mixology, Season 1"
+    },
+    {
+      "company": "Showtime Networks",
+      "dates": "2013 - 2013",
+      "position": "Dexter, Season 8"
+    },
+    {
+      "company": "K1 Investment Management",
+      "dates": "2021 - Present",
+      "position": "Associate, Marketing"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "K1 Investment Management",
+      "firmUrl": "https://signal.nfx.com/firms/k1-investment-management",
+      "position": "Associate"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1JlQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0093fd5cd70085c4a6e6bbaf5283012fbc727cc6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/katy-brown",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "katy-brown",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/katy-brown",
+    "linkedin": "https://www.linkedin.com/in/kathryn-brown-91403446/",
+    "website": "https://www.k1capital.com/"
+  },
+  "scraped_at": "2026-02-27T01:41:52.122430"
+}

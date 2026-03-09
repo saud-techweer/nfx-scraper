@@ -1,0 +1,91 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Johannes Henkel",
+    "website": "https://www.dncapital.com/johannes"
+  },
+  "experience": [
+    {
+      "company": "Canopy",
+      "dates": "2022 - 2022",
+      "position": "Account Executive"
+    },
+    {
+      "company": "DN Capital",
+      "dates": "2021 - 2022",
+      "position": "VC Investor"
+    },
+    {
+      "company": "Harvard Undergraduate Capital Partners",
+      "dates": "2020 - 2021",
+      "position": "Principal"
+    },
+    {
+      "company": "Harvard Undergraduate Capital Partners",
+      "dates": "2020 - 2020",
+      "position": "Associate"
+    },
+    {
+      "company": "9900",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DN Capital",
+      "firmUrl": "https://signal.nfx.com/firms/dn-capital",
+      "position": "Analyst"
+    },
+    "fundSize": "€200M",
+    "investmentRange": "$1M - $22.0M",
+    "sweetSpot": "$11.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmVwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b72e9e1e96d8ab12f6d849bc4876c35a9346ad03/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/johannes-henkel",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "johannes-henkel",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/johannes-henkel/",
+    "website": "https://www.dncapital.com/johannes"
+  },
+  "scraped_at": "2026-02-27T01:12:15.934945"
+}

@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Reno, Nevada",
+    "name": "Melani Gordon",
+    "website": "https://www.melanigordon.com/"
+  },
+  "experience": [
+    {
+      "company": "Techstars",
+      "dates": "2021 - Present",
+      "position": "Investment Principal, Techstars Anywhere"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Interlock Capital",
+      "firmUrl": "https://signal.nfx.com/firms/interlock-capital",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$4M",
+    "investmentRange": "$80K - $930K",
+    "sweetSpot": "$160K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOEhMQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4c59ca1230414a3537d0ab936427fe3585277934/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/melani-gordon",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "melani-gordon",
+  "socials": {
+    "angellist": "https://www.angel.co/u/melanigordon",
+    "crunchbase": "https://www.crunchbase.com/person/melani-gordon",
+    "linkedin": "https://www.linkedin.com/in/melanigordon/",
+    "twitter": "https://www.twitter.com/melgordon",
+    "website": "https://www.melanigordon.com/"
+  },
+  "scraped_at": "2026-02-27T02:45:13.032942"
+}

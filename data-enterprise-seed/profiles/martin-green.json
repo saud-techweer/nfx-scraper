@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Mill Valley, California",
+    "name": "Martin Green",
+    "signalScore": 199
+  },
+  "experience": [
+    {
+      "company": "Meebo",
+      "dates": "2007 - 2012",
+      "position": "President"
+    },
+    {
+      "company": "CNET Networks",
+      "dates": "1996 - 2007",
+      "position": "SVP"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "1994 - 1996",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Cambrian Asset Management LLC",
+      "dates": "2017 - Present",
+      "position": "Managing Partner, co-CIO"
+    },
+    {
+      "company": "HawksHead Capital LLC",
+      "dates": "2012 - Present",
+      "position": "Founder & Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "HawksHead Capital",
+      "firmUrl": "https://signal.nfx.com/firms/hawkshead-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--869758191cec8bcc75f3e8e82538a605d138d065/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-green",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "martin-green",
+  "socials": {
+    "angellist": "https://www.angel.co/martingreen",
+    "crunchbase": "https://www.crunchbase.com/person/martin-green",
+    "linkedin": "https://www.linkedin.com/in/martingreen/",
+    "twitter": "https://www.twitter.com/marting"
+  },
+  "scraped_at": "2026-02-27T23:38:40.739058"
+}

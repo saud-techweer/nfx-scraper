@@ -1,0 +1,172 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Massachusetts",
+    "name": "Shawn Broderick",
+    "website": "https://sosv.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SOSV",
+      "firmUrl": "https://signal.nfx.com/firms/sosv",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 217,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andrew D Ive (Big Idea Ventures)",
+        "Dan Altschuler Malek (Unovis Asset Management)"
+      ],
+      "company": "Abbot's Butcher",
+      "date": "Mar 2025",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Andrew D Ive (Big Idea Ventures)",
+        "Ben Williamson (Grit Road Partners)"
+      ],
+      "company": "EIO Diagnostics",
+      "date": "Jun 2024",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lula Convenience",
+      "date": "Apr 2024",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Contextere",
+      "date": "Mar 2024",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Farmshelf",
+      "date": "Feb 2024",
+      "roundSize": "$800K",
+      "stage": "Series Unknown",
+      "totalRaised": "$7.8M"
+    },
+    {
+      "coInvestors": [
+        "Andrew D Ive (Big Idea Ventures)"
+      ],
+      "company": "Purchs",
+      "date": "Feb 2024",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": "$550K"
+    },
+    {
+      "coInvestors": [
+        "Andrew D Ive (Big Idea Ventures)"
+      ],
+      "company": "Foodcloud",
+      "date": "Jan 2024",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$50K"
+    },
+    {
+      "coInvestors": [
+        "Kenjo Maeji (Staley Capital)",
+        "Andrew D Ive (Big Idea Ventures)"
+      ],
+      "company": "Bite",
+      "date": "Nov 2023",
+      "roundSize": "$1K",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3lwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--61038a2cc903ccb4af9bfaac42fccb2025939f8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/shawn-broderick",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "shawn-broderick",
+  "socials": {
+    "angellist": "https://www.angel.co/p/shawn-broderick",
+    "crunchbase": "https://www.crunchbase.com/person/shawn-broderick",
+    "linkedin": "https://www.linkedin.com/in/shawnbroderick/",
+    "twitter": "https://www.twitter.com/sbroderick",
+    "website": "https://www.sosv.com/"
+  },
+  "scraped_at": "2026-02-11T11:12:53.207424"
+}

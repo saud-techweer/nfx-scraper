@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jyri Engestrom",
+    "website": "http://zengestrom.com/"
+  },
+  "experience": [
+    {
+      "company": "True Ventures",
+      "dates": "2014 - 2017",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Yes VC",
+      "firmUrl": "https://signal.nfx.com/firms/yes-vc",
+      "position": "General Partner"
+    },
+    "fundSize": "$10.8M",
+    "investmentRange": "$30K - $1.5M",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaExhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e21d5a2ca9170ca2d5d0fba9398b99917b24a2c1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jyri-engestrom",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jyri-engestrom",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jyri-zengestrom-com",
+    "crunchbase": "https://www.crunchbase.com/person/jyri-engestrom",
+    "linkedin": "https://www.linkedin.com/in/jyriengestrom/",
+    "twitter": "https://www.twitter.com/jyri",
+    "website": "https://www.zengestrom.com/"
+  },
+  "scraped_at": "2026-02-27T23:00:30.846510"
+}

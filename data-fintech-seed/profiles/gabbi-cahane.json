@@ -1,0 +1,138 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "London",
+    "name": "Gabbi Cahane",
+    "signalScore": 499,
+    "website": "https://stride.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Stride VC",
+      "firmUrl": "https://signal.nfx.com/firms/stride-vc",
+      "position": "Investor"
+    },
+    "fundSize": "£100M",
+    "investmentRange": "$500K - $4.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Screenloop",
+      "date": "Jun 2022",
+      "roundSize": "€6.6M",
+      "stage": "Seed Round",
+      "totalRaised": "€6.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Knowunity",
+      "date": "May 2022",
+      "roundSize": "€10M",
+      "stage": "Series A",
+      "totalRaised": "€10M"
+    },
+    {
+      "coInvestors": [
+        "Natalie Somekh (ActivumSG)"
+      ],
+      "company": "Saqara",
+      "date": "Sep 2021",
+      "roundSize": "€9M",
+      "stage": "Series A",
+      "totalRaised": "€9M"
+    },
+    {
+      "coInvestors": [
+        "Natalie Somekh (ActivumSG)",
+        "Marc McCabe"
+      ],
+      "company": "Hofy",
+      "date": "Aug 2020",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Charlie",
+      "date": "Mar 2016",
+      "roundSize": "£1M",
+      "stage": "Seed Round",
+      "totalRaised": "£1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejIxQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--95990b0c0b7f6bee33d01dd29e8570cbc0af81d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gabbi-cahane",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Smart Cities/UrbanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smart-cities-urbantech-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "gabbi-cahane",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/gabbicahane/",
+    "twitter": "https://www.twitter.com/GabbiCahane",
+    "website": "https://www.stride.vc/"
+  },
+  "scraped_at": "2026-02-27T00:01:43.722355"
+}

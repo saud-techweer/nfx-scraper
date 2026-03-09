@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York City",
+    "name": "Adam Besvinick",
+    "signalScore": 3648,
+    "website": "https://lookingglass.vc/team/"
+  },
+  "experience": [
+    {
+      "company": "Looking Glass Syndicate",
+      "dates": "2019 - 2019",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Anchorage Capital Group, L.L.C.",
+      "dates": "2017 - 2019",
+      "position": "Venture Investor"
+    },
+    {
+      "company": "Deep Fork Capital",
+      "dates": "2014 - 2017",
+      "position": "Principal"
+    },
+    {
+      "company": "By/Association",
+      "dates": "2013 - 2014",
+      "position": "Co-lead"
+    },
+    {
+      "company": "Wanelo",
+      "dates": "2013 - 2014",
+      "position": "Partnerships + Business Development Lead"
+    },
+    {
+      "company": "Lowercase Capital",
+      "dates": "2011 - 2013",
+      "position": "Associate (Intern)"
+    },
+    {
+      "company": "Gumroad",
+      "dates": "2012 - 2012",
+      "position": "Growth + Business Development (Intern)"
+    },
+    {
+      "company": "Jefferies & Company",
+      "dates": "2010 - 2011",
+      "position": "Analyst"
+    },
+    {
+      "company": "Bank of America Merrill Lynch",
+      "dates": "2009 - 2009",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Looking Glass Capital",
+      "dates": "2020 - Present",
+      "position": "Founder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Looking Glass Capital",
+      "firmUrl": "https://signal.nfx.com/firms/looking-glass-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$8.5M",
+    "investmentRange": "$350K - $350K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$350K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "NomNomNow Inc.",
+      "date": "Dec 2017",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "StatMuse",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1dDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e6ad94e4f789e8ed6ff03e8dfc44d607970e3cff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-besvinick",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "adam-besvinick",
+  "socials": {
+    "angellist": "https://www.angel.co/u/besvinick",
+    "crunchbase": "https://www.crunchbase.com/person/adam-besvinick",
+    "linkedin": "https://www.linkedin.com/in/besvinick/",
+    "twitter": "https://www.twitter.com/Besvinick",
+    "website": "https://www.lookingglass.vc/team/"
+  },
+  "scraped_at": "2026-02-26T06:32:16.699880"
+}

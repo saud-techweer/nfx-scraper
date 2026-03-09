@@ -1,0 +1,212 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Lauren DeLuca",
+    "signalScore": 451,
+    "website": "https://motivate.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Motivate Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/motivate-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Quantivize",
+      "date": "Mar 2020",
+      "roundSize": "$1M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Klover",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Endpoint Security",
+      "date": "Dec 2019",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Matt Fates (Innospark Ventures)",
+        "Petra Griffith (Wedbush Ventures)",
+        "Amanda Joseph (American Family Ventures)",
+        "Alex Rubalcava (Stage Venture Partners)"
+      ],
+      "company": "Dyania Health",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "ProHabits",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ankit Sud (NewView Capital)",
+        "Patrick Finnegan (Intuition Capital)",
+        "Josh Richards (REMUS Capital)",
+        "Andrew Romans (7BC Venture Capital)",
+        "Jake Nechamkin (Muchmore Ventures)",
+        "Bryce Hall",
+        "Griffin Johnson",
+        "Gee Roberson",
+        "Kevin Hart",
+        "William Adams"
+      ],
+      "company": "VersusGame",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": "$35M"
+    },
+    {
+      "coInvestors": [
+        "Eric Kim (Goodwater Capital)",
+        "Eric Tarczynski (Contrary Capital)",
+        "TJ Dembinski (Drive Capital)"
+      ],
+      "company": "Hallow",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$110M"
+    },
+    {
+      "coInvestors": [
+        "Mike Fitzgerald (High Alpha)",
+        "Koda Wang (Giant Ventures)"
+      ],
+      "company": "Zoro Card",
+      "date": "Sep 2019",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOThuQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6d86eb9757a3ce29f4e35409f84c24e40c00916f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lauren-deluca",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "lauren-deluca",
+  "socials": {
+    "angellist": "https://www.angel.co/p/lauren-deluca",
+    "crunchbase": "https://www.crunchbase.com/person/lauren-deluca-3ac9",
+    "linkedin": "https://www.linkedin.com/in/delucalauren/",
+    "website": "https://www.motivate.vc/"
+  },
+  "scraped_at": "2026-02-11T15:13:59.895495"
+}

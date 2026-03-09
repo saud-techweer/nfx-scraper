@@ -1,0 +1,236 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Operator",
+      "Strategy Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Ratan Manehani",
+    "signalScore": 214
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "R136 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/r136-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$5.0M - $15.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$12.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Insurify",
+      "date": "Jul 2021",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Rick Zullo (Equal Ventures)",
+        "Yatong Li (Ontario Teachers'​ Pension Plan)"
+      ],
+      "company": "Clearcover",
+      "date": "Mar 2021",
+      "roundSize": "$21M",
+      "stage": "Series D",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [
+        "Denis Efremov (R136 Ventures)"
+      ],
+      "company": "BlueShift",
+      "date": "Jan 2021",
+      "roundSize": "$4M",
+      "stage": "Series C",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Ludovic Copéré (Sony Innovation Fund)"
+      ],
+      "company": "Ridecell",
+      "date": "Nov 2020",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$78M"
+    },
+    {
+      "coInvestors": [
+        "Daniel Karp (Cervin Ventures)",
+        "Kittu Kolluri (NeoTribe Ventures)",
+        "Aaron Jacobson (VC Opendoor)"
+      ],
+      "company": "Illusive Networks",
+      "date": "Apr 2020",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$47M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Coupa",
+      "date": "May 2012",
+      "roundSize": "$45M",
+      "stage": "Series B",
+      "totalRaised": "$45M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeS9aQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ae763773f55c64ff7c743c2e8f4115f65c0ae6e2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ratan-singh",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ratan-singh",
+  "socials": {
+    "angellist": "https://www.angel.co/p/ratan-manehani-singh",
+    "crunchbase": "https://www.crunchbase.com/person/ratan-singh",
+    "linkedin": "https://www.linkedin.com/in/ratanmanehani/"
+  },
+  "scraped_at": "2026-02-27T03:52:11.645297"
+}

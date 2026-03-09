@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Annie Ripp",
+    "website": "https://www.bbgventures.com/about-us"
+  },
+  "experience": [
+    {
+      "company": "BBG Ventures",
+      "dates": "2022 - 2022",
+      "position": "Venture Capital Investor"
+    },
+    {
+      "company": "Spring Lake Equity Partners",
+      "dates": "2020 - 2022",
+      "position": "Growth Equity Investor"
+    },
+    {
+      "company": "Vertex Pharmaceuticals",
+      "dates": "2018 - 2018",
+      "position": "Intern, Global Medical Affairs"
+    },
+    {
+      "company": "Gashora Girls Academy of Science and Technology",
+      "dates": "2017 - 2017",
+      "position": "Intern"
+    },
+    {
+      "company": "Antler",
+      "dates": "2022 - Present",
+      "position": "Venture Capital Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BBG Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/bbg-ventures",
+      "position": "Analyst"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$100K - $250K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlGQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e70a98b12b0504be72280560eced6b006e2d6674/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/annie-ripp",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "annie-ripp",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/annie-ripp-07308113b/",
+    "twitter": "https://www.twitter.com/Annierippp",
+    "website": "https://www.bbgventures.com/about-us"
+  },
+  "scraped_at": "2026-02-27T20:23:20.789233"
+}

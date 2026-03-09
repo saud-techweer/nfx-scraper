@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Jaime Santamaría de Paredes",
+    "website": "https://www.jme.vc/about"
+  },
+  "experience": [
+    {
+      "company": "EY",
+      "dates": "2015 - 2016",
+      "position": "Transaction Advisory Services"
+    },
+    {
+      "company": "Bestinver Asset Management",
+      "dates": "2014 - 2014",
+      "position": "Asset Management Intern"
+    },
+    {
+      "company": "Aon Risk Solutions",
+      "dates": "2013 - 2013",
+      "position": "Risk Management Intern"
+    },
+    {
+      "company": "JME Venture Capital",
+      "dates": "2016 - Present",
+      "position": "CFO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "JME Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/jme-ventures",
+      "position": "Analyst"
+    },
+    "investmentRange": "$225K - $3.5M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWQ3QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--985511a9ec142ba7be307a18c56bdd9c065296c8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jaime-santamaria-de-paredes",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jaime-santamaria-de-paredes",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jaime-santamar%C3%ADa-de-paredes-fern%C3%A1ndez-dur%C3%A1n-1a075992/",
+    "twitter": "https://www.twitter.com/jaimestamaria",
+    "website": "https://www.jme.vc/about"
+  },
+  "scraped_at": "2026-03-03T20:40:31.833185"
+}

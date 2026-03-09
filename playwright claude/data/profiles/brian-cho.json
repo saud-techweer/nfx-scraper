@@ -1,0 +1,245 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Brian Cho",
+    "signalScore": 138,
+    "website": "https://patron.xyz/#team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Patron",
+      "firmUrl": "https://signal.nfx.com/firms/patron",
+      "position": "General Partner"
+    },
+    "fundSize": "$90M",
+    "investmentRange": "$750K - $4.0M",
+    "investmentsOnRecord": 18,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "ego AI",
+      "date": "Oct 2025",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Jonathan Lai (Andreessen Horowitz)",
+        "Sandeep Bakshi (Prosus Ventures)",
+        "Rich Aldrich (Longwood Fund)",
+        "Patrick Collison"
+      ],
+      "company": "Fundamental Research Labs",
+      "date": "May 2024",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$44M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Rascal Games",
+      "date": "Sep 2023",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Curtis Spencer (Electric Capital)"
+      ],
+      "company": "Tonic",
+      "date": "Apr 2023",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Robin Chan (Goat Capital)"
+      ],
+      "company": "MadMen AI",
+      "date": "Feb 2023",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Amber Atherton (Patron)",
+        "Jason Yeh (Patron)"
+      ],
+      "company": "Spacecaps",
+      "date": "Oct 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Amber Atherton (Patron)",
+        "Jason Yeh (Patron)"
+      ],
+      "company": "Deca",
+      "date": "Jun 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jason Yeh (Patron)",
+        "Amber Atherton (Patron)"
+      ],
+      "company": "Anykraft",
+      "date": "May 2022",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3R4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fdc53c026313b2866c9ee61440ce3d9459c41b58/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-cho",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    }
+  ],
+  "slug": "brian-cho",
+  "socials": {
+    "angellist": "https://www.angel.co/p/brian-cho-1",
+    "crunchbase": "https://www.crunchbase.com/person/brian-cho",
+    "linkedin": "https://www.linkedin.com/in/brianjcho/",
+    "twitter": "https://www.twitter.com/brianjcho",
+    "website": "https://www.patron.xyz/#team"
+  },
+  "scraped_at": "2026-02-11T10:59:12.358783"
+}

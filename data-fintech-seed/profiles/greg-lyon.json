@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Greg Lyon",
+    "website": "https://eclipse.vc/team/greg-lyon/"
+  },
+  "experience": [
+    {
+      "company": "Eclipse Ventures",
+      "dates": "2015 - 2019",
+      "position": "Chief Financial Officer"
+    },
+    {
+      "company": "Formation 8",
+      "dates": "2015 - 2015",
+      "position": "Controller"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "2014 - 2015",
+      "position": "Finance Manager"
+    },
+    {
+      "company": "PwC",
+      "dates": "2008 - 2014",
+      "position": "Manager - Assurance: Financial Services"
+    },
+    {
+      "company": "Feast Catering",
+      "dates": "2006 - 2008",
+      "position": "Finance"
+    },
+    {
+      "company": "VCBC",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Eclipse Ventures",
+      "dates": "2019 - Present",
+      "position": "Partner and CFO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Eclipse Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/eclipse-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$200K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFYwQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--389950debf035e7ec579d5d4556c32aa5791ab8f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/greg-lyon",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "greg-lyon",
+  "socials": {
+    "angellist": "https://www.angel.co/u/greg-lyon",
+    "crunchbase": "https://www.crunchbase.com/person/greg-lyon",
+    "linkedin": "https://www.linkedin.com/in/greg-lyon-5986274b/",
+    "website": "https://www.eclipse.vc/team/greg-lyon/"
+  },
+  "scraped_at": "2026-03-03T20:17:26.440144"
+}

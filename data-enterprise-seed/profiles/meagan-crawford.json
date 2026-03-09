@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Houston, Texas",
+    "name": "Meagan Crawford",
+    "website": "https://spacefund.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SpaceFund",
+      "firmUrl": "https://signal.nfx.com/firms/spacefund",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXpUQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6027c3d04b898367b0793682aa941f2cfc42f8de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/meagan-crawford",
+  "sectorRankings": [
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "meagan-crawford",
+  "socials": {
+    "angellist": "https://www.angel.co/u/meagan-crawford",
+    "crunchbase": "https://www.crunchbase.com/person/meagan-crawford",
+    "linkedin": "https://www.linkedin.com/in/meagan/",
+    "twitter": "https://www.twitter.com/meaganmcrawford?lang=en",
+    "website": "https://www.spacefund.com/team/"
+  },
+  "scraped_at": "2026-02-27T23:47:18.033157"
+}

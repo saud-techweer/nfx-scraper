@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Investor",
+      "VC"
+    ],
+    "name": "Valentyna Pidgaina",
+    "positionAndFirm": "VC | B2B SaaS, PaaS, Cloud services",
+    "signalScore": 68
+  },
+  "experience": [
+    {
+      "company": "MTS StartUp Hub",
+      "dates": "2020 - 2021",
+      "position": "Technology scout"
+    },
+    {
+      "company": "GVA - Global Venture Alliance",
+      "dates": "2014 - 2020",
+      "position": "Project director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Scout",
+    "investmentRange": "$200K - $250K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Valentina Pidgaina (Vibranium.VC)",
+        "Zamir Shukho (Vibranium.VC)",
+        "Ella Shukho"
+      ],
+      "company": "MotionRay",
+      "date": "May 2022",
+      "roundSize": "$250K",
+      "stage": "Seed",
+      "totalRaised": "$250K"
+    },
+    {
+      "coInvestors": [
+        "Valentina Pidgaina (Vibranium.VC)",
+        "Zamir Shukho (Vibranium.VC)",
+        "Ella Shukho"
+      ],
+      "company": "Everytale",
+      "date": "Apr 2022",
+      "roundSize": "$200K",
+      "stage": "Seed",
+      "totalRaised": "$200K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0ZqQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fe3d8c8a5d5abf08fa7df58daaf963abdc88ca07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/valentina-podgaynaya",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "valentina-podgaynaya",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/valentina-podgaynaya",
+    "linkedin": "https://www.linkedin.com/in/valentyna-pidgaina-78057249/"
+  },
+  "scraped_at": "2026-02-27T05:25:47.223554"
+}

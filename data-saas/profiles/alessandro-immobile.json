@@ -1,0 +1,106 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "CEO",
+      "Advisor",
+      "Founder"
+    ],
+    "location": "Italy",
+    "name": "Alessandro Immobile"
+  },
+  "experience": [
+    {
+      "company": "-",
+      "dates": "2023 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Partner",
+    "investmentRange": "$30K - $300K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "shouwei wang (01 Advisors)",
+        "Stephanie Chen (Inovexus)",
+        "Henry Ukoha (Expert Dojo)",
+        "RT Lee (CP Global)",
+        "Diego Kuri (Hyphacapital)",
+        "Steve Kriebel",
+        "Arpit Sharma",
+        "Mac Malkawi",
+        "Tanya Sarig",
+        "Courtney Lamar Williams",
+        "Ken Lee",
+        "Q Angels Koç University Alumni Angel Investor Network",
+        "Simona Fontana"
+      ],
+      "company": "-",
+      "date": "Dec 2020",
+      "roundSize": "$500K",
+      "stage": "Funding round",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVBpQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e18e7a8e1dbb49a6432fa5efb510473cc079b16/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alessandro-immobile",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alessandro-immobile",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/alessandroimmobile/"
+  },
+  "scraped_at": "2026-02-26T06:42:19.585267"
+}

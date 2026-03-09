@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Matt Gorham",
+    "website": "https://panteracapital.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pantera Capital",
+      "firmUrl": "https://signal.nfx.com/firms/pantera-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$1M - $40.0M",
+    "sweetSpot": "$20.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBempIQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c7a610016e821c8ffab9516749bfa37d6961120/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matt-gorham",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "matt-gorham",
+  "socials": {
+    "angellist": "https://www.angel.co/u/matthew-gorham",
+    "crunchbase": "https://www.crunchbase.com/person/matt-gorham",
+    "linkedin": "https://www.linkedin.com/in/matt-gorham-cfa-036bb84/",
+    "website": "https://www.panteracapital.com/team/"
+  },
+  "scraped_at": "2026-03-03T22:20:12.051803"
+}

@@ -1,0 +1,334 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Lu Zhang",
+    "website": "https://www.fusionfund.com/team/luzhang"
+  },
+  "experience": [
+    {
+      "company": "Nexusflow",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Vectara",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Titaniam, Inc.",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "CapConnect+",
+      "dates": "2021 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "You.com",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Quark.ai",
+      "dates": "2021 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Synaptec Health",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Accern",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Loft Labs",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "NeuraLegion",
+      "dates": "2019 - Present",
+      "position": "Board Observer"
+    },
+    {
+      "company": "Otter.ai",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "DreamCraft Entertainment, Inc.",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BlueSpace.ai",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Huma.AI",
+      "dates": "2019 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Macrometa",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "bodo.ai",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "World Economic Forum",
+      "dates": "2018 - Present",
+      "position": "Young Global Leader"
+    },
+    {
+      "company": "Proscia",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Subtle Medical",
+      "dates": "2018 - Present",
+      "position": "Board Observer"
+    },
+    {
+      "company": "Safehub",
+      "dates": "2018 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "nView medical",
+      "dates": "2018 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Sonavex, Inc.",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Catalia Health",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Paperspace",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "TVision",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "NuCypher",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Popular Pays",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BEGiN",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Paradromics Inc.",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Mojo Vision Inc.",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Mission Bio",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "GrubMarket Inc.",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Fusion Fund",
+      "dates": "2015 - Present",
+      "position": "Founder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Fusion Fund",
+      "firmUrl": "https://signal.nfx.com/firms/fusion-fund",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$120M",
+    "investmentRange": "$500K - $2.5M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Safehub",
+      "date": "Nov 2019",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Ning Sung"
+      ],
+      "company": "MissionBio",
+      "date": "Nov 2015",
+      "roundSize": "$2M",
+      "stage": "seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Ashley Flucas (Flucas Ventures)",
+        "Angelo Del Priore (HP Tech Ventures)"
+      ],
+      "company": "Mojo Vision",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXZQQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--42887b62be489933929d082ae808f16687eef4d9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lu-zhang",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "lu-zhang",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/lu-zhang",
+    "linkedin": "https://www.linkedin.com/in/luzhangvc/",
+    "twitter": "https://www.twitter.com/luzhangvc",
+    "website": "https://www.fusionfund.com/team/luzhang"
+  },
+  "scraped_at": "2026-02-27T02:10:38.482250"
+}

@@ -1,0 +1,214 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Former CEO",
+      "CEO",
+      "Angel"
+    ],
+    "location": "Manchester, New Hampshire",
+    "name": "Jason Syversen",
+    "positionAndFirm": "Hacker, Entrepreneur, Investor. Love tech, disruption and people",
+    "signalScore": 290,
+    "website": "https://cyber-son.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "10X Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/10x-venture-partners",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$15K - $250K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Phil Nadel (Forefront Venture Partners)",
+        "Tom Medrek (Launchpad Venture Group)"
+      ],
+      "company": "Addapptation",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Meenta",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Series Seed 1",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Stijn van Lint (Dellin Investments)"
+      ],
+      "company": "Carmell Therapeutics",
+      "date": "Jun 2019",
+      "roundSize": "$100K",
+      "stage": "Bridge Round",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Florence Healthcare",
+      "date": "Sep 2018",
+      "roundSize": "$1",
+      "stage": "Series A",
+      "totalRaised": "$1"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelg3QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3f251fea195186024b9f448ad38afa399c5a2b8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jason-syversen",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "GovTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jason-syversen",
+  "socials": {
+    "angellist": "https://www.angel.co/u/syversen",
+    "crunchbase": "https://www.crunchbase.com/person/jason-syversen",
+    "linkedin": "https://www.linkedin.com/in/jsyversen/",
+    "twitter": "https://www.twitter.com/JSyversen",
+    "website": "https://www.cyber-son.com/"
+  },
+  "scraped_at": "2026-02-27T00:51:18.510231"
+}

@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Anton Simunovic",
+    "website": "https://avgfunds.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alumni Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/alumni-ventures-group",
+      "position": "Investor"
+    },
+    "fundSize": "$539.4M",
+    "investmentRange": "$50K - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Topher Conway (SV Angel)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Matt Scott (Alumni Ventures )",
+        "Ashley Flucas (Flucas Ventures)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Alex Roetter (Moxxie Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Lucy Guo (Backend Capital)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Niv Dror (Shrug Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Chris Moreno (Infinite Niches)",
+        "Tyler Willis",
+        "Rudra Peram",
+        "Zach Segal",
+        "Kevin Weil",
+        "Peter Hunn",
+        "Moshe Lifschitz",
+        "Howard Charney",
+        "Alper Kiresepi",
+        "Yagiz Sozmen"
+      ],
+      "company": "MainStreet",
+      "date": "Jun 2020",
+      "roundSize": "$2.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$70M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDJiQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--833e5b4bd0a3576ef384317f82e569a6b0094b3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anton-simunovic",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "anton-simunovic",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/anton-simunovic",
+    "linkedin": "https://www.linkedin.com/in/anton-simunovic-0543876/",
+    "website": "https://www.avgfunds.com/"
+  },
+  "scraped_at": "2026-02-26T08:25:22.548477"
+}

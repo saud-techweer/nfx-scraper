@@ -1,0 +1,166 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Strategy Operator",
+      "Growth Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Kim Moore",
+    "positionAndFirm": "Investing in Seed+ transformative enterprise IT software companies (across infrastructure, AI, security, and engineering development)",
+    "signalScore": 77,
+    "website": "http://www.uandi.vc/"
+  },
+  "experience": [
+    {
+      "company": "Glynn Capital",
+      "dates": "2017 - 2024",
+      "position": "Partner - Value Creation"
+    },
+    {
+      "company": "Innovation Endeavors",
+      "dates": "2016",
+      "position": "Value Creation BD"
+    },
+    {
+      "company": "Asana",
+      "dates": "2013",
+      "position": "COS"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "U&I Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/u-i-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$600K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "AccelOS",
+      "date": "Jul 2025",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Protect AI",
+      "date": "Aug 2024",
+      "roundSize": "$60M",
+      "stage": "Series B",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Chronosphere",
+      "date": "Jan 2023",
+      "roundSize": "$120M",
+      "stage": "Series C",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Panther Labs",
+      "date": "Dec 2021",
+      "roundSize": "$120M",
+      "stage": "Series B",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Drata",
+      "date": "Jun 2021",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$28M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEEyQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--65032a6cef3c56388601f9619ae396d51a65c9aa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kim-moore_1",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    }
+  ],
+  "slug": "kim-moore_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kimberlyjmoore/",
+    "website": "https://www.uandi.vc/"
+  },
+  "scraped_at": "2026-02-27T01:50:05.051503"
+}

@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Joshua Browder",
+    "website": "https://browdercapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Greylock Partners Full-time",
+      "dates": "2017 - 2018",
+      "position": "Greylock Partners - EIR Intern"
+    },
+    {
+      "company": "Columbia University in the City of New York",
+      "dates": "2015 - 2015",
+      "position": "Research Fellow (Economics)"
+    },
+    {
+      "company": "Freedom House",
+      "dates": "2014 - 2014",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "DoNotPay",
+      "dates": "2015 - Present",
+      "position": "Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Browder Capital",
+      "firmUrl": "https://signal.nfx.com/firms/browder-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzU4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--64668f81c41a9cb798f17c6f225132ed8c5cbf83/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joshua-browder",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "joshua-browder",
+  "socials": {
+    "angellist": "https://www.angel.co/u/joshuabrowder",
+    "crunchbase": "https://www.crunchbase.com/person/joshua-browder",
+    "linkedin": "https://www.linkedin.com/in/joshua-browder-b0b573116/",
+    "twitter": "https://www.twitter.com/jbrowder1",
+    "website": "https://www.browdercapital.com/"
+  },
+  "scraped_at": "2026-02-27T01:27:09.619650"
+}

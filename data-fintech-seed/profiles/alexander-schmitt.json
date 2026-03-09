@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Berlin, Germany",
+    "name": "Alexander Schmitt",
+    "website": "https://lsvp.com/team-member/alexander-schmitt/"
+  },
+  "experience": [
+    {
+      "company": "Lightspeed Venture Partners",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lightspeed Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/lightspeed-venture-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$3.0M - $20.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWFkQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--19cb926c5842f22bce2ec734169b5d1a8dc2dbad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexander-schmitt",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alexander-schmitt",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/alexander-schmitt-9331b593/",
+    "twitter": "https://www.twitter.com/alex_schmitti",
+    "website": "https://www.lsvp.com/team-member/alexander-schmitt/"
+  },
+  "scraped_at": "2026-02-27T23:59:52.732363"
+}

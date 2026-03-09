@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Westport, Connecticut",
+    "name": "Stephen Green",
+    "website": "https://canaan.com/team"
+  },
+  "experience": [
+    {
+      "company": "Canaan Partners",
+      "dates": "Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Canaan Partners",
+      "firmUrl": "https://signal.nfx.com/firms/canaan-partners",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$250K - $20.0M",
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/stephen-green",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "stephen-green",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/stephen-green",
+    "linkedin": "https://www.linkedin.com/in/steve-green-4626095a/",
+    "website": "https://www.canaan.com/team"
+  },
+  "scraped_at": "2026-02-28T05:14:06.094900"
+}

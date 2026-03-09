@@ -1,0 +1,251 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Ilya Fushman",
+    "website": "https://kleinerperkins.com/people/ilya-fushman"
+  },
+  "experience": [
+    {
+      "company": "Kleiner Perkins Caufield & Byers",
+      "dates": "2018 - Present",
+      "position": "General Partner and Managing Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kleiner Perkins",
+      "firmUrl": "https://signal.nfx.com/firms/kleiner-perkins",
+      "position": "Partner"
+    },
+    "fundSize": "750M",
+    "investmentRange": "$2.0M - $50.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Mark Suster (Upfront Ventures)",
+        "Dick Costolo (01 Advisors)",
+        "Alex Rodriguez (Vision/Capital/People (VCP))",
+        "Jason Calacanis (LAUNCH)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Pete Moore",
+        "Hiten Shah",
+        "Julia Hartz",
+        "Scott Banister",
+        "Moshe Lifschitz"
+      ],
+      "company": "Density",
+      "date": "Jul 2020",
+      "roundSize": "$51M",
+      "stage": "Series C",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [
+        "Jeff Clavier (Uncork Capital)",
+        "Arjun Sethi (Tribe Capital)",
+        "Ed Sim (Boldstart Ventures)",
+        "Mamoon Hamid (Kleiner Perkins)",
+        "Sam Hickmann",
+        "Hiten Shah",
+        "Pierre Valade",
+        "Stewart Butterfield",
+        "Eoghan McCabe"
+      ],
+      "company": "Front",
+      "date": "May 2016",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjNxQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffabbc277df35639ee4441ba56ad4c3fb1634a71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ilya-fushman",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-b-investors"
+    },
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ilya-fushman",
+  "socials": {
+    "angellist": "https://www.angel.co/ilyaf",
+    "crunchbase": "https://www.crunchbase.com/person/ilya-fushman",
+    "linkedin": "https://www.linkedin.com/in/ilyafushman/",
+    "twitter": "https://www.twitter.com/ilyaf",
+    "website": "https://www.kleinerperkins.com/people/ilya-fushman"
+  },
+  "scraped_at": "2026-02-27T00:31:09.999417"
+}

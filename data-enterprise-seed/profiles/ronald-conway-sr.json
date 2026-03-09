@@ -1,0 +1,149 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Brooklyn, New York",
+    "name": "Ronald Conway Sr.",
+    "website": "https://svangel.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SV Angel",
+      "firmUrl": "https://signal.nfx.com/firms/sv-angel",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$53.1M",
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Steve Herrod (General Catalyst)",
+        "Ron Conway (SV Angel)",
+        "Ramu Arunachalam (A Capital)",
+        "DJ Patil",
+        "Apoorva Ruparel",
+        "Oliver Friedrichs",
+        "Gerhard Eschelbeck"
+      ],
+      "company": "Armorblox",
+      "date": "Feb 2019",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Joe Kraus (GV (Google Ventures))",
+        "Ron Conway (SV Angel)",
+        "Roger Lee (Battery Ventures)",
+        "Shana Fisher (Third Kind Ventures)",
+        "Scooter Braun (TQ Ventures)",
+        "Jonathon Triest (Ludlow Ventures)",
+        "Ted Leonsis (Revolution)",
+        "Karlie Kloss (Klossy)",
+        "Mark Wahlberg",
+        "Marc Benioff",
+        "Steve Aoki"
+      ],
+      "company": "StockX",
+      "date": "Sep 2018",
+      "roundSize": "$44M",
+      "stage": "Series B",
+      "totalRaised": "$44M"
+    },
+    {
+      "coInvestors": [
+        "Ron Conway (SV Angel)",
+        "R \"Ray\" Wang (Mindful Venture Capital)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Adam Nash (Daffy)",
+        "Steven Trieu",
+        "Matt Tucker"
+      ],
+      "company": "Overlay",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Angel Round",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0U3QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be6dbc7080f75589046235e6305bbf17cbb1e72d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ronald-conway-sr",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ronald-conway-sr",
+  "socials": {
+    "angellist": "https://www.svangel.com/team",
+    "crunchbase": "https://www.crunchbase.com/person/ron-conway",
+    "linkedin": "https://www.linkedin.com/in/ronnyconway/",
+    "twitter": "https://www.twitter.com/ronconway?lang=en"
+  },
+  "scraped_at": "2026-02-27T04:10:23.122710"
+}

@@ -1,0 +1,139 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Samit Kalra",
+    "signalScore": 629,
+    "website": "https://1984.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "1984 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/1984-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$42.3M",
+    "investmentRange": "$500K - $1.5M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Bluebirds",
+      "date": "Apr 2023",
+      "roundSize": "$4.5M",
+      "stage": "Seed",
+      "totalRaised": "$4.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Revv",
+      "date": "Mar 2023",
+      "roundSize": "$2.1M",
+      "stage": "Seed",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Streetfair",
+      "date": "Jun 2022",
+      "roundSize": "$750K",
+      "stage": "Pre-seed",
+      "totalRaised": "$750K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sucasa",
+      "date": "May 2022",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeC83QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--00f2898ad7266757e02d04d846bcb7495ce6b280/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/samit-kalra",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Local Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "samit-kalra",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/samit-kalra-2997",
+    "linkedin": "https://www.linkedin.com/in/samit-kalra-a6179365/",
+    "twitter": "https://www.twitter.com/samwise9606",
+    "website": "https://www.samit-kalra.com/"
+  },
+  "scraped_at": "2026-02-27T04:21:30.305470"
+}

@@ -1,0 +1,264 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Product Operator",
+      "Engineering Operator"
+    ],
+    "location": "Los Altos, California",
+    "name": "Pratyus Patnaik",
+    "signalScore": 13,
+    "website": "https://www.pratyus.com/"
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "dates": "2014 - 2016",
+      "position": "Engineering Manager"
+    },
+    {
+      "company": "Appurify",
+      "dates": "2012 - 2014",
+      "position": "Co-founder & VP Engineering"
+    },
+    {
+      "company": "Zynga",
+      "dates": "2010 - 2012",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "company": "Oracle Corporation",
+      "dates": "2009 - 2010",
+      "position": "Application Engineer"
+    },
+    {
+      "company": "atSpoke",
+      "dates": "2016 - Present",
+      "position": "Co-founder & CTO"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$10K - $50K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Anand Chandrasekaran (General Catalyst)"
+      ],
+      "company": "MitronTV",
+      "date": "Aug 2020",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Kintan Brahmbhatt"
+      ],
+      "company": "Quolum",
+      "date": "Oct 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Stackblitz",
+      "date": "Aug 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Lightup.ai",
+      "date": "Apr 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Neji.io",
+      "date": "Dec 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "argel becerra"
+      ],
+      "company": "Dexterity",
+      "date": "Dec 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$56M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Pointy",
+      "date": "May 2017",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Tim Guleri (Sierra Ventures)",
+        "Jeff Richards (Notable Capital (formerly GGV Capital))",
+        "Laura Yao (EQT Ventures)",
+        "Fady Yacoub (HOF Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ross Mason (Dig Ventures)",
+        "Sunil Chhaya (Kearny Jackson)",
+        "Adam D'Angelo"
+      ],
+      "company": "HeadSpin",
+      "date": "Jul 2015",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$50M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMktFQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3cc7730be4244345a8626b2c11e1aa716c37b5a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pratyus-patnaik",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "pratyus-patnaik",
+  "socials": {
+    "angellist": "https://www.angel.co/p/pratyus-patnaik",
+    "crunchbase": "https://www.crunchbase.com/person/pratyus-patnaik",
+    "linkedin": "https://www.linkedin.com/in/pratyus/",
+    "twitter": "https://www.twitter.com/pratyus",
+    "website": "https://www.pratyus.com/"
+  },
+  "scraped_at": "2026-02-27T03:44:49.259098"
+}

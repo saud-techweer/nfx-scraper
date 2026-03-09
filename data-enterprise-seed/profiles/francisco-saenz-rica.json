@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Chile",
+    "name": "Francisco Saenz Rica",
+    "website": "https://magmapartners.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Magma Partners",
+      "firmUrl": "https://signal.nfx.com/firms/magma-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$15M",
+    "investmentRange": "$25K - $1M",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmlBQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--83f181c87dc37e0f02080ae4a5cd6fdaebb9e233/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/francisco-saenz-rica",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "francisco-saenz-rica",
+  "socials": {
+    "angellist": "https://www.angel.co/p/francisco-saenz-rica",
+    "crunchbase": "https://www.crunchbase.com/person/francisco-s%C3%A1enz-rica",
+    "linkedin": "https://www.linkedin.com/in/francisco-jos%C3%A9-s%C3%A1enz-rica-b3370834/?originalSubdomain=cl",
+    "website": "https://www.magmapartners.com/team"
+  },
+  "scraped_at": "2026-02-27T21:58:44.211725"
+}

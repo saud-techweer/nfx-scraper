@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "Stamford, Connecticut",
+    "name": "Barry Silbert",
+    "signalScore": 1,
+    "website": "https://dcg.co/who-we-are/"
+  },
+  "experience": [
+    {
+      "company": "SecondMarket, Inc.",
+      "dates": "2014 - 2015",
+      "position": "Founder & Chairman"
+    },
+    {
+      "company": "SecondMarket, Inc.",
+      "dates": "2008 - 2014",
+      "position": "Founder, Chairman & CEO"
+    },
+    {
+      "company": "Restricted Stock Partners",
+      "dates": "2004 - 2008",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Houlihan Lokey",
+      "dates": "1998 - 2004",
+      "position": "Associate"
+    },
+    {
+      "company": "Digital Currency Group",
+      "dates": "2015 - Present",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Grayscale Investments",
+      "dates": "2013 - Present",
+      "position": "Founder & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Digital Currency Group",
+      "firmUrl": "https://signal.nfx.com/firms/digital-currency-group",
+      "position": "Investor"
+    },
+    "fundSize": "$50B",
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$625K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jalak Jobanputra (Future Perfect Ventures)"
+      ],
+      "company": "Unocoin",
+      "date": "Sep 2016",
+      "roundSize": "$1.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdVArIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f509d7db0f2ffbf1eb673e236d0cca3c00c4d511/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/barry-silbert",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "barry-silbert",
+  "socials": {
+    "angellist": "https://www.angel.co/barry-silbert",
+    "crunchbase": "https://www.crunchbase.com/person/barry-silbert",
+    "linkedin": "https://www.linkedin.com/in/barrysilbert/",
+    "twitter": "https://www.twitter.com/barrysilbert",
+    "website": "https://www.dcg.co/who-we-are/"
+  },
+  "scraped_at": "2026-02-28T00:39:17.080231"
+}

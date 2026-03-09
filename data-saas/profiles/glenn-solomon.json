@@ -1,0 +1,152 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Glenn Solomon",
+    "signalScore": 6,
+    "website": "https://notablecap.com/team/glenn-solomon/"
+  },
+  "experience": [
+    {
+      "company": "Goldman Sachs",
+      "dates": "Present",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "SPO Partners",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Partech International",
+      "dates": "Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "The Spotlight Foundation",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "GGV Capital",
+      "dates": "Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Notable Capital (formerly GGV Capital)",
+      "firmUrl": "https://signal.nfx.com/firms/notable-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$4B",
+    "investmentRange": "$250K - $25.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Rashmi Gopinath (B Capital Group)",
+        "Sunil Kurkure (Intel Capital)",
+        "Karim Faris (GV (Google Ventures))",
+        "Tamara Steffens (Thomson Reuters Ventures)",
+        "Theodore Schlein (Ballistic Ventures)",
+        "Mike Fernandez"
+      ],
+      "company": "Synack",
+      "date": "May 2020",
+      "roundSize": "$52M",
+      "stage": "Series D",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Keith Rabois (Khosla Ventures)",
+        "Manu Gupta (Lakestar)",
+        "Anton Levy (General Atlantic)",
+        "Klaus Hommels (Lakestar)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Louis Beryl"
+      ],
+      "company": "Opendoor",
+      "date": "Jun 2018",
+      "roundSize": "$330M",
+      "stage": "Series E",
+      "totalRaised": "$330M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDI4QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ca297b83758189129cd47da998e4dd360146f234/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/glenn-solomon",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "glenn-solomon",
+  "socials": {
+    "angellist": "https://www.angel.co/p/glennsolomon",
+    "crunchbase": "https://www.crunchbase.com/person/glenn-solomon",
+    "linkedin": "https://www.linkedin.com/in/glennsolomon/",
+    "twitter": "https://www.twitter.com/glennsolomon",
+    "website": "https://www.notablecap.com/team/glenn-solomon/"
+  },
+  "scraped_at": "2026-02-27T00:11:14.717327"
+}

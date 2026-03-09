@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Roger Hurwitz",
+    "website": "https://www.volitioncapital.com/team/filter/investment-team/all-themes/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Volition Capital",
+      "firmUrl": "https://signal.nfx.com/firms/volition-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sanjay Aggarwal (F-Prime Capital Partners)"
+      ],
+      "company": "Securonix",
+      "date": "Sep 2017",
+      "roundSize": "$29M",
+      "stage": "Series A",
+      "totalRaised": "$29M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1ZIQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ea43c8d3e040d246fb55b3139f0da27e130f3957/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/roger-hurwitz",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "roger-hurwitz",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/roger-hurwitz",
+    "linkedin": "https://www.linkedin.com/in/roger-hurwitz-89458114/",
+    "website": "https://www.volitioncapital.com/team/filter/investment-team/all-themes/"
+  },
+  "scraped_at": "2026-02-27T04:07:42.302688"
+}

@@ -1,0 +1,282 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "name": "Vinicius Alves"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Base Partners",
+      "firmUrl": "https://signal.nfx.com/firms/base-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Daniel Rumennik (AirAngels)",
+        "Andy Chen (Outcast Ventures)",
+        "Paulina Szyzdek (Robert Bosch Venture Capital)",
+        "Kevin Colas"
+      ],
+      "company": "Figma",
+      "date": "Jun 2021",
+      "roundSize": "$200M",
+      "stage": "Series E",
+      "totalRaised": "$250M"
+    },
+    {
+      "coInvestors": [
+        "Jan Hammer (Index Ventures)",
+        "Andreas Klinger (Prototype Capital)",
+        "Villi Iltchev (Two Sigma Ventures)"
+      ],
+      "company": "Remote",
+      "date": "Nov 2020",
+      "roundSize": "$35M",
+      "stage": "Series A",
+      "totalRaised": "$57M"
+    },
+    {
+      "coInvestors": [
+        "Anand Chandrasekaran (General Catalyst)",
+        "Kirill Kozhevnikov (RTP Global)"
+      ],
+      "company": "InVideo",
+      "date": "Oct 2020",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Navan",
+      "date": "Jun 2019",
+      "roundSize": "$250M",
+      "stage": "Series D",
+      "totalRaised": "$250M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nubank",
+      "date": "Mar 2018",
+      "roundSize": "$150M",
+      "stage": "Series E",
+      "totalRaised": "$150M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ByteDance",
+      "date": "Apr 2017",
+      "roundSize": "$1B",
+      "stage": "Series D",
+      "totalRaised": "$1B"
+    },
+    {
+      "coInvestors": [
+        "Bill Tai"
+      ],
+      "company": "Zoom",
+      "date": "Jan 2017",
+      "roundSize": "$100M",
+      "stage": "Series D",
+      "totalRaised": "$3000B"
+    },
+    {
+      "coInvestors": [
+        "Hao Huang (UpHonest Capital)",
+        "Vic Koch (Koch Fund)",
+        "Federico Carrasco (Graypes GmbH)",
+        "Henry Fertik (Strategic Beta)",
+        "Ana Levine (E1 Ventures)",
+        "Pratik Kapoor",
+        "Fanny Surjana"
+      ],
+      "company": "Stripe",
+      "date": "Nov 2016",
+      "roundSize": "$150M",
+      "stage": "Series D",
+      "totalRaised": "$1.4B"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1hWQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb9315683bb00199821e946f3844b71c0582395b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vinicius-alves",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Games (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "vinicius-alves",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/atvinicius/"
+  },
+  "scraped_at": "2026-02-28T14:10:26.330781"
+}

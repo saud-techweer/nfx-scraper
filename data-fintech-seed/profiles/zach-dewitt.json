@@ -1,0 +1,186 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Zach DeWitt",
+    "website": "https://wing.vc/people/zach-dewitt"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wing Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/wing-venture-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Rogier",
+        "JD Ross"
+      ],
+      "company": "AirOps",
+      "date": "Nov 2025",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$63M"
+    },
+    {
+      "coInvestors": [
+        "Scott Hartley (Everywhere Ventures (The Fund))",
+        "Stephanie Opdam (Notion Capital)",
+        "Don Hoang (Atomico)",
+        "Will Neale (Passion Capital)",
+        "Jose Gaztelu",
+        "Paul Forster",
+        "Nicolas Julia",
+        "Ian Hogarth",
+        "Marc McCabe"
+      ],
+      "company": "Outverse",
+      "date": "Jul 2023",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$7M£1M"
+    },
+    {
+      "coInvestors": [
+        "Preetha Parthasarathy",
+        "Louis Beryl"
+      ],
+      "company": "Deepgram",
+      "date": "Nov 2022",
+      "roundSize": "$47M",
+      "stage": "Series B",
+      "totalRaised": "$230M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Standard Practice",
+      "date": "Jun 2022",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Dougal Cameron (Golden Section Ventures)",
+        "Julia Lipton (Awesome People Ventures)",
+        "Michael Stoppelman"
+      ],
+      "company": "Tango",
+      "date": "Jun 2022",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Copy.ai",
+      "date": "Oct 2021",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Julia Lipton (Awesome People Ventures)",
+        "Jack Chou"
+      ],
+      "company": "Poised",
+      "date": "Jun 2021",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Fred Ehrsam (Paradigm)",
+        "Ali Tamaseb (DCVC (Data Collective))",
+        "Linda Xie (Scalar Capital)",
+        "Vitalik Buterin"
+      ],
+      "company": "StarkWare Industries",
+      "date": "Mar 2021",
+      "roundSize": "$75M",
+      "stage": "Series B",
+      "totalRaised": "$160M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWx6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--13c2c598eb5e6e8c098d2b5f92ffaf7ccb73b158/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zach-dewitt",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "zach-dewitt",
+  "socials": {
+    "angellist": "https://www.angel.co/u/zachary-dewitt",
+    "crunchbase": "https://www.crunchbase.com/person/zachary-dewitt-2",
+    "linkedin": "https://www.linkedin.com/in/zachary-dewitt-a5a8b816/",
+    "twitter": "https://www.twitter.com/ZacharyDeWitt",
+    "website": "https://www.wing.vc/people/zach-dewitt"
+  },
+  "scraped_at": "2026-02-11T12:06:51.579857"
+}

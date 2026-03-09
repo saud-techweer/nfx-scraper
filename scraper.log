@@ -1,0 +1,203 @@
+2026-02-16 01:34:16,581 - INFO - ============================================================
+2026-02-16 01:34:16,581 - INFO -   NFX SIGNAL SCRAPER
+2026-02-16 01:34:16,581 - INFO - ============================================================
+2026-02-16 01:34:16,583 - INFO - Already scraped: 43 profiles
+2026-02-16 01:34:16,584 - INFO - SKIP_CLICKS: 5
+2026-02-16 01:34:16,584 - INFO - Connecting to Chrome (attempt 1/5)...
+2026-02-16 01:34:17,681 - INFO - Connected to Chrome!
+2026-02-16 01:34:17,683 - INFO - Navigating to list page...
+2026-02-16 01:34:27,605 - INFO - FAST FORWARD: 5 clicks to skip past scraped profiles...
+2026-02-16 01:34:45,678 - INFO -   Fast forward DONE! Cleaned 48 rows
+2026-02-16 01:34:47,680 - INFO - 
+2026-02-16 01:34:47,691 - INFO - ============================================================
+2026-02-16 01:34:47,694 - INFO -   SCRAPING STARTED
+2026-02-16 01:34:47,695 - INFO - ============================================================
+2026-02-16 01:34:47,759 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:34:51,168 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:34:54,436 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:34:57,680 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:35:01,099 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:35:02,453 - INFO - No LOAD MORE button. List complete!
+2026-02-16 01:35:02,455 - INFO - 
+2026-02-16 01:35:02,456 - INFO - ============================================================
+2026-02-16 01:35:02,458 - INFO -   SCRAPING COMPLETE
+2026-02-16 01:35:02,459 - INFO -   Total: 43 | Session: 0
+2026-02-16 01:35:02,460 - INFO -   Failed: 0
+2026-02-16 01:35:02,460 - INFO -   Output: data\profiles
+2026-02-16 01:35:02,460 - INFO - ============================================================
+2026-02-16 01:44:22,824 - INFO - ============================================================
+2026-02-16 01:44:22,825 - INFO -   NFX SIGNAL SCRAPER
+2026-02-16 01:44:22,825 - INFO - ============================================================
+2026-02-16 01:44:22,826 - INFO - Already scraped: 43 profiles
+2026-02-16 01:44:22,826 - INFO - SKIP_CLICKS: 5
+2026-02-16 01:44:22,827 - INFO - Connecting to Chrome (attempt 1/5)...
+2026-02-16 01:44:31,480 - INFO - Connected to Chrome!
+2026-02-16 01:44:31,481 - INFO - Navigating to list page...
+2026-02-16 01:44:40,728 - INFO - FAST FORWARD: 5 clicks to skip past scraped profiles...
+2026-02-16 01:44:59,545 - WARNING - No Load More at click 5. Stopping fast forward.
+2026-02-16 01:45:01,547 - INFO - 
+2026-02-16 01:45:01,547 - INFO - ============================================================
+2026-02-16 01:45:01,547 - INFO -   SCRAPING STARTED
+2026-02-16 01:45:01,547 - INFO - ============================================================
+2026-02-16 01:45:01,695 - INFO -   Cleaned 16 old rows, clicking Load More...
+2026-02-16 01:45:05,114 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:45:07,405 - INFO -   Cleaned 8 old rows, clicking Load More...
+2026-02-16 01:45:13,636 - INFO -   BATCH 8 investors | Total so far: 43
+2026-02-16 01:45:30,223 - INFO -     OK scott-kupor
+2026-02-16 01:45:30,229 - INFO -     OK alex-taussig
+2026-02-16 01:45:30,233 - INFO -     OK vishal-vasishth
+2026-02-16 01:45:30,235 - INFO -     OK justin-waldron
+2026-02-16 01:45:30,242 - INFO -     OK andrew-chen
+2026-02-16 01:45:30,246 - INFO -     OK stephanie-palmeri
+2026-02-16 01:45:30,252 - INFO -     OK kyle-lui
+2026-02-16 01:45:30,256 - INFO -     OK mike-miller
+2026-02-16 01:45:30,260 - INFO -   Batch: 8 saved | Total: 51 | Session: 8
+2026-02-16 01:45:30,260 - INFO - 
+2026-02-16 01:45:36,669 - INFO -   BATCH 8 investors | Total so far: 51
+2026-02-16 01:46:05,538 - INFO -     OK tripp-jones
+2026-02-16 01:46:05,542 - INFO -     OK ethan-kurzweil
+2026-02-16 01:46:05,546 - INFO -     OK brian-feinstein
+2026-02-16 01:46:05,548 - INFO -     OK satya-patel
+2026-02-16 01:46:05,551 - INFO -     OK mike-vernal
+2026-02-16 01:46:05,555 - INFO -     OK laurent-parmentier
+2026-02-16 01:46:05,559 - INFO -     OK prashant-fonseka
+2026-02-16 01:46:05,562 - INFO -     OK justine-moore
+2026-02-16 01:46:05,567 - INFO -   Batch: 8 saved | Total: 59 | Session: 16
+2026-02-16 01:46:05,568 - INFO - 
+2026-02-16 01:46:13,271 - INFO -   Cleaned 24 old rows, clicking Load More...
+2026-02-16 01:46:16,587 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:46:19,886 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:46:23,116 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:46:26,428 - INFO -   No new investors, clicking Load More...
+2026-02-16 01:46:27,635 - INFO - No LOAD MORE button. List complete!
+2026-02-16 01:46:27,636 - INFO - 
+2026-02-16 01:46:27,636 - INFO - ============================================================
+2026-02-16 01:46:27,637 - INFO -   SCRAPING COMPLETE
+2026-02-16 01:46:27,638 - INFO -   Total: 59 | Session: 16
+2026-02-16 01:46:27,638 - INFO -   Failed: 0
+2026-02-16 01:46:27,639 - INFO -   Output: data\profiles
+2026-02-16 01:46:27,639 - INFO - ============================================================
+2026-02-16 01:57:31,572 - INFO - ============================================================
+2026-02-16 01:57:31,572 - INFO -   NFX SIGNAL SCRAPER
+2026-02-16 01:57:31,572 - INFO - ============================================================
+2026-02-16 01:57:31,572 - INFO - Already scraped: 816 profiles
+2026-02-16 01:57:31,572 - INFO - SKIP_CLICKS: 102
+2026-02-16 01:57:31,572 - INFO - Connecting to Chrome (attempt 1/5)...
+2026-02-16 01:57:32,596 - INFO - Connected to Chrome!
+2026-02-16 01:57:32,596 - INFO - Navigating to list page...
+2026-02-16 01:57:40,222 - INFO - FAST FORWARD: 102 clicks to skip past scraped profiles...
+2026-02-16 01:58:12,833 - INFO -   Fast forward: 10/102 | Cleaned 8 rows
+2026-02-16 01:58:43,761 - INFO -   Fast forward: 20/102 | Cleaned 0 rows
+2026-02-16 01:59:14,760 - INFO -   Fast forward: 30/102 | Cleaned 0 rows
+2026-02-16 01:59:45,870 - INFO -   Fast forward: 40/102 | Cleaned 0 rows
+2026-02-16 02:00:16,958 - INFO -   Fast forward: 50/102 | Cleaned 0 rows
+2026-02-16 02:00:47,937 - INFO -   Fast forward: 60/102 | Cleaned 0 rows
+2026-02-16 02:01:18,926 - INFO -   Fast forward: 70/102 | Cleaned 0 rows
+2026-02-16 02:01:49,947 - INFO -   Fast forward: 80/102 | Cleaned 0 rows
+2026-02-16 02:02:21,295 - INFO -   Fast forward: 90/102 | Cleaned 0 rows
+2026-02-16 02:02:52,263 - INFO -   Fast forward: 100/102 | Cleaned 0 rows
+2026-02-16 02:02:58,481 - INFO -   Fast forward DONE! Cleaned 0 rows
+2026-02-16 02:03:00,492 - INFO - 
+2026-02-16 02:03:00,492 - INFO - ============================================================
+2026-02-16 02:03:00,492 - INFO -   SCRAPING STARTED
+2026-02-16 02:03:00,492 - INFO - ============================================================
+2026-02-16 02:03:00,511 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:06,633 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:12,738 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:18,839 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:24,947 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:31,040 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:37,139 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:43,250 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:49,365 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:03:55,495 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:01,570 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:07,680 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:13,788 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:19,864 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:25,970 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:32,081 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:38,187 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:04:44,279 - INFO -   No new investors, clicking Load More...
+2026-02-16 02:06:30,050 - INFO - ============================================================
+2026-02-16 02:06:30,050 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE
+2026-02-16 02:06:30,050 - INFO - ============================================================
+2026-02-16 02:06:30,081 - INFO - Already scraped: 816 profiles
+2026-02-16 02:06:30,082 - INFO - Connecting to Chrome (attempt 1/5)...
+2026-02-16 02:06:31,136 - INFO - Connected to Chrome!
+2026-02-16 02:06:31,136 - INFO - ============================================================
+2026-02-16 02:06:31,136 - INFO -   PHASE 1: Collecting all investor URLs
+2026-02-16 02:06:31,136 - INFO - ============================================================
+2026-02-16 02:12:01,139 - INFO -   Click #25 | 200 URLs collected
+2026-02-16 02:25:54,577 - INFO -   Click #50 | 400 URLs collected
+2026-02-16 02:56:05,763 - INFO -   Click #75 | 600 URLs collected
+2026-02-16 03:39:29,555 - INFO -   Click #100 | 800 URLs collected
+2026-02-16 04:34:26,263 - INFO -   Click #125 | 1000 URLs collected
+2026-02-16 05:42:50,688 - INFO -   Click #150 | 1200 URLs collected
+2026-02-16 07:01:30,118 - INFO -   Click #175 | 1400 URLs collected
+2026-02-16 07:45:29,016 - ERROR - Chrome died during URL collection!
+2026-02-16 07:45:29,044 - INFO - Phase 1 DONE: 1496 URLs saved to data\all_investor_urls.json
+2026-02-16 07:45:29,044 - INFO - Total Load More clicks: 187
+2026-02-16 07:45:29,044 - INFO - ============================================================
+2026-02-16 07:45:29,044 - INFO -   PHASE 2: Scraping 680 profiles
+2026-02-16 07:45:29,044 - INFO -   Already scraped: 816
+2026-02-16 07:45:29,044 - INFO - ============================================================
+2026-02-16 07:45:29,060 - ERROR - 
+
+FATAL: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff674cdf3d5
+	0x7ff674cdf430
+	0x7ff674a80ea6
+	0x7ff674acbb13
+	0x7ff674b057a2
+	0x7ff674affbd6
+	0x7ff674afeb41
+	0x7ff674a499e5
+	0x7ff674fbb470
+	0x7ff674fb586d
+	0x7ff674fd621a
+	0x7ff674cfb235
+	0x7ff674d03a5c
+	0x7ff674a487aa
+	0x7ff6751172c8
+	0x7ffea4067374
+	0x7ffea4cdcc91
+
+2026-02-16 07:45:29,107 - ERROR - Traceback (most recent call last):
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\nfx_scraper.py", line 558, in <module>
+    main()
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\nfx_scraper.py", line 553, in main
+    phase2_scrape(driver, investor_list, scraped_set, failed_tracker)
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\nfx_scraper.py", line 422, in phase2_scrape
+    driver.get("about:blank")
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 363, in get
+    self.execute(Command.GET, {"url": url})
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\webdriver.py", line 354, in execute
+    self.error_handler.check_response(response)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\selenium\webdriver\remote\errorhandler.py", line 229, in check_response
+    raise exception_class(message, screen, stacktrace)
+selenium.common.exceptions.InvalidSessionIdException: Message: invalid session id
+Stacktrace:
+Symbols not available. Dumping unresolved backtrace:
+	0x7ff674cdf3d5
+	0x7ff674cdf430
+	0x7ff674a80ea6
+	0x7ff674acbb13
+	0x7ff674b057a2
+	0x7ff674affbd6
+	0x7ff674afeb41
+	0x7ff674a499e5
+	0x7ff674fbb470
+	0x7ff674fb586d
+	0x7ff674fd621a
+	0x7ff674cfb235
+	0x7ff674d03a5c
+	0x7ff674a487aa
+	0x7ff6751172c8
+	0x7ffea4067374
+	0x7ffea4cdcc91
+
+
+2026-02-16 07:45:29,107 - INFO - Progress saved. Run again to resume.

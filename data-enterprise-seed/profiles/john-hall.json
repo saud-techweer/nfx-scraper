@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "John Hall",
+    "signalScore": 6
+  },
+  "experience": [
+    {
+      "company": "Newtek Ventures",
+      "dates": "1989 - 1999",
+      "position": "General Partner"
+    },
+    {
+      "company": "Cadnetix",
+      "dates": "1982 - 1988",
+      "position": "CFO and Founder"
+    },
+    {
+      "company": "Intel",
+      "dates": "1978 - 1981",
+      "position": "Field Operations Controller"
+    },
+    {
+      "company": "Syntex Laboratories",
+      "dates": "1972 - 1978",
+      "position": "International Chemical Group Controler"
+    },
+    {
+      "company": "Horizon Ventures",
+      "dates": "1999 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {},
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/john-hall",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-hall",
+  "socials": {
+    "angellist": "https://www.angel.co/jehall3",
+    "crunchbase": "https://www.crunchbase.com/person/john-hall",
+    "linkedin": "https://www.linkedin.com/in/jehall3/",
+    "twitter": "https://www.twitter.com/jehall3"
+  },
+  "scraped_at": "2026-02-27T22:47:46.099434"
+}

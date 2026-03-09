@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Salt Lake City, Utah",
+    "name": "Brandon Tidwell",
+    "positionAndFirm": "Co-Founder, General Partner at Signal Peak Ventures",
+    "website": "https://www.spv.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Signal Peak Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/signal-peak-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$3.0M - $7.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "John Vecchio (Mosley Ventures)",
+        "Dan Abelon (Two Sigma Ventures)",
+        "Chris Howard (Fuel Capital)",
+        "Tx Zhuo (Fika Ventures)",
+        "Leah Solivan (Fuel Capital)",
+        "Jon Hallett",
+        "Leah Busque",
+        "Arteen Arabshahi"
+      ],
+      "company": "Bark Technologies",
+      "date": "Aug 2018",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Michael McMahon (Jump Capital)",
+        "Deborah Quazzo (GSV Acceleration)",
+        "Jason Corsello (Acadian Ventures)",
+        "Sid Krommenhoek (Album VC)",
+        "Chris Eyre"
+      ],
+      "company": "Degreed",
+      "date": "Aug 2016",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$210M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1MxQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--117facc21da55e177ff3f8eea24f58b395276396/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brandon-tidwell",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brandon-tidwell",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brandon-tidwell-1",
+    "crunchbase": "https://www.crunchbase.com/person/brandon-tidwell",
+    "linkedin": "https://www.linkedin.com/in/brandon-tidwell-35a9aa/",
+    "twitter": "https://www.twitter.com/rbtid",
+    "website": "https://www.spv.com/team"
+  },
+  "scraped_at": "2026-02-27T20:46:40.035191"
+}

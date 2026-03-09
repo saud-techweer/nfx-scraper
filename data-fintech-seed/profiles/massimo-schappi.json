@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Switzerland",
+    "name": "Massimo Schäppi",
+    "website": "https://www.ddvc.ch/"
+  },
+  "experience": [
+    {
+      "company": "DD Venture Capital",
+      "dates": "2020 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DD Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/dd-venture-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBempsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3d110d64e232b711204f15bc037634062a70b319/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/massimo-schappi",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "massimo-schappi",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/massimo-sch%C3%A4ppi",
+    "linkedin": "https://www.linkedin.com/in/123412341234/",
+    "website": "https://www.ddvc.ch/"
+  },
+  "scraped_at": "2026-03-03T22:18:24.442570"
+}

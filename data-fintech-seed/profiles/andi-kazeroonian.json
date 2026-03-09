@@ -1,0 +1,41 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Andi Kazeroonian",
+    "website": "https://outwardvc.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Outward VC",
+      "firmUrl": "https://signal.nfx.com/firms/outward-vc",
+      "position": "Investor"
+    },
+    "investmentRange": "$750K - $1.5M",
+    "sweetSpot": "$1.1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2ZQQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d9520326ff5ce46c13c4e81355b8c8e79eb05810/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andi-kazeroonian",
+  "sectorRankings": [
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andi-kazeroonian",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andi-kazeroonian",
+    "linkedin": "https://www.linkedin.com/in/andi-kazeroonian-64444968/",
+    "website": "https://www.wellfound.com/u/andi-kazeroonian-1"
+  },
+  "scraped_at": "2026-02-28T00:12:10.252295"
+}

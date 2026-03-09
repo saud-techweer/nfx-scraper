@@ -1,0 +1,166 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Alon Hillel-Tuch",
+    "signalScore": 91,
+    "website": "https://stacked.capital/"
+  },
+  "experience": [
+    {
+      "company": "RocketHub",
+      "dates": "2011 - 2016",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Stacked Capital",
+      "firmUrl": "https://signal.nfx.com/firms/stacked-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$200K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Zak Schwarzman (MetaProp Ventures)",
+        "Zafar Mirzaliev (Stacked Capital)",
+        "Evan Moore"
+      ],
+      "company": "Avvir",
+      "date": "Apr 2019",
+      "roundSize": "$1.5M",
+      "stage": "Seed+",
+      "totalRaised": "$1.7M"
+    },
+    {
+      "coInvestors": [
+        "Zafar Mirzaliev (Stacked Capital)"
+      ],
+      "company": "Carolina Fintech Ventures",
+      "date": "Jan 2019",
+      "roundSize": "$2.5M",
+      "stage": "LP Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [
+        "Zafar Mirzaliev (Stacked Capital)"
+      ],
+      "company": "FaaStrak",
+      "date": "Dec 2018",
+      "roundSize": "$380K",
+      "stage": "Seed",
+      "totalRaised": "$380K"
+    },
+    {
+      "coInvestors": [
+        "Zafar Mirzaliev (Stacked Capital)"
+      ],
+      "company": "Haas Alert",
+      "date": "Aug 2018",
+      "roundSize": "$500K",
+      "stage": "Seed",
+      "totalRaised": "$500K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazdmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1f051eff18729c11097bda8128f4be104bd2cd00/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alon-hillel-tuch",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "alon-hillel-tuch",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alon-hillel-tuch",
+    "website": "https://www.stacked.capital/"
+  },
+  "scraped_at": "2026-02-26T08:10:59.073635"
+}

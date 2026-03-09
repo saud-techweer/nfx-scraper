@@ -1,0 +1,167 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "David Beazley",
+    "website": "https://avgfunds.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alumni Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/alumni-ventures-group",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$539.4M",
+    "investmentRange": "$50K - $10.0M",
+    "investmentsOnRecord": 101,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Moby",
+      "date": "Sep 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Paul Kwan (General Catalyst)"
+      ],
+      "company": "Lila Sciences",
+      "date": "Sep 2025",
+      "roundSize": "$240M",
+      "stage": "Series A",
+      "totalRaised": "$550M"
+    },
+    {
+      "coInvestors": [
+        "Sebastian Caliri (8VC)",
+        "Stu Smith (Coughdrop Capital)",
+        "Andrew Berman"
+      ],
+      "company": "Hello Patient",
+      "date": "Sep 2025",
+      "roundSize": "$23M",
+      "stage": "Series A",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [
+        "Sebastian Caliri (8VC)"
+      ],
+      "company": "Nest Health",
+      "date": "Aug 2025",
+      "roundSize": "$13M",
+      "stage": "Series A",
+      "totalRaised": "$42M"
+    },
+    {
+      "coInvestors": [
+        "Eric Schmidt (Innovation Endeavors)",
+        "Mike Gamson (Next Play Ventures)",
+        "Julius Genachowski"
+      ],
+      "company": "Trustible AI",
+      "date": "Jun 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Impart Security",
+      "date": "Jun 2025",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Frank Taylor (Virginia Venture Partners)",
+        "Joao Otavio Oliverio"
+      ],
+      "company": "Zeno Power",
+      "date": "May 2025",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$90M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Enclave",
+      "date": "May 2025",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNCtiQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--34aa8e6115ceb3f88eceb28c2284459c5e430f1d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-beazley",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "david-beazley",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-beazley",
+    "linkedin": "https://www.linkedin.com/in/david-beazley-136900/",
+    "website": "https://www.avgfunds.com/"
+  },
+  "scraped_at": "2026-02-11T12:59:13.157091"
+}

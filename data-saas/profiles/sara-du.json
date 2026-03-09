@@ -1,0 +1,52 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Sara Du",
+    "website": "https://www.saradu.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Greylock",
+      "firmUrl": "https://signal.nfx.com/firms/greylock",
+      "position": "Scout"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$2.0M - $20.0M",
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWFNQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--44c67afae0243022b6be9c15e2f72b40d87da2fe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sara-du",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "sara-du",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/sara-du",
+    "linkedin": "https://www.linkedin.com/in/saradu/",
+    "twitter": "https://www.twitter.com/saraduit",
+    "website": "https://www.wellfound.com/u/sara-du-1"
+  },
+  "scraped_at": "2026-02-27T04:24:16.079867"
+}

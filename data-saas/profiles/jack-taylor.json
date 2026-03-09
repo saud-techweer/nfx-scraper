@@ -1,0 +1,180 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Philadelphia, Pennsylvania",
+    "name": "Jack Taylor",
+    "signalScore": 50,
+    "website": "https://medium.com/@ljtaylor"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Touchdown Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/touchdown-ventures",
+      "position": "Principal"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$250K - $15.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Mint House",
+      "date": "Mar 2021",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Zak Schwarzman (MetaProp Ventures)"
+      ],
+      "company": "Vergesense",
+      "date": "May 2020",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Sanjay Sathe (Raigad Ventures)"
+      ],
+      "company": "Kasa Living",
+      "date": "Feb 2020",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [
+        "Austin Arensberg (Okta Ventures)",
+        "Jim Andelman (Bonfire Ventures)"
+      ],
+      "company": "Openpath Security Inc",
+      "date": "Dec 2019",
+      "roundSize": "$8M",
+      "stage": "Venture Round",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Robin",
+      "date": "May 2019",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Pindrop",
+      "date": "Dec 2018",
+      "roundSize": "$90M",
+      "stage": "Series D",
+      "totalRaised": "$90M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEk4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--90609ad82b2f37108ebabb41a30d22be412d00af/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/jack-taylor",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jack-taylor",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jack-taylor",
+    "linkedin": "https://www.linkedin.com/in/jacktaylor2/",
+    "twitter": "https://www.twitter.com/realjackt",
+    "website": "https://www.medium.com/@ljtaylor"
+  },
+  "scraped_at": "2026-02-27T00:37:53.139412"
+}

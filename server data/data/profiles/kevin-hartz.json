@@ -1,0 +1,133 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "Former CEO"
+    ],
+    "location": "San Francisco, California",
+    "name": "Kevin Hartz",
+    "positionAndFirm": "Co-Founder & General Partner at A*, Chairman & Co-Founder of Eventbrite (NYSE: EB)",
+    "signalScore": 696,
+    "website": "https://a-star.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "A* Capital (A Star Capital)",
+      "firmUrl": "https://signal.nfx.com/firms/a-star-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$300M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Mark Suster (Upfront Ventures)",
+        "Daniel Scrivner (Ligature)",
+        "James Conigliaro (Array Ventures)",
+        "Jason Calacanis (LAUNCH)",
+        "Dick Costolo (01 Advisors)",
+        "Alex Rodriguez (Vision/Capital/People (VCP))",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Cyan Banister (Long Journey Ventures)",
+        "George Godula",
+        "Pete Moore",
+        "Moshe Lifschitz",
+        "Hiten Shah",
+        "Julia Hartz",
+        "Scott Banister"
+      ],
+      "company": "Density",
+      "date": "Jul 2020",
+      "roundSize": "$51M",
+      "stage": "Series C",
+      "totalRaised": "$220M"
+    },
+    {
+      "coInvestors": [
+        "Genevieve Gilbreath (Springdale Ventures)",
+        "Steph Curry (Penny Jar Capital)",
+        "Adam Bain (01 Advisors)",
+        "Kelly Perdew (Moonshots Capital)",
+        "Craig Cummings (Moonshots Capital)",
+        "Jessica Verrilli (Adverb Ventures)",
+        "Dan Graham (Springdale Ventures)",
+        "Roger Chen (Silverton Partners)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Nikhil Basu Trivedi (Footwork)",
+        "Dick Costolo (01 Advisors)",
+        "Thomas D. Lehrman (Teamworthy Ventures)"
+      ],
+      "company": "Literati",
+      "date": "Oct 2019",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVlaQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4333f158becb62b74ddc10e4d1b83ba480ab07cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-hartz",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kevin-hartz",
+  "socials": {
+    "angellist": "https://www.angel.co/kevin-hartz",
+    "crunchbase": "https://www.crunchbase.com/person/kevin-hartz",
+    "linkedin": "https://www.linkedin.com/in/hartz/",
+    "twitter": "https://www.twitter.com/kevinhartz",
+    "website": "https://www.a-star.co/"
+  },
+  "scraped_at": "2026-02-11T12:08:40.580108"
+}

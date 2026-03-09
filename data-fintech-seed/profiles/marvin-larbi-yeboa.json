@@ -1,0 +1,42 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Marvin Larbi-Yeboa",
+    "positionAndFirm": "Managing Director, Bain Capital Private Equity",
+    "website": "https://baincapital.com/people"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bain Capital",
+      "firmUrl": "https://signal.nfx.com/firms/bain-capital",
+      "position": "Managing Director"
+    },
+    "fundSize": "$160M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDlmQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e95a677f1440f86c8f331af078be08b7fb53f5d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marvin-larbi-yeboa",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "marvin-larbi-yeboa",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/marvin-l-aa7433120/",
+    "website": "https://www.baincapital.com/people"
+  },
+  "scraped_at": "2026-03-03T22:17:29.949221"
+}

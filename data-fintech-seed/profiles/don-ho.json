@@ -1,0 +1,102 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Don Ho",
+    "signalScore": 349,
+    "website": "https://orangedao.xyz/"
+  },
+  "experience": [
+    {
+      "company": "OP Crypto",
+      "dates": "2022 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Orange Fund",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "On Deck",
+      "dates": "2020 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pioneer Fund",
+      "firmUrl": "https://signal.nfx.com/firms/pioneer-fund",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Commonwealth Labs",
+      "date": "Mar 2019",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Dave Morin (Offline Ventures)"
+      ],
+      "company": "Ampleforth",
+      "date": "Mar 2018",
+      "roundSize": "$3M",
+      "stage": "Venture Round",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUQ2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa8a4fd6fcc517ce1554174ab82ae090839f02f3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/don-ho",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "don-ho",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/donhojr/",
+    "twitter": "https://www.twitter.com/iamdonho",
+    "website": "https://www.orangedao.xyz/"
+  },
+  "scraped_at": "2026-03-03T17:07:49.187376"
+}

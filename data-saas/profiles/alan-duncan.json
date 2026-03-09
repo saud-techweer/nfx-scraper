@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": ["VC"],
+    "location": "London",
+    "name": "Alan Duncan",
+    "signalScore": null,
+    "website": "https://moltenventures.com/people/partners"
+  },
+  "experience": [
+    {
+      "company": "Aveillant",
+      "dates": "2012 - 2017",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "GreenPeak Technologies B.V.",
+      "dates": "2006 - 2011",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "Prelude Ventures",
+      "dates": "1997 - 2006",
+      "position": "Partner/Director"
+    },
+    {
+      "company": "Alphamosaic",
+      "dates": "2001 - 2004",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "XMOS",
+      "dates": "2007 - Present",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "Draper Esprit",
+      "dates": "2006 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "DisplayLink",
+      "dates": "2006 - Present",
+      "position": "Non Executive Director"
+    },
+    {
+      "company": "Lime Microsystems",
+      "dates": "2006 - Present",
+      "position": "Non Executive Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Molten Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/molten-vokentures",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/alan-duncan",
+  "sectorRankings": [
+    {"name": "Consumer Health (Series B)"},
+    {"name": "Hardware (Seed)"},
+    {"name": "AI (Series B)"},
+    {"name": "Cloud Infrastructure (Series B)"},
+    {"name": "Cloud Infrastructure (Series A)"},
+    {"name": "Media/Content (Seed)"},
+    {"name": "Hardware (Series B)"},
+    {"name": "Consumer Health (Series A)"},
+    {"name": "Hardware (Series A)"},
+    {"name": "Cloud Infrastructure (Seed)"},
+    {"name": "Consumer Internet (Series B)"},
+    {"name": "Media/Content (Series B)"},
+    {"name": "Enterprise (Series B)"},
+    {"name": "Media/Content (Series A)"},
+    {"name": "Consumer Health (Seed)"},
+    {"name": "AI (Seed)"},
+    {"name": "SaaS (Series B)"},
+    {"name": "AI (Series A)"},
+    {"name": "Enterprise (Series A)"},
+    {"name": "Consumer Internet (Seed)"},
+    {"name": "London"},
+    {"name": "Digital Health (Series B)"},
+    {"name": "DeepTech (Series B)"},
+    {"name": "DeepTech (Series A)"},
+    {"name": "DeepTech (Seed)"},
+    {"name": "SaaS (Series A)"},
+    {"name": "Consumer Internet (Series A)"},
+    {"name": "Digital Health (Series A)"},
+    {"name": "Digital Health (Seed)"},
+    {"name": "SaaS (Seed)"},
+    {"name": "Enterprise (Seed)"}
+  ],
+  "slug": "alan-duncan",
+  "socials": {},
+  "scraped_at": "2026-02-26T06:47:40.697213"
+}

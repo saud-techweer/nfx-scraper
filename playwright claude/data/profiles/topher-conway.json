@@ -1,0 +1,201 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Topher Conway",
+    "website": "https://svangel.com/team/"
+  },
+  "experience": [
+    {
+      "company": "SV Angel LLC",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SV Angel",
+      "firmUrl": "https://signal.nfx.com/firms/sv-angel",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$53.1M",
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Niko Bonatsos (General Catalyst)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Frank Rotman (QED Investors)",
+        "Andrew Dudum (Cherubic Ventures)",
+        "Jared Hecht (Magellan (magellan.ventures))",
+        "Vítor Lourenco (Expa)",
+        "Garrett Camp (Expa)",
+        "Ophelia Brown (Blossom Capital)",
+        "Phil Bronner (Ardent Venture Partners)",
+        "Dylan Field",
+        "Eric Wu",
+        "Kevin Lin",
+        "Jenna Hannon",
+        "Eddie Hartman",
+        "Gokul Rajaram",
+        "Scott Belsky",
+        "Vivek Patel"
+      ],
+      "company": "Collective",
+      "date": "Sep 2020",
+      "roundSize": "$8.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$54M"
+    },
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Anton Simunovic (Alumni Ventures )",
+        "Matt Scott (Alumni Ventures )",
+        "Jackson Moses (Afore Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Chris Moreno (Infinite Niches)",
+        "Alex Roetter (Moxxie Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Adam Bain (01 Advisors)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Lucy Guo (Backend Capital)",
+        "Niv Dror (Shrug Capital)",
+        "Tyler Willis",
+        "Howard Charney",
+        "Zach Segal",
+        "Kevin Weil",
+        "Alper Kiresepi",
+        "Rudra Peram",
+        "Peter Hunn",
+        "Yagiz Sozmen",
+        "Moshe Lifschitz"
+      ],
+      "company": "MainStreet",
+      "date": "Jun 2020",
+      "roundSize": "$2.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$72M"
+    },
+    {
+      "coInvestors": [
+        "Peter Thiel (Founders Fund)",
+        "Charles Moldow (Foundation Capital)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Matt Humphrey (Quiet Capital)",
+        "Peter Diamandis (Bold Capital Partners)",
+        "Alejandro Ponce (Ataria Ventures)",
+        "Nicolas Berggruen",
+        "Charlie Songhurst",
+        "Louis Beryl"
+      ],
+      "company": "Mirror Emoji Keyboard",
+      "date": "Dec 2017",
+      "roundSize": "$3.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$7.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXZOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5db7871219c4f35c1e7bf3f973f34feab6509082/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/topher-conway",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "topher-conway",
+  "socials": {
+    "angellist": "https://www.angel.co/topherc",
+    "crunchbase": "https://www.crunchbase.com/person/topher-conway",
+    "linkedin": "https://www.linkedin.com/in/topherc/",
+    "twitter": "https://www.twitter.com/topherc"
+  },
+  "scraped_at": "2026-02-11T10:25:08.577222"
+}

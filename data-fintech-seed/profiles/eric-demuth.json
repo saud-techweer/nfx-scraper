@@ -1,0 +1,40 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Vienna, Austria",
+    "name": "Eric Demuth",
+    "website": "https://www.bitpanda.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUhvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--401ba5b262113cf342329481accbb1c9f1bcc7e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eric-demuth",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "eric-demuth",
+  "socials": {
+    "angellist": "https://www.angel.co/u/eric_demuth",
+    "crunchbase": "https://www.crunchbase.com/person/eric-demuth",
+    "linkedin": "https://www.linkedin.com/in/eric-demuth-9ba02943/",
+    "twitter": "https://www.twitter.com/eric_demuth",
+    "website": "https://www.bitpanda.com/"
+  },
+  "scraped_at": "2026-03-05T19:21:58.119291"
+}

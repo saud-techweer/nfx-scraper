@@ -1,0 +1,152 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Dublin, Ireland",
+    "name": "Pete Townsend",
+    "positionAndFirm": "Pre-seed investor, non-exec director and podcaster",
+    "signalScore": 149,
+    "website": "https://www.norioventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Techstars",
+      "dates": "2021 - 2025",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Norio Ventures",
+      "dates": "2016 - 2025",
+      "position": "Founder"
+    },
+    {
+      "company": "Pipit",
+      "dates": "2018 - 2025",
+      "position": "Non-Executive Director"
+    },
+    {
+      "company": "Olivia",
+      "dates": "2020 - 2022",
+      "position": "Non-Executive Director"
+    },
+    {
+      "company": "Norio Ventures",
+      "dates": "2025 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Coinbase",
+      "dates": "2019 - Present",
+      "position": "Non-Executive Director, Coinbase Ireland,"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Norio Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/norio-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$250K - $350K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Autonom",
+      "date": "Mar 2025",
+      "roundSize": "$120K",
+      "stage": "Pre-seed",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mawari",
+      "date": "Sep 2024",
+      "roundSize": "$11M",
+      "stage": "Strategic",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Beezie",
+      "date": "Mar 2024",
+      "roundSize": "$120K",
+      "stage": "Pre-seed",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [
+        "Anamitra Banerji (Afore Capital)"
+      ],
+      "company": "Quest Labs",
+      "date": "Apr 2023",
+      "roundSize": "$120K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [],
+      "company": "TrustWare",
+      "date": "Apr 2023",
+      "roundSize": "$120K",
+      "stage": "Pre-seed",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Eczodex",
+      "date": "Mar 2022",
+      "roundSize": "$120K",
+      "stage": "Pre-seed",
+      "totalRaised": "$120K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWJJQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f5f5f21272bb98b348d138e30acef13718353a26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pete-townsend",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    }
+  ],
+  "slug": "pete-townsend",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/pete-townsend",
+    "linkedin": "https://www.linkedin.com/in/pete-townsend-1b18301a/?originalSubdomain=ie",
+    "twitter": "https://www.twitter.com/petetownsendnv?lang=en",
+    "website": "https://www.norioventures.com/"
+  },
+  "scraped_at": "2026-03-03T23:16:57.756601"
+}

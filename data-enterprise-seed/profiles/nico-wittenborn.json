@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York City",
+    "name": "Nico Wittenborn",
+    "website": "https://adjacent.com/"
+  },
+  "experience": [
+    {
+      "company": "Insight Partners",
+      "dates": "2018 - 2019",
+      "position": "Principal"
+    },
+    {
+      "company": "Insight Partners",
+      "dates": "2016 - 2018",
+      "position": "Vice President"
+    },
+    {
+      "company": "Point Nine Capital",
+      "dates": "2014 - 2016",
+      "position": "Principal"
+    },
+    {
+      "company": "Point Nine Capital",
+      "dates": "2012 - 2014",
+      "position": "Associate"
+    },
+    {
+      "company": "Team Europe Ventures",
+      "dates": "2011 - 2012",
+      "position": "Analyst"
+    },
+    {
+      "company": "Adjacent",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Adjacent",
+      "firmUrl": "https://signal.nfx.com/firms/adjacent",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/nico-wittenborn",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nico-wittenborn",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nicolas-wittenborn",
+    "linkedin": "https://www.linkedin.com/in/nicolaswittenborn/",
+    "twitter": "https://www.twitter.com/ncsh",
+    "website": "https://www.adjacent.com/"
+  },
+  "scraped_at": "2026-02-28T00:24:02.789095"
+}

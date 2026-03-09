@@ -1,0 +1,108 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Lukas Linemayr",
+    "signalScore": 354,
+    "website": "https://streamlined.vc/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Streamlined Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/streamlined-ventures",
+      "position": "Principal"
+    },
+    "investmentRange": "$1.5M - $3.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lina Chong (HV Capital)"
+      ],
+      "company": "Tzafon",
+      "date": "Jul 2025",
+      "roundSize": "$6M",
+      "stage": "Pre Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mermaid",
+      "date": "Mar 2024",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Dan Von Kohorn (Broom Ventures)",
+        "Kevin Alvarez-Fung (Predictive VC)",
+        "Simon Borrero",
+        "Felipe Villamarin"
+      ],
+      "company": "Sumer",
+      "date": "Sep 2021",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Nat Friedman (C2 Investment)",
+        "Nkechi Iregbulem",
+        "Arash Ferdowsi",
+        "Amjad Masad"
+      ],
+      "company": "Coframe",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU9kQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8da714d50186b28116530025d4567daf257a23c1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lukas-linemayr",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "lukas-linemayr",
+  "socials": {
+    "angellist": "https://www.angel.co/u/lukas-linemayr-1",
+    "crunchbase": "https://www.crunchbase.com/person/lukas-linemayr",
+    "linkedin": "https://www.linkedin.com/in/lukas-linemayr/",
+    "website": "https://www.streamlined.vc/team/"
+  },
+  "scraped_at": "2026-02-11T12:04:45.168654"
+}

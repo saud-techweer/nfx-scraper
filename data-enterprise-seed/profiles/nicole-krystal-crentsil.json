@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Scout"
+    ],
+    "location": "United Kingdom",
+    "name": "Nicole Krystal Crentsil",
+    "website": "https://www.adaventures.com/#team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ada Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ada-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXVEQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b821d49bd5fc53cf5192f8d5389c5d32e461dceb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nicole-krystal-crentsil",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nicole-krystal-crentsil",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nicole-crentsil",
+    "linkedin": "https://www.linkedin.com/in/nicole-krystal-crentsil-frsa-4008ab75/",
+    "twitter": "https://www.twitter.com/nkrystal",
+    "website": "https://www.adaventures.com/#team"
+  },
+  "scraped_at": "2026-02-28T00:24:38.367884"
+}

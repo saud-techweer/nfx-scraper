@@ -1,0 +1,78 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Founder",
+      "Former CEO"
+    ],
+    "location": "Munich, Germany",
+    "name": "Benjamin Guenther",
+    "website": "https://www.xing.com/"
+  },
+  "experience": [
+    {
+      "company": "Personio",
+      "dates": "2016 - 2020",
+      "position": "Board Member"
+    },
+    {
+      "company": "Stylight",
+      "dates": "2008 - 2016",
+      "position": "CEO and Founder / (acquired by Pro7Sat1)"
+    },
+    {
+      "company": "Founders Pledge",
+      "dates": "2021 - Present",
+      "position": "Member"
+    },
+    {
+      "company": "Alasco",
+      "dates": "2018 - Present",
+      "position": "CEO & Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelg5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb6ec4b52302ba43c96a15f097678dcbef3df698/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/benjamin-guenther",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "benjamin-guenther",
+  "socials": {
+    "angellist": "https://www.angel.co/u/benjamin-guenther-1",
+    "crunchbase": "https://www.crunchbase.com/person/benjamin-gunther",
+    "linkedin": "https://www.linkedin.com/in/benjaminguenther/",
+    "twitter": "https://www.twitter.com/b_guenther",
+    "website": "https://www.xing.com/"
+  },
+  "scraped_at": "2026-02-27T20:39:17.645263"
+}

@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Pedro Berto",
+    "website": "https://volpecapital.com/pedro-berto"
+  },
+  "experience": [
+    {
+      "company": "Volpe Capital",
+      "dates": "Present",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "Angra VC",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Volpe Capital",
+      "dates": "Present",
+      "position": "Expanded Team"
+    },
+    {
+      "company": "EDP",
+      "dates": "Present",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Teya",
+      "dates": "Present",
+      "position": "Intrapreneur"
+    },
+    {
+      "company": "Redpoint eventures",
+      "dates": "Present",
+      "position": "Investment Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Volpe Capital",
+      "firmUrl": "https://signal.nfx.com/firms/volpe-capital",
+      "position": "Analyst"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHhIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9bbb9dde43ee985aab543540f73c918402dd969e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pedro-berto",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "pedro-berto",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/pedroberto/",
+    "website": "https://www.volpecapital.com/pedro-berto"
+  },
+  "scraped_at": "2026-02-28T02:35:21.932982"
+}

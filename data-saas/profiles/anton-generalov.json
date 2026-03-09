@@ -1,0 +1,154 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "VC"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Anton Generalov"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Angel investor",
+      "firmUrl": "https://signal.nfx.com/firms/angel-investor",
+      "position": "Angel"
+    },
+    "investmentRange": "$50K - $100K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Ahura AI",
+      "date": "Jan 2023",
+      "roundSize": "$5.6M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Propy",
+      "date": "Oct 2020",
+      "roundSize": "$1.2M",
+      "stage": "Venture Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Zelos Gaming",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Acquired.io",
+      "date": "Jun 2017",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemNpQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--208ec4ac8b52863f2c9f72761e4cf3c6dfbc8110/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anton-generalov",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Fashion (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    }
+  ],
+  "slug": "anton-generalov",
+  "socials": {
+    "angellist": "https://www.angel.co/u/anton-generalov",
+    "linkedin": "https://www.linkedin.com/in/anton-generalov-a2827281/"
+  },
+  "scraped_at": "2026-02-26T08:25:09.104477"
+}

@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Shana Fisher",
+    "website": "http://www.3kvc.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Third Kind Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/third-kind-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Ron Conway (SV Angel)",
+        "Joe Kraus (GV (Google Ventures))",
+        "Roger Lee (Battery Ventures)",
+        "Jonathon Triest (Ludlow Ventures)",
+        "Ted Leonsis (Revolution)",
+        "Scooter Braun (TQ Ventures)",
+        "Karlie Kloss (Klossy)",
+        "Mark Wahlberg",
+        "Marc Benioff",
+        "Steve Aoki"
+      ],
+      "company": "StockX",
+      "date": "Sep 2018",
+      "roundSize": "$44M",
+      "stage": "Series B",
+      "totalRaised": "$44M"
+    },
+    {
+      "coInvestors": [
+        "Saar Gur (CRV)",
+        "Ali Saheli (7 Gate Ventures)",
+        "Ali Saheli (Hex Capital)"
+      ],
+      "company": "Uppercase",
+      "date": "Sep 2018",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lemonaid Health (Icebreaker Health Inc)",
+      "date": "May 2017",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzcrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c566a653dd0b5f7dddd8995b4914da098ce80f50/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/shana-fisher",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "shana-fisher",
+  "socials": {
+    "angellist": "https://www.angel.co/shana-fisher",
+    "crunchbase": "https://www.crunchbase.com/person/shana-fisher",
+    "website": "https://www.3kvc.com/"
+  },
+  "scraped_at": "2026-02-28T05:05:11.546650"
+}

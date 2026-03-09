@@ -1,0 +1,149 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Brian Fakhoury",
+    "signalScore": 223,
+    "website": "https://fakhoury.xyz/"
+  },
+  "experience": [
+    {
+      "company": "Mechanism Capital",
+      "dates": "2022 - 2023",
+      "position": "Junior Partner"
+    },
+    {
+      "company": "Underscore VC",
+      "dates": "2020 - 2021",
+      "position": "Analyst"
+    },
+    {
+      "company": "Contrary",
+      "dates": "2018 - 2020",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Equal Ventures",
+      "dates": "2019 - 2019",
+      "position": "Fall Intern"
+    },
+    {
+      "company": "Boston University Entrepreneur's Club",
+      "dates": "2017 - 2019",
+      "position": "President"
+    },
+    {
+      "company": "Topo Solutions - Supply Chain Platform",
+      "dates": "2019 - 2019",
+      "position": "Machine Learning Intern"
+    },
+    {
+      "company": "Center for Computational Neuroscience and Neural Technology (CompNet)",
+      "dates": "2018 - 2019",
+      "position": "Vision Research"
+    },
+    {
+      "company": "Boston University Machine Intelligence Community",
+      "dates": "2017 - 2018",
+      "position": "Founding Member"
+    },
+    {
+      "company": "Boston University Entrepreneur's Club",
+      "dates": "2017 - 2017",
+      "position": "Director of the Startup Challenge"
+    },
+    {
+      "company": "Paul Johnson & Associates",
+      "dates": "2015 - 2016",
+      "position": "Commercial Real Estate Intern"
+    },
+    {
+      "company": "Mach Industries",
+      "dates": "2023 - Present",
+      "position": "Growth & Operations"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mechanism Capital",
+      "firmUrl": "https://signal.nfx.com/firms/mechanism-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWpvQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b8b89ce290d3ce1f94d21a78947e2faf9541135d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-fakhoury",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "brian-fakhoury",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brianfakhoury",
+    "crunchbase": "https://www.crunchbase.com/person/brian-fakhoury",
+    "linkedin": "https://www.linkedin.com/in/brianfakhoury/",
+    "twitter": "https://www.twitter.com/BrianFakhoury",
+    "website": "https://www.fakhoury.xyz/"
+  },
+  "scraped_at": "2026-03-03T16:18:12.098321"
+}

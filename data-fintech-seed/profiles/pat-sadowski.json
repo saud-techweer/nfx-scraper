@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Pat Sadowski",
+    "website": "https://www.westcap.com/"
+  },
+  "experience": [
+    {
+      "company": "WestCap",
+      "dates": "2021 - 2022",
+      "position": "Associate"
+    },
+    {
+      "company": "PwC",
+      "dates": "2020 - 2021",
+      "position": "Deals Senior Associate"
+    },
+    {
+      "company": "PwC",
+      "dates": "2018 - 2020",
+      "position": "Deals Associate"
+    },
+    {
+      "company": "Blackstone",
+      "dates": "2017 - 2017",
+      "position": "Winter Analyst"
+    },
+    {
+      "company": "Andersen",
+      "dates": "2015 - 2015",
+      "position": "Intern"
+    },
+    {
+      "company": "Andersen",
+      "dates": "2015 - 2015",
+      "position": "Winter Co-Op"
+    },
+    {
+      "company": "WestCap",
+      "dates": "2023 - Present",
+      "position": "Vice President"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "WestCap",
+      "firmUrl": "https://signal.nfx.com/firms/westcap",
+      "position": "Associate"
+    },
+    "fundSize": "$2.25B",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN28vQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccedd9c8e5af59969023759370681753606bf6e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pat-sadowski",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "pat-sadowski",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/pat-sadowski-699024a0/",
+    "website": "https://www.westcap.com/"
+  },
+  "scraped_at": "2026-03-03T23:08:40.722829"
+}

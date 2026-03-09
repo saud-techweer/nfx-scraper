@@ -1,0 +1,48 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO",
+      "Founder"
+    ],
+    "location": "United Kingdom",
+    "name": "Pip Wilson",
+    "website": "https://www.thegirlsnetwork.org.uk/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1Q0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9f8ba37b3464508bce9b76de96683ee47fd8de1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pip-wilson",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "pip-wilson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/pip-wilson",
+    "linkedin": "https://www.linkedin.com/in/pipwilson1/",
+    "twitter": "https://www.twitter.com/pipwilson0",
+    "website": "https://www.thegirlsnetwork.org.uk/"
+  },
+  "scraped_at": "2026-02-27T03:43:15.126715"
+}

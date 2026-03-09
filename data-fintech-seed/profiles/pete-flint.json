@@ -1,0 +1,325 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Pete Flint",
+    "signalScore": 3057,
+    "website": "https://nfx.com/team/pete-flint/"
+  },
+  "experience": [
+    {
+      "company": "Zillow Group",
+      "dates": "2015 - 2017",
+      "position": "Zillow Group Board of Directors"
+    },
+    {
+      "company": "Trulia",
+      "dates": "2004 - 2015",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "Battery Ventures",
+      "dates": "2004 - 2004",
+      "position": "Investor"
+    },
+    {
+      "company": "lastminute.com",
+      "dates": "1998 - 2003",
+      "position": "Founding Team: lots of leadership roles, mostly product, marketing & biz dev"
+    },
+    {
+      "company": "LineOne (acquired by Tiscali)",
+      "dates": "1997 - 1998",
+      "position": "Product Management and Business Development"
+    },
+    {
+      "company": "JP Morgan",
+      "dates": "1995 - 1995",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "IBM",
+      "dates": "1992 - 1993",
+      "position": "Pre-University Employee"
+    },
+    {
+      "company": "Oxford Foundry",
+      "dates": "2018 - Present",
+      "position": "Advisory Board Member - University of Oxford Accelerator/Incubator"
+    },
+    {
+      "company": "Stanford University Graduate School of Business",
+      "dates": "2018 - Present",
+      "position": "Stanford GSB Management Board"
+    },
+    {
+      "company": "GBx Global",
+      "dates": "2017 - Present",
+      "position": "Co Chair"
+    },
+    {
+      "company": "NFX",
+      "dates": "2016 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "New Story Charity",
+      "dates": "2016 - Present",
+      "position": "Founding Board Member"
+    },
+    {
+      "company": "Various disruptive technology companies",
+      "dates": "2012 - Present",
+      "position": "Investor and Advisor"
+    },
+    {
+      "company": "New Corp",
+      "dates": "1997 - Present",
+      "position": "Product Management and Business Development for LineOne JV with British Telecom"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NFX",
+      "firmUrl": "https://signal.nfx.com/firms/nfx",
+      "position": "General Partner"
+    },
+    "fundSize": "$450M",
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Spencer Rascoff (75 & Sunny)",
+        "Hernan Kazah (Kaszek Ventures)",
+        "Brian Requarth (Latitud)",
+        "Simon Borrero",
+        "Hadi Partovi",
+        "David Vélez"
+      ],
+      "company": "La Haus",
+      "date": "Jan 2021",
+      "roundSize": "$35M",
+      "stage": "Series B",
+      "totalRaised": "$100M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Jeff Jordan (Andreessen Horowitz)",
+        "Peter Kazanjy",
+        "Matt Mickiewicz"
+      ],
+      "company": "Incredible Health",
+      "date": "Sep 2019",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)"
+      ],
+      "company": "Let's Do This",
+      "date": "Sep 2019",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Ken Salkin (Danmar Capital)"
+      ],
+      "company": "Constru",
+      "date": "Jul 2019",
+      "roundSize": "$2.5M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Marlon Nichols (MaC Venture Capital)",
+        "Craig Hunter (Operator Ventures)",
+        "Andy Zhulenev (Chesterfield Fund)",
+        "Brad Bao",
+        "Sina Afra",
+        "Yagiz Sozmen",
+        "Alex Pattis"
+      ],
+      "company": "Firefly",
+      "date": "May 2019",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Karan Mehta (Octopus Ventures)",
+        "Emil Michael"
+      ],
+      "company": "Ribbon",
+      "date": "Oct 2018",
+      "roundSize": "$230M",
+      "stage": "Series A",
+      "totalRaised": "$230M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Monique Woodard (Cake Ventures)",
+        "Ivan Alo (New Age Capital)",
+        "Julie McDermott",
+        "Alina Tioupikova",
+        "Sergio Marrero",
+        "Drew Koven"
+      ],
+      "company": "Court Buddy",
+      "date": "Oct 2018",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Gigi Levy-Weiss (NFX)",
+        "James Currier (NFX)",
+        "Ursheet Parikh (Mayfield)",
+        "Cristina Escoda (Tachyon Ventures)",
+        "Andrea Turner Moffitt (Plum Alley Investments)",
+        "Jeff Huber (Triatomic Capital)",
+        "Josef Feldman (Tectonic Capital)",
+        "Avantika Daing (Plum Alley Investments)",
+        "Avi Rosenbaum (Tectonic Capital)"
+      ],
+      "company": "Mammoth Biosciences",
+      "date": "Jul 2018",
+      "roundSize": "$23M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTVOQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a9d2f57173c71e8a480c8c14ee5bb92eca781d41/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pete-flint",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "pete-flint",
+  "socials": {
+    "angellist": "https://www.angel.co/peteflint",
+    "crunchbase": "https://www.crunchbase.com/person/pete-flint",
+    "linkedin": "https://www.linkedin.com/in/peteflint/",
+    "twitter": "https://www.twitter.com/PeteFlint"
+  },
+  "scraped_at": "2026-02-11T10:03:58.859100"
+}

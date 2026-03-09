@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Ina Miller",
+    "positionAndFirm": "Executive Search and Consulting, ILM Partners",
+    "website": "https://ilmpartners.com/"
+  },
+  "experience": [
+    {
+      "company": "MillerFullerton, Financial Services",
+      "dates": "2002 - 2005",
+      "position": "Executive Search Consultant"
+    },
+    {
+      "company": "Technology/Financial Services",
+      "dates": "1998 - 2001",
+      "position": "Consultant"
+    },
+    {
+      "company": "Pixion",
+      "dates": "1994 - 1998",
+      "position": "CFO"
+    },
+    {
+      "company": "Hustle Fund",
+      "dates": "2021 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Hustle Fund",
+      "dates": "2021 - Present",
+      "position": "Angel Squad Member"
+    },
+    {
+      "company": "ILM Partners",
+      "dates": "2005 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2NNQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--22387cea47809ad59ebfb14a6ca0c42f45209462/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ina-miller",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ina-miller",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/inamiller/",
+    "twitter": "https://www.twitter.com/InaMiller4",
+    "website": "https://www.ilmpartners.com/"
+  },
+  "scraped_at": "2026-03-03T20:33:21.103307"
+}

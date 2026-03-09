@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "United Kingdom",
+    "name": "Paul Fauset",
+    "website": "https://www.acfinvestors.com/team/paul-fauset/"
+  },
+  "experience": [
+    {
+      "company": "British Business Bank",
+      "dates": "2010 - 2018",
+      "position": "Senior Investment Manager"
+    },
+    {
+      "company": "Hawsons Chartered Accountants",
+      "dates": "2005 - 2010",
+      "position": "Associate Director, Corporate Finance"
+    },
+    {
+      "company": "KPMG",
+      "dates": "2001 - 2003",
+      "position": "Corporate Finance Associate"
+    },
+    {
+      "company": "Barclays Capital",
+      "dates": "1997 - 2000",
+      "position": "Analyst"
+    },
+    {
+      "company": "Akero Capital Partners LLP",
+      "dates": "2018 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "ACF Investors",
+      "dates": "2011 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ACF Investors",
+      "firmUrl": "https://signal.nfx.com/firms/acf-investors",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTk0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c5f79dec23c1bddeb552500e7e4bd5139e6b57c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-fauset",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "paul-fauset",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paul-fauset",
+    "linkedin": "https://www.linkedin.com/in/paul-fauset/",
+    "website": "https://www.acfinvestors.com/team/paul-fauset/"
+  },
+  "scraped_at": "2026-02-28T02:33:12.342909"
+}

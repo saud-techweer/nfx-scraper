@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Hadley Harris",
+    "website": "https://eniac.vc/team/"
+  },
+  "experience": [
+    {
+      "company": "Thumb",
+      "dates": "2011 - 2013",
+      "position": "CMO"
+    },
+    {
+      "company": "Vlingo",
+      "dates": "2007 - 2011",
+      "position": "Head of Business & Market Strategy and Vice President of Marketing"
+    },
+    {
+      "company": "Charles River Ventures",
+      "dates": "2007 - 2007",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Samsung Global Strategy Group",
+      "dates": "2006 - 2007",
+      "position": "Manager"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2005 - 2005",
+      "position": "Product Manager"
+    },
+    {
+      "company": "ENIAC Ventures",
+      "dates": "2008 - Present",
+      "position": "Founding General Partner"
+    },
+    {
+      "company": "Pegasystems",
+      "dates": "Present",
+      "position": "Technical Team Lead"
+    },
+    {
+      "company": "PricewaterhouseCoopers",
+      "dates": "Present",
+      "position": "Software Developer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ENIAC Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/eniac-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$125M",
+    "investmentRange": "$200K - $1.2M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$700K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Vic Singh (ENIAC Ventures)",
+        "Nihal Mehta (ENIAC Ventures)",
+        "Tim Young (ENIAC Ventures)",
+        "Brad Greiwe (Fifth Wall)",
+        "Rebecca Lynn (Canvas Ventures)",
+        "Jeffrey Berman (Camber Creek)",
+        "Courtney Cooper (Alate Partners)"
+      ],
+      "company": "Eden",
+      "date": "Nov 2019",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$25M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMG9DQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa89b963c3aef95fb81018705bf57af42c6d6fd0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hadley-harris",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hadley-harris",
+  "socials": {
+    "angellist": "https://www.angel.co/hadley",
+    "crunchbase": "https://www.crunchbase.com/person/hadley-harris",
+    "linkedin": "https://www.linkedin.com/in/hadleyharris/",
+    "twitter": "https://www.twitter.com/Hadley",
+    "website": "https://www.eniac.vc/team/"
+  },
+  "scraped_at": "2026-02-27T22:12:15.009865"
+}

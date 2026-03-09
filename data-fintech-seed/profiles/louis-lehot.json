@@ -1,0 +1,202 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Louis Lehot",
+    "signalScore": 96,
+    "website": "https://louislehot.com/"
+  },
+  "experience": [
+    {
+      "company": "Cooley LLP",
+      "dates": "2013 - 2015",
+      "position": "Corporate, Securities and M&A Law Partner"
+    },
+    {
+      "company": "Sheppard Mullin (Silicon Valley)",
+      "dates": "2009 - 2013",
+      "position": "Corporate, Securities and M&A Law Partner"
+    },
+    {
+      "company": "Simpson Thacher & Bartlett LLP (Palo Alto)",
+      "dates": "2005 - 2009",
+      "position": "Corporate Lawyer"
+    },
+    {
+      "company": "Shearman and Sterling (Paris, France)",
+      "dates": "2003 - 2005",
+      "position": "Cross-Border Corporate Finance Lawyer"
+    },
+    {
+      "company": "Shearman and Sterling (London)",
+      "dates": "2000 - 2003",
+      "position": "Cross-Border Corporate Finance Lawyer"
+    },
+    {
+      "company": "Lawyer & Partner",
+      "dates": "2021 - Present",
+      "position": "Business"
+    },
+    {
+      "company": "DLA Piper",
+      "dates": "2015 - Present",
+      "position": "Corporate, Securities and M&A Law Partner, Co-Chair, Emerging Group and Venture Capital"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Partner",
+    "investmentRange": "$50 - $50",
+    "investmentsOnRecord": 17,
+    "sweetSpot": "$50"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Sofie Labs",
+      "date": "Jan 2024",
+      "roundSize": "$25K",
+      "stage": "SAFE",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Patlytics",
+      "date": "Dec 2023",
+      "roundSize": "$25K",
+      "stage": "SAFE",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Zero Cognitive System",
+      "date": "Jan 2021",
+      "roundSize": "$25K",
+      "stage": "Post seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Solid Opinion",
+      "date": "Jan 2013",
+      "roundSize": "$10K",
+      "stage": "Seed",
+      "totalRaised": "$10K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mondevices",
+      "date": "Jan 2013",
+      "roundSize": "$10K",
+      "stage": "Seed",
+      "totalRaised": "$10K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Shadowbox, Inc.",
+      "date": "Jan 2022",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "doc.ai",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Aziz Ventures",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Fund Ⅱ",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkZNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f247f75c36a9f499e837cf9ad471a9e562bdae05/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/louis-lehot",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    }
+  ],
+  "slug": "louis-lehot",
+  "socials": {
+    "angellist": "https://www.angel.co/lehotlouis",
+    "crunchbase": "https://www.crunchbase.com/person/louis-lehot",
+    "linkedin": "https://www.linkedin.com/in/louislehot/",
+    "website": "https://www.louislehot.com/"
+  },
+  "scraped_at": "2026-03-03T21:58:29.544523"
+}

@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Garrett Camp",
+    "website": "https://www.expa.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Expa",
+      "firmUrl": "https://signal.nfx.com/firms/expa",
+      "position": "Investor"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Niko Bonatsos (General Catalyst)",
+        "Topher Conway (SV Angel)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Frank Rotman (QED Investors)",
+        "Vítor Lourenco (Expa)",
+        "Phil Bronner (Ardent Venture Partners)",
+        "Jared Hecht (Magellan (magellan.ventures))",
+        "Scott Belsky",
+        "Gokul Rajaram",
+        "Vivek Patel"
+      ],
+      "company": "Collective",
+      "date": "Sep 2020",
+      "roundSize": "$8.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK09aQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c92b951ee5f9bc30bcdc947723c557eb4f5bb72e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/garrett-camp",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "garrett-camp",
+  "socials": {
+    "angellist": "https://www.angel.co/p/gc",
+    "crunchbase": "https://www.crunchbase.com/person/garrett-camp",
+    "linkedin": "https://www.linkedin.com/in/garrettcamp/",
+    "twitter": "https://www.twitter.com/gc?lang=en",
+    "website": "https://www.expa.com/team"
+  },
+  "scraped_at": "2026-02-27T22:02:23.164302"
+}

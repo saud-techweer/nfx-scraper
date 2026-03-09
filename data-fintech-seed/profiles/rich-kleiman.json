@@ -1,0 +1,170 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "New York City",
+    "name": "Rich Kleiman",
+    "website": "https://www.thirtyfiveventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Roc Nation",
+      "dates": "2013 - 2015",
+      "position": "VP of Sports"
+    },
+    {
+      "company": "Roc Nation",
+      "dates": "2007 - 2013",
+      "position": "VP of Management"
+    },
+    {
+      "company": "Allido records",
+      "dates": "2004 - 2007",
+      "position": "Allido records"
+    },
+    {
+      "company": "RadicalMedia LLC",
+      "dates": "1999 - 2003",
+      "position": "Producer and Music Supervisor"
+    },
+    {
+      "company": "Boardroom",
+      "dates": "2019 - Present",
+      "position": "Partner and Co-founder"
+    },
+    {
+      "company": "35V",
+      "dates": "2016 - Present",
+      "position": "Partner and Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Thirty Five Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/thirty-five-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Jason Yeh (Patron)",
+        "Andrew Chen (Andreessen Horowitz)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Keisuke Honda (Dreamers VC)",
+        "David Sacks (Craft Ventures)",
+        "Will Smith (Dreamers VC)",
+        "Katy Perry",
+        "Rudra Peram",
+        "Peter Hunn",
+        "Justin Timberlake",
+        "Sung ho Choi"
+      ],
+      "company": "Sandbox VR",
+      "date": "Oct 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Jake Gibson (Better Tomorrow Ventures)",
+        "Bill Trenchard (First Round Capital)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Tim Ferriss"
+      ],
+      "company": "Grove",
+      "date": "Jun 2018",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOS83QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a977ba40f0e15a1569766c734691c0dea8cf66f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rich-kleiman",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-b-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "rich-kleiman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/rich-kleiman",
+    "linkedin": "https://www.linkedin.com/in/richkleiman/",
+    "twitter": "https://www.twitter.com/richkleiman",
+    "website": "https://www.thirtyfiveventures.com/"
+  },
+  "scraped_at": "2026-03-05T19:55:41.711750"
+}

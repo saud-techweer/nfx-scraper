@@ -1,0 +1,160 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Mike Duboe",
+    "signalScore": 891,
+    "website": "https://greylock.com/team/mike-duboe/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Greylock",
+      "firmUrl": "https://signal.nfx.com/firms/greylock",
+      "position": "General Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$500K - $200.0M",
+    "investmentsOnRecord": 28,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ben Gilbert (Pioneer Square Labs)",
+        "Greg Gottesman (Pioneer Square Labs)"
+      ],
+      "company": "Tin Can",
+      "date": "Dec 2025",
+      "roundSize": "$12M",
+      "stage": "Seed",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SuperMe",
+      "date": "Nov 2025",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Zach DeWitt (Wing Venture Capital)",
+        "JD Ross",
+        "David Rogier"
+      ],
+      "company": "AirOps",
+      "date": "Nov 2025",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$63M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paramark.com",
+      "date": "May 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Max Mullen"
+      ],
+      "company": "Highstock",
+      "date": "Feb 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Damir Becirovic (Index Ventures)",
+        "Stephen Chau (Sequoia Capital)",
+        "Logan Langberg (Imaginary Ventures)",
+        "Hunter Mcnabb (9Yards Capital)"
+      ],
+      "company": "Pepper",
+      "date": "May 2024",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$62M"
+    },
+    {
+      "coInvestors": [
+        "Julius Genachowski"
+      ],
+      "company": "Responsiv",
+      "date": "Nov 2023",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lithos Carbon",
+      "date": "Oct 2022",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXhtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c17f22d10edae9026c8e9a1f81cdbabaf5342d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-duboe",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mike-duboe",
+  "socials": {
+    "angellist": "https://www.angel.co/u/mduboe",
+    "crunchbase": "https://www.crunchbase.com/person/mike-duboe",
+    "linkedin": "https://www.linkedin.com/in/mikeduboe/",
+    "twitter": "https://www.twitter.com/mduboe",
+    "website": "https://www.greylock.com/team/mike-duboe/"
+  },
+  "scraped_at": "2026-02-11T10:18:08.408239"
+}

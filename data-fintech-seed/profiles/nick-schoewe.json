@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Denver, Colorado",
+    "name": "Nick Schoewe",
+    "website": "https://www.ocaventures.com/team/nick-schoewe/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "OCA Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/oca-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$125M",
+    "investmentRange": "$50K - $4.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1NlQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a46fe639a1807ffdea4b72a0a3a7de280906431/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nick-schoewe",
+  "sectorRankings": [
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "nick-schoewe",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nick-schoewe",
+    "linkedin": "https://www.linkedin.com/in/nick-schoewe-3bb686/",
+    "website": "https://www.ocaventures.com/team/nick-schoewe/"
+  },
+  "scraped_at": "2026-03-03T22:55:48.102366"
+}

@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Matt Humphrey",
+    "signalScore": 23,
+    "website": "https://quiet.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Quiet Capital",
+      "firmUrl": "https://signal.nfx.com/firms/quiet-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Peter Thiel (Founders Fund)",
+        "Topher Conway (SV Angel)",
+        "Charles Moldow (Foundation Capital)",
+        "Alejandro Ponce (Ataria Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Charlie Songhurst",
+        "Louis Beryl"
+      ],
+      "company": "Mirror Emoji Keyboard",
+      "date": "Dec 2017",
+      "roundSize": "$3.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$3.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEQzQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab8ddbbc96fb751bbf451d8f6c2f0af6b27b3eee/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matt-humphrey",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "matt-humphrey",
+  "socials": {
+    "angellist": "https://www.angel.co/p/matt-z-humphrey",
+    "crunchbase": "https://www.crunchbase.com/person/matt-humphrey",
+    "linkedin": "https://www.linkedin.com/in/matthumphrey/",
+    "website": "https://www.quiet.com/"
+  },
+  "scraped_at": "2026-02-27T02:36:13.290848"
+}

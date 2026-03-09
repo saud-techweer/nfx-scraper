@@ -1,0 +1,68 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Dallas, Texas",
+    "name": "Bernhard Ballin",
+    "website": "https://www.afterwork.vc/"
+  },
+  "experience": [
+    {
+      "company": "4Front Capital",
+      "dates": "2018 - Present",
+      "position": "President"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AfterWork Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/afterwork-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$30M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN245QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--13df5d8111f415d5437c0b43c7c07ea948a2f8cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bernhard-ballin",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bernhard-ballin",
+  "socials": {
+    "angellist": "https://www.angel.co/u/bernhard-ballin",
+    "linkedin": "https://www.linkedin.com/in/bernhard-ballin-b1339420/",
+    "website": "https://www.afterwork.vc/"
+  },
+  "scraped_at": "2026-02-27T20:40:03.260713"
+}

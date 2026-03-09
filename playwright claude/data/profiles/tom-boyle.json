@@ -1,0 +1,68 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Tom Boyle",
+    "signalScore": 93,
+    "website": "https://www.linkedin.com/in/boyletom/"
+  },
+  "experience": [
+    {
+      "company": "The Coca-Cola Company",
+      "dates": "2002 - 2015",
+      "position": "Global VP, Marketing & Commercial"
+    },
+    {
+      "company": "TradeOut.com",
+      "dates": "1998 - 2001",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Boyle Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/boyle-ventures",
+      "position": "Angel"
+    },
+    "investmentRange": "$5K - $100K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGdGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d064aac9fec54ee6861800d8a6bc6a145e7d7a4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tom-boyle",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "tom-boyle",
+  "socials": {
+    "angellist": "https://www.angel.co/tom-boyle-2",
+    "crunchbase": "https://www.crunchbase.com/person/tom-boyle",
+    "linkedin": "https://www.linkedin.com/in/boyletom/"
+  },
+  "scraped_at": "2026-02-12T10:34:33.764915"
+}

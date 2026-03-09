@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor",
+      "Former CEO",
+      "CEO"
+    ],
+    "location": "Newport Beach, California",
+    "name": "Bob Bilbruck",
+    "signalScore": 5,
+    "website": "https://www.captjur.com/startup-garage"
+  },
+  "experience": [
+    {
+      "company": "Captjur",
+      "dates": "Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Captjur Venture Studio",
+      "firmUrl": "https://signal.nfx.com/firms/captjur-venture-studio",
+      "position": "Investor"
+    },
+    "investmentRange": "$50K - $2.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Symbolic Mind",
+      "date": "Dec 2024",
+      "roundSize": null,
+      "stage": "SEED",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Freedom Laser",
+      "date": "Feb 2023",
+      "roundSize": null,
+      "stage": "SEED",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Trevor Paladino (Lakeside Capital)"
+      ],
+      "company": "Happy Dad",
+      "date": "Dec 2022",
+      "roundSize": null,
+      "stage": "SEED",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "AUTIO",
+      "date": "Dec 2021",
+      "roundSize": "$250K",
+      "stage": "SEED",
+      "totalRaised": "$250K"
+    },
+    {
+      "coInvestors": [],
+      "company": "JUNK GRAB",
+      "date": "Dec 2021",
+      "roundSize": "$250K",
+      "stage": "SEED",
+      "totalRaised": "$250K"
+    },
+    {
+      "coInvestors": [],
+      "company": "B2WELL",
+      "date": "Dec 2021",
+      "roundSize": null,
+      "stage": "SEED",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "TAILGAMERS",
+      "date": "N/A",
+      "roundSize": "$1",
+      "stage": "SEED",
+      "totalRaised": "$2"
+    },
+    {
+      "coInvestors": [],
+      "company": "Vantage Sports",
+      "date": "N/A",
+      "roundSize": "$1",
+      "stage": "SEED",
+      "totalRaised": "$1"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemdQQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a3b106fac6529c7c7070e3fc91946e0668a4dfe/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bob-bilbruck",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-pre-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "bob-bilbruck",
+  "socials": {
+    "angellist": "https://venture.angellist.com/captjurstartupgarage/syndicate",
+    "crunchbase": "https://www.crunchbase.com/person/bob-bilbruck",
+    "linkedin": "https://www.linkedin.com/in/captjur/",
+    "website": "https://www.captjur.com/startup-garage"
+  },
+  "scraped_at": "2026-02-26T08:49:04.207098"
+}

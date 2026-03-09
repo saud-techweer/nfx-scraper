@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Bonn, Germany",
+    "name": "Gernot Berger",
+    "website": "https://www.htgf.de/en/team/dr-gernot-berger-investment-manager-3/"
+  },
+  "experience": [
+    {
+      "company": "Precitec Optronik GmbH",
+      "dates": "2018 - 2019",
+      "position": "Business Manager"
+    },
+    {
+      "company": "Ametek Taylor Hobson Ltd.",
+      "dates": "2014 - 2018",
+      "position": "Global Business Development and Product Manager"
+    },
+    {
+      "company": "Ametek Taylor Hobson Ltd.",
+      "dates": "2015 - 2016",
+      "position": "Business Development Manager Asia"
+    },
+    {
+      "company": "Luphos GmbH (Startup)",
+      "dates": "2009 - 2014",
+      "position": "CSO, Product Manager, Co-Owner"
+    },
+    {
+      "company": "University of Münster",
+      "dates": "2001 - 2008",
+      "position": "Research & Teaching Associate"
+    },
+    {
+      "company": "Technische Universität Darmstadt",
+      "dates": "1998 - 2000",
+      "position": "Associate"
+    },
+    {
+      "company": "High-Tech Gründerfonds",
+      "dates": "2019 - Present",
+      "position": "Senior Investment Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "High-Tech Gründerfonds",
+      "firmUrl": "https://signal.nfx.com/firms/high-tech-grunderfonds",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVYxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eebbc8693346409ee0db274c4216d2e1c7b314c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gernot-berger",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "gernot-berger",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/gernotberger/",
+    "website": "https://www.htgf.de/en/team/dr-gernot-berger-investment-manager-3/"
+  },
+  "scraped_at": "2026-02-27T22:05:35.405588"
+}

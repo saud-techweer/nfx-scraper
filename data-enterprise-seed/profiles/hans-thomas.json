@@ -1,0 +1,100 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "VC",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Hans Thomas",
+    "positionAndFirm": "Founding Partner, CEO at 10X Capital",
+    "website": "https://hansthomas.com/"
+  },
+  "experience": [
+    {
+      "company": "TheNumber.com",
+      "dates": "2016 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "10X Capital",
+      "dates": "2004 - Present",
+      "position": "Founding Partner, CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "10X Capital",
+      "firmUrl": "https://signal.nfx.com/firms/10x-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGU2QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b93aa5ae632f390ecc226c66df1488765bc99b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hans-thomas",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hans-thomas",
+  "socials": {
+    "angellist": "https://www.angel.co/p/hans-thomas",
+    "crunchbase": "https://www.crunchbase.com/person/hans-thomas",
+    "linkedin": "https://www.linkedin.com/in/htnyc/",
+    "website": "https://www.hansthomas.com/"
+  },
+  "scraped_at": "2026-02-27T22:13:07.555856"
+}

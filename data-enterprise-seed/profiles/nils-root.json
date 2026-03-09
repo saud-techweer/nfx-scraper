@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Columbus, Ohio",
+    "name": "Nils Root",
+    "positionAndFirm": "Partner at Drive Capital | Founder, Producer  at Bookbag Video",
+    "website": "https://www.drivecapital.com/team/nils-root"
+  },
+  "experience": [
+    {
+      "company": "Bookbag Video",
+      "dates": "2012 - 2019",
+      "position": "Founder, Producer"
+    },
+    {
+      "company": "Business Builders",
+      "dates": "2009 - 2011",
+      "position": "President"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Drive Capital",
+      "firmUrl": "https://signal.nfx.com/firms/drive-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$10.0M - $30.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXkvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2cd4df8709e220f91fd3552b10696e55225d59d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nils-root",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nils-root",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nils-root",
+    "linkedin": "https://www.linkedin.com/in/nilsroot/",
+    "twitter": "https://www.twitter.com/nils_root",
+    "website": "https://www.drivecapital.com/team/nils-root"
+  },
+  "scraped_at": "2026-02-28T00:25:45.895353"
+}

@@ -8,14 +8,6 @@ venv/
 env/
 ENV/
 
-# Output files (keep scraped data)
-*.csv
-nfx_vcs_*
-
-# Keep data folder tracked
-!data/
-!data/**/*.json
-
 # IDE
 .vscode/
 .idea/
@@ -27,3 +19,6 @@ chrome-debug/
 
 # Environment variables
 .env
+
+# OS
+.DS_Store

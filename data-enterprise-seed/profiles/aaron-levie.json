@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Berkeley, California",
+    "name": "Aaron Levie",
+    "website": "https://www.box.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Avichal Garg (Electric Capital)",
+        "Jerry Yang (AME Cloud Ventures)",
+        "Garry Tan (Y Combinator)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Katie Stanton (Moxxie Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Max Levchin (Scifi Vc)",
+        "Mariam Naficy (Heretic Ventures)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Jerry Yang (Hardware Club)",
+        "Julia Hartz",
+        "Ben Davenport",
+        "Drew Houston"
+      ],
+      "company": "Color",
+      "date": "Apr 2015",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzkwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d741586fb5af82fd024b4a27562531865a3c4b49/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aaron-levie",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "aaron-levie",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/aaron-levie",
+    "linkedin": "https://www.linkedin.com/in/boxaaron/",
+    "twitter": "https://www.twitter.com/Levie"
+  },
+  "scraped_at": "2026-02-27T19:52:10.912926"
+}

@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Penny Pritzker",
+    "website": "https://inspiredcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "U.S. Department of Commerce",
+      "dates": "2013 - 2017",
+      "position": "U.S. Secretary of Commerce"
+    },
+    {
+      "company": "TransUnion",
+      "dates": "2004 - 2012",
+      "position": "Executive Chairman"
+    },
+    {
+      "company": "The Parking Spot",
+      "dates": "1998 - 2011",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Vi",
+      "dates": "1987 - 2011",
+      "position": "Founder"
+    },
+    {
+      "company": "Inspired Capital",
+      "dates": "2019 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2017 - Present",
+      "position": "Member of the Board"
+    },
+    {
+      "company": "PSP Partners",
+      "dates": "2017 - Present",
+      "position": "Chairman"
+    },
+    {
+      "company": "Artemis Real Estate Partners",
+      "dates": "2009 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Inspired Capital",
+      "firmUrl": "https://signal.nfx.com/firms/inspired-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$500K - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmMyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--954aebbc10ff9e69668f17b32d58728a438b0988/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/penny-pritzker",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "penny-pritzker",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/penny-pritzker",
+    "linkedin": "https://www.linkedin.com/in/penny-pritzker/",
+    "twitter": "https://www.twitter.com/PennyPritzker",
+    "website": "https://www.inspiredcapital.com/"
+  },
+  "scraped_at": "2026-03-03T23:16:33.892927"
+}

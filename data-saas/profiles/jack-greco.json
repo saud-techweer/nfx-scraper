@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Scout",
+      "Former CEO"
+    ],
+    "location": "Buffalo, New York",
+    "name": "Jack Greco",
+    "signalScore": 590
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cupule Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/cupule-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $1M",
+    "investmentsOnRecord": 90,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Pest Share",
+      "date": "May 2023",
+      "roundSize": "$250K",
+      "stage": "Seed",
+      "totalRaised": "$250K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Go Fish Marketplace",
+      "date": "Nov 2022",
+      "roundSize": "$270K",
+      "stage": "Pre Seed",
+      "totalRaised": "$270K"
+    },
+    {
+      "coInvestors": [],
+      "company": "FabuLingua",
+      "date": "Apr 2022",
+      "roundSize": "$1.3M",
+      "stage": "Pre Seed",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Big Wheelbarrow",
+      "date": "Jan 2022",
+      "roundSize": "$600K",
+      "stage": "Seed",
+      "totalRaised": "$600K"
+    },
+    {
+      "coInvestors": [],
+      "company": "OrgVitals",
+      "date": "Jul 2021",
+      "roundSize": "$300K",
+      "stage": "Pre Seed",
+      "totalRaised": "$300K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Peer Collective",
+      "date": "Mar 2021",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Tackle.io",
+      "date": "Jun 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "TCG Player",
+      "date": "May 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzJCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--50e398e4ae8ac79e517d875495ba12f3d048bdeb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-greco",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Chemicals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-pre-seed-investors"
+    },
+    {
+      "name": "AutoTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Chemicals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    }
+  ],
+  "slug": "jack-greco",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jack-greco-2",
+    "linkedin": "https://www.linkedin.com/in/jacklgreco/"
+  },
+  "scraped_at": "2026-02-27T00:37:18.347749"
+}

@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Kevin Hoffberg",
+    "website": "https://uluventures.com/we/kevin-hoffberg/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ulu Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ulu-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$66M",
+    "investmentRange": "$750K - $1M",
+    "sweetSpot": "$875K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVBLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--63cdc98d8eb118af4c12d09d4273f72a6a08ca4d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-hoffberg",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kevin-hoffberg",
+  "socials": {
+    "angellist": "https://www.angel.co/u/kevin-hoffberg",
+    "crunchbase": "https://www.crunchbase.com/person/kevin-hoffberg",
+    "linkedin": "https://www.linkedin.com/in/kevin-hoffberg-25610/",
+    "twitter": "https://www.twitter.com/camera561",
+    "website": "https://www.uluventures.com/we/kevin-hoffberg/"
+  },
+  "scraped_at": "2026-02-27T23:08:50.508632"
+}

@@ -1,0 +1,187 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Angel",
+      "Growth Operator",
+      "Operator"
+    ],
+    "name": "Joshua Webster",
+    "positionAndFirm": "Growth operator at YC company, Scout, Investor",
+    "signalScore": 1025
+  },
+  "experience": [
+    {
+      "company": "Capitalize",
+      "dates": "2022 - 2023",
+      "position": "Founding team"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2022 - 2023",
+      "position": "Outbound Growth Lead"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2022 - 2022",
+      "position": "Growth Marketing Manager"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2022 - 2022",
+      "position": "Strategic Partnerships"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2021 - 2022",
+      "position": "Sales Development Representative / Growth"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2021 - 2021",
+      "position": "Technical Recruiter"
+    },
+    {
+      "company": "Wefunder",
+      "dates": "2021 - 2021",
+      "position": "Venture Scout"
+    },
+    {
+      "company": "On",
+      "dates": "2020 - 2021",
+      "position": "Customer Service Representative"
+    },
+    {
+      "company": "Trinity Western University",
+      "dates": "2017 - 2020",
+      "position": "Student Ambassador Coordinator"
+    },
+    {
+      "company": "Trinity Western University",
+      "dates": "2019 - 2020",
+      "position": "Personal Development Team Coordinator"
+    },
+    {
+      "company": "Glacier Properties",
+      "dates": "2019 - 2019",
+      "position": "Real Estate Intern"
+    },
+    {
+      "company": "Other companies",
+      "dates": "2016 - 2019",
+      "position": "Numerous other roles"
+    },
+    {
+      "company": "Trinity Western University",
+      "dates": "2018 - 2019",
+      "position": "Personal Development Team Leader"
+    },
+    {
+      "company": "Trinity Western University",
+      "dates": "2017 - 2018",
+      "position": "Student Orientation Staff"
+    },
+    {
+      "company": "levy",
+      "dates": "2023 - Present",
+      "position": "VC + Accelerator Partnerships"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$1K - $5K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$3K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Paretisa",
+      "date": "Oct 2022",
+      "roundSize": "$2.5K",
+      "stage": "Seed",
+      "totalRaised": "$2.5K"
+    },
+    {
+      "coInvestors": [
+        "Sathvik Bilakanti",
+        "Madhu Chamarty",
+        "Mattia Astori"
+      ],
+      "company": "Replit",
+      "date": "Apr 2022",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Doorvest",
+      "date": "Nov 2021",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Jon Dishotsky (Daft Capital)",
+        "Chris Moreno (Infinite Niches)",
+        "Cesare Pesci (YOBE Ventures)",
+        "Yotis Tonnelier (YOBE Ventures)",
+        "Stu Smith (Coughdrop Capital)"
+      ],
+      "company": "Mercury",
+      "date": "Jul 2021",
+      "roundSize": "$120M",
+      "stage": "Series B",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Chris Denny-Brown (O'Shaughnessy Ventures)"
+      ],
+      "company": "Synthesis School",
+      "date": "Jun 2021",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Immersed",
+      "date": "Apr 2021",
+      "roundSize": "$8.1M",
+      "stage": "Equity Crowdfunding",
+      "totalRaised": "$8.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHpkQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--836e6c7ed48cf6b57d10863b1a15b8e4932941aa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joshua-webster",
+  "sectorRankings": [
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "joshua-webster",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/joshua-webster/",
+    "twitter": "https://www.twitter.com/JoshuaDWebster"
+  },
+  "scraped_at": "2026-02-27T01:27:44.331793"
+}

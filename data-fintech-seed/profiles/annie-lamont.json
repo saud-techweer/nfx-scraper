@@ -1,0 +1,154 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Westport, Connecticut",
+    "name": "Annie Lamont",
+    "website": "https://oakhcft.com/team-members/annie-lamont"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Oak HC/FT",
+      "firmUrl": "https://signal.nfx.com/firms/oak-hc-ft",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$5.0M - $50.0M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jerry Chen (Greylock)",
+        "S J"
+      ],
+      "company": "Notable",
+      "date": "Sep 2018",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paladina Health",
+      "date": "Aug 2018",
+      "roundSize": "$170M",
+      "stage": "Venture Round",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [],
+      "company": "FreshBooks",
+      "date": "Jul 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "CA$57M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Quartet",
+      "date": "Apr 2016",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Vignesh Chandramouli (Oak HC/FT)"
+      ],
+      "company": "VillageMD",
+      "date": "Sep 2015",
+      "roundSize": "$36M",
+      "stage": "Series A",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Vignesh Chandramouli (Oak HC/FT)"
+      ],
+      "company": "Aspire Health",
+      "date": "Jun 2015",
+      "roundSize": "$15M",
+      "stage": "Series C",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [],
+      "company": "TxVia",
+      "date": "Oct 2010",
+      "roundSize": "$28M",
+      "stage": "Series D",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [],
+      "company": "NextPage",
+      "date": "Jan 2001",
+      "roundSize": "$20M",
+      "stage": "Venture Round",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekRsQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--caf314d9601287ba10dfc6bacfe1516a9f955d0e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/annie-lamont",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "annie-lamont",
+  "socials": {
+    "angellist": "https://www.angel.co/u/annie-lamont",
+    "crunchbase": "https://www.crunchbase.com/person/annie-lamont",
+    "linkedin": "https://www.linkedin.com/in/annielamont/",
+    "twitter": "https://www.twitter.com/annielamont",
+    "website": "https://www.oakhcft.com/team-members/annie-lamont"
+  },
+  "scraped_at": "2026-02-28T00:23:32.244598"
+}

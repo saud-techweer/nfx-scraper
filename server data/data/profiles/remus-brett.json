@@ -1,0 +1,188 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "United Kingdom",
+    "name": "Remus Brett",
+    "website": "https://localglobe.vc/"
+  },
+  "experience": [
+    {
+      "company": "Latitude",
+      "dates": "2018 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "LocalGlobe",
+      "firmUrl": "https://signal.nfx.com/firms/localglobe",
+      "position": "General Partner"
+    },
+    "investmentRange": "$200K - $2.0M",
+    "investmentsOnRecord": 17,
+    "sweetSpot": "$1.1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Burak Cendek (Autotech Ventures)"
+      ],
+      "company": "Laka",
+      "date": "Jul 2025",
+      "roundSize": "$10M",
+      "stage": "Series B",
+      "totalRaised": "$38M"
+    },
+    {
+      "coInvestors": [
+        "Gareth Jefferies (RTP Global)",
+        "Conor Sharpe (Backed VC)",
+        "Will Neale (Passion Capital)",
+        "Dan Jones (Jigsaw VC)",
+        "Michael Pennington"
+      ],
+      "company": "Yonder",
+      "date": "Sep 2024",
+      "roundSize": "$31M",
+      "stage": "Series Unknown",
+      "totalRaised": "$73M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Translucent",
+      "date": "Aug 2023",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Florian Reichert (Picus Capital)"
+      ],
+      "company": "Gotrade",
+      "date": "Jan 2022",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Eden Life",
+      "date": "Oct 2021",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Supercritical",
+      "date": "Aug 2021",
+      "roundSize": "$3M",
+      "stage": "Pre Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Julia Hawkins (LocalGlobe)",
+        "Sophia Bendz (Cherry Ventures)",
+        "Alexia Arts (MMC Ventures)",
+        "Kamran Adle (Octopus Ventures)",
+        "Simon Lambert"
+      ],
+      "company": "Vira Health",
+      "date": "Jul 2021",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Martin Enderle"
+      ],
+      "company": "PriceHubble",
+      "date": "Jul 2021",
+      "roundSize": "$34M",
+      "stage": "Series B",
+      "totalRaised": "$34M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzVNQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--928d63650e104fd8f751a56d37515500369aa3f0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/remus-brett",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "remus-brett",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/remus-brett",
+    "linkedin": "https://www.linkedin.com/in/remus-brett-5245181/",
+    "twitter": "https://www.twitter.com/remusbrett",
+    "website": "https://www.localglobe.vc/"
+  },
+  "scraped_at": "2026-02-12T08:36:39.627744"
+}

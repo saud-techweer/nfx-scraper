@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "name": "limowooj",
+    "investorTypes": [
+      "CEO",
+      "Investor"
+    ],
+    "website": "http://terra.money/"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pylon Protocol",
+      "firmUrl": "https://signal.nfx.com/firms/pylon-protocol",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$100K"
+  },
+  "sectorRankings": [
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [],
+  "experience": [],
+  "socials": {
+    "website": "https://www.terra.money/"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFB0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a977a110aba5683e1859e3c0b3b48e03de3912a9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/woojin-lim",
+  "slug": "woojin-lim",
+  "scraped_at": "2026-02-24T13:33:25.713952"
+}

@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Gabrielle Wright",
+    "website": "https://www.anthemis.com/people/gabby-wright/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Anthemis Group",
+      "firmUrl": "https://signal.nfx.com/firms/anthemis-group",
+      "position": "Principal"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjY0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce5c680e0b4b48edb2ad91b5c1ccb628dcf505f2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gabrielle-wright",
+  "sectorRankings": [
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "gabrielle-wright",
+  "socials": {
+    "angellist": "https://www.angel.co/p/gabby-wright",
+    "crunchbase": "https://www.crunchbase.com/person/gabby-wright",
+    "linkedin": "https://www.linkedin.com/in/gabrielle-wright-b07661136/",
+    "website": "https://www.anthemis.com/people/gabby-wright/"
+  },
+  "scraped_at": "2026-03-03T17:46:12.907289"
+}

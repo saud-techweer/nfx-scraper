@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Prashant Fonseka",
+    "signalScore": 3,
+    "website": "http://tuesday.vc/"
+  },
+  "experience": [
+    {
+      "company": "CrunchFund",
+      "dates": "2013 - 2022",
+      "position": "Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tuesday Capital",
+      "firmUrl": "https://signal.nfx.com/firms/tuesday-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$32M",
+    "investmentRange": "$250K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnplIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fd804eba1e12dd72e60e15312ff529cbacf8066a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/prashant-fonseka",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "tripp-jones",
+  "socials": {
+    "angellist": "https://www.angel.co/prashant-fonseka",
+    "crunchbase": "https://www.crunchbase.com/person/prashant-fonseka",
+    "linkedin": "https://www.linkedin.com/in/prashant-fonseka-5881622/",
+    "twitter": "https://www.twitter.com/prashantfonseka",
+    "website": "https://www.tuesday.vc/"
+  },
+  "scraped_at": "2026-02-16T01:45:56.198562",
+  "success": true
+}

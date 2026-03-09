@@ -1,0 +1,181 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Former CEO"
+    ],
+    "location": "Milan, Italy",
+    "name": "Gianluca Dettori",
+    "signalScore": 106,
+    "website": "https://www.linkedin.com/in/dgiluz/"
+  },
+  "experience": [
+    {
+      "company": "dPixel",
+      "dates": "2006 - 2016",
+      "position": "Chairman"
+    },
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2008 - 2009",
+      "position": "Class 14"
+    },
+    {
+      "company": "Lycos Europe",
+      "dates": "1996 - 1998",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Primo Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/primo-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$500K - $4.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Roberto Magnifico (LVenture Group)"
+      ],
+      "company": "Codemotion",
+      "date": "Mar 2017",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cortilia",
+      "date": "Nov 2014",
+      "roundSize": "$2M",
+      "stage": "Series Unknown",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "iubenda",
+      "date": "Jun 2011",
+      "roundSize": "$100K",
+      "stage": "Seed Round",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Viamente",
+      "date": "Mar 2011",
+      "roundSize": "$350K",
+      "stage": "Seed Round",
+      "totalRaised": "$350K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Vivaticket",
+      "date": "May 2006",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc01KIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--dfb618808ba6c71756244ba783634f0f7de5cc25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gianluca-dettori",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    }
+  ],
+  "slug": "gianluca-dettori",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/dgiluz/",
+    "twitter": "https://www.twitter.com/dgiluz"
+  },
+  "scraped_at": "2026-02-11T12:29:29.244176"
+}

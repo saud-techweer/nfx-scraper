@@ -1,0 +1,117 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Operator"
+    ],
+    "location": "Vancouver, BC",
+    "name": "Shahab Samimi",
+    "signalScore": 480,
+    "website": "https://7gate.vc/"
+  },
+  "experience": [
+    {
+      "company": "Performance Capital Advisors",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Gravitas Securities",
+      "dates": "Present",
+      "position": "Investment Banking Analysis"
+    },
+    {
+      "company": "Northstar Endurance",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Pura Sweeteners",
+      "dates": "Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "7 Gate Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/7-gate-ventures",
+      "position": "Senior Associate"
+    },
+    "investmentRange": "$50K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Roomvu",
+      "date": "N/A",
+      "roundSize": "$550K",
+      "stage": "Seed",
+      "totalRaised": "$550K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzc1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--041004fdf1980eda587f2e9aa25ea53b8af89c21/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/shahab-samimi",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "shahab-samimi",
+  "socials": {
+    "angellist": "https://www.angel.co/p/shahab-samimi?public_profile=1",
+    "crunchbase": "https://www.crunchbase.com/person/shahab-samimi",
+    "linkedin": "https://www.linkedin.com/in/ssamimi/",
+    "twitter": "https://www.twitter.com/Shahab604",
+    "website": "https://www.7gate.vc/"
+  },
+  "scraped_at": "2026-02-27T04:35:14.683856"
+}

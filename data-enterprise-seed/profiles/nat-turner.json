@@ -1,0 +1,208 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Nat Turner",
+    "website": "https://natsturner.com/"
+  },
+  "experience": [
+    {
+      "company": "Metropolitan Golf Association",
+      "dates": "2017 - Present",
+      "position": "Executive Committee Member"
+    },
+    {
+      "company": "Flatiron Health",
+      "dates": "2012 - Present",
+      "position": "Co-Founder, CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Operator Partners",
+      "firmUrl": "https://signal.nfx.com/firms/operator-partners",
+      "position": "General Partner"
+    },
+    "investmentRange": "$250K - $500K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$375K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Zach Weinberg (Curie.Bio)",
+        "Arun Penmetsa (Storm Ventures)"
+      ],
+      "company": "Qualio",
+      "date": "Jul 2020",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Gaurav Jain (Afore Capital)",
+        "Muzzammil (MZ) Zaveri (Audacious Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Zach Weinberg (Curie.Bio)",
+        "Ben Blumenrose (Designer Fund)",
+        "Aneel Ranadive (Soma Capital)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Frances Schwiep (Two Sigma Ventures)",
+        "Enrique Allen (Designer Fund)"
+      ],
+      "company": "Flatfile",
+      "date": "May 2020",
+      "roundSize": "$7.6M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.6M"
+    },
+    {
+      "coInvestors": [
+        "Micah Rosenbloom (Founder Collective)",
+        "Jason Finger (The Finger Group)",
+        "Zach Weinberg (Curie.Bio)",
+        "Scott Belsky"
+      ],
+      "company": "Tropic",
+      "date": "Apr 2020",
+      "roundSize": "$2.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [
+        "Chris Bischoff (General Catalyst)",
+        "Oliver Heimes (Lakestar)",
+        "Klaus Hommels (Lakestar)"
+      ],
+      "company": "Cedar",
+      "date": "Jun 2018",
+      "roundSize": "$36M",
+      "stage": "Series B",
+      "totalRaised": "$36M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenJJQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f59ee5ecaf0abc5d5d7a0b72b2f73921ac61e372/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nat-turner",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-b-investors"
+    },
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nat-turner",
+  "socials": {
+    "angellist": "https://www.angel.co/natsturner",
+    "crunchbase": "https://www.crunchbase.com/person/nat-turner",
+    "linkedin": "https://www.linkedin.com/in/natsturner/",
+    "twitter": "https://www.twitter.com/natsturner",
+    "website": "https://www.natsturner.com/"
+  },
+  "scraped_at": "2026-02-28T02:22:31.044489"
+}

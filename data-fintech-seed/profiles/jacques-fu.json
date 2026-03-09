@@ -1,0 +1,178 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Orlando, Florida",
+    "name": "Jacques Fu"
+  },
+  "experience": [
+    {
+      "company": "Stax",
+      "dates": "2015 - 2023",
+      "position": "Co-Founder, CTO"
+    },
+    {
+      "company": "AssistRx",
+      "dates": "2009 - 2015",
+      "position": "CTO, Tech Co-founder"
+    },
+    {
+      "company": "Baldwin Park Condominium Association",
+      "dates": "2009 - 2012",
+      "position": "President, Board Member"
+    },
+    {
+      "company": "The Assistance Fund",
+      "dates": "2009 - 2011",
+      "position": "IT Director, Co-founder"
+    },
+    {
+      "company": "Metavante",
+      "dates": "2008 - 2009",
+      "position": "Consultant, Online Banking"
+    },
+    {
+      "company": "Meridian",
+      "dates": "2006 - 2008",
+      "position": "CTO & Co-founder"
+    },
+    {
+      "company": "Banyan Land Title Corp.",
+      "dates": "2004 - 2006",
+      "position": "Director of IT"
+    },
+    {
+      "company": "FuJ Tech Corp.",
+      "dates": "2000 - 2004",
+      "position": "IT Consultant"
+    },
+    {
+      "company": "PETE Learning",
+      "dates": "2023 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Orlando Devs, Inc.",
+      "dates": "2017 - Present",
+      "position": "Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Mitchel Laskey (DeepWork Capital)",
+        "Jonathan Chizick",
+        "Pete Moore"
+      ],
+      "company": "Xendoo",
+      "date": "Dec 2019",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHJoQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0d4603b4610e195b0a4c426b7bd20537aecbf0af/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jacques-fu",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jacques-fu",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jacques-fu",
+    "crunchbase": "https://www.crunchbase.com/person/jacques-fu",
+    "linkedin": "https://www.linkedin.com/in/jacquesfu/",
+    "twitter": "https://www.twitter.com/JacquesKFu"
+  },
+  "scraped_at": "2026-02-27T00:39:52.230305"
+}

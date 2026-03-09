@@ -1,0 +1,79 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Austin, Texas",
+    "name": "Chris Aydam",
+    "positionAndFirm": "Co-founder, Managing Partner at Midnight Venture Partners",
+    "website": "https://www.midnightvp.com/chrisaydam"
+  },
+  "experience": [
+    {
+      "company": "Dell Technologies",
+      "dates": "2018 - 2020",
+      "position": "Advisor, Strategy & Analytics"
+    },
+    {
+      "company": "Arcosa Inc.",
+      "dates": "2017 - 2018",
+      "position": "Corporate Development Associate"
+    },
+    {
+      "company": "Trinity Industries, Inc.",
+      "dates": "2015 - 2017",
+      "position": "Senior Analyst, Corporate Development"
+    },
+    {
+      "company": "Trinity Industries, Inc.",
+      "dates": "2013 - 2015",
+      "position": "Analyst, Corporate Development"
+    },
+    {
+      "company": "Midnight Venture Partners",
+      "dates": "2020 - Present",
+      "position": "Co-founder, Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Midnight Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/midnight-venture-partners",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1RJQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7b5b9227268a6098a3b4db0a1f831f80bc2f3d09/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-aydam",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "chris-aydam",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/chris-aydam-912b7ab4/",
+    "website": "https://www.midnightvp.com/chrisaydam"
+  },
+  "scraped_at": "2026-02-28T15:09:11.539777"
+}

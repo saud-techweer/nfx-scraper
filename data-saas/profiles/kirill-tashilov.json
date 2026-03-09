@@ -1,0 +1,194 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "London",
+    "name": "Kirill Tasilov",
+    "signalScore": 19,
+    "website": "https://www.taliscapital.com/our-story"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Talis Capital",
+      "firmUrl": "https://signal.nfx.com/firms/talis-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Matus Maar (Talis Capital)"
+      ],
+      "company": "Pirate Studios",
+      "date": "Nov 2018",
+      "roundSize": "$20M",
+      "stage": "Seed",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Mikhail Lobanov (Target Global)"
+      ],
+      "company": "omni:us",
+      "date": "Oct 2018",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Oh My Green",
+      "date": "Oct 2018",
+      "roundSize": "$20M",
+      "stage": "Seed",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Edge Intelligence",
+      "date": "Sep 2018",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Luminance",
+      "date": "Dec 2016",
+      "roundSize": "$0",
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Hussein Kanji (Hoxton Ventures)"
+      ],
+      "company": "Darktrace",
+      "date": "Mar 2015",
+      "roundSize": "$18M",
+      "stage": "Series A",
+      "totalRaised": "$18M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1ZoQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3aee63d297c6ce7824a5e11c9f884b3480781bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kirill-tashilov",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kirill-tashilov",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/organization/talis-capital",
+    "linkedin": "https://www.linkedin.com/in/ktashilov/",
+    "website": "https://www.taliscapital.com/our-story"
+  },
+  "scraped_at": "2026-02-27T01:51:37.075347"
+}

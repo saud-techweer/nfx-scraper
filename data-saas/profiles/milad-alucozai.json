@@ -1,0 +1,280 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Milad Alucozai",
+    "website": "https://www.boxone.xyz/life-sciences"
+  },
+  "experience": [
+    {
+      "company": "Corstem",
+      "dates": "2018 - 2020",
+      "position": "Chief Business Officer"
+    },
+    {
+      "company": "Numerate",
+      "dates": "2018 - 2020",
+      "position": "Business Advisor"
+    },
+    {
+      "company": "Accenture",
+      "dates": "2016 - 2018",
+      "position": "Global Portfolio & Delivery Lead"
+    },
+    {
+      "company": "Purdue University",
+      "dates": "2006 - 2015",
+      "position": "Various Research Roles"
+    },
+    {
+      "company": "Harvard University",
+      "dates": "2020 - Present",
+      "position": "Executive Expert & Mentor"
+    },
+    {
+      "company": "AstraZeneca",
+      "dates": "2020 - Present",
+      "position": "External Advisor"
+    },
+    {
+      "company": "Entrepreneur First",
+      "dates": "2020 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Creative Destruction Lab",
+      "dates": "2019 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Mekonos",
+      "dates": "2018 - Present",
+      "position": "Chief Business Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BoxOne Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/boxone-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Cytotronics",
+      "date": "Jan 2022",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Omri Amirav Drory (NFX)",
+        "Dave Messina (Pioneer Fund)"
+      ],
+      "company": "Talus Bio",
+      "date": "Nov 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Axonis",
+      "date": "Jul 2021",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Maximilian Winter (Harmonix Fund)",
+        "Larry Chu (Eunoia Capital Partners)"
+      ],
+      "company": "Juvena Therapeutics",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "DrugBank",
+      "date": "Jul 2020",
+      "roundSize": "$300K",
+      "stage": "Seed",
+      "totalRaised": "$5.3M"
+    },
+    {
+      "coInvestors": [
+        "Dave Messina (Pioneer Fund)",
+        "Maximilian Winter (Harmonix Fund)",
+        "Mathieu Guerville"
+      ],
+      "company": "Abalone Bio",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [
+        "Maximilian Winter (Harmonix Fund)"
+      ],
+      "company": "VastBiome",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Seed Extension",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Michal Ciffra (DEPO Ventures)",
+        "Peter Lasinger (3VC)"
+      ],
+      "company": "Tatum",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "pre-seed",
+      "totalRaised": "$1"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2lJQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b15d8528d8c7791ad2e388528cff1ad4954c502/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/milad-alucozai",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Drug Delivery (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-drug-delivery-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Drug Delivery (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-drug-delivery-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "milad-alucozai",
+  "socials": {
+    "angellist": "https://www.angel.co/p/miladalucozai",
+    "crunchbase": "https://www.crunchbase.com/person/milad-alucozai",
+    "linkedin": "https://www.linkedin.com/in/miladalucozai/",
+    "twitter": "https://www.twitter.com/miladalucozai",
+    "website": "https://www.boxone.xyz/life-sciences"
+  },
+  "scraped_at": "2026-02-27T02:57:30.189009"
+}

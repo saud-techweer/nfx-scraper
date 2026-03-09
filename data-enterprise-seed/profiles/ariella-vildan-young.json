@@ -1,0 +1,62 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Scout"
+    ],
+    "location": "United Kingdom",
+    "name": "Ariella Vildan Young",
+    "website": "https://www.adaventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Alma Angels",
+      "dates": "2021 - Present",
+      "position": "Angel Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ada Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ada-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLytDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df9b0e15e594b961dbb915526abde894153c8cb6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ariella-vildan-young",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ariella-vildan-young",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ariellayoung/",
+    "twitter": "https://www.twitter.com/v_ariella",
+    "website": "https://www.adaventures.com/"
+  },
+  "scraped_at": "2026-02-27T20:26:41.403458"
+}

@@ -1,0 +1,244 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Scout",
+      "Angel",
+      "Advisor"
+    ],
+    "location": "Israel",
+    "name": "Eran Yarkoni",
+    "positionAndFirm": "Serial Entrepreneur, Investor, Mentor",
+    "signalScore": 667,
+    "website": "https://www.israeltechgate.com/"
+  },
+  "experience": [
+    {
+      "company": "capital nature",
+      "dates": "2006 - 2010",
+      "position": "Co-founder & CEO"
+    },
+    {
+      "company": "EnStorage",
+      "dates": "2006 - 2010",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Israel Seed Partners",
+      "dates": "2002 - 2004",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "CyOptics",
+      "dates": "1999 - 2001",
+      "position": "CEO"
+    },
+    {
+      "company": "LumenGuides",
+      "dates": "2024 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$20K - $5.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "New Photonics",
+      "date": "Feb 2020",
+      "roundSize": null,
+      "stage": "seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Exelot",
+      "date": "Jan 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Andrew Blachman (Marketplace Capital)",
+        "Amit Biel (Biel Investments)",
+        "Jai Choi (Tekton Ventures)"
+      ],
+      "company": "Outdoorsy",
+      "date": "Nov 2016",
+      "roundSize": "$120K",
+      "stage": "Seed",
+      "totalRaised": "$240K"
+    },
+    {
+      "coInvestors": [],
+      "company": "tvpoint",
+      "date": "Jan 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEpvQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--893f44f522a80be54ddf5b09d469211d35aff4c7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eran-yarkoni",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-pre-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-pre-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "eran-yarkoni",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/eran-yarkoni",
+    "linkedin": "https://www.linkedin.com/in/yarkoni/",
+    "website": "https://www.israeltechgate.com/"
+  },
+  "scraped_at": "2026-02-27T21:46:08.131824"
+}

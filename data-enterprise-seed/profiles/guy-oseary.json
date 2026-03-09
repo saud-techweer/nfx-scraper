@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Guy Oseary",
+    "website": "https://soundventures.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sound Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sound-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Angela Tran (Version One Ventures)",
+        "Scott Friend (Bain Capital Ventures)",
+        "Fabrice Grinda (FJ Labs)",
+        "Jeff Fluhr (Craft Ventures)",
+        "Pir Granoff"
+      ],
+      "company": "Lolli",
+      "date": "May 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "James Currier (NFX)",
+        "Charles Hudson (Precursor Ventures)",
+        "Ed Roman (Hack VC)",
+        "Ashton Kutcher (Sound Ventures)"
+      ],
+      "company": "Medinas Health",
+      "date": "Oct 2018",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbmZrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e0ff1fb2377b619573268304188ccf09cda2a68/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/guy-oseary",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "guy-oseary",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/guy-oseary",
+    "twitter": "https://www.twitter.com/guyoseary",
+    "website": "https://www.soundventures.com/team/"
+  },
+  "scraped_at": "2026-02-27T22:11:26.365498"
+}

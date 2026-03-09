@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Sai Sriramagiri",
+    "website": "https://eqtventures.com/team/sai"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "EQT Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/eqt-ventures",
+      "position": "Analyst"
+    },
+    "fundSize": "€660M",
+    "investmentRange": "$1M - $75.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3g0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ab989026cd33424a9157bc7c955a38fc159e4e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sai-sriramagiri",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sai-sriramagiri",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ssriramagiri/?originalSubdomain=se",
+    "twitter": "https://www.twitter.com/saisriramagiri?lang=en",
+    "website": "https://www.eqtventures.com/team/sai"
+  },
+  "scraped_at": "2026-02-28T04:53:59.717812"
+}

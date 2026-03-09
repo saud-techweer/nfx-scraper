@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "James Cross",
+    "website": "https://www.cowboy.vc/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cowboy Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/cowboy-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$93.3M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$1.8M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmhGQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6e919bf284ffa83404f9546737584a77a8c94e08/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-cross",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "james-cross",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/james-cross-2-2",
+    "linkedin": "https://www.linkedin.com/in/jamesrcross/",
+    "website": "https://www.cowboy.vc/team"
+  },
+  "scraped_at": "2026-02-27T22:29:04.760978"
+}

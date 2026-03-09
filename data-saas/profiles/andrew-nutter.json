@@ -1,0 +1,206 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "CEO",
+      "Founder",
+      "Investor"
+    ],
+    "location": "Paris, France",
+    "name": "Andrew Nutter",
+    "signalScore": 313
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$20K - $50K",
+    "investmentsOnRecord": 37,
+    "sweetSpot": "$30K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Team Space",
+      "date": "Jul 2022",
+      "roundSize": "$130K",
+      "stage": "Pre Seed Round",
+      "totalRaised": "$130K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Applikate",
+      "date": "Jul 2021",
+      "roundSize": "$2.6",
+      "stage": "Seed Round",
+      "totalRaised": "$2.6"
+    },
+    {
+      "coInvestors": [
+        "Adam Gries"
+      ],
+      "company": "NOVOS",
+      "date": "Dec 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Jammp",
+      "date": "Feb 2012",
+      "roundSize": "$550K",
+      "stage": "Seed Round",
+      "totalRaised": "$550K"
+    },
+    {
+      "coInvestors": [],
+      "company": "La Solive",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Request Finance",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Spot",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Le Fourgon",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0RRQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d746801ed0131b86c101f1d292b433503b584b24/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-nutter",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andrew-nutter",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andrew-nutter",
+    "linkedin": "https://www.linkedin.com/in/anutter/"
+  },
+  "scraped_at": "2026-02-26T07:51:46.415300"
+}

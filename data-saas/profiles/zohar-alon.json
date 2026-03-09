@@ -1,0 +1,79 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "Israel",
+    "name": "Zohar Alon",
+    "website": "https://cyberstarts.com/"
+  },
+  "experience": [
+    {
+      "company": "YL Ventures",
+      "dates": "2019 - Present",
+      "position": "Insider"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cyberstarts VC",
+      "firmUrl": "https://signal.nfx.com/firms/cyberstarts-vc",
+      "position": "Investor"
+    },
+    "fundSize": "$374M",
+    "investmentRange": "$5.0M - $20.0M",
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUt2QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6bb8ff56f14e1a45c41569dc08b88e7578fcbc3c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zohar-alon",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "zohar-alon",
+  "socials": {
+    "angellist": "https://www.angel.co/u/zoharalon",
+    "crunchbase": "https://www.crunchbase.com/person/zohar-alon",
+    "linkedin": "https://www.linkedin.com/in/zoharalon/",
+    "twitter": "https://www.twitter.com/zoharalon",
+    "website": "https://www.cyberstarts.com/"
+  },
+  "scraped_at": "2026-02-27T05:50:06.114202"
+}

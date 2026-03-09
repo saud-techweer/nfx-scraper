@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "location": "New York, New York",
+    "name": "Lucy Loveless",
+    "website": "https://imaginary.co/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Advisor"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcE1IIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c1a6149e32ea6304c8578cf3aa0abfd26d24cc0d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lucy-loveless",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lucy-loveless",
+  "socials": {
+    "angellist": "https://www.angel.co/lucy-loveless",
+    "crunchbase": "https://www.crunchbase.com/person/lucy-loveless",
+    "linkedin": "https://www.linkedin.com/in/lucymloveless/",
+    "website": "https://www.imaginary.co/"
+  },
+  "scraped_at": "2026-02-27T23:26:39.405556"
+}

@@ -1,0 +1,68 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Maximilian Jessen",
+    "website": "https://www.battery.com/people/maximilian-jessen/"
+  },
+  "experience": [
+    {
+      "company": "Battery Ventures",
+      "dates": "2019 - Present",
+      "position": "Private Equity"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Battery Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/battery-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$3.8B",
+    "investmentRange": "$5.0M - $200.0M",
+    "sweetSpot": "$50.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmd1QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0379509eda81d5ce52e09b87abfadbf990775e3e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/maximilian-jessen",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    }
+  ],
+  "slug": "maximilian-jessen",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/maximilian-jessen",
+    "linkedin": "https://www.linkedin.com/in/maximilian-jessen/",
+    "website": "https://www.battery.com/people/maximilian-jessen/"
+  },
+  "scraped_at": "2026-02-27T23:46:11.345118"
+}

@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "name": "Felipe Damonte",
+    "investorTypes": [
+      "VC",
+      "Strategy Operator"
+    ],
+    "location": "Buenos Aires, Argentina"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Newtopia VC",
+      "firmUrl": "https://signal.nfx.com/firms/newtopia-vc",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K",
+    "investmentsOnRecord": 8
+  },
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Roxom",
+      "stage": "Seed",
+      "date": "Oct 2024",
+      "roundSize": "$18M",
+      "totalRaised": "$18M",
+      "coInvestors": []
+    },
+    {
+      "company": "Seals",
+      "stage": "Pre Seed",
+      "date": "Sep 2024",
+      "roundSize": "$500K",
+      "totalRaised": "$500K",
+      "coInvestors": []
+    },
+    {
+      "company": "Volt",
+      "stage": "Seed",
+      "date": "Apr 2024",
+      "roundSize": "$3M",
+      "totalRaised": "$28M",
+      "coInvestors": [
+        "Heath Butler (Mercury Fund)",
+        "Michael Basch (Atento Capital)"
+      ]
+    },
+    {
+      "company": "Pulpos",
+      "stage": "Seed",
+      "date": "Mar 2024",
+      "roundSize": "$4M",
+      "totalRaised": "$4M",
+      "coInvestors": []
+    },
+    {
+      "company": "aviva",
+      "stage": "Pre Seed",
+      "date": "Dec 2022",
+      "roundSize": "$4M",
+      "totalRaised": "$4M",
+      "coInvestors": []
+    },
+    {
+      "company": "Intuitivo AI",
+      "stage": "Seed",
+      "date": "Mar 2022",
+      "roundSize": "$8M",
+      "totalRaised": "$8M",
+      "coInvestors": []
+    },
+    {
+      "company": "Crabi",
+      "stage": "Seed",
+      "date": "Oct 2021",
+      "roundSize": "$4M",
+      "totalRaised": "$4M",
+      "coInvestors": []
+    },
+    {
+      "company": "Humand",
+      "stage": "Seed",
+      "date": "N/A",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Kenny Tucker (Tucker Seed Fund LLC)",
+        "Nick Davidov (Davidovs VC)"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/fela/",
+    "twitter": "https://www.x.com/FelipeDamonte"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVlBQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b304f571c20d7231b09a5c582f5e154de09df84c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/felipe-damonte",
+  "slug": "felipe-damonte",
+  "scraped_at": "2026-02-24T13:39:46.186694"
+}

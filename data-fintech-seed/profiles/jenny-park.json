@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Jenny Park",
+    "website": "https://gft.vc/jenny-park"
+  },
+  "experience": [
+    {
+      "company": "Quest Venture Partners",
+      "dates": "2019 - 2021",
+      "position": "Principal"
+    },
+    {
+      "company": "Draper Venture Network",
+      "dates": "2018 - 2018",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "The Blackstone Group",
+      "dates": "2017 - 2017",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Mirae Asset Global Investments",
+      "dates": "2013 - 2016",
+      "position": "Investment Manager"
+    },
+    {
+      "company": "CBRE",
+      "dates": "2012 - 2013",
+      "position": "Analyst"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2011 - 2012",
+      "position": "External Relations"
+    },
+    {
+      "company": "GFT Ventures",
+      "dates": "2021 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "GFT Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/gft-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWIwQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--643a1024986ec5a8cfce40c87ceabea40b89f129/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jenny-park",
+  "sectorRankings": [
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "jenny-park",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jenny-park",
+    "linkedin": "https://www.linkedin.com/in/jennyhaminpark/",
+    "website": "https://www.gft.vc/jenny-park"
+  },
+  "scraped_at": "2026-03-03T20:56:58.107064"
+}

@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Advisor",
+      "Finance Operator"
+    ],
+    "location": "Dallas, Texas",
+    "name": "Kevin Moore",
+    "signalScore": 1347,
+    "website": "https://agileangel.com/"
+  },
+  "experience": [
+    {
+      "company": "NationsBank",
+      "dates": "Present",
+      "position": "Credit Analyst"
+    },
+    {
+      "company": "NationsBank",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Hoak Securities",
+      "dates": "Present",
+      "position": "Associate, Investment Banking"
+    },
+    {
+      "company": "Hoak Breedlove Wesneski",
+      "dates": "Present",
+      "position": "VP, Investment Banking"
+    },
+    {
+      "company": "Perot Systems",
+      "dates": "Present",
+      "position": "Sr. Manager, Corporate Development"
+    },
+    {
+      "company": "Time0",
+      "dates": "Present",
+      "position": "Director of Digital Marketplace Venture Creation"
+    },
+    {
+      "company": "Aeroxchange",
+      "dates": "Present",
+      "position": "Director of Strategy & Corporate Planning"
+    },
+    {
+      "company": "Aeroxchange",
+      "dates": "Present",
+      "position": "CFO & Board Secretary"
+    },
+    {
+      "company": "KRM Interests LLC",
+      "dates": "Present",
+      "position": "President"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "KRM Interests LLC",
+      "firmUrl": "https://signal.nfx.com/firms/krm-interests-llc",
+      "position": "Angel"
+    },
+    "investmentRange": "$25K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Gaurav Jain (Afore Capital)",
+        "Sean Dempsey (Merus Capital)",
+        "Peter Hsing (Merus Capital)",
+        "Marc McCabe"
+      ],
+      "company": "Modern Health",
+      "date": "Jun 2018",
+      "roundSize": "$2.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFFqQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f1beaf76ada19eee5b4f6a3394a1bb2da48b1e77/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-moore",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "kevin-moore",
+  "socials": {
+    "angellist": "https://www.angel.co/kevrmoore",
+    "crunchbase": "https://www.crunchbase.com/person/kevin-moore-3",
+    "linkedin": "https://www.linkedin.com/pub/kevin-moore/5/257/a12/",
+    "twitter": "https://www.twitter.com/Kevrmoore"
+  },
+  "scraped_at": "2026-02-27T01:48:40.203405"
+}

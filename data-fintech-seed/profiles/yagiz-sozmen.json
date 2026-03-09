@@ -1,0 +1,225 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Scout"
+    ],
+    "location": "Miami, Florida",
+    "name": "Yagiz Sozmen",
+    "positionAndFirm": "Co-founder at Core, technology investment bank and investment firm. Angel Investor.",
+    "signalScore": 269,
+    "website": "https://www.core.ist/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$10K - $2.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Alper Kiresepi"
+      ],
+      "company": "Ace Games",
+      "date": "Apr 2021",
+      "roundSize": "$7.2M",
+      "stage": "Seed",
+      "totalRaised": "$7.2M"
+    },
+    {
+      "coInvestors": [
+        "Alper Kiresepi"
+      ],
+      "company": "Brew Games",
+      "date": "Feb 2021",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "James Currier (NFX)",
+        "Marlon Nichols (MaC Venture Capital)",
+        "Craig Hunter (Operator Ventures)",
+        "Andy Zhulenev (Chesterfield Fund)",
+        "Alex Pattis",
+        "Brad Bao"
+      ],
+      "company": "Firefly",
+      "date": "May 2019",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Topher Conway (SV Angel)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Matt Scott (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Alex Roetter (Moxxie Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Chris Moreno (Infinite Niches)",
+        "Niv Dror (Shrug Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Lucy Guo (Backend Capital)",
+        "Alper Kiresepi",
+        "Rudra Peram",
+        "Howard Charney",
+        "Zach Segal",
+        "Kevin Weil",
+        "Peter Hunn",
+        "Tyler Willis",
+        "Moshe Lifschitz"
+      ],
+      "company": "MainStreet",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": "$70M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekhKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e3e854abf96c7fd8d6e292adaab62c7c0646df39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yagiz-sozmen",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "yagiz-sozmen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/ysozmen",
+    "crunchbase": "https://www.crunchbase.com/person/ya%C4%9F%C4%B1z-s%C3%B6zmen",
+    "linkedin": "https://www.linkedin.com/in/ysozmen/",
+    "twitter": "https://www.twitter.com/yagizsozmen",
+    "website": "https://www.core.ist/"
+  },
+  "scraped_at": "2026-02-27T05:40:05.673880"
+}

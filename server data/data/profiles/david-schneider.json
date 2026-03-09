@@ -1,0 +1,177 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "David Schneider",
+    "website": "https://coatue.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Coatue",
+      "firmUrl": "https://signal.nfx.com/firms/coatue",
+      "position": "General Partner"
+    },
+    "fundSize": "$706.5M",
+    "investmentRange": "$250K - $4.0M",
+    "investmentsOnRecord": 17,
+    "sweetSpot": "$2.1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Casber Wang (Sapphire Ventures)",
+        "Patrick Backhouse (Greenoaks Capital)",
+        "Sharin Fisher Dibrov"
+      ],
+      "company": "Cyera",
+      "date": "Dec 2025",
+      "roundSize": "$400M",
+      "stage": "Series F",
+      "totalRaised": "$1.5B"
+    },
+    {
+      "coInvestors": [],
+      "company": "Island",
+      "date": "Mar 2025",
+      "roundSize": "$250M",
+      "stage": "Series E",
+      "totalRaised": "$430M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Albert Invent",
+      "date": "Dec 2024",
+      "roundSize": "$23M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [
+        "Christian Weiss (Sunfish Partners)",
+        "Christian Vollmann",
+        "Lukas Brosseder",
+        "Rubin Ritter",
+        "Oliver Roskopf",
+        "Robert Maier",
+        "Christian Hülsewig"
+      ],
+      "company": "Packmatic",
+      "date": "Jan 2024",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Nat Friedman (C2 Investment)",
+        "Leyla Seka (Operator Collective)",
+        "Howie Liu"
+      ],
+      "company": "8Flow",
+      "date": "Jun 2023",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ngrok",
+      "date": "Dec 2022",
+      "roundSize": "$50M",
+      "stage": "Series A",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [
+        "James Ephrati (Lightspeed Venture Partners)",
+        "Gaurav Gupta (Lightspeed Venture Partners)"
+      ],
+      "company": "Grafana Labs",
+      "date": "Apr 2022",
+      "roundSize": "$240M",
+      "stage": "Series D",
+      "totalRaised": "$800M"
+    },
+    {
+      "coInvestors": [
+        "Michael Sutton (Blu Venture Investors)",
+        "Chenxi Wang (Rain Capital)",
+        "Andrew Peterson (Sweater Ventures)",
+        "Oliver Friedrichs"
+      ],
+      "company": "runZero, Inc",
+      "date": "Mar 2022",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3lmQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--56e2a8804066c9d1bb6df5cc0e431d3625f110bc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-schneider",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-schneider",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-schneider-2",
+    "linkedin": "https://www.linkedin.com/in/davidschneider2/",
+    "twitter": "https://www.twitter.com/1daveschneider",
+    "website": "https://www.coatue.com/"
+  },
+  "scraped_at": "2026-02-11T10:59:48.651611"
+}

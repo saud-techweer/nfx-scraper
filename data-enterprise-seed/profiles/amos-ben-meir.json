@@ -1,0 +1,265 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "Amos Ben-Meir",
+    "signalScore": 727,
+    "website": "https://sandhillangels.com/sha-members/amosbenmeir"
+  },
+  "experience": [
+    {
+      "company": "AppliedMicro / Veloce Technologies",
+      "dates": "2012 - 2014",
+      "position": "VP Engineering"
+    },
+    {
+      "company": "Veloce Technologies",
+      "dates": "2009 - 2012",
+      "position": "Founder and VP Engineering"
+    },
+    {
+      "company": "Agami Systems Inc.",
+      "dates": "2005 - 2008",
+      "position": "Director of Engineering, Hardware Platforms"
+    },
+    {
+      "company": "TeleSoft Partners (Venture Capital)",
+      "dates": "2004 - 2004",
+      "position": "Semiconductor Industry Executive"
+    },
+    {
+      "company": "Redback Networks Inc / Siara Systems",
+      "dates": "2002 - 2004",
+      "position": "Director of ASIC Engineering"
+    },
+    {
+      "company": "Redback Networks / Siara Systems",
+      "dates": "1999 - 2002",
+      "position": "Director of Engineering"
+    },
+    {
+      "company": "AMD / NexGen",
+      "dates": "1998 - 1999",
+      "position": "Director of K6 Product Line and AMD Fellow"
+    },
+    {
+      "company": "AMD / NexGen",
+      "dates": "1997 - 1998",
+      "position": "K6 Front End (Logic and Verification) Manager and AMD Fellow"
+    },
+    {
+      "company": "AMD / NexGen",
+      "dates": "1995 - 1996",
+      "position": "K6 Logic Design Manager and AMD Fellow"
+    },
+    {
+      "company": "NexGen Microsystems",
+      "dates": "1992 - 1995",
+      "position": "Chief Designer and Project Lead of the NexGen Nx686"
+    },
+    {
+      "company": "Tera Microsystems",
+      "dates": "1990 - 1992",
+      "position": "Project Leader and Principal Designer of a System Control Unit (SCU)"
+    },
+    {
+      "company": "National Semiconductor",
+      "dates": "1987 - 1989",
+      "position": "NS32764 System Bus Project Leader"
+    },
+    {
+      "company": "National Semiconductor",
+      "dates": "1986 - 1987",
+      "position": "NS32000 Family Project Coordinator and Liaison"
+    },
+    {
+      "company": "National Semiconductor",
+      "dates": "1983 - 1986",
+      "position": "NS32332 Microprocessor Team Member"
+    },
+    {
+      "company": "Rubicon Venture Capital",
+      "dates": "2015 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sand Hill Angels",
+      "firmUrl": "https://signal.nfx.com/firms/sand-hill-angels",
+      "position": "Angel"
+    },
+    "investmentRange": "$25K - $200K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$125K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ning Sung"
+      ],
+      "company": "LeadCrunch",
+      "date": "May 2017",
+      "roundSize": "$150K",
+      "stage": "Seed Round",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [
+        "Sacha Levy (New York Angels)",
+        "Alicia Castillo Holley (Wealthing VC Club)"
+      ],
+      "company": "CirrusMD",
+      "date": "Mar 2015",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nginx",
+      "date": "Oct 2013",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjFTQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7f8616ac4c1ea67bec3209b0294f805b22f99f2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amos-ben-meir",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "amos-ben-meir",
+  "socials": {
+    "angellist": "https://www.angel.co/p/abenmeir-me-com?public_profile=1",
+    "crunchbase": "https://www.crunchbase.com/person/amos-ben-meir",
+    "linkedin": "https://www.linkedin.com/pub/amos-ben-meir/0/42b/901/",
+    "twitter": "https://www.twitter.com/nimbletwit",
+    "website": "https://www.sandhillangels.com/sha-members/amosbenmeir"
+  },
+  "scraped_at": "2026-02-27T20:12:44.820160"
+}

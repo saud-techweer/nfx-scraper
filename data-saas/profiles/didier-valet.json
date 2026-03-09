@@ -1,0 +1,570 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO",
+      "Advisor"
+    ],
+    "location": "Paris, France",
+    "name": "Didier Valet"
+  },
+  "experience": [
+    {
+      "company": "EasyBlue",
+      "dates": "2019 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "PrimaDiag SAS",
+      "dates": "2018 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "Limonetik",
+      "dates": "2018 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "BlackFin Capital Partners | Investors in Financial Services",
+      "dates": "2019 - 2020",
+      "position": "Senior Advisor"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2017 - 2018",
+      "position": "Deputy CEO"
+    },
+    {
+      "company": "Voodoo.io",
+      "dates": "2016 - 2017",
+      "position": "Investor"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2013 - 2017",
+      "position": "Head of Corporate & Investment Banking, Private Banking, Asset Management and Securities Services"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2012 - 2013",
+      "position": "Head of Corporate & Investment Banking"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2008 - 2011",
+      "position": "Group Chief Financial Officer"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2007 - 2008",
+      "position": "Head of Strategic Performance Management"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2003 - 2007",
+      "position": "Head of Investor Relations"
+    },
+    {
+      "company": "Société Générale",
+      "dates": "2000 - 2003",
+      "position": "Head of SG Securities'​ European Banking Research team"
+    },
+    {
+      "company": "Dresdner Kleinwort Benson",
+      "dates": "1996 - 1999",
+      "position": "Equity Research Analyst"
+    },
+    {
+      "company": "Banque Indosuez",
+      "dates": "1992 - 1996",
+      "position": "Analyst within the Economic and Financial Research Department"
+    },
+    {
+      "company": "Flowdesk",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Konvi",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "ARRAGO",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Flow48",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Morpho Labs",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "FUTURZ",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Nilos",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Pennylane",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Algoan",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "CryptoSimple",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Mindology.fr",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "JUST",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "LinkByCar",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Bon Vivant",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Qobra",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Rollee",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Numeral",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "InfraVia Capital Partners",
+      "dates": "2021 - Present",
+      "position": "Member Board Of Directors"
+    },
+    {
+      "company": "Dattak",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Qlower",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "LinkCy",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Bifröst",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Virgil",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "OnScale (YC W22)",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Thynk.Cloud",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "PaySika",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Semper",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "KillBills",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Defacto",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Pono Financial Solutions",
+      "dates": "2021 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "Karbon Card",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Listo Paye",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Cashlab",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Join Jump",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "teale",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Finary",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Upflow",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Ublo.immo",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kubomatic",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "ROSALY",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Mansa",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Wematch.live",
+      "dates": "2021 - Present",
+      "position": "Investor and Advisor"
+    },
+    {
+      "company": "Silvr",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kombo",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "DeepLife",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Delio",
+      "dates": "2020 - Present",
+      "position": "Investor and Strategic Committee Member"
+    },
+    {
+      "company": "Leocare",
+      "dates": "2020 - Present",
+      "position": "Investor and Strategic Committee Member"
+    },
+    {
+      "company": "Voltaire",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Joy",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "MEDICAIM",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Biloba",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Sarus Technologies",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Muzinich & Co",
+      "dates": "2019 - Present",
+      "position": "Senior Advisor"
+    },
+    {
+      "company": "APRIL",
+      "dates": "2019 - Present",
+      "position": "Chairman Of The Board Of Directors"
+    },
+    {
+      "company": "Barrière",
+      "dates": "2019 - Present",
+      "position": "Member Board Of Directors"
+    },
+    {
+      "company": "iLex",
+      "dates": "2019 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "Brigad ⚡️",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kard",
+      "dates": "2019 - Present",
+      "position": "Investor and Strategic Committee Member"
+    },
+    {
+      "company": "CODEXO",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Tiptoque Paris",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Alma",
+      "dates": "2019 - Present",
+      "position": "Investor and Board Member"
+    },
+    {
+      "company": "Cashbee",
+      "dates": "2019 - Present",
+      "position": "Investor and Strategic Committee Member"
+    },
+    {
+      "company": "XANTHE CONSEIL",
+      "dates": "2018 - Present",
+      "position": "President"
+    },
+    {
+      "company": "CVC Capital Partners",
+      "dates": "2018 - Present",
+      "position": "Senior Advisor"
+    },
+    {
+      "company": "Bain & Company",
+      "dates": "2018 - Present",
+      "position": "Senior Advisor"
+    },
+    {
+      "company": "FoodXpert",
+      "dates": "2018 - Present",
+      "position": "Senior Advisor"
+    },
+    {
+      "company": "Epsor",
+      "dates": "2018 - Present",
+      "position": "Investor and Board Member"
+    },
+    {
+      "company": "Leko Labs",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Sowefund",
+      "dates": "2018 - Present",
+      "position": "Investor and Strategic Committee Member"
+    },
+    {
+      "company": "ffly4u",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "CARCIDIAG BIOTECHNOLOGIES",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Onecub",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Coral Biome PHARMA",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Flipr",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Glowee",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Maison Alexandre Stern",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Institut Louis Bachelier",
+      "dates": "2013 - Present",
+      "position": "Vice President / President Institut Europlace de Finance"
+    },
+    {
+      "company": "KB Crawl SAS",
+      "dates": "2013 - Present",
+      "position": "Shareholder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0gyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fac2d6d1b1fc0f9df395f2c15f1aa1076367c80f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/didier-valet",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "didier-valet",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/didier-valet",
+    "linkedin": "https://www.linkedin.com/in/didier-valet/?originalSubdomain=fr"
+  },
+  "scraped_at": "2026-02-26T10:26:20.105158"
+}

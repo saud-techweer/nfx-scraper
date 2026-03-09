@@ -1,0 +1,103 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Bonn, Germany",
+    "name": "Markus Kressmann",
+    "website": "https://www.htgf.de/en/team/markus-kressmann-2/"
+  },
+  "experience": [
+    {
+      "company": "NFON",
+      "dates": "2008 - 2018",
+      "position": "Supervisory Board Member / Observer"
+    },
+    {
+      "company": "Propertybase GmbH",
+      "dates": "2010 - 2017",
+      "position": "Member of the Board"
+    },
+    {
+      "company": "High-Tech Gründerfonds",
+      "dates": "2007 - 2017",
+      "position": "Investment Director & Prokurist"
+    },
+    {
+      "company": "Simplaex",
+      "dates": "2012 - 2015",
+      "position": "Member of the Board"
+    },
+    {
+      "company": "Campana & Schott Group",
+      "dates": "2002 - 2007",
+      "position": "Manager"
+    },
+    {
+      "company": "Otto Group / Otto Venture Capital",
+      "dates": "2001 - 2001",
+      "position": "Summer Associate / Market Strategy Trainee"
+    },
+    {
+      "company": "Chemetall",
+      "dates": "1997 - 1999",
+      "position": "Business Controller (Trainee + part-time employment)"
+    },
+    {
+      "company": "High-Tech Gründerfonds",
+      "dates": "2018 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "enercast GmbH",
+      "dates": "2012 - Present",
+      "position": "Member of the Board"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "High-Tech Gründerfonds",
+      "firmUrl": "https://signal.nfx.com/firms/high-tech-grunderfonds",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTl6QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f22ad74e6adb298c28c860926509048d9c432bb4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/markus-kressmann",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "markus-kressmann",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/markus-kremann",
+    "linkedin": "https://www.linkedin.com/in/mkressmann/",
+    "website": "https://www.htgf.de/en/team/markus-kressmann-2/"
+  },
+  "scraped_at": "2026-02-27T23:38:08.989086"
+}

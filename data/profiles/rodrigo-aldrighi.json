@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Rodrigo Aldrighi",
+    "website": "https://monashees.com.br/equipe"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "monashees",
+      "firmUrl": "https://signal.nfx.com/firms/monashees",
+      "position": "Associate"
+    },
+    "investmentRange": "$250K - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenRIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6abd6bcc919d83a1293e97d35d86a9d30d2cdf8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rodrigo-aldrighi",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "rodrigo-aldrighi",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rodrigo-hamburger-aldrighi",
+    "crunchbase": "https://www.crunchbase.com/person/rodrigo-aldrighi",
+    "linkedin": "https://www.linkedin.com/in/rodrigo-hamburger-aldrighi/?originalSubdomain=br",
+    "website": "https://www.monashees.com.br/equipe"
+  },
+  "scraped_at": "2026-02-12T10:18:33.732771"
+}

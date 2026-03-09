@@ -1,0 +1,182 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Investor",
+      "Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Vivek Patel",
+    "signalScore": 204
+  },
+  "experience": [
+    {
+      "company": "Postmates",
+      "dates": "2015 - 2021",
+      "position": "Chief Operating Officer"
+    },
+    {
+      "company": "Sosh",
+      "dates": "2010 - 2015",
+      "position": "Co-Founder, COO/CFO"
+    },
+    {
+      "company": "Slide",
+      "dates": "2010 - 2010",
+      "position": "Business Development"
+    },
+    {
+      "company": "The Climate Corporation",
+      "dates": "2009 - 2010",
+      "position": "Business Development"
+    },
+    {
+      "company": "Bain & Company",
+      "dates": "2006 - 2009",
+      "position": "Senior Associate Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $200K",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Bloch (Quiet Capital)"
+      ],
+      "company": "Cache",
+      "date": "Mar 2024",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Proof of Play",
+      "date": "Sep 2023",
+      "roundSize": "$33M",
+      "stage": "Seed",
+      "totalRaised": "$33M"
+    },
+    {
+      "coInvestors": [
+        "Ash Patel (Morado Venture Partners)",
+        "John Pepper (040 Capital)"
+      ],
+      "company": "Hyphen",
+      "date": "Feb 2022",
+      "roundSize": "$24M",
+      "stage": "Series A",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Firemaps",
+      "date": "Aug 2021",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Motive",
+      "date": "Apr 2021",
+      "roundSize": "$190M",
+      "stage": "Series E",
+      "totalRaised": "$190M"
+    },
+    {
+      "coInvestors": [
+        "Philip Carson (Cubit Capital)",
+        "Sebastian Bausch (11k Ventures)",
+        "Ana Levine (E1 Ventures)",
+        "Natasha Ahmed",
+        "Louis Beryl",
+        "Emil Lee"
+      ],
+      "company": "Gecko Robotics",
+      "date": "Dec 2019",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [],
+      "company": "FitOn",
+      "date": "Nov 2018",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Infiot",
+      "date": "May 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzE5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c97c0cf1c7c55a497727ed3576643e60d7a1875/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vivek-patel",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "vivek-patel",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/vdp83/",
+    "twitter": "https://www.twitter.com/vdp83"
+  },
+  "scraped_at": "2026-02-28T14:10:57.497188"
+}

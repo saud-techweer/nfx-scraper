@@ -1,0 +1,240 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Advisor",
+      "Operator"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Jennifer Jordan",
+    "positionAndFirm": "Venture Partner, iGlobe Partners",
+    "signalScore": 1293,
+    "website": "https://www.iglobepartners.com/"
+  },
+  "experience": [
+    {
+      "company": "MassVentures",
+      "dates": "2012 - 2018",
+      "position": "Vice President"
+    },
+    {
+      "company": "Golden Seeds",
+      "dates": "2011 - 2012",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Cadence Design Systems",
+      "dates": "2005 - 2011",
+      "position": "Corporate Vice President Investor Relations"
+    },
+    {
+      "company": "Wells Fargo Securities",
+      "dates": "2000 - 2005",
+      "position": "SVP, Sr. Equity Research Analyst"
+    },
+    {
+      "company": "iGlobe Partners",
+      "dates": "2022 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2020 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2019 - Present",
+      "position": "Mentor in Residence"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "iGlobe Partners",
+      "firmUrl": "https://signal.nfx.com/firms/iglobe-partners",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Katelyn Donnelly (Avalanche VC)"
+      ],
+      "company": "Riff Analytics",
+      "date": "May 2021",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Compt",
+      "date": "Oct 2018",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Henri Deshays (NewFund)"
+      ],
+      "company": "FairMarkIT",
+      "date": "May 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Spiro Technologies Inc",
+      "date": "Sep 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "ClearGov",
+      "date": "Mar 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "MachineMetrics",
+      "date": "Sep 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnliQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4266365ec75b04ced867c354b705a40d66de344a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jennifer-jordan",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jennifer-jordan",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jennifer-jordan",
+    "linkedin": "https://www.linkedin.com/in/jajordan13/",
+    "twitter": "https://www.twitter.com/jajordan13",
+    "website": "https://www.iglobepartners.com/"
+  },
+  "scraped_at": "2026-03-03T20:56:19.201232"
+}

@@ -1,0 +1,204 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Jonathan Keidan",
+    "website": "https://torchcapital.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Torch Capital",
+      "firmUrl": "https://signal.nfx.com/firms/torch-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 62,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lauren Stephanian (Pantera Capital)",
+        "Lenny Rachitsky (AirAngels)",
+        "Richard Ma (Pioneer Fund)",
+        "Karlie Kloss (Klossy)",
+        "Chris Shonk (ATX Venture Partners)",
+        "Jonathan Widawski",
+        "Jeffrey Wilke"
+      ],
+      "company": "Arcade",
+      "date": "Mar 2025",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$62M"
+    },
+    {
+      "coInvestors": [
+        "Katie Reiner (Torch Capital)",
+        "James Weiss (Redstone Road LLC)"
+      ],
+      "company": "Little Otter",
+      "date": "Feb 2025",
+      "roundSize": "$10M",
+      "stage": "Series Unknown",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Enke Bashllari (Arkitekt Ventures)",
+        "Brennda Reis (Friedom Partners)"
+      ],
+      "company": "Sollis Health",
+      "date": "Dec 2024",
+      "roundSize": "$33M",
+      "stage": "Series B",
+      "totalRaised": "$78M"
+    },
+    {
+      "coInvestors": [
+        "Diana Murakhovskaya (The Artemis Fund)"
+      ],
+      "company": "Salvo Health",
+      "date": "Aug 2022",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Ian Dominguez (Delta Emerald Ventures)",
+        "Stephen Hays (What If Ventures)",
+        "Andrew Vigneault (Flexcap)",
+        "Alexander Saint-Amand"
+      ],
+      "company": "Jane Technologies",
+      "date": "Aug 2021",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$130M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lobos 1707",
+      "date": "Jul 2021",
+      "roundSize": null,
+      "stage": "Series D",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Cityrow Go",
+      "date": "Jun 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Nandeet Mehta (Afore Capital)",
+        "Rajat Bhageria (Afore Capital)",
+        "Jeff Seibert",
+        "LeBron James"
+      ],
+      "company": "FaZe Clan",
+      "date": "May 2021",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": "$40M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3hTQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--05e8c4470e1898ccc315d7fad1a8107073afdfc4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathan-keidan",
+  "sectorRankings": [
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jonathan-keidan",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jonathan-keidan",
+    "crunchbase": "https://www.crunchbase.com/person/jonathan-keidan",
+    "linkedin": "https://www.linkedin.com/in/jonathan-keidan-b76515/",
+    "twitter": "https://www.twitter.com/JKeidan",
+    "website": "https://www.torchcapital.vc/"
+  },
+  "scraped_at": "2026-02-12T08:36:57.695807"
+}

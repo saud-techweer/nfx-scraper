@@ -1,0 +1,95 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "John Balen",
+    "website": "https://canaan.com/team/john-balen"
+  },
+  "experience": [
+    {
+      "company": "Canaan Partners",
+      "dates": "1995 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Digital Equipment Corporation",
+      "dates": "Present",
+      "position": "Engineer"
+    },
+    {
+      "company": "Codenoll Technology",
+      "dates": "Present",
+      "position": "Applications Engineer"
+    },
+    {
+      "company": "Horsley Bridge Partners",
+      "dates": "Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Canaan Partners",
+      "firmUrl": "https://signal.nfx.com/firms/canaan-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$250K - $20.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Eric Ver Ploeg (Tunitas Ventures)",
+        "David Ibnale (AVP (Advance Venture Partners))",
+        "Courtney Broadus (Operator Collective)",
+        "Cynthia Ringo",
+        "Douglas Carlisle"
+      ],
+      "company": "UrbanSitter",
+      "date": "Oct 2017",
+      "roundSize": "$17M",
+      "stage": "Series C",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBai9rIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b55cfe90b4a78b0017deabfed353b610e6ad62ad/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-balen",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-balen",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-balen",
+    "linkedin": "https://www.linkedin.com/in/jbalen/",
+    "website": "https://www.canaan.com/team/john-balen"
+  },
+  "scraped_at": "2026-02-27T22:46:36.720166"
+}

@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Angel",
+      "Founder",
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "David Mandel",
+    "signalScore": 88,
+    "website": "https://emerging.vc/#team"
+  },
+  "experience": [
+    {
+      "company": "Top Finance Company, Inc",
+      "dates": "1999 - 2017",
+      "position": "President"
+    },
+    {
+      "company": "Kemper",
+      "dates": "2015 - 2017",
+      "position": "EVP, General Manager Alliance United Insurance"
+    },
+    {
+      "company": "Alliance United Insurance Company",
+      "dates": "2015",
+      "position": "Chairman, CEO and President"
+    },
+    {
+      "company": "Platinum Group of Companies, Inc.",
+      "dates": "2006 - Present",
+      "position": "Chairman, CEO"
+    },
+    {
+      "company": "Low-Cost Insurance Services, Inc.",
+      "dates": "Present",
+      "position": "Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Emerging Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/emerging-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "1 Second Everyday",
+      "date": "Mar 2019",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVd0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa9533cbdcffe1037c76462dd73d70b3d9cc8b07/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-mandel",
+  "sectorRankings": [
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-mandel",
+  "socials": {
+    "angellist": "https://www.angel.co/p/david3712",
+    "linkedin": "https://www.linkedin.com/in/david3712/",
+    "twitter": "https://www.twitter.com/MandelAngel",
+    "website": "https://www.emerging.vc/#team"
+  },
+  "scraped_at": "2026-03-03T16:58:37.526801"
+}

@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "name": "Tommaso Moraca",
+    "signalScore": 99,
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Milan, Italy"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Exor Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/exor-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$150K - $1M",
+    "sweetSpot": "$150K",
+    "investmentsOnRecord": 3
+  },
+  "sectorRankings": [
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Volta",
+      "stage": "Pre Seed",
+      "date": "Nov 2024",
+      "roundSize": "$6M",
+      "totalRaised": "$6M",
+      "coInvestors": []
+    },
+    {
+      "company": "GoPillar",
+      "stage": "Seed",
+      "date": "Aug 2015",
+      "roundSize": "$620K",
+      "totalRaised": "$620K",
+      "coInvestors": []
+    },
+    {
+      "company": "JetHR",
+      "stage": "Pre-Seed",
+      "date": "N/A",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tommasomoraca/"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2JRQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cac2527d108a0cf54babbca9befc8cecf91f746a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tommaso-moraca",
+  "slug": "tommaso-moraca",
+  "scraped_at": "2026-02-26T01:30:50.397320"
+}

@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "CEO"
+    ],
+    "location": "Greenville, South Carolina",
+    "name": "Lee Kester",
+    "positionAndFirm": "CEO & Founder at Kester Search Group, LLC",
+    "website": "https://kestersearch.com/about/team"
+  },
+  "experience": [
+    {
+      "company": "System 1 Search, Inc.",
+      "dates": "2008 - 2013",
+      "position": "Sr. Manager/Executive Recruiter"
+    },
+    {
+      "company": "University of Georgia",
+      "dates": "2005 - 2007",
+      "position": "Campus Ambassador"
+    },
+    {
+      "company": "VentureSouth",
+      "dates": "2018 - Present",
+      "position": "Active Member"
+    },
+    {
+      "company": "Kester Search Group, LLC ®",
+      "dates": "2013 - Present",
+      "position": "CEO & Founder"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMS9wQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f113f2dbf73b997dc432e51305409cc351577450/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lee-kester",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lee-kester",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/leekester/",
+    "website": "https://www.kestersearch.com/about/team"
+  },
+  "scraped_at": "2026-02-27T23:20:21.977019"
+}

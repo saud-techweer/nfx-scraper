@@ -1,0 +1,272 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Damir Becirovic",
+    "signalScore": 253
+  },
+  "experience": [
+    {
+      "company": "Goldman Sachs",
+      "dates": "2014 - 2015",
+      "position": "Analyst"
+    },
+    {
+      "company": "Coatue Management",
+      "dates": "2013 - 2014",
+      "position": "Analyst"
+    },
+    {
+      "company": "Index Ventures",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Index Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/index-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$1M - $50.0M",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Captions",
+      "date": "Jul 2024",
+      "roundSize": "$60M",
+      "stage": "Series C",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [
+        "Jason Heltzer (Origin Ventures)"
+      ],
+      "company": "Hoop",
+      "date": "Jun 2024",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Derick En'Wezoh (Susa Ventures)",
+        "Kareem Zaki (Thrive Capital)"
+      ],
+      "company": "Nourish",
+      "date": "Mar 2024",
+      "roundSize": "$35M",
+      "stage": "Series A",
+      "totalRaised": "$43M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BrightGo",
+      "date": "Nov 2023",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Songe LaRon (The Community Fund)",
+        "Dave A. Salvant (The Community Fund)",
+        "Steve King",
+        "Michael Stoppelman"
+      ],
+      "company": "Siro",
+      "date": "Oct 2023",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$68M"
+    },
+    {
+      "coInvestors": [
+        "Jamie Sutton"
+      ],
+      "company": "Okendo",
+      "date": "Jul 2022",
+      "roundSize": "$26M",
+      "stage": "Series A",
+      "totalRaised": "$31M"
+    },
+    {
+      "coInvestors": [
+        "Andrew Jones"
+      ],
+      "company": "Beam Impact",
+      "date": "Apr 2022",
+      "roundSize": "$13M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [
+        "Mickael Bellaiche (VR Ventures)",
+        "Jason Citron",
+        "Kevin Hart"
+      ],
+      "company": "Backbone",
+      "date": "Feb 2022",
+      "roundSize": "$40M",
+      "stage": "Series A",
+      "totalRaised": "$46M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFZpQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--387720cd20a3d9bdc49b01a7f739c912a8f3f39b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/damir-becirovic",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "damir-becirovic",
+  "socials": {
+    "twitter": "https://www.nfx.com/google-api-disclosure/"
+  },
+  "scraped_at": "2026-02-11T10:41:50.684013"
+}

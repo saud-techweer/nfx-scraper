@@ -1,0 +1,273 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "David Tisch",
+    "website": "https://davidtisch.com/"
+  },
+  "experience": [
+    {
+      "company": "Cornell Tech",
+      "dates": "Present",
+      "position": "Professor and Head of the Startup Studio"
+    },
+    {
+      "company": "Spring Inc.",
+      "dates": "Present",
+      "position": "Co-Founder and Chairman"
+    },
+    {
+      "company": "TechStars",
+      "dates": "Present",
+      "position": "Co-Founder of TechStars NYC"
+    },
+    {
+      "company": "BoxGroup",
+      "dates": "Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "TechStars",
+      "dates": "Present",
+      "position": "Managing Director - NYC"
+    },
+    {
+      "company": "knowmore",
+      "dates": "Present",
+      "position": "Co-Founder and Managing Director"
+    },
+    {
+      "company": "KGB",
+      "dates": "Present",
+      "position": "Executive Vice President - Internet"
+    },
+    {
+      "company": "Vornado Realty Trust",
+      "dates": "Present",
+      "position": "Acquistions and Capital Markets Associate"
+    },
+    {
+      "company": "Skadden, Arps, Slate, Meagher & Flom LLP",
+      "dates": "Present",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Wachtell, Lipton, Rosen & Katz",
+      "dates": "Present",
+      "position": "Summer Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BoxGroup",
+      "firmUrl": "https://signal.nfx.com/firms/boxgroup",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$330M",
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "George Damouny (Plug & Play Ventures)",
+        "Deepak Kamra (Canaan Partners)",
+        "Eliot Durbin (Boldstart Ventures)",
+        "Ed Sim (Boldstart Ventures)",
+        "Gary Benitt (Social Leverage)",
+        "Tomasz Tunguz (Theory Ventures)",
+        "Matt Carbonara (Citi Ventures)",
+        "John Curtius (Cedar Capital Group)",
+        "George Hu",
+        "Matt Carbonara"
+      ],
+      "company": "Kustomer",
+      "date": "Jun 2018",
+      "roundSize": "$26M",
+      "stage": "Series B",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "Richard Parsons (Equity Alliance)",
+        "John Borthwick (Betaworks Ventures)"
+      ],
+      "company": "CrowdTangle",
+      "date": "May 2014",
+      "roundSize": "$2.2M",
+      "stage": "Venture Round",
+      "totalRaised": "$4.2M"
+    },
+    {
+      "coInvestors": [
+        "Mo Koyfman (Shine Capital)",
+        "Chung Ng",
+        "Troy Carter"
+      ],
+      "company": "Storefront",
+      "date": "Apr 2014",
+      "roundSize": "$7.3M",
+      "stage": "Series A",
+      "totalRaised": "$9.3M"
+    },
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "Stephanie Palmeri (NextView Ventures)"
+      ],
+      "company": "Thanx",
+      "date": "Jun 2012",
+      "roundSize": "$1.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "Dan Wenhold (Fifth Wall)",
+        "Wesley Yiu (Alumni Ventures )",
+        "Vinay Iyengar (Foundation Capital)",
+        "Mohammed Amdani (Adapt Ventures)",
+        "Kyle Tibbitts (Paradox Capital)",
+        "Julian Weisser (Kepler Operator’s Fund)",
+        "Chris Moreno (Infinite Niches)",
+        "Sahil Bloom (SRB Ventures)",
+        "Packy McCormick (Not Boring Capital)",
+        "Rob Go (NextView Ventures)",
+        "Stephanie Palmeri (NextView Ventures)",
+        "Joshua Browder (Browder Capital)",
+        "Kevin Alvarez-Fung (Predictive VC)",
+        "Yuri Namikawa (Offline Ventures)",
+        "Priyank Chandra",
+        "Scot Wingo",
+        "Adam Guild",
+        "Quinn Slack"
+      ],
+      "company": "Wander",
+      "date": "Apr 2012",
+      "roundSize": "$1.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$80M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK25JQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4d65ca11335b05a901551541da1ee2c40e7b0c93/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-tisch",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-tisch",
+  "socials": {
+    "angellist": "https://www.angel.co/davidtisch",
+    "crunchbase": "https://www.crunchbase.com/person/david-tisch",
+    "linkedin": "https://www.linkedin.com/in/davetisch/",
+    "twitter": "https://www.twitter.com/davidtisch",
+    "website": "https://www.davidtisch.com/"
+  },
+  "scraped_at": "2026-02-11T11:38:13.107104"
+}

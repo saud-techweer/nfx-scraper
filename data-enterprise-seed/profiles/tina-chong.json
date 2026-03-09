@@ -1,0 +1,213 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Advisor",
+      "Growth Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Tina Chong",
+    "signalScore": 55,
+    "website": "https://diu.mil/"
+  },
+  "experience": [
+    {
+      "dates": "2018 - 2021",
+      "title": "Facebook"
+    },
+    {
+      "dates": "2016 - 2018",
+      "title": "Jet.com"
+    },
+    {
+      "company": "Defense Innovation Unit",
+      "dates": "2021 - Present",
+      "position": "Commercial Engagement for AI/ML"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "U.S. Department Of Defense",
+      "firmUrl": "https://signal.nfx.com/firms/u-s-department-of-defense",
+      "position": "Scout"
+    },
+    "investmentRange": "$1 - $1M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "RudderStack",
+      "date": "Feb 2022",
+      "roundSize": "$56M",
+      "stage": "Series B",
+      "totalRaised": "$56M"
+    },
+    {
+      "coInvestors": [
+        "Ed Sim (Boldstart Ventures)",
+        "Sarah Downey (Accomplice)"
+      ],
+      "company": "Blockdaemon",
+      "date": "Jan 2022",
+      "roundSize": "$210M",
+      "stage": "Series C",
+      "totalRaised": "$210M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nabis",
+      "date": "Jul 2021",
+      "roundSize": "$31M",
+      "stage": "Series B",
+      "totalRaised": "$31M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SafeStamp",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0doQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a329026cdb010d3876503b6c8de4d0f33c0ff367/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tina-chong",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Food and Beverage (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-b-investors"
+    },
+    {
+      "name": "GovTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "Semiconductors (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-a-investors"
+    },
+    {
+      "name": "Semiconductors (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-series-b-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tina-chong",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tinajchong/",
+    "website": "https://www.diu.mil/"
+  },
+  "scraped_at": "2026-02-28T14:08:08.886457"
+}

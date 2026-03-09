@@ -1,0 +1,163 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Advisor",
+      "Investor",
+      "CEO"
+    ],
+    "location": "Marin County",
+    "name": "Stephen Kawaja",
+    "positionAndFirm": "Operator, investor and advisor",
+    "signalScore": 14
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$25K - $1M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "J C"
+      ],
+      "company": "Qusecure",
+      "date": "Nov 2021",
+      "roundSize": "$2.8M",
+      "stage": "Seed",
+      "totalRaised": "$2.8M"
+    },
+    {
+      "coInvestors": [
+        "J C"
+      ],
+      "company": "Tygrus",
+      "date": "Oct 2021",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cannaray",
+      "date": "Jan 2019",
+      "roundSize": "$630K",
+      "stage": "Seed",
+      "totalRaised": "$630K"
+    },
+    {
+      "coInvestors": [],
+      "company": "SignalFire",
+      "date": "Jan 2015",
+      "roundSize": "$100K",
+      "stage": "Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Blockchain Capital",
+      "date": "Jan 2015",
+      "roundSize": null,
+      "stage": "Private Equity Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmlIQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3d12ffcde2488b32448456be53bc1843acb46ab5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stephen-kawaja",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Chemicals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Fashion (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-pre-seed-investors"
+    },
+    {
+      "name": "Chemicals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-chemicals-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "stephen-kawaja",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/stephen-kawaja-2a3302/"
+  },
+  "scraped_at": "2026-02-27T04:51:14.523951"
+}

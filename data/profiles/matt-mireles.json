@@ -1,0 +1,309 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Angel",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Matt Mireles",
+    "signalScore": 109,
+    "website": "https://mattmireles.com/"
+  },
+  "experience": [
+    {
+      "company": "Dishcraft Robotics",
+      "dates": "2015 - 2022",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Unbound",
+      "dates": "2017 - 2021",
+      "position": "Investor / Advisor"
+    },
+    {
+      "company": "NotEvil",
+      "dates": "2018 - 2019",
+      "position": "Investor & Chairman"
+    },
+    {
+      "company": "tbh",
+      "dates": "2017 - 2018",
+      "position": "Investor / Advisor"
+    },
+    {
+      "company": "Social Capital LP",
+      "dates": "2017 - 2018",
+      "position": "Scout Investor"
+    },
+    {
+      "company": "Amazon Web Services",
+      "dates": "2016 - 2017",
+      "position": "Business Development, Early Stage Startups"
+    },
+    {
+      "company": "SpeakerText (Acquired by CloudFactory)",
+      "dates": "2008 - 2012",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "SpeakerText",
+      "dates": "2008 - 2012",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "New York City EMS",
+      "dates": "2005 - 2010",
+      "position": "Paramedic"
+    },
+    {
+      "company": "The New York Times",
+      "dates": "2007 - 2009",
+      "position": "Reporter & Photojournalist"
+    },
+    {
+      "company": "Fox News Channel",
+      "dates": "2006 - 2006",
+      "position": "Intern"
+    },
+    {
+      "company": "Modoc Interagency Hotshot Crew",
+      "dates": "2004 - 2004",
+      "position": "Wildland Fire Fighter"
+    },
+    {
+      "company": "American Medical Response",
+      "dates": "2003 - 2004",
+      "position": "Emergency Medical Technician"
+    },
+    {
+      "company": "OASIS",
+      "dates": "2019 - Present",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "The Oasis",
+      "dates": "2019 - Present",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "Nuvocargo",
+      "dates": "2017 - Present",
+      "position": "Investor / Advisor"
+    },
+    {
+      "company": "Guerrilla Capital",
+      "dates": "2017 - Present",
+      "position": "Angel Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Guerrilla Capital",
+      "firmUrl": "https://signal.nfx.com/firms/guerrilla-capital",
+      "position": "Angel"
+    },
+    "investmentRange": "$100K - $150K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$130K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)"
+      ],
+      "company": "Cadera Brands",
+      "date": "Jan 2019",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ali Tamaseb (DCVC (Data Collective))",
+        "Dawn Lippert (Earthshot Ventures)",
+        "Dave Messina (Pioneer Fund)",
+        "Bryan Frist (Friále)"
+      ],
+      "company": "C16 Biosciences",
+      "date": "Aug 2018",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Patchd Medical",
+      "date": "May 2018",
+      "roundSize": "$1.8M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [
+        "Daniel Coley (Cofounders Capital)"
+      ],
+      "company": "Persephone Biome",
+      "date": "Mar 2018",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Carl Sparks (Interlock Partners)",
+        "Alejandro Ponce (Ataria Ventures)"
+      ],
+      "company": "The Lobby",
+      "date": "Jan 2018",
+      "roundSize": "$120K",
+      "stage": "Seed Round",
+      "totalRaised": "$1.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Osmo Systems",
+      "date": "Sep 2017",
+      "roundSize": "$2.9M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [
+        "Richard Muirhead (Fabric Ventures)"
+      ],
+      "company": "Bitrise",
+      "date": "Mar 2017",
+      "roundSize": "$120K",
+      "stage": "Seed Round",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [
+        "Mike Krieger"
+      ],
+      "company": "KitSplit",
+      "date": "Jan 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnJZQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a7c6c6897f5e5bbc4a5652e5c5f5b7173ea63529/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matt-mireles",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "matt-mireles",
+  "socials": {
+    "angellist": "https://www.angel.co/p/mattmireles",
+    "crunchbase": "https://www.crunchbase.com/person/matt-mireles",
+    "linkedin": "https://www.linkedin.com/in/mattmireles/",
+    "twitter": "https://www.twitter.com/mattmireles",
+    "website": "https://www.mattmireles.com/"
+  },
+  "scraped_at": "2026-02-11T11:17:55.045471"
+}

@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Peter Khayat",
+    "website": "https://inveready.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Strata",
+      "dates": "2023 - 2023",
+      "position": "Innovation Manager"
+    },
+    {
+      "company": "Inveready",
+      "dates": "2020 - 2023",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Jazzya Investments",
+      "dates": "2019 - 2020",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "Jobandtalent",
+      "dates": "2019 - 2019",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "Banco Santander",
+      "dates": "2018 - 2019",
+      "position": "Internal Auditor (Intern)"
+    },
+    {
+      "company": "PENTECH",
+      "dates": "2015 - 2017",
+      "position": "Junior Consultant"
+    },
+    {
+      "company": "PENTECH",
+      "dates": "2014 - 2015",
+      "position": "Junior Engineer"
+    },
+    {
+      "company": "Air Liquide SOAL",
+      "dates": "2013 - 2013",
+      "position": "Electrical Engineer (Intern)"
+    },
+    {
+      "company": "AYO Social Ventures",
+      "dates": "2023 - Present",
+      "position": "Associate Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Inveready Technology Investment Group",
+      "firmUrl": "https://signal.nfx.com/firms/inveready-technology-investment-group",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUo2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3de07a84acc01304c1c58ebe0cd66e1b25658cb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-khayat",
+  "sectorRankings": [
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "peter-khayat",
+  "socials": {
+    "angellist": "https://www.angel.co/u/peter-khayat",
+    "linkedin": "https://www.linkedin.com/in/peterkhayat/",
+    "twitter": "https://www.twitter.com/peter_khayat",
+    "website": "https://www.inveready.com/team/"
+  },
+  "scraped_at": "2026-03-03T23:18:29.466298"
+}

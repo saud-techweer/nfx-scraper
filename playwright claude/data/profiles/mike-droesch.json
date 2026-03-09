@@ -1,0 +1,178 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Mike Droesch",
+    "website": "https://bvp.com/team/mike-droesch/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bessemer Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/bessemer-venture-partners",
+      "position": "Vice President"
+    },
+    "fundSize": "$1.85B",
+    "investmentRange": "$1M - $250.0M",
+    "investmentsOnRecord": 16,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ty Findley (Ironspring Ventures)",
+        "Jett McCandless"
+      ],
+      "company": "GoodShip",
+      "date": "Aug 2025",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Erik Nordlander (GV (Google Ventures))",
+        "Jay Leek (SYN Ventures)"
+      ],
+      "company": "Crash Override",
+      "date": "Jul 2025",
+      "roundSize": "$28M",
+      "stage": "Seed",
+      "totalRaised": "$35M"
+    },
+    {
+      "coInvestors": [
+        "Timothy Wang (The Westly Group)",
+        "Ian McHenry"
+      ],
+      "company": "Optimal Dynamics",
+      "date": "May 2025",
+      "roundSize": "$40M",
+      "stage": "Series C",
+      "totalRaised": "$95M"
+    },
+    {
+      "coInvestors": [
+        "Gustaf Alströmer (Y Combinator)"
+      ],
+      "company": "Vapi",
+      "date": "Dec 2024",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Curri",
+      "date": "Jun 2023",
+      "roundSize": "$42M",
+      "stage": "Series B",
+      "totalRaised": "$42M"
+    },
+    {
+      "coInvestors": [
+        "Michael Treskow (Eight Roads Ventures)"
+      ],
+      "company": "Raft",
+      "date": "Sep 2021",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$45M"
+    },
+    {
+      "coInvestors": [
+        "Pedro Pinheiro (Bright Pixel Capital)"
+      ],
+      "company": "Portainer",
+      "date": "May 2021",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [
+        "Max Rimpel (General Catalyst)",
+        "Peter Specht (Creandum)",
+        "Tom Stafford (DST Global)",
+        "Pawel Chudzinski (Point Nine Capital)"
+      ],
+      "company": "cargo.one",
+      "date": "Dec 2020",
+      "roundSize": "$42M",
+      "stage": "Series B",
+      "totalRaised": "$64M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL04wQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f48819b6f633eedd00f033a7dccba1860e0cc25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-droesch",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mike-droesch",
+  "socials": {
+    "angellist": "https://www.angel.co/u/mikedroesch",
+    "crunchbase": "https://www.crunchbase.com/person/mike-droesch",
+    "linkedin": "https://www.linkedin.com/in/michaeldroesch/",
+    "twitter": "https://www.twitter.com/mikedroesch",
+    "website": "https://www.bvp.com/team/mike-droesch/"
+  },
+  "scraped_at": "2026-02-11T11:55:11.732226"
+}

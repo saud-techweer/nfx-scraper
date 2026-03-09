@@ -1,0 +1,173 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "CEO",
+      "Founder",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Vangelis Vergetis",
+    "website": "http://www.epikast.com/"
+  },
+  "experience": [
+    {
+      "company": "Alliance for Artificial Intelligence in Healthcare (AAIH)",
+      "dates": "2019 - 2023",
+      "position": "Board member & member of the Executive Committee"
+    },
+    {
+      "company": "Intelligencia, Inc.",
+      "dates": "2018 - 2022",
+      "position": "Co-founder & CEO"
+    },
+    {
+      "company": "Hakluyt",
+      "dates": "2014 - 2018",
+      "position": "Partner"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2006 - 2014",
+      "position": "Associate partner"
+    },
+    {
+      "company": "Eucrates Biomedical Acquisition Corp",
+      "dates": "2020 - Present",
+      "position": "Board member"
+    },
+    {
+      "company": "YPO - Young Presidents' Organization",
+      "dates": "2020 - Present",
+      "position": "Member"
+    },
+    {
+      "company": "Epikast, Inc.",
+      "dates": "Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Eucrates Biomedical Acquisition Corp",
+      "firmUrl": "https://signal.nfx.com/firms/eucrates-biomedical-acquisition-corp",
+      "position": ""
+    },
+    "investmentRange": "$100.0M - $400.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$200.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Epikast, Inc.",
+      "date": "Feb 2023",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Intelligencia, Inc.",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelI5QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3f6c3d3f9b519e6bec68629af69e56cd5cc24e1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vangelis-vergetis",
+  "sectorRankings": [
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-b-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Drug Delivery (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-drug-delivery-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Drug Delivery (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-drug-delivery-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    }
+  ],
+  "slug": "vangelis-vergetis",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/evangelos-vergetis",
+    "linkedin": "https://www.linkedin.com/in/vangelisvergetis/",
+    "website": "https://www.epikast.com/"
+  },
+  "scraped_at": "2026-02-27T05:26:36.518967"
+}

@@ -1,0 +1,107 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Jack Storrs",
+    "website": "https://fintech.io/ourteam"
+  },
+  "experience": [
+    {
+      "company": "Up&Up",
+      "dates": "2021 - 2023",
+      "position": "Capital Markets & Investments"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2020 - 2021",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "OUTSPORTS, LLC",
+      "dates": "2019 - 2021",
+      "position": "Contributing Author & Activist"
+    },
+    {
+      "company": "nOCD",
+      "dates": "2017 - 2018",
+      "position": "Digital Marketing Specialist"
+    },
+    {
+      "company": "nOCD",
+      "dates": "2016 - 2018",
+      "position": "Business Development and Strategy Analyst"
+    },
+    {
+      "company": "Hilton",
+      "dates": "2017 - 2017",
+      "position": "Learning and Development Intern"
+    },
+    {
+      "company": "Washington Golf & Country Club",
+      "dates": "2016 - 2017",
+      "position": "Waiter"
+    },
+    {
+      "company": "FinTech Collective",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Out for Undergrad",
+      "dates": "2023 - Present",
+      "position": "Director of Programming"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FinTech Collective",
+      "firmUrl": "https://signal.nfx.com/firms/fintech-collective",
+      "position": "Associate"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$250K - $3.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOWdPQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--33275e6dad6700950096f628818b4da77558a53b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-storrs",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jack-storrs",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jacktstorrs/",
+    "website": "https://www.fintech.io/ourteam"
+  },
+  "scraped_at": "2026-03-03T20:38:32.574524"
+}

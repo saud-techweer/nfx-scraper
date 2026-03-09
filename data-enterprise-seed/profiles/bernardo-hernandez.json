@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Barcelona, Spain",
+    "name": "Bernardo Hernandez",
+    "website": "https://bernardohernandez.com/"
+  },
+  "experience": [
+    {
+      "company": "Flickr",
+      "dates": "2013 - 2015",
+      "position": "General Manager"
+    },
+    {
+      "company": "Google",
+      "dates": "2005 - 2013",
+      "position": "Sr. Director of Product Management"
+    },
+    {
+      "company": "idealista.com",
+      "dates": "2000 - 2005",
+      "position": "CoFounder"
+    },
+    {
+      "company": "BBVA",
+      "dates": "1999 - 2000",
+      "position": "Fund Manager"
+    },
+    {
+      "company": "Putnam Investments",
+      "dates": "1998 - 1999",
+      "position": "Investment Associate"
+    },
+    {
+      "company": "Fidelity Investments",
+      "dates": "1994 - 1998",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Citibox - smart services",
+      "dates": "2017 - Present",
+      "position": "Executive Chairman"
+    },
+    {
+      "company": "e.ventures",
+      "dates": "2016 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Solon Inversiones",
+      "dates": "2005 - Present",
+      "position": "President and owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Headline (formerly e.ventures)",
+      "firmUrl": "https://signal.nfx.com/firms/e-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$230M",
+    "investmentRange": "$500K - $30.0M",
+    "sweetSpot": "$15.3M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0FaQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1af27793af0d7510ae961080a725b7775d9c3c20/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bernardo-hernandez",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bernardo-hernandez",
+  "socials": {
+    "angellist": "https://www.angel.co/p/berniehernie",
+    "crunchbase": "https://www.crunchbase.com/person/bernardo-hernandez",
+    "linkedin": "https://www.linkedin.com/in/bernardohernandez/",
+    "twitter": "https://www.twitter.com/BernieHernie",
+    "website": "https://www.bernardohernandez.com/"
+  },
+  "scraped_at": "2026-02-27T20:39:57.007659"
+}

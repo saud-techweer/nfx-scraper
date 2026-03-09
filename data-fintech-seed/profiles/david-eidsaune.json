@@ -1,0 +1,65 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Seattle, Washington",
+    "name": "David Eidsaune",
+    "website": "https://www.allianceofangels.com/team-2/"
+  },
+  "experience": [
+    {
+      "company": "SeaChange Fund",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Space Angels",
+      "dates": "2018 - Present",
+      "position": "Private Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alliance of Angels",
+      "firmUrl": "https://signal.nfx.com/firms/alliance-of-angels",
+      "position": "Angel"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$500K - $1.5M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM2t5QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4741bf7a79237b334b6c56c8f57f2dba48db31f9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-eidsaune",
+  "sectorRankings": [
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-eidsaune",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/davideidsaune/",
+    "twitter": "https://www.twitter.com/davideidsaune",
+    "website": "https://www.allianceofangels.com/team-2/"
+  },
+  "scraped_at": "2026-03-03T16:56:11.316113"
+}

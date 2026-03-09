@@ -1,0 +1,155 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Philadelphia, Pennsylvania",
+    "name": "Elliot Levy",
+    "signalScore": 816,
+    "website": "https://www.dreamit.com/healthtech"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DreamIt Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/dreamit-ventures",
+      "position": "Senior Associate"
+    },
+    "fundSize": "$37.8M",
+    "investmentRange": "$750K - $2.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "RxLive",
+      "date": "Apr 2021",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Health Note",
+      "date": "Sep 2020",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Elizabeth Caven (Next Level Ventures)",
+        "Josh Tanenbaum (Rebalance Capital)",
+        "David Miles (ManchesterStory Group)",
+        "Andreas Ritter"
+      ],
+      "company": "Trusty.care",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$5.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFgwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--239eaec7fefa021fb7f9cc06b87b5b38a2fb01f5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/elliot-levy",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "elliot-levy",
+  "socials": {
+    "angellist": "https://www.angel.co/u/elliot-levy-2",
+    "linkedin": "https://www.linkedin.com/in/elliotlevy1/",
+    "twitter": "https://www.twitter.com/elliotventure",
+    "website": "https://www.dreamit.com/healthtech"
+  },
+  "scraped_at": "2026-02-27T21:44:13.248525"
+}

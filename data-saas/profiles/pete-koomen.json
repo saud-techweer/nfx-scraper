@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Reno, Nevada",
+    "name": "Pete Koomen",
+    "website": "https://www.optimizely.com/?utm_source=peteslinkedin"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Fritz Lanman (Acequia Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Jeff Bonforte (Catapult Capital)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Eva Lau (Two Small Fish Ventures)",
+        "Adrian Aoun",
+        "Gokul Rajaram",
+        "Evan Moore",
+        "Steve Chen",
+        "Bradley Horowitz",
+        "Joshua Schachter"
+      ],
+      "company": "Printify",
+      "date": "May 2019",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1RLQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ac45343d52a285ef9b67944b1abbc8e20a2902d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pete-koomen",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "pete-koomen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/pete-koomen",
+    "crunchbase": "https://www.crunchbase.com/person/pete-koomen",
+    "linkedin": "https://www.linkedin.com/in/petekoomen/",
+    "twitter": "https://www.twitter.com/koomen",
+    "website": "https://www.optimizely.com/?utm_source=peteslinkedin"
+  },
+  "scraped_at": "2026-02-27T03:36:38.230570"
+}

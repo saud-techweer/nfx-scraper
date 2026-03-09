@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Germany",
+    "name": "Martin Liebsch",
+    "website": "https://www.cfh.de/tgfs-team/martin-liebsch/"
+  },
+  "experience": [
+    {
+      "company": "Mittelständische Beteiligungsgesellschaft Sachsen mbH",
+      "dates": "2016 - 2023",
+      "position": "Investmentmanager"
+    },
+    {
+      "company": "Bürgschaftsbank Sachsen GmbH",
+      "dates": "2013 - 2016",
+      "position": "Dualer Student"
+    },
+    {
+      "company": "Deutsche Bank",
+      "dates": "2014 - 2014",
+      "position": "Praktikum"
+    },
+    {
+      "company": "Commerzbank AG",
+      "dates": "2013 - 2014",
+      "position": "Praktikum"
+    },
+    {
+      "company": "Santander Consumer Bank SA",
+      "dates": "2013 - 2013",
+      "position": "Bankkaufmann"
+    },
+    {
+      "company": "Santander Consumer Bank SA",
+      "dates": "2010 - 2013",
+      "position": "Ausbildung"
+    },
+    {
+      "company": "Mittelständische Beteiligungsgesellschaft Sachsen mbH",
+      "dates": "2023 - Present",
+      "position": "Gruppenleiter/Prokurist"
+    },
+    {
+      "company": "TGFS Technologiegründerfonds Sachsen",
+      "dates": "2016 - Present",
+      "position": "Investmentmanager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Technologiegründerfonds Sachsen (TGFS)",
+      "firmUrl": "https://signal.nfx.com/firms/technologiegrunderfonds-sachsen-tgfs",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.6M",
+    "sweetSpot": "$2.9M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2VxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f6ee095e4ccd1fbedbf093523d2cce3292f524c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-liebsch",
+  "sectorRankings": [
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "martin-liebsch",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/martin-liebsch-778799206/",
+    "website": "https://www.cfh.de/tgfs-team/martin-liebsch/"
+  },
+  "scraped_at": "2026-02-27T23:38:57.034057"
+}

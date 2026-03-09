@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Julie Maples",
+    "signalScore": 269,
+    "website": "https://fyrfly.vc/"
+  },
+  "experience": [
+    {
+      "company": "Allegro Venture Partners",
+      "dates": "2011 - 2015",
+      "position": "General Partner"
+    },
+    {
+      "company": "FYRFLY Venture Partners",
+      "dates": "2015 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "The V Foundation Wine Celebration",
+      "dates": "Present",
+      "position": "Founder and Co-Chair"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Fyrefly VC",
+      "firmUrl": "https://signal.nfx.com/firms/fyrefly-vc",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0hpIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7fb40d7cf7566f40e7e163403e48d0bba32e69a7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/julie-allegro",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "julie-allegro",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/julie-allegro",
+    "linkedin": "https://www.linkedin.com/in/julieallegro/",
+    "twitter": "https://www.twitter.com/",
+    "website": "https://www.fyrfly.vc/"
+  },
+  "scraped_at": "2026-02-27T01:31:33.844710"
+}

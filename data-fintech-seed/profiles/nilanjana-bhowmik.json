@@ -1,0 +1,180 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Cambridge, Massachusetts",
+    "name": "Nilanjana Bhowmik",
+    "website": "https://converge.vc/team_members/nilanjana-bhowmik/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Converge Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/converge-venture-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "PLUMgrid",
+      "date": "Jan 2014",
+      "roundSize": "$16M",
+      "stage": "Series B",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Tim Draper (Draper Associates)",
+        "Rick Grinnell (Glasswing Ventures)"
+      ],
+      "company": "TrackVia",
+      "date": "Sep 2012",
+      "roundSize": "$7.1M",
+      "stage": "Series B",
+      "totalRaised": "$7.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Viewfinity",
+      "date": "Sep 2012",
+      "roundSize": "$8.5M",
+      "stage": "Series C",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Constance Freedman (Moderne Ventures)"
+      ],
+      "company": "Symform",
+      "date": "Apr 2012",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "VKernel Corporation",
+      "date": "May 2009",
+      "roundSize": "$7M",
+      "stage": "Series B",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Tizor Systems",
+      "date": "Feb 2008",
+      "roundSize": "$8.3M",
+      "stage": "Series C",
+      "totalRaised": "$8.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cellufun",
+      "date": "Mar 2007",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Scanbuy",
+      "date": "Dec 2006",
+      "roundSize": "$9M",
+      "stage": "Series B",
+      "totalRaised": "$9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdHNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--64596a040a16581b93f72f8f7f49db8c06d237cb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nilanjana-bhowmik",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "nilanjana-bhowmik",
+  "socials": {
+    "angellist": "https://www.angel.co/nilanjana-bhowmik",
+    "crunchbase": "https://www.crunchbase.com/person/nilansana-bhowmik",
+    "linkedin": "https://www.linkedin.com/in/nilanjanabhowmik/",
+    "twitter": "https://www.twitter.com/nb005",
+    "website": "https://www.converge.vc/team_members/nilanjana-bhowmik/"
+  },
+  "scraped_at": "2026-03-03T22:58:35.376908"
+}

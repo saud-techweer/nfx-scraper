@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Jason Stoffer",
+    "signalScore": 4,
+    "website": "https://maveron.com/team/jason-stoffer/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Maveron",
+      "firmUrl": "https://signal.nfx.com/firms/maveron",
+      "position": "General Partner"
+    },
+    "fundSize": "$12.8M",
+    "investmentRange": "$500K - $8.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Rebecca Kaden (Union Square Ventures)",
+        "Collin West (Ensemble VC)"
+      ],
+      "company": "Dolls Kill",
+      "date": "May 2017",
+      "roundSize": "$5M",
+      "stage": "Convertible Note",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTkxQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a522effb2d0f52c8c85c8da332070775baaa6e0c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jason-stoffer",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jason-stoffer",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jstoffer",
+    "crunchbase": "https://www.crunchbase.com/person/jason-stoffer",
+    "linkedin": "https://www.linkedin.com/in/jstoffer/",
+    "twitter": "https://www.twitter.com/jstoffer",
+    "website": "https://www.maveron.com/team/jason-stoffer/"
+  },
+  "scraped_at": "2026-02-12T10:43:06.928903"
+}

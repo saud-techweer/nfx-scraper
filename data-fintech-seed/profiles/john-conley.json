@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Brentwood, Tennessee",
+    "name": "John Conley",
+    "website": "https://jpconley.com/"
+  },
+  "experience": [
+    {
+      "company": "Geeq",
+      "dates": "2017 - 2018",
+      "position": "Technical Advisor"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2016 - 2017",
+      "position": "Visiting Researcher"
+    },
+    {
+      "company": "University of Illinois at Urbana-Champaign",
+      "dates": "1989 - 2002",
+      "position": "Professor"
+    },
+    {
+      "company": "Geeq",
+      "dates": "2018 - Present",
+      "position": "Chief Economist"
+    },
+    {
+      "company": "impact Venture Capital",
+      "dates": "2017 - Present",
+      "position": "Venture Partner - FinTech Advisor"
+    },
+    {
+      "company": "Vanderbilt University",
+      "dates": "2002 - Present",
+      "position": "Professor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Impact VC",
+      "firmUrl": "https://signal.nfx.com/firms/impact-vc",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$500K - $2.5M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG5rQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1862e4263367ab5a5782c46c82037574dfb31b11/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-conley",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "john-conley",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-conley-8989",
+    "linkedin": "https://www.linkedin.com/in/john-conley-562486123/",
+    "website": "https://www.jpconley.com/"
+  },
+  "scraped_at": "2026-03-03T21:05:09.343962"
+}

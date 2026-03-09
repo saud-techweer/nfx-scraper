@@ -1,0 +1,217 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "CEO",
+      "Investor"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Cory Klippsten",
+    "positionAndFirm": "SwanBitcoin.com CEO, Partner in Bitcoiner Ventures, Advisor to RIOT (Nasdaq)",
+    "signalScore": 573,
+    "website": "https://www.swanbitcoin.com/"
+  },
+  "experience": [
+    {
+      "company": "Microsoft",
+      "dates": "Present",
+      "position": "Interactive Television Producer"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Strategy and Operations"
+    },
+    {
+      "company": "Swan Bitcoin",
+      "dates": "Present",
+      "position": "CEO"
+    },
+    {
+      "company": "NBC 8 KOMU-TV",
+      "dates": "Present",
+      "position": "Television Reporter, Anchor and Producer; Online Producer"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "Present",
+      "position": "Private Client Marketing"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "Present",
+      "position": "Management Consulting"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bitcoiner Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/bitcoiner-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$10K - $250K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Bernardt Vogel (VU Venture Partners)",
+        "Nick Ducoff (G20 Ventures)",
+        "Brian Spaly (Brand Foundry Ventures)",
+        "Ezra Galston (Starting Line)"
+      ],
+      "company": "Unchained Capital",
+      "date": "Jun 2018",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Tesloop",
+      "date": "Feb 2017",
+      "roundSize": "$2000B",
+      "stage": "Seed",
+      "totalRaised": "$2000B"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejNKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ccfdbeeffcd79e551ada5b11775d679c5aec177a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cory-klippsten",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-b-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "cory-klippsten",
+  "socials": {
+    "angellist": "https://www.angel.co/coryklippsten",
+    "crunchbase": "https://www.crunchbase.com/person/cory-klippsten",
+    "linkedin": "https://www.linkedin.com/in/coryklippsten/",
+    "twitter": "https://www.twitter.com/coryklippsten",
+    "website": "https://www.swanbitcoin.com/"
+  },
+  "scraped_at": "2026-02-26T09:51:46.710720"
+}

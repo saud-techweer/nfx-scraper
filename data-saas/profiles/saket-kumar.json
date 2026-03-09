@@ -1,0 +1,45 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "CEO",
+      "Founder",
+      "Operator"
+    ],
+    "location": "London",
+    "name": "Saket Kumar",
+    "signalScore": 350,
+    "website": "https://calendly.com/saketrkumar/learning-more-about-vitt"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHltQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--91baf507a37960cc599683cbacc663bf94f34eac/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/saket-kumar",
+  "sectorRankings": [
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "saket-kumar",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/saket-kumar-fb07",
+    "linkedin": "https://www.linkedin.com/in/saketrkumar/",
+    "twitter": "https://www.twitter.com/SaketRKumar",
+    "website": "https://www.calendly.com/saketrkumar/learning-more-about-vitt"
+  },
+  "scraped_at": "2026-02-27T04:17:42.894466"
+}

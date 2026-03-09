@@ -1,0 +1,187 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "VC",
+      "Investor",
+      "Former CEO"
+    ],
+    "location": "Barcelona, Spain",
+    "name": "Ivan Zolochevskii",
+    "signalScore": 30,
+    "website": "http://www.altaclub.vc/"
+  },
+  "experience": [
+    {
+      "company": "Vodafone Ukraine",
+      "dates": "2011 - 2015",
+      "position": "CEO"
+    },
+    {
+      "company": "MTS",
+      "dates": "2005 - 2011",
+      "position": "CEO NorthWest"
+    },
+    {
+      "company": "AltaClub ( Extension of Altair VC )",
+      "dates": "2017 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Altaclub VC",
+      "firmUrl": "https://signal.nfx.com/firms/altaclub-vc",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$200K - $1M",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "PitchMe",
+      "date": "Dec 2021",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Chris Moreno (Infinite Niches)",
+        "Andrew Felbinger (Urban Innovation Fund)",
+        "Valentin Gui"
+      ],
+      "company": "Jeeves",
+      "date": "Jun 2021",
+      "roundSize": "$26M",
+      "stage": "Series A",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Kuleana",
+      "date": "Apr 2021",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Together",
+      "date": "Apr 2021",
+      "roundSize": "$2M",
+      "stage": "Pre Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Zak Schwarzman (MetaProp Ventures)",
+        "Thomas Sparico (Brand New Matter)",
+        "Luigi Bajetti (LombardStreet Ventures)"
+      ],
+      "company": "Bizly",
+      "date": "Dec 2020",
+      "roundSize": "$4.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [
+        "Eddie Thai (Ascend Vietnam Ventures)",
+        "Dmitry Alimov (Frontier Ventures)",
+        "Binh Tran (Ascend Vietnam Ventures)",
+        "Kintan Brahmbhatt",
+        "Evan Lee",
+        "Julian Wright",
+        "Marty Weiss",
+        "Mathieu Guerville"
+      ],
+      "company": "Turing.com",
+      "date": "Sep 2020",
+      "roundSize": "$32M",
+      "stage": "Series B",
+      "totalRaised": "$51M"
+    },
+    {
+      "coInvestors": [
+        "Ezra Galston (Starting Line)"
+      ],
+      "company": "Sunbit",
+      "date": "Jun 2019",
+      "roundSize": "$26M",
+      "stage": "Series B",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [
+        "Louis Beryl"
+      ],
+      "company": "Sunsama",
+      "date": "Mar 2019",
+      "roundSize": "$150K",
+      "stage": "Seed Round",
+      "totalRaised": "$150K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFNLQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3e64c9f70ae4a4266cf10c0bb9306d1fc3a7eeb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ivan-zolochevskii",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ivan-zolochevskii",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ivan-zolochevskii-5231232/",
+    "twitter": "https://www.twitter.com/zolochevsky",
+    "website": "https://www.altaclub.vc/"
+  },
+  "scraped_at": "2026-02-27T00:35:53.366495"
+}

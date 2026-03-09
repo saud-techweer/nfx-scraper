@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Dave  Moon"
+  },
+  "experience": [
+    {
+      "company": "The Church of Jesus Christ of Latter-day Saints - Human Resources",
+      "dates": "2012 - 2015",
+      "position": "Mission President"
+    },
+    {
+      "company": "Veracity Networks",
+      "dates": "2009 - 2012",
+      "position": "Chairman Board of Directors"
+    },
+    {
+      "company": "Ancestry.com",
+      "dates": "2001 - 2007",
+      "position": "Chairman Board of Directors"
+    },
+    {
+      "company": "State of Utah",
+      "dates": "1997 - 2001",
+      "position": "Chief Information Officer"
+    },
+    {
+      "company": "WordPerfect",
+      "dates": "1983 - 1996",
+      "position": "Chief Technology Officer and Senior Vice-President"
+    },
+    {
+      "company": "EsNet",
+      "dates": "1997 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "EsNet Capital",
+      "firmUrl": "https://signal.nfx.com/firms/esnet-capital",
+      "position": "General Partner"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU5mQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5acfdcbf43ab5c8c5c879efff9bc5dfee19c3aeb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dave-moon",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "dave-moon",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/david-moon-503ab7a8/"
+  },
+  "scraped_at": "2026-02-26T10:08:15.766536"
+}

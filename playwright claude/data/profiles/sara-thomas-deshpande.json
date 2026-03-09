@@ -1,0 +1,163 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Sara Thomas Deshpande",
+    "signalScore": 2,
+    "website": "https://mavenventures.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Maven Ventures",
+      "dates": "2015 - 2016",
+      "position": "Principal"
+    },
+    {
+      "company": "Maven Ventures",
+      "dates": "2014 - 2015",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Independent Consultant",
+      "dates": "2013 - 2014",
+      "position": "Founder"
+    },
+    {
+      "company": "The Idea Village",
+      "dates": "2012 - 2013",
+      "position": "Director of Entrepreneur Services"
+    },
+    {
+      "company": "Deloitte Consulting",
+      "dates": "2009 - 2012",
+      "position": "Manager"
+    },
+    {
+      "company": "The Idea Village",
+      "dates": "2009 - 2009",
+      "position": "Business Associate"
+    },
+    {
+      "company": "Endeavor",
+      "dates": "2008 - 2008",
+      "position": "eMBA Intern"
+    },
+    {
+      "company": "Deloitte Consulting",
+      "dates": "2008 - 2008",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Maven Ventures",
+      "dates": "2016 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Maven Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/maven-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$750K - $1.5M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ripley Carroll (Telescope Partners)",
+        "Raanan Bar-Cohen (Resolute Ventures)"
+      ],
+      "company": "Hello Heart",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$70M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTBCQmc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c376e4191dc81f0ee1b5fb3f290401b84b556023/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sara-thomas-deshpande",
+  "sectorRankings": [
+    {
+      "name": "Messaging (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Messaging (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "sara-thomas-deshpande",
+  "socials": {
+    "angellist": "https://www.angel.co/p/sara-thomas-1",
+    "crunchbase": "https://www.crunchbase.com/person/sara-deshpande",
+    "linkedin": "https://www.linkedin.com/in/saradeshpande/",
+    "twitter": "https://www.twitter.com/sara_desh",
+    "website": "https://www.mavenventures.com/team/"
+  },
+  "scraped_at": "2026-02-11T10:38:52.541606"
+}

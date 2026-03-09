@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Founder",
+      "Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Michael Quigley",
+    "positionAndFirm": "MD at StartFast Ventures, Co-Founder SpinCar",
+    "signalScore": 25,
+    "website": "https://startfastventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "StartFast",
+      "firmUrl": "https://signal.nfx.com/firms/startfast",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$300K - $1.5M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/michael-quigley",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-quigley",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/michael-quigley",
+    "linkedin": "https://www.linkedin.com/in/michaelquigleyjr/",
+    "website": "https://www.startfastventures.com/"
+  },
+  "scraped_at": "2026-02-27T02:51:21.301930"
+}

@@ -1,0 +1,43 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Paris, France",
+    "name": "Baptiste Corval",
+    "website": "https://en.50partners.fr/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "50 Partners",
+      "firmUrl": "https://signal.nfx.com/firms/50-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXZXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d81d5adcce8a5955464900fceec1021c3cc88d51/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/baptiste-corval",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "baptiste-corval",
+  "socials": {
+    "angellist": "https://www.angel.co/u/baptiste-corval",
+    "crunchbase": "https://www.crunchbase.com/person/baptiste-corval",
+    "linkedin": "https://www.linkedin.com/in/baptiste-corval/",
+    "twitter": "https://www.twitter.com/bcorval",
+    "website": "https://en.50partners.fr/"
+  },
+  "scraped_at": "2026-02-26T08:36:38.627818"
+}

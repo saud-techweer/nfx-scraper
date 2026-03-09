@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Jack Groetzinger",
+    "website": "https://foundercollective.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founder Collective",
+      "firmUrl": "https://signal.nfx.com/firms/founder-collective",
+      "position": "Partner"
+    },
+    "fundSize": "$75M",
+    "investmentRange": "$400K - $2.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andrew Vigneault (Flexcap)",
+        "Daniel Kennedy (Operator Stack)",
+        "Brian Bell (Team Ignite Ventures)",
+        "Khaled Helioui",
+        "Nicky Goulimis"
+      ],
+      "company": "Cardless",
+      "date": "Oct 2019",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Christina Cacioppo"
+      ],
+      "company": "RankScience",
+      "date": "Oct 2018",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "David Thacker (Greylock)",
+        "David Frankel (Founder Collective)",
+        "Josh Buckley (Buckley Ventures)",
+        "Keith Rabois (Khosla Ventures)",
+        "Matt Murphy (Menlo Ventures)",
+        "Auren Hoffman (Flex Capital)",
+        "Tod Sacerdoti (Flex Capital)",
+        "Sujay Tyle (Balderton Capital)",
+        "Steven Sarracino (Activant Capital)",
+        "Brian Rumao (Next Play Ventures)",
+        "Jeff Weiner (Next Play Ventures)",
+        "Justin Ziebell (Indeed.com)",
+        "Eduardo Vivas (Curated)",
+        "Susan Hobbs (CrunchFund)",
+        "William Hockey",
+        "Vipul Ved Prakash"
+      ],
+      "company": "Truework",
+      "date": "Apr 2018",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$98M"
+    },
+    {
+      "coInvestors": [
+        "Jason Finger (The Finger Group)",
+        "David Yaffe",
+        "Wiley Cerilli",
+        "Brian Distelburger",
+        "Pierre Valade"
+      ],
+      "company": "Troops",
+      "date": "May 2016",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHZDQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--35db03982393166de19e95792667b5cf81597258/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jack-groetzinger",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "jack-groetzinger",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jackgretz",
+    "crunchbase": "https://www.crunchbase.com/person/jack-groetzinger",
+    "linkedin": "https://www.linkedin.com/in/jackgroetzinger/",
+    "twitter": "https://www.twitter.com/JackGretz",
+    "website": "https://www.foundercollective.com/team"
+  },
+  "scraped_at": "2026-02-11T11:58:00.245452"
+}

@@ -1,0 +1,215 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Former CEO",
+      "Investor",
+      "Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Jeff Rosen",
+    "website": "https://broom.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Broom Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/broom-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $750K",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Fidu",
+      "date": "Oct 2022",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Taylor Oliver (Tenacity Venture Capital)"
+      ],
+      "company": "Kapital",
+      "date": "Apr 2022",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Victor Wang (HOF Capital)",
+        "Dan Von Kohorn (Broom Ventures)"
+      ],
+      "company": "Writesonic",
+      "date": "Aug 2021",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Taylor Oliver (Tenacity Venture Capital)",
+        "Dan Von Kohorn (Broom Ventures)"
+      ],
+      "company": "ProductWind",
+      "date": "Aug 2021",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Dan Von Kohorn (Broom Ventures)"
+      ],
+      "company": "Advantage Club",
+      "date": "Jul 2021",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Dan Von Kohorn (Broom Ventures)",
+        "Stephen Hays (What If Ventures)",
+        "Craig Cummings (Moonshots Capital)"
+      ],
+      "company": "Pray.com",
+      "date": "Apr 2020",
+      "roundSize": "$1",
+      "stage": "Convertible Note",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [
+        "Andy Cohen (World Innovation Lab (WiL))",
+        "Dan Von Kohorn (Broom Ventures)"
+      ],
+      "company": "Tive",
+      "date": "Apr 2020",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$54M"
+    },
+    {
+      "coInvestors": [
+        "Dan Von Kohorn (Broom Ventures)"
+      ],
+      "company": "Quaestor",
+      "date": "Apr 2020",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3RuQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b05e7078b7b6526a8d101362cb9bc46b54b7355/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-rosen",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jeff-rosen",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jeff-rosen/",
+    "website": "https://www.broom.ventures/"
+  },
+  "scraped_at": "2026-02-27T00:58:08.435399"
+}

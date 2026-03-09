@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Igor Marchesini"
+  },
+  "experience": [
+    {
+      "company": "SumUp",
+      "dates": "Present",
+      "position": "Board Advisor"
+    },
+    {
+      "company": "SumUp",
+      "dates": "Present",
+      "position": "Global Head of Growth"
+    },
+    {
+      "company": "SumUp",
+      "dates": "Present",
+      "position": "Founder & CEO SumUp Brazil"
+    },
+    {
+      "company": "Sanar",
+      "dates": "Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "The New Healthtech on the Block",
+      "dates": "Present",
+      "position": "Improving care for all"
+    },
+    {
+      "company": "Bain & Company",
+      "dates": "Present",
+      "position": "Manager"
+    },
+    {
+      "company": "Warburg Pincus",
+      "dates": "Present",
+      "position": "Summer Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVQwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--854fd197e42f5d77f4cc4bec7155cc261d00b8d5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/igor-marchesini",
+  "sectorRankings": [
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "igor-marchesini",
+  "socials": {
+    "angellist": "https://www.angel.co/p/igor-marchesini",
+    "crunchbase": "https://www.crunchbase.com/person/igor-marchesini",
+    "linkedin": "https://www.linkedin.com/in/igormarchesini/"
+  },
+  "scraped_at": "2026-03-03T20:32:45.963341"
+}

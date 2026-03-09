@@ -1,0 +1,203 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Chloe Sladden",
+    "signalScore": 70,
+    "website": "https://hashtagangels.com/"
+  },
+  "experience": [
+    {
+      "company": "Twitter",
+      "dates": "2009 - 2014",
+      "position": "VP, Media"
+    },
+    {
+      "company": "Current TV",
+      "dates": "2005 - 2009",
+      "position": "Vice President"
+    },
+    {
+      "company": "Strategy&, part of the PwC network (formerly Booz & Company)",
+      "dates": "2003 - 2005",
+      "position": "Senior Associate & Associate, Media & Entertainment Practice"
+    },
+    {
+      "company": "Headstrong Nation",
+      "dates": "2003 - 2005",
+      "position": "Director of Documentary Film Projects"
+    },
+    {
+      "company": "Anthropology research project: Chinese factory worker empowerment and identity",
+      "dates": "Present",
+      "position": "Anthropologist"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "#ANGELS (Hashtag ANGELS)",
+      "firmUrl": "https://signal.nfx.com/firms/hashtag-angels",
+      "position": "Investor"
+    },
+    "investmentRange": "$10K - $200K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Justin Kan (Goat Capital)",
+        "Jeremy Levine (Bessemer Venture Partners)",
+        "Gabe Greenbaum (B Capital Group)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chris Keller (NextGen Venture Partners)",
+        "Harry Stebbings (20VC)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Adam Bain (01 Advisors)",
+        "Ali Rowghani (Y Combinator)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Anne Dwane (Village Global)",
+        "Jordan Fliegel (Techstars)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Joshua Reeves",
+        "Kevin Weil",
+        "Adrian Aoun",
+        "Elad Gil",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "Jennifer Lum",
+        "David Cancel"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Meyer \"Micky\" Malka (Ribbit Capital)",
+        "Sam Lessin (Slow Ventures)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Andy Dunn (Red Swan Ventures)",
+        "Paul Strachman (Red Sea Ventures)",
+        "Greg Brockman",
+        "Mike Krieger",
+        "Javier Olivan",
+        "Adam D'Angelo",
+        "David Marcus",
+        "Jeff Arnold"
+      ],
+      "company": "Prefer",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Ron Conway (SV Angel)",
+        "R \"Ray\" Wang (Mindful Venture Capital)",
+        "Adam Nash (Daffy)",
+        "Steven Trieu",
+        "Matt Tucker"
+      ],
+      "company": "Overlay",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Angel Round",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [
+        "Avichal Garg (Electric Capital)",
+        "Jerry Yang (AME Cloud Ventures)",
+        "Max Levchin (Scifi Vc)",
+        "Jerry Yang (Hardware Club)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Mariam Naficy (Heretic Ventures)",
+        "Garry Tan (Y Combinator)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Ben Davenport",
+        "Julia Hartz",
+        "Drew Houston",
+        "Aaron Levie"
+      ],
+      "company": "Color",
+      "date": "Apr 2015",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BlockChain Capital",
+      "date": "Jan 2015",
+      "roundSize": null,
+      "stage": "Private Equity Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi9rQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb41d12534a4fd4497b210e66a44c764c17303a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chloe-sladden",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "chloe-sladden",
+  "socials": {
+    "angellist": "https://www.angel.co/p/chloes",
+    "crunchbase": "https://www.crunchbase.com/person/chloe-sladden",
+    "linkedin": "https://www.linkedin.com/in/chloesladden/",
+    "twitter": "https://www.twitter.com/chloes",
+    "website": "https://www.hashtagangels.com/"
+  },
+  "scraped_at": "2026-02-27T21:03:11.379780"
+}

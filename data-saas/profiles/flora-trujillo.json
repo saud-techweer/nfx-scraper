@@ -1,0 +1,44 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Flora Trujillo",
+    "website": "https://dgf.com.br/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DGF Investimentos",
+      "firmUrl": "https://signal.nfx.com/firms/dgf-investimentos",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/flora-trujillo",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "flora-trujillo",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/flora-trujillo-1601881bb/",
+    "website": "https://www.dgf.com.br/"
+  },
+  "scraped_at": "2026-02-26T23:56:53.445142"
+}

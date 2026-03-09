@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Jillian Manus",
+    "signalScore": 797
+  },
+  "experience": [
+    {
+      "company": "Broad Strategy LLC",
+      "dates": "2010 - 2013",
+      "position": "Founder &Managing Partner"
+    },
+    {
+      "company": "Global Goal Management",
+      "dates": "2006 - 2010",
+      "position": "Founder"
+    },
+    {
+      "company": "Manus Media",
+      "dates": "1998 - 2010",
+      "position": "President"
+    },
+    {
+      "company": "Structure Capital",
+      "dates": "2013 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Structure Capital",
+      "dates": "Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Structure Capital",
+      "firmUrl": "https://signal.nfx.com/firms/structure-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$150K - $1.5M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$400K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "COPIA",
+      "date": "Nov 2015",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazMrIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac07a4fe7cb41f466dc9a4cbc36073d9cdec7e85/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jillian-manus",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jillian-manus",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jillian-manus",
+    "linkedin": "https://www.linkedin.com/in/jillian-manus-19112a13/",
+    "twitter": "https://www.twitter.com/manusjillian"
+  },
+  "scraped_at": "2026-02-11T13:52:22.052471"
+}

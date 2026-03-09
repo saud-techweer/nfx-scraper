@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Michael Dearing",
+    "signalScore": 120,
+    "website": "https://harrisonmetal.com/"
+  },
+  "experience": [
+    {
+      "company": "Harrison Metal",
+      "dates": "2008 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Harrison Metal",
+      "firmUrl": "https://signal.nfx.com/firms/harrison-metal",
+      "position": "Investor"
+    },
+    "investmentRange": "$200K - $1.2M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Naomi Pilosof Ionita (Menlo Ventures)",
+        "Louis Beryl"
+      ],
+      "company": "ClearBrain",
+      "date": "Apr 2018",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Andy Vitus (Scale Venture Partners)",
+        "Jesse Robbins (Heavybit)",
+        "Andreas Stavropoulos (Threshold Ventures)",
+        "Garth Timoll (Top Tier Capital Partners)",
+        "Joseph Ruscio (Heavybit)",
+        "Tom Drummond (Heavybit)",
+        "Hiten Shah"
+      ],
+      "company": "CircleCI",
+      "date": "Jan 2018",
+      "roundSize": "$31M",
+      "stage": "Series C",
+      "totalRaised": "$64M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3dBQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--117cb49e79371bb14def3d4bcf16aca7b4f083fc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-dearing",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    }
+  ],
+  "slug": "michael-dearing",
+  "socials": {
+    "angellist": "https://www.angel.co/mcgd",
+    "crunchbase": "https://www.crunchbase.com/person/michael-dearing",
+    "linkedin": "https://www.linkedin.com/in/michaeldearing/",
+    "twitter": "https://www.twitter.com/mcgd",
+    "website": "https://www.harrisonmetal.com/"
+  },
+  "scraped_at": "2026-02-28T02:14:48.087623"
+}

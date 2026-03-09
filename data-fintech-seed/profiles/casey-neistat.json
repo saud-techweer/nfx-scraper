@@ -1,0 +1,159 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Casey Neistat",
+    "positionAndFirm": "Filmmaker, vlogger, and co-founder of Beme",
+    "website": "https://www.caseyneistat.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lolita Taub (Ganas Ventures)",
+        "Ankur Nagpal (Vibe Capital)",
+        "Brian Murray (Craft Ventures)",
+        "Carter Adamson (Atomico)",
+        "Andreas Klinger (Prototype Capital)",
+        "Tristan Pollock (Cool Climate Collective)",
+        "Ben Hassler (Polymath Capital Partners)",
+        "Drew Austin (Red Beard Ventures)",
+        "Jesse Middleton (Flybridge Capital Partners)",
+        "Timothy Chen (Essence VC)",
+        "Julie Herendeen (Broadway Angels)",
+        "Jonathan Hillis (Seed Club Ventures)",
+        "David Peterson",
+        "Ben Tossell",
+        "Sam Corcos",
+        "Alex Pattis",
+        "Julia DeWahl",
+        "Peter Kazanjy",
+        "Gina Bianchini",
+        "Andrew Gazdecki",
+        "Zachary Sims",
+        "Nkechi Iregbulem",
+        "Ben Lang"
+      ],
+      "company": "Commsor",
+      "date": "Mar 2022",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [
+        "Sameer Gandhi (Accel)",
+        "Keisuke Honda (Dreamers VC)",
+        "Jason Ostheimer (Advancit Capital)",
+        "Ian Sigalow (Greycroft)",
+        "Will Smith (Dreamers VC)",
+        "Ian Rountree (Cantos Ventures)",
+        "Scott Belsky",
+        "Nina Faulhaber"
+      ],
+      "company": "Public.com",
+      "date": "Mar 2020",
+      "roundSize": "$15M",
+      "stage": "Series B",
+      "totalRaised": "$80M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzI5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6b9789d16867597f7193ab31dc9059adda2feece/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/casey-neistat",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "casey-neistat",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/casey-neistat",
+    "linkedin": "https://www.linkedin.com/in/casey-neistat-12462abb/",
+    "twitter": "https://www.twitter.com/Casey",
+    "website": "https://www.caseyneistat.com/"
+  },
+  "scraped_at": "2026-02-28T15:07:32.863128"
+}

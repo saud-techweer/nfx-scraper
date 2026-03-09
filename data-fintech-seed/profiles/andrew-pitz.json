@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Andrew Pitz",
+    "signalScore": 46
+  },
+  "experience": [
+    {
+      "company": "KBJ Capital",
+      "dates": "2013 - 2014",
+      "position": "Venture Associate Intern"
+    },
+    {
+      "company": "Success With Honor",
+      "dates": "2013 - 2014",
+      "position": "Fundraising and E-Commerce Team Leader"
+    },
+    {
+      "company": "OrthoApp, LLC (Formerly InvisApp, LLC)",
+      "dates": "2012 - 2013",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Tonight's Bottle",
+      "dates": "2011 - 2013",
+      "position": "Co-Founder/COO"
+    },
+    {
+      "company": "Schoolwires",
+      "dates": "2011 - 2012",
+      "position": "Inside Sales - Territory Sales Representative (West)"
+    },
+    {
+      "company": "Viewcubed Inc.",
+      "dates": "2010 - 2011",
+      "position": "Co-Founder/CEO"
+    },
+    {
+      "company": "Transamerica Ventures",
+      "dates": "2014 - Present",
+      "position": "Investment Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "HighScale Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/highscale-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWjQ9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3e55f36eee2a3354d61d36e7757afda8e3025809/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/1?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-pitz",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andrew-pitz",
+  "socials": {
+    "angellist": "https://www.angel.co/andrewpitz",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-pitz",
+    "linkedin": "https://www.linkedin.com/in/andrewpitz/",
+    "twitter": "https://www.twitter.com/AndrewPitz"
+  },
+  "scraped_at": "2026-02-28T00:17:45.921708"
+}

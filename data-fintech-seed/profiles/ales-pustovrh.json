@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Slovenia",
+    "name": "Aleš Pustovrh",
+    "website": "https://filrougecapital.com/team/ales-pustovrh/"
+  },
+  "experience": [
+    {
+      "company": "ABC First Growth Venture Capital Fund",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Fil Rouge Capital (FRC)",
+      "firmUrl": "https://signal.nfx.com/firms/fil-rouge-capital-frc",
+      "position": "Partner"
+    },
+    "investmentRange": "$11K - $3.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK090QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--41af5bc736a9930afae9c0fbd0fd9fcf7d08307e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ales-pustovrh",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "ales-pustovrh",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ales-pustovrh",
+    "linkedin": "https://www.linkedin.com/in/ale%C5%A1-pustovrh-832b785/",
+    "website": "https://www.filrougecapital.com/team/ales-pustovrh/"
+  },
+  "scraped_at": "2026-02-28T14:32:08.698344"
+}

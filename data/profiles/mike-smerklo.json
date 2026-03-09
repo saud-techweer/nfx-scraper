@@ -1,0 +1,268 @@
+{
+  "basicInfo": {
+    "name": "Mike Smerklo",
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "website": "https://www.mikesmerklo.com/",
+    "location": "Austin, Texas"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Next Coast Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/next-coast-ventures",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$3.0M - $5.0M",
+    "sweetSpot": "$4.0M",
+    "investmentsOnRecord": 34,
+    "fundSize": "$310M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Flip CX",
+      "stage": "Series A",
+      "date": "Jan 2026",
+      "roundSize": "$20M",
+      "totalRaised": "$28M",
+      "coInvestors": [
+        "Kevin O'Connor (ScOp Venture Capital)"
+      ]
+    },
+    {
+      "company": "WorkWeek",
+      "stage": "Series A",
+      "date": "Jun 2024",
+      "roundSize": "$13M",
+      "totalRaised": "$13M",
+      "coInvestors": []
+    },
+    {
+      "company": "BrainCheck",
+      "stage": "Series Unknown",
+      "date": "Mar 2024",
+      "roundSize": "$15M",
+      "totalRaised": "$36M",
+      "coInvestors": [
+        "Martin Alexander Gershon (Endeavor Venture Funds)",
+        "Zaharo Tsekouras (New Age Ventures)",
+        "Volker Berl (New Age Ventures)"
+      ]
+    },
+    {
+      "company": "Vital Interaction",
+      "stage": "Series A",
+      "date": "Jan 2024",
+      "roundSize": "$15M",
+      "totalRaised": "$15M",
+      "coInvestors": []
+    },
+    {
+      "company": "Diligent Robotics",
+      "stage": "Series Unknown",
+      "date": "Sep 2023",
+      "roundSize": "$34M",
+      "totalRaised": "$79M",
+      "coInvestors": []
+    },
+    {
+      "company": "Osano",
+      "stage": "Series B",
+      "date": "Aug 2023",
+      "roundSize": "$25M",
+      "totalRaised": "$44M",
+      "coInvestors": [
+        "Thomas Ball (Next Coast Ventures)"
+      ]
+    },
+    {
+      "company": "Frontrow Health",
+      "stage": "Seed",
+      "date": "Feb 2023",
+      "roundSize": "$3M",
+      "totalRaised": "$3M",
+      "coInvestors": []
+    },
+    {
+      "company": "Voxia",
+      "stage": "Seed",
+      "date": "Jun 2022",
+      "roundSize": "$6M",
+      "totalRaised": "$6M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Board Member",
+      "company": "Stoplight",
+      "dates": "2019 - 2023"
+    },
+    {
+      "position": "Board Member",
+      "company": "Tenfold, A LivePerson (LPSN) Company",
+      "dates": "2018 - 2021"
+    },
+    {
+      "position": "Board Member",
+      "company": "Alert Media Communications",
+      "dates": "2017 - 2021"
+    },
+    {
+      "position": "Board Member",
+      "company": "SPS Commerce",
+      "dates": "2014 - 2018"
+    },
+    {
+      "position": "Chairman of the Board of Directors",
+      "company": "ServiceSource",
+      "dates": "2008 - 2015"
+    },
+    {
+      "position": "Chief Executive Officer",
+      "company": "ServiceSource",
+      "dates": "2003 - 2014"
+    },
+    {
+      "position": "Founder, Board of Directors, Chairman",
+      "company": "Service Executive Industry Board",
+      "dates": "2009 - 2013"
+    },
+    {
+      "position": "Director of Business Development",
+      "company": "Opsware",
+      "dates": "2000 - 2002"
+    },
+    {
+      "position": "Investment Banking",
+      "company": "Morgan Stanley",
+      "dates": "1998 - 2000"
+    },
+    {
+      "position": "Associate",
+      "company": "Lehman Brothers",
+      "dates": "1994 - 1998"
+    },
+    {
+      "position": "Auditor",
+      "company": "Ernst & Young",
+      "dates": "1991 - 1994"
+    },
+    {
+      "position": "Board Member",
+      "company": "Submittable",
+      "dates": "2018 - Present"
+    },
+    {
+      "position": "Board Member",
+      "company": "Everlywell",
+      "dates": "2018 - Present"
+    },
+    {
+      "position": "Board Member",
+      "company": "LeanDNA",
+      "dates": "2017 - Present"
+    },
+    {
+      "position": "Co Founder & Managing Director",
+      "company": "Next Coast Ventures",
+      "dates": "2015 - Present"
+    },
+    {
+      "position": "Author - Mr. Monkey and Me, A real survival guide for entreprenuers",
+      "company": "www.mikesmerklo.com",
+      "dates": "2015 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.mikesmerklo.com/",
+    "linkedin": "https://www.linkedin.com/in/mikesmerklo/",
+    "twitter": "https://www.twitter.com/mikesmerklo",
+    "angellist": "https://www.angel.co/u/mike-smerklo",
+    "crunchbase": "https://www.crunchbase.com/person/mike-smerklo"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd09OQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ea7bd0490f84e429799d0ce27cdc0bb1255b6272/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/mike-smerklo",
+  "slug": "mike-smerklo",
+  "scraped_at": "2026-02-24T12:30:22.475921"
+}

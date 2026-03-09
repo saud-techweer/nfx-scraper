@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO"
+    ],
+    "name": "Tim Connors",
+    "signalScore": 239,
+    "website": "https://twitter.com/pivotnorth"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "PivotNorth Capital",
+      "firmUrl": "https://signal.nfx.com/firms/pivotnorth-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$35M",
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "James Tamplin (Founder Collective)",
+        "Vivian Cheng (CRV)",
+        "Erik de Stefanis (Interlace Ventures)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Laura Yao (EQT Ventures)",
+        "Bobby Yazdani (Cota Capital)",
+        "Gokul Rajaram"
+      ],
+      "company": "Darkstore",
+      "date": "Jan 2019",
+      "roundSize": "$7.5M",
+      "stage": "Series A",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [
+        "Satya Patel (Homebrew)",
+        "Miles Dowling (Clocktower Technology Ventures)",
+        "Lauren Kolodny (aCrew Capital)",
+        "Benjamin Savage (Clocktower Technology Ventures)",
+        "Kevin Colas"
+      ],
+      "company": "Chime",
+      "date": "Nov 2014",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$710M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGswQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b2670f3f38f9e502b30b7d12fa23232d9aa704cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tim-connors",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tim-connors",
+  "socials": {
+    "angellist": "https://www.angel.co/timothy",
+    "crunchbase": "https://www.crunchbase.com/person/tim-connors",
+    "linkedin": "https://www.linkedin.com/in/itstimconnors/",
+    "twitter": "https://www.twitter.com/timc"
+  },
+  "scraped_at": "2026-02-28T14:07:56.374957"
+}

@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Alon Lifshitz",
+    "signalScore": 1,
+    "website": "https://hanacovc.com/team/alon-lifshitz"
+  },
+  "experience": [
+    {
+      "company": "Blumberg Capital",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hanaco Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/hanaco-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "€64m",
+    "investmentRange": "$250K - $2.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaG9CIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2a9b5532c8660b34519271fa9319f8d444abd941/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alon-lifshitz",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alon-lifshitz",
+  "socials": {
+    "angellist": "https://www.angel.co/u/alon-lifshitz",
+    "crunchbase": "https://www.crunchbase.com/person/alon-lifshitz",
+    "linkedin": "https://www.linkedin.com/in/alonlifshitz/",
+    "twitter": "https://www.twitter.com/alonlif",
+    "website": "https://www.hanacovc.com/team/alon-lifshitz"
+  },
+  "scraped_at": "2026-02-27T20:09:35.500790"
+}

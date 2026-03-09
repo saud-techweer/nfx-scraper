@@ -1,0 +1,41 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO",
+      "Founder"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Fernando Cabello",
+    "positionAndFirm": "Co-founder and CEO at Devengo, Angel Investor",
+    "website": "https://www.devengo.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODM0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c55d7ff51b907c5d543ad05e63c34a2a625d0579/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fernando-cabello",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "fernando-cabello",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/fernando-cabello-astolfi",
+    "linkedin": "https://www.linkedin.com/in/fcabelloastolfi/",
+    "twitter": "https://www.twitter.com/fertxigan",
+    "website": "https://www.devengo.com/"
+  },
+  "scraped_at": "2026-03-05T19:29:37.876103"
+}

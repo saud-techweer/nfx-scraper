@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Scout",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Amira Yahyaoui",
+    "website": "https://www.sequoiacap.com/founder/amira-yahyaoui/"
+  },
+  "experience": [
+    {
+      "company": "Sequoia Capital",
+      "dates": "2020 - Present",
+      "position": "Scout"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Scout"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzhCQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1ccb57dfda5a6d3fec7a5bfbbf9b4a70e2f5c953/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amira-yahyaoui",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "amira-yahyaoui",
+  "socials": {
+    "angellist": "https://www.angel.co/u/amirayahyaoui",
+    "crunchbase": "https://www.crunchbase.com/person/amira-yahyaoui",
+    "linkedin": "https://www.linkedin.com/in/amirayahyaoui/",
+    "twitter": "https://www.twitter.com/Mira404",
+    "website": "https://www.sequoiacap.com/founder/amira-yahyaoui/"
+  },
+  "scraped_at": "2026-02-28T00:09:21.019530"
+}

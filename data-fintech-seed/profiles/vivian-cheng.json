@@ -1,0 +1,182 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Vivian Cheng",
+    "signalScore": 705,
+    "website": "https://www.crv.com/team/vivian-cheng"
+  },
+  "experience": [
+    {
+      "company": "Javelin",
+      "dates": "2019 - 2021",
+      "position": "Principal"
+    },
+    {
+      "dates": "Present",
+      "title": "Cota Capital"
+    },
+    {
+      "dates": "Present",
+      "title": "Uber"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "CRV",
+      "firmUrl": "https://signal.nfx.com/firms/crv",
+      "position": "Principal"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$500K - $20.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$13.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "James Tamplin (Founder Collective)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Laura Yao (EQT Ventures)",
+        "Tim Connors (PivotNorth Capital)",
+        "Erik de Stefanis (Interlace Ventures)",
+        "Bobby Yazdani (Cota Capital)",
+        "Gokul Rajaram"
+      ],
+      "company": "Darkstore",
+      "date": "Jan 2019",
+      "roundSize": "$7.5M",
+      "stage": "Series A",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [
+        "Hiten Shah"
+      ],
+      "company": "Truebill",
+      "date": "Oct 2018",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5.4M"
+    },
+    {
+      "coInvestors": [
+        "Angus Davis (Foundation Capital)",
+        "Vanessa Indriolo Vreeland (Truist Ventures)",
+        "Sam Englebardt (Galaxy Digital)"
+      ],
+      "company": "Current",
+      "date": "Oct 2017",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$420M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMW5wQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e14dc8ebe06573edf9429cc032927caf647666f5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vivian-cheng",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "vivian-cheng",
+  "socials": {
+    "angellist": "https://www.angel.co/p/vivian-cheng-11",
+    "linkedin": "https://www.linkedin.com/in/vivian-cheng/",
+    "twitter": "https://www.twitter.com/vcheng11",
+    "website": "https://www.crv.com/team/vivian-cheng"
+  },
+  "scraped_at": "2026-02-11T11:58:55.373636"
+}

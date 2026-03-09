@@ -1,0 +1,154 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Mamoon Hamid",
+    "website": "https://kleinerperkins.com/people/mamoon-hamid"
+  },
+  "experience": [
+    {
+      "company": "Social Capital LP",
+      "dates": "2011 - 2017",
+      "position": "Co-Founder and General Partner"
+    },
+    {
+      "company": "U.S. Venture Partners",
+      "dates": "2005 - 2011",
+      "position": "Partner"
+    },
+    {
+      "company": "Strategic Marketing",
+      "dates": "2002 - 2003",
+      "position": "Senior Manager,"
+    },
+    {
+      "company": "Xilinx",
+      "dates": "2000 - 2001",
+      "position": "System Architect"
+    },
+    {
+      "company": "Xilinx",
+      "dates": "1997 - 2000",
+      "position": "Applications Engineer"
+    },
+    {
+      "company": "Deutsche Bank",
+      "dates": "1995 - 1995",
+      "position": "Data Analyst"
+    },
+    {
+      "company": "Kleiner Perkins Caufield & Byers",
+      "dates": "2017 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Kauffman Fellows Program",
+      "dates": "Present",
+      "position": "Kauffman Fellow"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kleiner Perkins",
+      "firmUrl": "https://signal.nfx.com/firms/kleiner-perkins",
+      "position": "Partner"
+    },
+    "fundSize": "750M",
+    "investmentRange": "$2.0M - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jeff Clavier (Uncork Capital)",
+        "Arjun Sethi (Tribe Capital)",
+        "Ed Sim (Boldstart Ventures)",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Pierre Valade",
+        "Hiten Shah",
+        "Stewart Butterfield",
+        "Eoghan McCabe",
+        "Sam Hickmann"
+      ],
+      "company": "Front",
+      "date": "May 2016",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeW5MQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--89aec3e563ba9a4ece38c4afeb3a4bb3bf018628/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mamoon-hamid",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mamoon-hamid",
+  "socials": {
+    "angellist": "https://www.angel.co/mamoon-hamid",
+    "crunchbase": "https://www.crunchbase.com/person/mamoon-hamid",
+    "linkedin": "https://www.linkedin.com/in/mamoonha/",
+    "twitter": "https://www.twitter.com/mamoonha",
+    "website": "https://www.kleinerperkins.com/people/mamoon-hamid"
+  },
+  "scraped_at": "2026-02-27T02:18:06.227554"
+}

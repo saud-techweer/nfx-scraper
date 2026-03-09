@@ -1,0 +1,180 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Design Operator"
+    ],
+    "name": "Jonathon Triest"
+  },
+  "experience": [
+    {
+      "company": "Triest Group",
+      "dates": "2005 - 2008",
+      "position": "Founder"
+    },
+    {
+      "company": "Sandwich Fund",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Ludlow Ventures",
+      "dates": "2009 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ludlow Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ludlow-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $1M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Griffin Schroeder (Tiger Global Management)",
+        "Ron Conway (SV Angel)",
+        "Roger Lee (Battery Ventures)",
+        "Ronald Conway Sr. (SV Angel)",
+        "Joe Kraus (GV (Google Ventures))",
+        "Scooter Braun (TQ Ventures)",
+        "Jared Middleman (Dragoneer Investment Group)",
+        "Ted Leonsis (Revolution)",
+        "Karlie Kloss (Klossy)",
+        "Shana Fisher (Third Kind Ventures)",
+        "Steve Aoki",
+        "Mark Wahlberg",
+        "Marc Benioff"
+      ],
+      "company": "StockX",
+      "date": "Sep 2018",
+      "roundSize": "$44M",
+      "stage": "Series B",
+      "totalRaised": "$580M"
+    },
+    {
+      "coInvestors": [
+        "Kai Buehler (World Fund)"
+      ],
+      "company": "Honey",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNllWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eccf993cc19a0417264fc77098ba89a7190db734/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathon-triest",
+  "sectorRankings": [
+    {
+      "name": "Messaging (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Messaging (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jonathon-triest",
+  "socials": {
+    "angellist": "https://www.angel.co/jtriest",
+    "crunchbase": "https://www.crunchbase.com/person/jonathon-triest",
+    "linkedin": "https://www.linkedin.com/in/jtriest/",
+    "twitter": "https://www.twitter.com/jtriest"
+  },
+  "scraped_at": "2026-02-11T12:21:17.995056"
+}

@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Cristina Apple Georgoulakis",
+    "website": "https://sevensevensix.com/team/"
+  },
+  "experience": [
+    {
+      "company": "AirAngels",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Seven Seven Six",
+      "firmUrl": "https://signal.nfx.com/firms/seven-seven-six",
+      "position": "Partner"
+    },
+    "fundSize": "$520M",
+    "investmentRange": "$750K - $4.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeEJEQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--60907e34bb6ce8407084bf255ddd99911732c103/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cristina-apple-georgoulakis",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "cristina-apple-georgoulakis",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/cristina-apple-georgoulaki",
+    "linkedin": "https://www.linkedin.com/in/claki/",
+    "twitter": "https://www.twitter.com/cristina_laki"
+  },
+  "scraped_at": "2026-02-26T09:53:45.058692"
+}

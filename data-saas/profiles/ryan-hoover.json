@@ -1,0 +1,334 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Founder",
+      "Investor",
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Ryan Hoover",
+    "positionAndFirm": "Investor at Weekend Fund. Los Angeles, California, United States  Contact info",
+    "signalScore": 814,
+    "website": "https://ryanhoover.me/"
+  },
+  "experience": [
+    {
+      "company": "Tradecraft",
+      "dates": "2013 - 2014",
+      "position": "EIR"
+    },
+    {
+      "company": "Startup Edition",
+      "dates": "2013 - 2014",
+      "position": "Creator"
+    },
+    {
+      "company": "PlayHaven",
+      "dates": "2011 - 2014",
+      "position": "Director of Product"
+    },
+    {
+      "company": "PlayHaven",
+      "dates": "2010 - 2011",
+      "position": "Product Manager"
+    },
+    {
+      "company": "InstantAction",
+      "dates": "2010 - 2010",
+      "position": "Product Manager"
+    },
+    {
+      "company": "InstantAction",
+      "dates": "2009 - 2010",
+      "position": "Marketing Analyst"
+    },
+    {
+      "company": "Pentagon Federal Credit Union",
+      "dates": "2008 - 2009",
+      "position": "Service and Lending Consultant"
+    },
+    {
+      "company": "InstantAction",
+      "dates": "2009 - 2009",
+      "position": "Social Media Marketing Intern"
+    },
+    {
+      "company": "Pentagon Federal Credit Union",
+      "dates": "2006 - 2008",
+      "position": "Member Service Representative"
+    },
+    {
+      "company": "Jerry's Home Improvement",
+      "dates": "2004 - 2005",
+      "position": "Customer Service Agent"
+    },
+    {
+      "company": "Weekend Fund",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Product Hunt",
+      "dates": "2013 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "ryanhoover.me",
+      "dates": "2012 - Present",
+      "position": "Blogger / Writer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Weekend Fund",
+      "firmUrl": "https://signal.nfx.com/firms/weekend-fund",
+      "position": "Investor"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$100K - $250K",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$175K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Topher Conway (SV Angel)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Matt Scott (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Chris Moreno (Infinite Niches)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Alex Roetter (Moxxie Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "Lucy Guo (Backend Capital)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Niv Dror (Shrug Capital)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Kevin Weil",
+        "Peter Hunn",
+        "Yagiz Sozmen",
+        "Moshe Lifschitz",
+        "Tyler Willis",
+        "Alper Kiresepi",
+        "Rudra Peram",
+        "Howard Charney",
+        "Zach Segal"
+      ],
+      "company": "MainStreet",
+      "date": "Jun 2020",
+      "roundSize": "$2.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$70M"
+    },
+    {
+      "coInvestors": [],
+      "company": "FitnessAI",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Cristian Raygoza (Iluminar Ventures)",
+        "Ashley Flucas (Flucas Ventures)"
+      ],
+      "company": "Around",
+      "date": "Mar 2020",
+      "roundSize": "$5.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Marlon Nichols (MaC Venture Capital)",
+        "Andrew Tymovskyi (Roosh Ventures)",
+        "Abhinav Gupta (Thirdbase Capital)",
+        "Michael Tam (Craft Ventures)",
+        "Naval Ravikant (The Hit Forge)",
+        "Tx Zhuo (Fika Ventures)",
+        "Sky Dayton (Craft Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "David Sacks (Craft Ventures)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Larry Chu (Eunoia Capital Partners)",
+        "Shervin Pishevar",
+        "Ryan Chan",
+        "Michael Ma",
+        "Jon Runyan",
+        "Valentin Gui",
+        "Sung ho Choi"
+      ],
+      "company": "Pipe",
+      "date": "Feb 2020",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$270M"
+    },
+    {
+      "coInvestors": [
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Chris Moreno (Infinite Niches)",
+        "Alex Norman (N49P Ventures)"
+      ],
+      "company": "Voiceflow",
+      "date": "Apr 2019",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [
+        "Tim Guleri (Sierra Ventures)",
+        "Sunil Chhaya (Kearny Jackson)",
+        "Jeff Richards (Notable Capital (formerly GGV Capital))",
+        "Laura Yao (EQT Ventures)",
+        "Fady Yacoub (HOF Capital)",
+        "Ross Mason (Dig Ventures)",
+        "Adam D'Angelo",
+        "Pratyus Patnaik"
+      ],
+      "company": "HeadSpin",
+      "date": "Oct 2018",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Leaftail Labs",
+      "date": "Oct 2018",
+      "roundSize": "$1.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Chartable",
+      "date": "Sep 2018",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWFCQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dbd12ecf24d6a33163466c42746627528b40f081/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ryan-hoover",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "ryan-hoover",
+  "socials": {
+    "angellist": "https://www.angel.co/p/rrhoover",
+    "crunchbase": "https://www.crunchbase.com/person/ryan-hoover",
+    "linkedin": "https://www.linkedin.com/in/ryanrhoover/",
+    "twitter": "https://www.twitter.com/rrhoover",
+    "website": "https://www.ryanhoover.me/"
+  },
+  "scraped_at": "2026-02-27T04:14:46.090806"
+}

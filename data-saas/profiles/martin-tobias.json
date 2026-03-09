@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Angel",
+      "Operator"
+    ],
+    "location": "Spokane, Washington",
+    "name": "Martin Tobias",
+    "signalScore": 2994,
+    "website": "https://www.incisive.vc/"
+  },
+  "experience": [
+    {
+      "company": "Upgrade Labs",
+      "dates": "2018 - 2020",
+      "position": "CEO"
+    },
+    {
+      "company": "Cloudmark",
+      "dates": "2000 - 2015",
+      "position": "Board of Directors"
+    },
+    {
+      "company": "IGNITION PARTNERS",
+      "dates": "2002 - 2010",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Imperium",
+      "dates": "2005 - 2008",
+      "position": "CEO"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "1991 - 1997",
+      "position": "Manager"
+    },
+    {
+      "company": "Andersen Consulting (currently Accenture)",
+      "dates": "1987 - 1991",
+      "position": "Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Incisive Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/incisive-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$175K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Katalyst Inc.",
+      "date": "Feb 2021",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Ashley Flucas (Flucas Ventures)"
+      ],
+      "company": "Fight Camp",
+      "date": "Dec 2018",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Michael Jeon (Solasta Ventures)",
+        "David Mort (Propel Venture Partners)",
+        "Jay Reinemann (Propel Venture Partners)",
+        "Jules Walker",
+        "Rob Theis"
+      ],
+      "company": "Docusign",
+      "date": "Jun 2004",
+      "roundSize": "$4.6M",
+      "stage": "Series A",
+      "totalRaised": "$110M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi9oQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--689a50b35ed78d24c4014cdd192fa22efdf88720/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-tobias",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "martin-tobias",
+  "socials": {
+    "angellist": "https://www.angel.co/martin-tobias/syndicate",
+    "crunchbase": "https://www.crunchbase.com/person/martin-tobias",
+    "linkedin": "https://www.linkedin.com/in/martintobias/",
+    "twitter": "https://www.twitter.com/martingtobias",
+    "website": "https://www.incisive.vc/"
+  },
+  "scraped_at": "2026-02-27T02:32:25.023352"
+}

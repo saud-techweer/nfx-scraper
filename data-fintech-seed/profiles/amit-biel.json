@@ -1,0 +1,163 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Founder",
+      "Finance Operator"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Amit Biel",
+    "signalScore": 25
+  },
+  "experience": [
+    {
+      "company": "Flymoney",
+      "dates": "2016 - Present",
+      "position": "Director and Shareholder"
+    },
+    {
+      "company": "365Scores",
+      "dates": "2014 - Present",
+      "position": "Shareholder"
+    },
+    {
+      "company": "iAngels",
+      "dates": "2014 - Present",
+      "position": "Shareholder"
+    },
+    {
+      "company": "RESIDx LLC - Predictive Analytics",
+      "dates": "2005 - Present",
+      "position": "Shareholder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Biel Investments",
+      "firmUrl": "https://signal.nfx.com/firms/biel-investments",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $250K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Wellerz",
+      "date": "Jul 2021",
+      "roundSize": "$700K",
+      "stage": "Seed",
+      "totalRaised": "$700K"
+    },
+    {
+      "coInvestors": [
+        "Gil Arazi (FinTLV Ventures)"
+      ],
+      "company": "Blackswan Tehnologies",
+      "date": "Jun 2021",
+      "roundSize": "$120M",
+      "stage": "Series A",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Flymoney",
+      "date": "Dec 2018",
+      "roundSize": "$1M",
+      "stage": "Post Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SPiCE VC",
+      "date": "Nov 2017",
+      "roundSize": "$500K",
+      "stage": "seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [
+        "Andrew Blachman (Marketplace Capital)",
+        "Jai Choi (Tekton Ventures)",
+        "Eran Yarkoni"
+      ],
+      "company": "Outdoorsy",
+      "date": "Nov 2016",
+      "roundSize": "$120K",
+      "stage": "Seed",
+      "totalRaised": "$240K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3lkQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9870b64bac4080b3004256e0a191699d697f5d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amit-biel",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "amit-biel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/amit-biel",
+    "linkedin": "https://www.linkedin.com/in/amitbiel/"
+  },
+  "scraped_at": "2026-02-28T00:09:35.793520"
+}

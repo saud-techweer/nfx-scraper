@@ -1,0 +1,107 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "M.G. Siegler",
+    "website": "https://mgsiegler.com/"
+  },
+  "experience": [
+    {
+      "company": "TechCrunch",
+      "dates": "2011 - 2014",
+      "position": "Columnist"
+    },
+    {
+      "company": "CrunchFund",
+      "dates": "2011 - 2013",
+      "position": "General Partner"
+    },
+    {
+      "company": "AOL",
+      "dates": "2010 - 2011",
+      "position": "Programming Director"
+    },
+    {
+      "company": "TechCrunch",
+      "dates": "2009 - 2011",
+      "position": "Writer"
+    },
+    {
+      "company": "VentureBeat",
+      "dates": "2008 - 2009",
+      "position": "Writer"
+    },
+    {
+      "company": "Pint, Inc.",
+      "dates": "2006 - 2007",
+      "position": "Manager / Web Developer"
+    },
+    {
+      "company": "Red Hour Films",
+      "dates": "2005 - 2006",
+      "position": "Scripts"
+    },
+    {
+      "company": "GV",
+      "dates": "2013 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "GV (Google Ventures)",
+      "firmUrl": "https://signal.nfx.com/firms/gv",
+      "position": "General Partner"
+    },
+    "fundSize": "$8B",
+    "investmentRange": "$250K - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Samuel (Freestyle Capital)",
+        "Louis Beryl"
+      ],
+      "company": "Digit",
+      "date": "Sep 2019",
+      "roundSize": "$28M",
+      "stage": "Series C",
+      "totalRaised": "$28M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2JMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6ec6472a5a14ea0e72e6f56aaf6fb656c227ba5b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/m-g-siegler",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "m-g-siegler",
+  "socials": {
+    "angellist": "https://www.angel.co/mgsiegler",
+    "crunchbase": "https://www.crunchbase.com/person/mg-siegler",
+    "linkedin": "https://www.linkedin.com/in/mgsiegler/",
+    "twitter": "https://www.twitter.com/mgsiegler",
+    "website": "https://www.mgsiegler.com/"
+  },
+  "scraped_at": "2026-02-27T23:28:58.021291"
+}

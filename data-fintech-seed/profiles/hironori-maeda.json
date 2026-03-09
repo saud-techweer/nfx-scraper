@@ -1,0 +1,156 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Tokyo",
+    "name": "Hiro Maeda",
+    "signalScore": 108,
+    "website": "https://hmaeda.com/"
+  },
+  "experience": [
+    {
+      "company": "BEENOS Inc. (formerly netprice.com, Ltd.)",
+      "dates": "2009 - 2015",
+      "position": "Managing Partner | Executive Officer"
+    },
+    {
+      "company": "Open Network Lab",
+      "dates": "2010 - 2013",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Bucknell University",
+      "dates": "2007 - 2008",
+      "position": "Teaching Assistant for Introductory Java Programming Courses"
+    },
+    {
+      "company": "Canadian Academy",
+      "dates": "2007 - 2007",
+      "position": "Network Engineering Intern"
+    },
+    {
+      "company": "Shin Caterpillar Mitsubishi LTD",
+      "dates": "2007 - 2007",
+      "position": "Web and System Application Developer"
+    },
+    {
+      "company": "Bucknell University",
+      "dates": "2006 - 2007",
+      "position": "Flash Programmer"
+    },
+    {
+      "company": "BEENEXT PTE. LTD",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BEENEXT",
+      "firmUrl": "https://signal.nfx.com/firms/beenext",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$40M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbG9EIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7cc9917a8ac77d30f3d57059d11a33fcf9eaf0f0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hironori-maeda",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "hironori-maeda",
+  "socials": {
+    "angellist": "https://www.angel.co/hiro-maeda",
+    "crunchbase": "https://www.crunchbase.com/person/hiro-maeda",
+    "linkedin": "https://www.linkedin.com/in/hironorimaeda/",
+    "twitter": "https://www.twitter.com/djtokyo",
+    "website": "https://www.hmaeda.com/"
+  },
+  "scraped_at": "2026-02-11T13:26:14.491402"
+}

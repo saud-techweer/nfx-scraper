@@ -1,0 +1,152 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Michael Lombardi",
+    "signalScore": 92,
+    "website": "https://www.mikejlombardi.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Alexander Tran (Plug & Play Ventures)",
+        "Diego Rey (Endpoint Ventures)",
+        "Mathieu Guerville"
+      ],
+      "company": "Meru Health",
+      "date": "Mar 2020",
+      "roundSize": "$8.1M",
+      "stage": "Series A",
+      "totalRaised": "$8.1M"
+    },
+    {
+      "coInvestors": [
+        "Merritt Hummer (Bain Capital Ventures)"
+      ],
+      "company": "SmartRent",
+      "date": "Jun 2019",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [
+        "Alejandro Galvez (99 Startups)",
+        "Ryan Duranso"
+      ],
+      "company": "Grin",
+      "date": "Jun 2018",
+      "roundSize": "$27M",
+      "stage": "Seed",
+      "totalRaised": "$33M"
+    },
+    {
+      "coInvestors": [
+        "Kurt Bilafer",
+        "Asher Leids"
+      ],
+      "company": "Cafe X",
+      "date": "Jan 2018",
+      "roundSize": "$14M",
+      "stage": "Seed",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Jason Yeh (Patron)"
+      ],
+      "company": "Upward Farms",
+      "date": "Nov 2016",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXhsQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--458e8cfb1abe1bdfce716de3e8ec1a006ab20f1a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-lombardi",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "michael-lombardi",
+  "socials": {
+    "angellist": "https://www.angel.co/u/michael-lombardi",
+    "crunchbase": "https://www.crunchbase.com/person/michael-lombardi",
+    "linkedin": "https://www.linkedin.com/in/michaeljlombardi/",
+    "twitter": "https://www.twitter.com/mj_lombardi",
+    "website": "https://www.mikejlombardi.com/"
+  },
+  "scraped_at": "2026-02-27T02:49:47.849190"
+}

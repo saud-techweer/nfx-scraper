@@ -1,0 +1,220 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Ken Horenstein",
+    "signalScore": 69,
+    "website": "https://www.packvc.com/"
+  },
+  "experience": [
+    {
+      "company": "M12 - Microsoft's Venture Fund",
+      "dates": "2017 - 2020",
+      "position": "Head of Market Development"
+    },
+    {
+      "company": "Porch",
+      "dates": "2015 - 2016",
+      "position": "Strategy Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pack Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/pack-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$50K - $1M",
+    "investmentsOnRecord": 10,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Olis Robotics",
+      "date": "Jul 2023",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Phase Genomics",
+      "date": "Mar 2023",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Abacus Bioscience Inc",
+      "date": "Jan 2023",
+      "roundSize": "$180K",
+      "stage": "Seed",
+      "totalRaised": "$180K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Rainfall",
+      "date": "Sep 2022",
+      "roundSize": "$200K",
+      "stage": "Pre-seed",
+      "totalRaised": "$200K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Monod Bio",
+      "date": "Jun 2022",
+      "roundSize": "$5M",
+      "stage": "Pre-seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "LifeAt.com",
+      "date": "May 2022",
+      "roundSize": "$100K",
+      "stage": "Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Proxi",
+      "date": "Feb 2022",
+      "roundSize": "$1.2M",
+      "stage": "Preseed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Supio",
+      "date": "Dec 2021",
+      "roundSize": "$100K",
+      "stage": "Pre-seed",
+      "totalRaised": "$100K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVNuQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--80db1646d9b577beac29357bd686df296b66266c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ken-horenstein",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "ken-horenstein",
+  "socials": {
+    "angellist": "https://www.angel.co/p/kenneth-horenstein",
+    "crunchbase": "https://www.crunchbase.com/person/ken-horenstein",
+    "linkedin": "https://www.linkedin.com/in/kenhorenstein/",
+    "twitter": "https://www.twitter.com/kenhorenstein",
+    "website": "https://www.packvc.com/"
+  },
+  "scraped_at": "2026-02-27T01:45:11.827518"
+}

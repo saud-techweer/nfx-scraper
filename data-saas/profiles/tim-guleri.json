@@ -1,0 +1,108 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Former CEO",
+      "Founder",
+      "Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Tim Guleri",
+    "signalScore": 320,
+    "website": "https://sierraventures.com/tim-guleri/"
+  },
+  "experience": [
+    {
+      "company": "Sierra Ventures",
+      "dates": "2001 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sierra Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sierra-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$270M",
+    "investmentRange": "$500K - $15.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$7.8M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ross Mason (Dig Ventures)",
+        "Sunil Chhaya (Kearny Jackson)",
+        "Jeff Richards (Notable Capital (formerly GGV Capital))",
+        "Laura Yao (EQT Ventures)",
+        "Fady Yacoub (HOF Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Pratyus Patnaik",
+        "Adam D'Angelo"
+      ],
+      "company": "HeadSpin",
+      "date": "Oct 2018",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$50M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbU1JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--929352c78ac1626c8784c08d999db57bfb78c6c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tim-guleri",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "tim-guleri",
+  "socials": {
+    "angellist": "https://www.angel.co/p/tim-guleri",
+    "crunchbase": "https://www.crunchbase.com/person/tim-guleri",
+    "linkedin": "https://www.linkedin.com/in/timguleri/",
+    "twitter": "https://www.twitter.com/timguleri?lang=en",
+    "website": "https://www.sierraventures.com/tim-guleri/"
+  },
+  "scraped_at": "2026-02-27T05:10:43.032648"
+}

@@ -1,0 +1,211 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "CEO",
+      "Marketing Operator",
+      "Growth Operator"
+    ],
+    "location": "Austin, Texas",
+    "name": "Jonathan Chizick",
+    "signalScore": 285,
+    "website": "https://www.jonathanchizick.com/"
+  },
+  "experience": [
+    {
+      "company": "VMware",
+      "dates": "2018 - 2024",
+      "position": "Strategic Business Development"
+    },
+    {
+      "company": "AppZen",
+      "dates": "2016 - 2018",
+      "position": "Head of Marketing and Business Development"
+    },
+    {
+      "company": "Drippler",
+      "dates": "2014 - 2015",
+      "position": "VP Sales & Business Development"
+    },
+    {
+      "company": "Samsung Electronics",
+      "dates": "2011 - 2014",
+      "position": "Business Development, New Ventures"
+    },
+    {
+      "company": "MarketingCamp",
+      "dates": "2012 - 2013",
+      "position": "Co-Founder / CMO"
+    },
+    {
+      "company": "Dell, Inc.",
+      "dates": "2008 - 2011",
+      "position": "Head of Marketing, Alienware"
+    },
+    {
+      "company": "Dell",
+      "dates": "2005 - 2008",
+      "position": "Sr. Marketing Brand Manager"
+    },
+    {
+      "company": "Best Buy Corporation",
+      "dates": "2003 - 2005",
+      "position": "Consumer Marketing Associate Manager"
+    },
+    {
+      "company": "WalkAbout Wireless, Inc.",
+      "dates": "2000 - 2003",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Global Waves",
+      "dates": "2022 - Present",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Capital Factory",
+      "dates": "2018 - Present",
+      "position": "Mentor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$3K - $15K",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$5K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Mitchel Laskey (DeepWork Capital)",
+        "Pete Moore",
+        "Jacques Fu"
+      ],
+      "company": "Xendoo",
+      "date": "May 2022",
+      "roundSize": "$4.2M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Kobi Shkuri (Shkuri Ventures)",
+        "Adam Metz (D.F.A. Capital)",
+        "Irene Mingozzi (LombardStreet Ventures)",
+        "Sri Batchu"
+      ],
+      "company": "Stonks",
+      "date": "Feb 2022",
+      "roundSize": "$5K",
+      "stage": "Seed",
+      "totalRaised": "$5K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Eyerate",
+      "date": "Aug 2021",
+      "roundSize": "$1.9M",
+      "stage": "Seed",
+      "totalRaised": "$1.9M"
+    },
+    {
+      "coInvestors": [
+        "Kurt Bilafer"
+      ],
+      "company": "LeadIQ",
+      "date": "Jul 2021",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Thalamus",
+      "date": "Oct 2019",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHR6Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ed11e2244856b4c5c6297fc2ce14603c21f32fe4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathan-chizick",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    }
+  ],
+  "slug": "jonathan-chizick",
+  "socials": {
+    "angellist": "https://www.angel.co/jonathanchizick",
+    "crunchbase": "https://www.crunchbase.com/person/jonathan-chizick",
+    "linkedin": "https://www.linkedin.com/in/jchizick/",
+    "twitter": "https://www.twitter.com/JCinSV",
+    "website": "https://www.jonathanchizick.com/"
+  },
+  "scraped_at": "2026-02-27T01:19:46.658670"
+}

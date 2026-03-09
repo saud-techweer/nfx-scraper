@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "name": "Youri Doeleman",
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "website": "https://www.antler.co/team",
+    "location": "Amsterdam, Netherlands"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Antler",
+      "firmUrl": "https://signal.nfx.com/firms/antler",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M",
+    "investmentsOnRecord": 7
+  },
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "StocksFC",
+      "stage": "Pre Seed",
+      "date": "May 2023",
+      "roundSize": "$110K",
+      "totalRaised": "$110K",
+      "coInvestors": []
+    },
+    {
+      "company": "Getplace.io",
+      "stage": "Pre Seed",
+      "date": "Feb 2023",
+      "roundSize": "$110K",
+      "totalRaised": "$110K",
+      "coInvestors": [
+        "Ronald Jan Schuurs (Antler)"
+      ]
+    },
+    {
+      "company": "not8",
+      "stage": "Pre Seed",
+      "date": "Jan 2023",
+      "roundSize": "$110K",
+      "totalRaised": "$110K",
+      "coInvestors": []
+    },
+    {
+      "company": "Insiber",
+      "stage": "Pre Seed",
+      "date": "Dec 2022",
+      "roundSize": "$110K",
+      "totalRaised": "$110K",
+      "coInvestors": []
+    },
+    {
+      "company": "Carble",
+      "stage": "Seed",
+      "date": "Nov 2022",
+      "roundSize": "$300K",
+      "totalRaised": "$300K",
+      "coInvestors": []
+    },
+    {
+      "company": "Genie",
+      "stage": "Pre Seed",
+      "date": "Jul 2021",
+      "roundSize": "$120K",
+      "totalRaised": "$120K",
+      "coInvestors": []
+    },
+    {
+      "company": "Clear",
+      "stage": "Seed",
+      "date": "Feb 2020",
+      "roundSize": "$850K",
+      "totalRaised": "$850K",
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.antler.co/team",
+    "linkedin": "https://www.linkedin.com/in/youridoeleman/",
+    "twitter": "https://www.twitter.com/themagicdude",
+    "crunchbase": "https://www.crunchbase.com/person/youri-doelema"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzdqQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d02a81aaa0b1b4cc4a18b4b56ce69711f8b6989c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/youri-doeleman",
+  "slug": "youri-doeleman",
+  "scraped_at": "2026-02-24T13:37:24.817979"
+}

@@ -1,0 +1,199 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Former CEO",
+      "Product Operator"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Anna Barber",
+    "signalScore": 1027,
+    "website": "https://m13.co/team-members/anna-barber/"
+  },
+  "experience": [
+    {
+      "company": "M13 Company",
+      "dates": "2020 - 2026",
+      "position": "partner"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2017 - 2020",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Everywhere Ventures (The Fund)",
+      "dates": "2026 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Everywhere Ventures (The Fund)",
+      "firmUrl": "https://signal.nfx.com/firms/the-fund",
+      "position": "General Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$500K - $3.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Sitch",
+      "date": "Jun 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Maven AGI",
+      "date": "Mar 2024",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [
+        "Rak Garg (Bain Capital Ventures)",
+        "Allison Pickens (Allison Pickens Ventures",
+        "formerly The New Normal Fund)"
+      ],
+      "company": "Norm AI",
+      "date": "Oct 2023",
+      "roundSize": null,
+      "stage": "Series Unknown",
+      "totalRaised": "$27M"
+    },
+    {
+      "coInvestors": [],
+      "company": "WeeCare, Inc.",
+      "date": "Feb 2022",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Scott Hartley (Everywhere Ventures (The Fund))"
+      ],
+      "company": "ChargerHelp!",
+      "date": "Feb 2021",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$4.5M"
+    },
+    {
+      "coInvestors": [
+        "YekSoon Lok (Awesome Ventures)",
+        "William Barnes (Moving Capital)",
+        "Curtis Chambers",
+        "Grant Miller"
+      ],
+      "company": "Replenysh",
+      "date": "Jul 2020",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Nandeet Mehta (Afore Capital)",
+        "Rajat Bhageria (Afore Capital)"
+      ],
+      "company": "theCut",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFVFQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--914f1e590d399b6b7bb33baff5fdaa7162ef41a0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anna-barber",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    }
+  ],
+  "slug": "anna-barber",
+  "socials": {
+    "angellist": "https://www.angel.co/p/anna-barber",
+    "crunchbase": "https://www.crunchbase.com/person/anna-barber",
+    "linkedin": "https://www.linkedin.com/in/annawbarber/",
+    "twitter": "https://www.twitter.com/annawbarber",
+    "website": "https://www.m13.co/team-members/anna-barber/"
+  },
+  "scraped_at": "2026-02-11T13:20:18.118039"
+}

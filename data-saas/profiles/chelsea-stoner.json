@@ -1,0 +1,117 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Chelsea Stoner",
+    "website": "https://www.battery.com/people/chelsea-stoner/"
+  },
+  "experience": [
+    {
+      "company": "Classified Ventures",
+      "dates": "2002 - 2003",
+      "position": "Associate"
+    },
+    {
+      "company": "Merrill Lynch",
+      "dates": "2002 - 2002",
+      "position": "Summer Associate Banking"
+    },
+    {
+      "company": "Accenture",
+      "dates": "1996 - 2001",
+      "position": "Manager"
+    },
+    {
+      "company": "Battery Ventures",
+      "dates": "2006 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Key Principal Partners",
+      "dates": "Present",
+      "position": "Senior Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Battery Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/battery-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$3.8B",
+    "investmentRange": "$250K - $60.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Doug Burgum (Arthur Ventures)"
+      ],
+      "company": "Avalara",
+      "date": "Sep 2016",
+      "roundSize": "$96M",
+      "stage": "Series D",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Brian Jacobs (Emergence Capital)",
+        "Byron Deeter (Bessemer Venture Partners)",
+        "Bob Spinner (Jackson Square Ventures)",
+        "Jeff Epstein (Bessemer Venture Partners)",
+        "Ann Winblad (HWVP (Hummer Winblad Venture Partners))",
+        "Greg Sands (Costanoa Ventures)",
+        "Harshul Sanghi (American Express Ventures)"
+      ],
+      "company": "Sage Intacct",
+      "date": "Feb 2014",
+      "roundSize": "$30M",
+      "stage": "Series G",
+      "totalRaised": "$42M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa1lCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b4848ed609e1330ea0bbf96a3681b12c4fbe8d2a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chelsea-stoner",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chelsea-stoner",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/chelsea-stoner",
+    "linkedin": "https://www.linkedin.com/pub/chelsea-stoner/2/92b/4b0/",
+    "twitter": "https://www.twitter.com/ChelsStoner",
+    "website": "https://www.battery.com/people/chelsea-stoner/"
+  },
+  "scraped_at": "2026-02-27T05:52:07.080556"
+}

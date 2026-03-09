@@ -1,0 +1,224 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Chris Cunningham",
+    "positionAndFirm": "Managing Partner @ C2 Ventures--Investing in the dirty, dull, and dangerous sectors",
+    "signalScore": 347,
+    "website": "https://www.c2ventures.co/"
+  },
+  "experience": [
+    {
+      "company": "Unacast",
+      "dates": "2016 - 2018",
+      "position": "President"
+    },
+    {
+      "company": "ironSource",
+      "dates": "2014 - 2016",
+      "position": "VP"
+    },
+    {
+      "company": "Appssavvy",
+      "dates": "2008 - 2014",
+      "position": "Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "C2Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/c2ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$2.8M",
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 38,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Karl Alomar (M13)"
+      ],
+      "company": "Tarform",
+      "date": "May 2019",
+      "roundSize": "$650K",
+      "stage": "Seed",
+      "totalRaised": "$650K"
+    },
+    {
+      "coInvestors": [
+        "Valentina Pidgaina (Vibranium.VC)",
+        "Sandy Cass (Red Swan Ventures)",
+        "Zamir Shukho (Vibranium.VC)"
+      ],
+      "company": "Otis",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Driver Technologies",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "3D Continuum",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "EdgeEnergy",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Eric Ong (Lightbank)"
+      ],
+      "company": "Retrievables",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$800K"
+    },
+    {
+      "coInvestors": [],
+      "company": "UptimeHealth",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Approva",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcDBLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5a8133a71dca79efe64c40c7034a1ccd3fc15305/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-cunningham",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    }
+  ],
+  "slug": "chris-cunningham",
+  "socials": {
+    "angellist": "https://www.angel.co/company/c2-ventures-llc",
+    "crunchbase": "https://www.crunchbase.com/person/chris-cunningham-5",
+    "linkedin": "https://www.linkedin.com/in/cunninghamchrisc2/",
+    "twitter": "https://www.twitter.com/C2cunningham",
+    "website": "https://www.c2ventures.co/"
+  },
+  "scraped_at": "2026-02-27T05:58:55.526025"
+}

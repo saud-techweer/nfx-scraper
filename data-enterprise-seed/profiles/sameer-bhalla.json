@@ -1,0 +1,188 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor",
+      "Advisor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Sameer Bhalla",
+    "positionAndFirm": "SaaS Founder, Executive, Advisor, and Investor",
+    "signalScore": 127,
+    "website": "https://sbhalla.org/"
+  },
+  "experience": [
+    {
+      "company": "Modal",
+      "dates": "2021 - 2022",
+      "position": "CEO"
+    },
+    {
+      "company": "SwoopMe, Inc.",
+      "dates": "2014 - 2019",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "Technology Crossover Ventures",
+      "dates": "2011 - 2014",
+      "position": "Investor"
+    },
+    {
+      "company": "Oncue",
+      "dates": "2022 - Present",
+      "position": "Board Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$15K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Todd Johnson (Sand Hill Angels)",
+        "Will Groah (01 Advisors)",
+        "Fanny Surjana"
+      ],
+      "company": "Flexbase",
+      "date": "May 2021",
+      "roundSize": "$3.2M",
+      "stage": "Pre Seed Round",
+      "totalRaised": "$3.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Oncue",
+      "date": "Jan 2021",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "AutoLeap",
+      "date": "Dec 2020",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nana Academy",
+      "date": "Nov 2020",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenlaQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--54fcc37ecb4c1f44676b8a9b898bb8a2e79b6ab0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sameer-bhalla",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sameer-bhalla",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/sbhalla4/",
+    "twitter": "https://www.twitter.com/sambhall",
+    "website": "https://www.sbhalla.org/"
+  },
+  "scraped_at": "2026-02-27T04:20:36.998867"
+}

@@ -1,0 +1,143 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Cambridge, Massachusetts",
+    "name": "David Frankel",
+    "website": "https://foundercollective.com/david-frankel"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founder Collective",
+      "firmUrl": "https://signal.nfx.com/firms/founder-collective",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$75M",
+    "investmentRange": "$400K - $2.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Phin Barnes (The General Partnership)"
+      ],
+      "company": "Karuna Health",
+      "date": "May 2018",
+      "roundSize": "$1.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Keith Rabois (Khosla Ventures)",
+        "Jack Groetzinger (Founder Collective)",
+        "David Thacker (Greylock)",
+        "Matt Murphy (Menlo Ventures)",
+        "Auren Hoffman (Flex Capital)",
+        "Tod Sacerdoti (Flex Capital)",
+        "Eduardo Vivas (Curated)",
+        "Susan Hobbs (CrunchFund)",
+        "Justin Ziebell (Indeed.com)"
+      ],
+      "company": "Truework",
+      "date": "Apr 2018",
+      "roundSize": "$2.9M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1hDQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3c39295374961a57af2aacdeb43c3f7a8b3afc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-frankel_1",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-frankel_1",
+  "socials": {
+    "angellist": "https://www.angel.co/p/david-frankel",
+    "crunchbase": "https://www.crunchbase.com/person/david-frankel-3",
+    "linkedin": "https://www.linkedin.com/in/davidafrankel1/",
+    "twitter": "https://www.twitter.com/dafrankel",
+    "website": "https://www.foundercollective.com/david-frankel"
+  },
+  "scraped_at": "2026-02-27T21:24:08.295542"
+}

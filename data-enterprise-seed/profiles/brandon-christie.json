@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Brandon Christie",
+    "website": "https://nea.com/team/brandon-christie"
+  },
+  "experience": [
+    {
+      "company": "Captora",
+      "dates": "2016 - 2017",
+      "position": "Head of Product Monetization (NEA Portco)"
+    },
+    {
+      "company": "Barclays",
+      "dates": "2012 - 2014",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "New Enterprise Associates (NEA)",
+      "dates": "2014 - Present",
+      "position": "Venture Capitalist"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New Enterprise Associates (NEA)",
+      "firmUrl": "https://signal.nfx.com/firms/new-enterprise-associates",
+      "position": "Principal"
+    },
+    "fundSize": "$6.2B",
+    "investmentRange": "$2.0M - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVhqQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bde2d92a4099d02935515752ff8ce6d32eb99dd3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brandon-christie",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brandon-christie",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brandon-christie",
+    "crunchbase": "https://www.crunchbase.com/person/brandon-christie",
+    "linkedin": "https://www.linkedin.com/in/brandonchristie/",
+    "twitter": "https://www.twitter.com/brandonc12?lang=bg",
+    "website": "https://www.nea.com/team/brandon-christie"
+  },
+  "scraped_at": "2026-02-27T20:46:10.187284"
+}

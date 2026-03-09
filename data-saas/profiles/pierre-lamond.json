@@ -1,0 +1,54 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Pierre Lamond",
+    "website": "https://eclipse.vc/team/pierre-lamond/"
+  },
+  "experience": [
+    {
+      "company": "Formation 8",
+      "dates": "2014 - 2015",
+      "position": "Senior Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Eclipse Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/eclipse-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$1 - $30",
+    "sweetSpot": "$15"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeC9YQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aeb4a38dec93542af2464eee1210e233f8f6a74b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pierre-lamond",
+  "sectorRankings": [
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "pierre-lamond",
+  "socials": {
+    "angellist": "https://www.angel.co/u/pierre-lamond-1",
+    "crunchbase": "https://www.crunchbase.com/person/pierre-lamond",
+    "linkedin": "https://www.linkedin.com/in/pierrelamond/",
+    "twitter": "https://www.twitter.com/pierrelamond?lang=en",
+    "website": "https://www.eclipse.vc/team/pierre-lamond/"
+  },
+  "scraped_at": "2026-02-27T03:42:24.393408"
+}

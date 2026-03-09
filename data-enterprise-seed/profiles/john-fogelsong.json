@@ -1,0 +1,95 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Atherton",
+    "name": "John Fogelsong",
+    "website": "https://www.friendsandfamilycapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Wearit",
+      "dates": "2007 - 2009",
+      "position": "Co-Founder & CEO"
+    },
+    {
+      "company": "Zazzle.com",
+      "dates": "2005 - 2007",
+      "position": "Marketing Manager"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "2004 - 2004",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Institutional Venture Partners (IVP)",
+      "dates": "2003 - 2003",
+      "position": "Summer Intern"
+    },
+    {
+      "company": "Glynn Capital Management",
+      "dates": "2012 - Present",
+      "position": "Managing Director - Venture Capital"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Friends & Family Capital",
+      "firmUrl": "https://signal.nfx.com/firms/friends-family-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$118M",
+    "investmentRange": "$300K - $12.0M",
+    "sweetSpot": "$8.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3ZmQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--382f8b52bdb1edf1c7c7351d0d2f06dcb65d4dab/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-fogelsong",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    }
+  ],
+  "slug": "john-fogelsong",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/john-fogelsong",
+    "linkedin": "https://www.linkedin.com/in/john-fogelsong-9b60082/",
+    "website": "https://www.friendsandfamilycapital.com/"
+  },
+  "scraped_at": "2026-02-27T22:47:34.098704"
+}

@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Larry Gadea"
+  },
+  "experience": [
+    {
+      "company": "Twitter",
+      "dates": "2009 - 2012",
+      "position": "Infrastructure Engineer"
+    },
+    {
+      "company": "Shopify",
+      "dates": "2012 - 2012",
+      "position": "Systems Performance Advisor"
+    },
+    {
+      "company": "Milo",
+      "dates": "2009 - 2010",
+      "position": "Systems Performance Consultant"
+    },
+    {
+      "company": "Google",
+      "dates": "2005 - 2009",
+      "position": "Software Engineering Intern"
+    },
+    {
+      "company": "Envoy",
+      "dates": "2013 - Present",
+      "position": "CEO and Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOS9mQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1092853a8485484a622231f9fe6d06ee3c49da73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/larry-gadea",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "larry-gadea",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/larry-gadea",
+    "linkedin": "https://www.linkedin.com/in/larrygadea/",
+    "twitter": "https://www.twitter.com/lg"
+  },
+  "scraped_at": "2026-02-27T23:17:01.473852"
+}

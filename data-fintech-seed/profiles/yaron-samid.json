@@ -1,0 +1,270 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Former CEO",
+      "Investor"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Yaron Samid",
+    "positionAndFirm": "Managing Partner, TechAviv Founder Partners",
+    "signalScore": 534,
+    "website": "https://fund.techaviv.com/"
+  },
+  "experience": [
+    {
+      "company": "Prosper Marketplace",
+      "dates": "2015 - 2016",
+      "position": "GM (Via BillGuard Acquistion)"
+    },
+    {
+      "company": "BillGuard (Acquired by Prosper)",
+      "dates": "2009 - 2015",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Pando Networks (Acquired by Microsoft)",
+      "dates": "2004 - 2009",
+      "position": "Founder, CPO & CMO"
+    },
+    {
+      "company": "NYVideo.org",
+      "dates": "2004 - 2009",
+      "position": "Founder & Organizer"
+    },
+    {
+      "company": "DeskSite",
+      "dates": "2003 - 2004",
+      "position": "Founder & President"
+    },
+    {
+      "company": "Zend Technologies",
+      "dates": "2001 - 2002",
+      "position": "VP, Marketing"
+    },
+    {
+      "company": "BackWeb Technologies",
+      "dates": "1997 - 2001",
+      "position": "Director, Product Management"
+    },
+    {
+      "company": "Register.com",
+      "dates": "1996 - 1997",
+      "position": "Director, Marketing"
+    },
+    {
+      "company": "TechAviv Founder Partners",
+      "dates": "2020 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "TechAviv",
+      "dates": "2007 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TechAviv Founder Partners",
+      "firmUrl": "https://signal.nfx.com/firms/techaviv-founder-partners",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $3.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Axioma",
+      "date": "Jul 2025",
+      "roundSize": "$2.9M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Numenos",
+      "date": "Jan 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Dimer Health",
+      "date": "May 2023",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Dan Altschuler Malek (Unovis Asset Management)"
+      ],
+      "company": "Plantish",
+      "date": "Jun 2021",
+      "roundSize": "$2M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Nas Academy",
+      "date": "Jun 2021",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Retrain.ai",
+      "date": "Sep 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Slim.ai",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Pattern Insurance",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKytOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd8db77dea731f121288d1e96278067038e357a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yaron-samid",
+  "sectorRankings": [
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "yaron-samid",
+  "socials": {
+    "angellist": "https://www.angel.co/yaronsamid",
+    "crunchbase": "https://www.crunchbase.com/person/yaron-samid",
+    "linkedin": "https://www.linkedin.com/in/yaronsamid/",
+    "twitter": "https://www.twitter.com/yaronsamid",
+    "website": "https://fund.techaviv.com/"
+  },
+  "scraped_at": "2026-02-11T12:27:21.663483"
+}

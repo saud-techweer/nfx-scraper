@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Israel",
+    "name": "Le'ora Lichtenstein",
+    "website": "https://www.groundup.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ground Up Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ground-up-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$20M",
+    "investmentRange": "$250K - $500K",
+    "sweetSpot": "$375K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFE0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4a0d18ebba53b252e88dd65a531d9b5537e8087/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/le-ora-lichtenstein",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "le-ora-lichtenstein",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/leora-lichtenstein",
+    "linkedin": "https://www.linkedin.com/in/le-ora-lichtenstein-cfa-9bbb8b112/",
+    "twitter": "https://www.twitter.com/LeoraLicht",
+    "website": "https://www.groundup.vc/"
+  },
+  "scraped_at": "2026-03-03T21:49:31.768561"
+}

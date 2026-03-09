@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "United Kingdom",
+    "name": "Ido Sum",
+    "signalScore": 37,
+    "website": "https://tlcomcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Qualcomm",
+      "dates": "2010 - 2010",
+      "position": "Emerging Markets Corporate Strategy Specialist (MBA Leadership Program)"
+    },
+    {
+      "company": "Airlines Wimax Communication LTD.",
+      "dates": "2006 - 2009",
+      "position": "Co-Founder and Managing Director"
+    },
+    {
+      "company": "Bird Consulting",
+      "dates": "2007 - 2008",
+      "position": "Co-Founder and Managing Partner"
+    },
+    {
+      "company": "TMT Creative Solutions for Television Ltd",
+      "dates": "2004 - 2006",
+      "position": "Project Manager, Business Development"
+    },
+    {
+      "company": "Israel Defense Forces",
+      "dates": "1998 - 2003",
+      "position": "Lieutenant, freelance Data Systems Consultant and Analyst"
+    },
+    {
+      "company": "D.G.M",
+      "dates": "1997 - 2000",
+      "position": "Co-Founder and Head of Operations"
+    },
+    {
+      "company": "TLcom Capital LLP",
+      "dates": "2011 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "NOVA Project",
+      "dates": "2003 - Present",
+      "position": "Co-Founder and Co-Chairman"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TLcom Capital",
+      "firmUrl": "https://signal.nfx.com/firms/tlcom-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$70M",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$5.3M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Kobo360",
+      "date": "Aug 2019",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Dujon Smith (Accenture)"
+      ],
+      "company": "Okra",
+      "date": "Apr 2019",
+      "roundSize": "$1M",
+      "stage": "Pre-Seed",
+      "totalRaised": "$5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeUlYQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d25e5e4e4a207b2932bace4571fcfcee0f16d417/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ido-sum",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-b-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "ido-sum",
+  "socials": {
+    "angellist": "https://www.angel.co/ido-sum",
+    "crunchbase": "https://www.crunchbase.com/person/ido-sum",
+    "linkedin": "https://www.linkedin.com/in/idosum/",
+    "twitter": "https://www.twitter.com/ido_sum",
+    "website": "https://www.tlcomcapital.com/"
+  },
+  "scraped_at": "2026-02-11T14:44:55.485217"
+}

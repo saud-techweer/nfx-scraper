@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Brazil",
+    "name": "João Selarim"
+  },
+  "experience": [
+    {
+      "company": "Zenvia Mobile",
+      "dates": "2020 - 2021",
+      "position": "Head of Voice"
+    },
+    {
+      "company": "TotalVoice (acquired by Zenvia - NASDAQ:ZENV)",
+      "dates": "2015 - 2020",
+      "position": "CEO"
+    },
+    {
+      "company": "Zore",
+      "dates": "2015 - 2015",
+      "position": "Diretor Comercial"
+    },
+    {
+      "company": "Zore",
+      "dates": "2014 - 2015",
+      "position": "Coordenador de Inovação"
+    },
+    {
+      "company": "Westsoft",
+      "dates": "2014 - 2014",
+      "position": "Comercial"
+    },
+    {
+      "company": "Westsoft",
+      "dates": "2013 - 2014",
+      "position": "Coordenador de Pesquisa e Inovação"
+    },
+    {
+      "company": "Questum | M&A para Startups",
+      "dates": "2022 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Bossanova Investimentos",
+      "dates": "2021 - Present",
+      "position": "Investor - Pool Founders"
+    },
+    {
+      "company": "Sirius Education",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Empreende Brazil Conference",
+      "dates": "2014 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2Z6QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--68d1721f4b5d24aa3b93ed8586c2a2237a8789b3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joao-selarim",
+  "sectorRankings": [
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "joao-selarim",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jo%C3%A3o-selarim",
+    "linkedin": "https://www.linkedin.com/in/selarim/"
+  },
+  "scraped_at": "2026-03-03T21:01:49.616879"
+}

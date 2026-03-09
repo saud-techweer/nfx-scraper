@@ -1,0 +1,75 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sunnyvale, California",
+    "name": "George Damouny",
+    "website": "https://plugandplaytechcenter.com/about/our-team/george-damouny/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Plug & Play Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/plug-and-play-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$30K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$114K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "David Tisch (BoxGroup)",
+        "Deepak Kamra (Canaan Partners)",
+        "Ed Sim (Boldstart Ventures)",
+        "Gary Benitt (Social Leverage)",
+        "Matt Carbonara (Citi Ventures)",
+        "Eliot Durbin (Boldstart Ventures)",
+        "Tomasz Tunguz (Theory Ventures)",
+        "George Hu",
+        "Matt Carbonara"
+      ],
+      "company": "Kustomer",
+      "date": "Jun 2018",
+      "roundSize": "$26M",
+      "stage": "Series B",
+      "totalRaised": "$26M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXZLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2cf7cecd9a4225ce4cd4e417ccf43bde6c1203df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/george-damouny",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "george-damouny",
+  "socials": {
+    "angellist": "https://www.angel.co/p/georgedamouny",
+    "crunchbase": "https://www.crunchbase.com/person/george-damouny",
+    "linkedin": "https://www.linkedin.com/in/georgedamouny/",
+    "website": "https://www.plugandplaytechcenter.com/about/our-team/george-damouny/"
+  },
+  "scraped_at": "2026-03-03T17:49:16.780176"
+}

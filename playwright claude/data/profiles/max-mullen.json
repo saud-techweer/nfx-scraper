@@ -1,0 +1,221 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Operator",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Max Mullen",
+    "website": "https://maxmullen.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $500K",
+    "investmentsOnRecord": 52,
+    "sweetSpot": "$200K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Unusual AI",
+      "date": "Jan 2026",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Amber Atherton (Patron)",
+        "Deborah Liu"
+      ],
+      "company": "Sweatpals",
+      "date": "Oct 2025",
+      "roundSize": "$12M",
+      "stage": "Seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Arash Ferdowsi",
+        "Julie Zhuo"
+      ],
+      "company": "Hero Assistant",
+      "date": "Sep 2025",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Palabra.ai",
+      "date": "Aug 2025",
+      "roundSize": "$8M",
+      "stage": "Pre Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Josephine Chen (Sequoia Capital)",
+        "Gill Shklarski (Operator Partners)",
+        "Patrick Collison",
+        "Karim Atiyeh",
+        "Eric Wu"
+      ],
+      "company": "Crosby",
+      "date": "Jun 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [
+        "Sam Bankman-Fried (FTX Ventures)",
+        "Max Altman (Saga)",
+        "Zach Perret (Mischief Venture Capital)",
+        "Joshua Browder (Browder Capital)",
+        "Dylan Field",
+        "Justin Mateen",
+        "Fidji Simo",
+        "Christina Cacioppo",
+        "Jonathan Neman",
+        "Parker Conrad",
+        "Guillermo Rauch",
+        "Julian Shapiro",
+        "Sean Rad"
+      ],
+      "company": "Owner",
+      "date": "May 2025",
+      "roundSize": "$120M",
+      "stage": "Series C",
+      "totalRaised": "$180M"
+    },
+    {
+      "coInvestors": [
+        "Eugene Marinelli (Conversion Capital)",
+        "Ali Rowghani (Y Combinator)",
+        "Matt Macinnis"
+      ],
+      "company": "Nuvo",
+      "date": "Apr 2025",
+      "roundSize": "$34M",
+      "stage": "Series A",
+      "totalRaised": "$34M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Highstock",
+      "date": "Feb 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHYrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fb9ff80c23420386e25a813c970b6dd001021b32/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/max-mullen",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "max-mullen",
+  "socials": {
+    "angellist": "https://www.angel.co/p/max",
+    "crunchbase": "https://www.crunchbase.com/person/max-mullen",
+    "linkedin": "https://www.linkedin.com/in/maxmullen/",
+    "twitter": "https://www.twitter.com/max?lang=en",
+    "website": "https://www.maxmullen.com/"
+  },
+  "scraped_at": "2026-02-11T11:46:36.540568"
+}

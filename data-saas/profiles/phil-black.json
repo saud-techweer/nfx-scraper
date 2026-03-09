@@ -1,0 +1,100 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Phil Black",
+    "signalScore": 1,
+    "website": "https://trueventures.com/team/phil-black/"
+  },
+  "experience": [
+    {
+      "company": "Blacksmith Capital",
+      "dates": "2003 - 2006",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "ABS Ventures",
+      "dates": "1999 - 2002",
+      "position": "General Partner"
+    },
+    {
+      "company": "Weiss, Peck & Greer Venture Partners",
+      "dates": "1995 - 1999",
+      "position": "General Partner"
+    },
+    {
+      "company": "Summit Partners",
+      "dates": "1988 - 1994",
+      "position": "Sr. Associate and Associate"
+    },
+    {
+      "company": "True Ventures",
+      "dates": "2006 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "True Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/true-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$840M",
+    "investmentRange": "$1M - $50.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemJOQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5c5499a26172ebaef685641faa89ffca2ca24278/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/phil-black",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "phil-black",
+  "socials": {
+    "angellist": "https://www.angel.co/p/philip-black",
+    "crunchbase": "https://www.crunchbase.com/person/phil-black",
+    "linkedin": "https://www.linkedin.com/in/trueventuresphilblack/",
+    "twitter": "https://www.twitter.com/mrvelvet?lang=en",
+    "website": "https://www.trueventures.com/team/phil-black/"
+  },
+  "scraped_at": "2026-02-27T03:39:19.432789"
+}

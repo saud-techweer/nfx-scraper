@@ -1,0 +1,167 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Paul Kwan",
+    "website": "https://generalcatalyst.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "General Catalyst",
+      "firmUrl": "https://signal.nfx.com/firms/general-catalyst",
+      "position": "Managing Director"
+    },
+    "fundSize": "$1.1B",
+    "investmentRange": "$5.0M - $40.0M",
+    "investmentsOnRecord": 37,
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Colin Anderson (Friends & Family Capital)"
+      ],
+      "company": "Valinor Enterprises",
+      "date": "Jan 2026",
+      "roundSize": "$54M",
+      "stage": "Series A",
+      "totalRaised": "$54M"
+    },
+    {
+      "coInvestors": [
+        "Erik Kriessmann (Index Ventures)",
+        "Jackson Moses (Afore Capital)",
+        "Stu Shea (01 Advisors)",
+        "Alex Poulin (Lavrock Ventures)",
+        "Jeff Crusey"
+      ],
+      "company": "Castelion",
+      "date": "Dec 2025",
+      "roundSize": "$350M",
+      "stage": "Series B",
+      "totalRaised": "$440M"
+    },
+    {
+      "coInvestors": [
+        "Nnamdi Iregbulem (Lightspeed Venture Partners)",
+        "Guillermo Rauch"
+      ],
+      "company": "Substrate",
+      "date": "Oct 2025",
+      "roundSize": "$100M",
+      "stage": "Series A",
+      "totalRaised": "$110M"
+    },
+    {
+      "coInvestors": [
+        "David Beazley (Alumni Ventures )"
+      ],
+      "company": "Lila Sciences",
+      "date": "Oct 2025",
+      "roundSize": "$120M",
+      "stage": "Series A",
+      "totalRaised": "$550M"
+    },
+    {
+      "coInvestors": [
+        "Matthew Caspari (Alumni Ventures )",
+        "Yuri Sagalov (10100)"
+      ],
+      "company": "Aurelius Systems",
+      "date": "Sep 2025",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "JEH Aerospace",
+      "date": "Aug 2025",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Chariot Defense",
+      "date": "Jul 2025",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Lawrence Bohn (General Catalyst)",
+        "Henry Kravis"
+      ],
+      "company": "PhysicsX",
+      "date": "Jun 2025",
+      "roundSize": "$140M",
+      "stage": "Series B",
+      "totalRaised": "$170M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMCsyQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ffd2ae0b0d2f00f9152e287b5efbd84ca6d4461f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-kwan",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "paul-kwan",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paul-kwan-19e2",
+    "linkedin": "https://www.linkedin.com/in/paulkwan/",
+    "website": "https://www.generalcatalyst.com/"
+  },
+  "scraped_at": "2026-02-11T11:37:19.131970"
+}

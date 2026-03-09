@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Amsterdam, Netherlands",
+    "name": "Robin van Boxsel",
+    "website": "https://forward.one/"
+  },
+  "experience": [
+    {
+      "company": "Independent View",
+      "dates": "2014 - 2021",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "IMC financial markets & asset management",
+      "dates": "2013 - 2013",
+      "position": "Consultancy"
+    },
+    {
+      "company": "IMC financial markets & asset management",
+      "dates": "2008 - 2012",
+      "position": "CEO / Head of Trading"
+    },
+    {
+      "company": "IMC financial markets & asset management",
+      "dates": "2006 - 2008",
+      "position": "Algemeen Directeur"
+    },
+    {
+      "company": "IMC financial markets & asset management",
+      "dates": "2000 - 2006",
+      "position": "Screen Trader, Desk head"
+    },
+    {
+      "company": "IMC financial markets & asset management",
+      "dates": "2000 - 2001",
+      "position": "Floor Trader"
+    },
+    {
+      "company": "FORWARD.one",
+      "dates": "2021 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "RAnitz BV",
+      "dates": "2016 - Present",
+      "position": "Co-Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FORWARD.one",
+      "firmUrl": "https://signal.nfx.com/firms/forward-one",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2ExQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4efb079e8d19e6ce161721e07e2125c21f1a06d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robin-van-boxsel",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "robin-van-boxsel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/robin-van-boxsel",
+    "linkedin": "https://www.linkedin.com/in/robin-van-boxsel-b77b143/",
+    "website": "https://www.forward.one/"
+  },
+  "scraped_at": "2026-02-27T04:06:43.367374"
+}

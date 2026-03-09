@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Magdalena Yesil",
+    "website": "https://www.broadway-angels.com/magdalena-yesil-bio"
+  },
+  "experience": [
+    {
+      "company": "U.S. Venture Partners",
+      "dates": "1998 - 2005",
+      "position": "General Partner"
+    },
+    {
+      "company": "MarketPay",
+      "dates": "1997 - 1997",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "CyberCash",
+      "dates": "1994 - 1996",
+      "position": "Founder, VP of Technology & Marketing"
+    },
+    {
+      "company": "UUNET",
+      "dates": "1992 - 1994",
+      "position": "Strategy and M&A"
+    },
+    {
+      "company": "DriveInformed",
+      "dates": "2017 - Present",
+      "position": "Executive Chair"
+    },
+    {
+      "company": "Broadway Angels",
+      "dates": "2010 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Broadway Angels",
+      "firmUrl": "https://signal.nfx.com/firms/broadway-angels",
+      "position": "Angel"
+    },
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Parker Harris"
+      ],
+      "company": "Salesforce",
+      "date": "Jun 1999",
+      "roundSize": "$3.8M",
+      "stage": "Series B",
+      "totalRaised": "$3.8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc3dGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--82823bb6cf836765fa7890ce67b4ddefa31c2481/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/magdalena-yesil",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "magdalena-yesil",
+  "socials": {
+    "angellist": "https://www.angel.co/magdalena",
+    "crunchbase": "https://www.crunchbase.com/person/magdalena-yesil",
+    "linkedin": "https://www.linkedin.com/in/magdalena-yesil/",
+    "twitter": "https://www.twitter.com/MagdalenaYesil",
+    "website": "https://www.broadway-angels.com/magdalena-yesil-bio"
+  },
+  "scraped_at": "2026-02-27T02:16:46.156602"
+}

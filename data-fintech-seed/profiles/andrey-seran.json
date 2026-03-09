@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "CEO",
+      "Marketing Operator"
+    ],
+    "location": "Moscow",
+    "name": "Andrey Seran"
+  },
+  "experience": [
+    {
+      "company": "SKLLZZ.com",
+      "dates": "Present",
+      "position": "Chief Marketing Officer"
+    },
+    {
+      "company": "Atmosphere Fitness Vladimir",
+      "dates": "Present",
+      "position": "Acting Chief Executive Officer"
+    },
+    {
+      "company": "ProfConsult",
+      "dates": "Present",
+      "position": "Arbitration manager"
+    },
+    {
+      "company": "Inform-ust, JSC",
+      "dates": "Present",
+      "position": "Head Of Legal Affairs"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AngelDesk",
+      "firmUrl": "https://signal.nfx.com/firms/angeldesk",
+      "position": "Angel"
+    },
+    "investmentRange": "$20K - $200K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "SKLLZZ",
+      "date": "Nov 2019",
+      "roundSize": "$50K",
+      "stage": "Pre-seed",
+      "totalRaised": "$50K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVg4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b2eced1a093fab368bfd34c7cbb9b9ca6854183/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrey-seran",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andrey-seran",
+  "socials": {
+    "angellist": "https://www.angel.co/u/andrey-seran",
+    "crunchbase": "https://www.crunchbase.com/person/andrey-seran",
+    "linkedin": "https://www.linkedin.com/in/andrey-seran-9036165b/"
+  },
+  "scraped_at": "2026-02-28T00:19:29.419555"
+}

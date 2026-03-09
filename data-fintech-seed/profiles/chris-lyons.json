@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Chris Lyons",
+    "signalScore": 1,
+    "website": "https://a16z.com/author/chris-lyons/"
+  },
+  "experience": [
+    {
+      "company": "Andreessen Horowitz",
+      "dates": "Present",
+      "position": "Chief of Staff"
+    },
+    {
+      "company": "Society of Kauffman Fellows",
+      "dates": "Present",
+      "position": "Kauffman Fellow, Class 19"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Andreessen Horowitz",
+      "firmUrl": "https://signal.nfx.com/firms/andreessen-horowitz",
+      "position": "General Partner"
+    },
+    "fundSize": "$2.2B",
+    "investmentRange": "$500K - $40.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMU9NQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--184dd4d85cbd514c1c7abb8fc28c5e2c0cce56b8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-lyons",
+  "sectorRankings": [
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "chris-lyons",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/chris-lyons",
+    "linkedin": "https://www.linkedin.com/in/christophermlyons/",
+    "twitter": "https://www.twitter.com/chrislyons",
+    "website": "https://www.a16z.com/author/chris-lyons/"
+  },
+  "scraped_at": "2026-03-03T16:36:29.659704"
+}

@@ -1,0 +1,59 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York City",
+    "name": "Kelly Kopchik Goldstein"
+  },
+  "experience": [
+    {
+      "company": "Harlem Capital",
+      "dates": "2020 - 2021",
+      "position": "Senior Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "53 Stations",
+      "firmUrl": "https://signal.nfx.com/firms/53-stations",
+      "position": "Partner"
+    },
+    "fundSize": "$190M",
+    "investmentRange": "$750K - $2.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMi9VQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc6d287d15a206f01ff3001a2ba4d163b70b6760/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kelly-kopchik-goldstein",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kelly-kopchik-goldstein",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/kelly-goldstein",
+    "linkedin": "https://www.linkedin.com/in/kellykopchik/",
+    "twitter": "https://www.twitter.com/kk_goldstein"
+  },
+  "scraped_at": "2026-02-27T23:05:43.950591"
+}

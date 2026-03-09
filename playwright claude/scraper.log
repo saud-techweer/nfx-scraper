@@ -1,0 +1,233 @@
+2026-02-17 15:15:25,288 - INFO - ============================================================
+2026-02-17 15:15:25,288 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE (Playwright)
+2026-02-17 15:15:25,288 - INFO - ============================================================
+2026-02-17 15:15:25,290 - INFO - Already scraped: 816 profiles
+2026-02-17 15:15:26,133 - INFO - Loaded 1496 URLs from d:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\data\all_investor_urls.json (Phase 1 already done)
+2026-02-17 15:15:26,134 - INFO - ============================================================
+2026-02-17 15:15:26,134 - INFO -   PHASE 2: Scraping 680 profiles
+2026-02-17 15:15:26,135 - INFO -   Already scraped: 816
+2026-02-17 15:15:26,135 - INFO -   Batch size: 8
+2026-02-17 15:15:26,137 - INFO - ============================================================
+2026-02-17 15:15:26,137 - INFO -   BATCH 1/85 | 8 pages | 680 remaining
+2026-02-17 15:15:34,441 - INFO -     OK adam-nash (Adam Nash)
+2026-02-17 15:15:34,444 - INFO -     OK alison-davis-riddell (Alison Davis Riddell)
+2026-02-17 15:15:34,447 - INFO -     OK ben-williamson_2 (Ben Williamson)
+2026-02-17 15:15:34,450 - INFO -     OK ian-logan (Ian Logan)
+2026-02-17 15:15:34,452 - INFO -     OK joyo-wijaya (Joyo Wijaya)
+2026-02-17 15:15:34,454 - INFO -     OK leyla-seka (Leyla Seka)
+2026-02-17 15:15:34,456 - INFO -     OK ratan-singh (Ratan Manehani)
+2026-02-17 15:15:34,459 - INFO -     OK sierra-peterson (Sierra Peterson)
+2026-02-17 15:15:34,464 - INFO -   Total: 824 | Session: 8
+2026-02-17 15:15:34,466 - INFO - 
+2026-02-17 15:15:34,467 - INFO -   BATCH 2/85 | 8 pages | 672 remaining
+2026-02-17 15:15:37,897 - INFO - 
+
+Stopped by user. Progress saved.
+2026-02-17 15:15:37,906 - ERROR - Future exception was never retrieved
+future: <Future finished exception=Error('net::ERR_ABORTED at https://signal.nfx.com/investors/david-feldman\nCall log:\n  - navigating to "https://signal.nfx.com/investors/david-feldman", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.Error: net::ERR_ABORTED at https://signal.nfx.com/investors/david-feldman
+Call log:
+  - navigating to "https://signal.nfx.com/investors/david-feldman", waiting until "domcontentloaded"
+
+2026-02-17 15:15:37,907 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://signal.nfx.com/investors/hadar-dor", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://signal.nfx.com/investors/hadar-dor", waiting until "domcontentloaded"
+
+2026-02-17 15:15:37,908 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - navigating to "https://signal.nfx.com/investors/sophie-liao", waiting until "domcontentloaded"\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - navigating to "https://signal.nfx.com/investors/sophie-liao", waiting until "domcontentloaded"
+
+2026-02-17 15:15:37,909 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-17 15:15:37,910 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:15:37,911 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+2026-02-17 15:15:37,912 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:16:16,801 - INFO - ============================================================
+2026-02-17 15:16:16,802 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE (Playwright)
+2026-02-17 15:16:16,802 - INFO - ============================================================
+2026-02-17 15:16:16,833 - INFO - Already scraped: 824 profiles
+2026-02-17 15:16:17,937 - INFO - Loaded 1496 URLs from D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\data\all_investor_urls.json (Phase 1 already done)
+2026-02-17 15:16:17,939 - INFO - ============================================================
+2026-02-17 15:16:17,940 - INFO -   PHASE 2: Scraping 672 profiles
+2026-02-17 15:16:17,940 - INFO -   Already scraped: 824
+2026-02-17 15:16:17,941 - INFO -   Batch size: 8
+2026-02-17 15:16:17,941 - INFO - ============================================================
+2026-02-17 15:16:17,941 - INFO -   BATCH 1/84 | 8 pages | 672 remaining
+2026-02-17 15:16:26,434 - INFO -     OK barry-coffman (Barry Coffman)
+2026-02-17 15:16:26,436 - INFO -     OK david-feldman (David Feldman)
+2026-02-17 15:16:26,439 - INFO -     OK gerald-rousselle (Gerald Rousselle)
+2026-02-17 15:16:26,442 - INFO -     OK hadar-dor (Hadar Dor)
+2026-02-17 15:16:26,444 - INFO -     OK marie-sophie-ando (Marie-Sophie Ando)
+2026-02-17 15:16:26,447 - INFO -     OK mike-bates (Mike Bates)
+2026-02-17 15:16:26,449 - INFO -     OK sophie-liao (Sophie Liao)
+2026-02-17 15:16:26,451 - INFO -     OK zavain-dar (Zavain Dar)
+2026-02-17 15:16:26,455 - INFO -   Total: 832 | Session: 8
+2026-02-17 15:16:26,459 - INFO - 
+2026-02-17 15:16:26,460 - INFO -   BATCH 2/84 | 8 pages | 664 remaining
+2026-02-17 15:16:39,011 - INFO -     OK aditya-harnal (Aditya Harnal)
+2026-02-17 15:16:39,018 - INFO -     OK arteen-arabshahi_1 (Arteen Arabshahi)
+2026-02-17 15:16:39,028 - INFO -     OK kayla-phillips (Kayla Phillips)
+2026-02-17 15:16:39,032 - INFO -     OK matt-castellini (Matt Castellini)
+2026-02-17 15:16:39,037 - INFO -     OK matt-risley (Matt Risley)
+2026-02-17 15:16:39,041 - INFO -     OK niall-dalton (Niall Dalton)
+2026-02-17 15:16:39,066 - INFO -     OK vinay-iyengar (Vinay Iyengar)
+2026-02-17 15:16:39,086 - INFO -     OK wil-chockley (Wil Chockley)
+2026-02-17 15:16:39,108 - INFO -   Total: 840 | Session: 16
+2026-02-17 15:16:39,154 - INFO - 
+2026-02-17 15:16:39,156 - INFO -   BATCH 3/84 | 8 pages | 656 remaining
+2026-02-17 15:16:42,018 - WARNING -     FAIL daniel-kaplan: Page.wait_for_selector: Target page, context or browser has 
+2026-02-17 15:16:42,020 - WARNING -     FAIL jose-pepe-benito: BrowserContext.new_page: Target page, context or browser has
+2026-02-17 15:16:42,023 - WARNING -     FAIL julian-roeoes: BrowserContext.new_page: Target page, context or browser has
+2026-02-17 15:16:42,024 - WARNING -     FAIL lukas-erlebach: Page.wait_for_selector: Target page, context or browser has 
+2026-02-17 15:16:42,025 - WARNING -     FAIL matt-heiman: BrowserContext.new_page: Target page, context or browser has
+2026-02-17 15:16:42,029 - WARNING -     FAIL melissa-ho: BrowserContext.new_page: Target page, context or browser has
+2026-02-17 15:16:42,031 - WARNING -     FAIL stephen-chau: BrowserContext.new_page: Target page, context or browser has
+2026-02-17 15:16:42,035 - WARNING -     FAIL will-ma_2: Page.wait_for_timeout: Target page, context or browser has b
+2026-02-17 15:16:42,065 - INFO -   Total: 840 | Session: 16
+2026-02-17 15:16:42,084 - INFO - 
+2026-02-17 15:16:42,088 - INFO -   BATCH 4/84 | 8 pages | 648 remaining
+2026-02-17 15:16:47,636 - INFO - 
+
+Stopped by user. Progress saved.
+2026-02-17 15:20:22,814 - INFO - ============================================================
+2026-02-17 15:20:22,814 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE (Playwright)
+2026-02-17 15:20:22,815 - INFO - ============================================================
+2026-02-17 15:20:22,836 - INFO - Already scraped: 840 profiles
+2026-02-17 15:20:24,063 - INFO - Opening NFX Signal for login...
+2026-02-17 15:20:53,755 - INFO - 
+2026-02-17 15:20:53,755 - INFO - ============================================================
+2026-02-17 15:20:53,756 - INFO -   LOG IN MANUALLY in the browser window.
+2026-02-17 15:20:53,757 - INFO -   After you're logged in, come back here and press ENTER.
+2026-02-17 15:20:53,757 - INFO - ============================================================
+2026-02-17 15:20:53,759 - INFO - 
+2026-02-17 15:21:59,479 - INFO - Current URL: https://signal.nfx.com/investors
+2026-02-17 15:21:59,515 - INFO - Login done. Starting scraper...
+
+2026-02-17 15:21:59,519 - INFO - Loaded 1496 URLs from D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\data\all_investor_urls.json (Phase 1 already done)
+2026-02-17 15:21:59,520 - INFO - ============================================================
+2026-02-17 15:21:59,520 - INFO -   PHASE 2: Scraping 656 profiles
+2026-02-17 15:21:59,520 - INFO -   Already scraped: 840
+2026-02-17 15:21:59,520 - INFO -   Batch size: 8
+2026-02-17 15:21:59,521 - INFO - ============================================================
+2026-02-17 15:21:59,521 - INFO -   BATCH 1/82 | 8 pages | 656 remaining
+2026-02-17 15:22:15,665 - INFO -     OK daniel-kaplan (Daniel Kaplan)
+2026-02-17 15:22:15,672 - INFO -     OK jose-pepe-benito (Jose (Pepe) Benito)
+2026-02-17 15:22:15,687 - INFO -     OK julian-roeoes (Julian Roeoes)
+2026-02-17 15:22:15,692 - INFO -     OK lukas-erlebach (Lukas Erlebach)
+2026-02-17 15:22:15,696 - INFO -     OK matt-heiman (Matt Heiman)
+2026-02-17 15:22:15,702 - INFO -     OK melissa-ho (Melissa Ho)
+2026-02-17 15:22:15,705 - INFO -     OK stephen-chau (‌)
+2026-02-17 15:22:15,709 - INFO -     OK will-ma_2 (Will Ma)
+2026-02-17 15:22:15,723 - INFO -   Total: 848 | Session: 8
+2026-02-17 15:22:15,724 - INFO - 
+2026-02-17 15:22:15,725 - INFO -   BATCH 2/82 | 8 pages | 648 remaining
+2026-02-17 15:22:35,244 - INFO - 
+
+Stopped by user. Progress saved.
+2026-02-17 15:22:35,266 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:22:35,269 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:22:35,271 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:22:35,275 - ERROR - Future exception was never retrieved
+future: <Future finished exception=TargetClosedError('Target page, context or browser has been closed\nCall log:\n  - waiting for locator("h1") to be visible\n')>
+playwright._impl._errors.TargetClosedError: Target page, context or browser has been closed
+Call log:
+  - waiting for locator("h1") to be visible
+
+2026-02-17 15:27:27,556 - INFO - ============================================================
+2026-02-17 15:27:27,556 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE (Playwright)
+2026-02-17 15:27:27,556 - INFO - ============================================================
+2026-02-17 15:27:27,569 - INFO - Already scraped: 840 profiles
+2026-02-17 15:27:28,814 - INFO - Opening NFX Signal for login...
+2026-02-17 15:28:29,218 - ERROR - 
+
+FATAL: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+2026-02-17 15:28:29,220 - ERROR - Traceback (most recent call last):
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\nfx_scraper.py", line 617, in main
+    asyncio.run(run(args))
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 194, in run
+    return runner.run(main)
+           ^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\runners.py", line 118, in run
+    return self._loop.run_until_complete(task)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\asyncio\base_events.py", line 687, in run_until_complete
+    return future.result()
+           ^^^^^^^^^^^^^^^
+  File "D:\TECHWEER\SAUD BHAI\Scraping VC\playwright claude\nfx_scraper.py", line 570, in run
+    await login_page.goto("https://signal.nfx.com/login", wait_until="domcontentloaded", timeout=60000)
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\async_api\_generated.py", line 9045, in goto
+    await self._impl_obj.goto(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_page.py", line 552, in goto
+    return await self._main_frame.goto(**locals_to_params(locals()))
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_frame.py", line 153, in goto
+    await self._channel.send(
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 69, in send
+    return await self._connection.wrap_api_call(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\lenovo\AppData\Local\Programs\Python\Python312\Lib\site-packages\playwright\_impl\_connection.py", line 559, in wrap_api_call
+    raise rewrite_error(error, f"{parsed_st['apiName']}: {error}") from None
+playwright._impl._errors.TimeoutError: Page.goto: Timeout 60000ms exceeded.
+Call log:
+  - navigating to "https://signal.nfx.com/login", waiting until "domcontentloaded"
+
+
+2026-02-17 15:28:29,221 - INFO - Progress saved. Run again to resume.
+2026-02-17 15:28:55,094 - INFO - ============================================================
+2026-02-17 15:28:55,095 - INFO -   NFX SIGNAL SCRAPER - TWO PHASE (Playwright)
+2026-02-17 15:28:55,095 - INFO - ============================================================
+2026-02-17 15:28:55,096 - INFO - Already scraped: 840 profiles
+2026-02-17 15:28:56,257 - INFO - Opening NFX Signal for login...
+2026-02-17 15:29:26,629 - INFO - 
+2026-02-17 15:29:26,630 - INFO - ============================================================
+2026-02-17 15:29:26,630 - INFO -   LOG IN MANUALLY in the browser window.
+2026-02-17 15:29:26,630 - INFO -   After you're logged in, come back here and press ENTER.
+2026-02-17 15:29:26,631 - INFO - ============================================================
+2026-02-17 15:29:26,631 - INFO - 
+2026-02-17 15:29:45,301 - INFO - 
+
+Stopped by user. Progress saved.
+2026-02-17 16:25:15,176 | INFO  | ============================================================
+2026-02-17 16:25:15,177 | INFO  |   COOKIE EXPORT MODE
+2026-02-17 16:25:15,177 | INFO  |   1. A browser will open
+2026-02-17 16:25:15,177 | INFO  |   2. Log into signal.nfx.com
+2026-02-17 16:25:15,178 | INFO  |   3. After login, come back here and press ENTER
+2026-02-17 16:25:15,178 | INFO  | ============================================================
+2026-02-17 16:25:51,494 | INFO  | 
+  ✓ 29 cookies saved to cookies.json
+2026-02-17 16:25:51,496 | INFO  |   Upload this file to your server alongside the scraper script.

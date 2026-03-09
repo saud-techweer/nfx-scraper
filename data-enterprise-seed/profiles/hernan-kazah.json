@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Argentina",
+    "name": "Hernan Kazah",
+    "website": "https://kaszek.com/people/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kaszek Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/kaszek-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$975M",
+    "investmentRange": "$500K - $35.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$17.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Spencer Rascoff (75 & Sunny)",
+        "Brian Requarth (Latitud)",
+        "Hadi Partovi",
+        "David Vélez"
+      ],
+      "company": "La Haus",
+      "date": "Jan 2021",
+      "roundSize": "$35M",
+      "stage": "Series B",
+      "totalRaised": "$45M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXowQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--53bbfdd675f5fc92ecf51a6d06e191d6bbe7478b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hernan-kazah",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hernan-kazah",
+  "socials": {
+    "angellist": "https://www.angel.co/u/hernan-kazah",
+    "crunchbase": "https://www.crunchbase.com/person/hernn-j-kazah",
+    "linkedin": "https://www.linkedin.com/in/hernan-kazah-95810/",
+    "website": "https://www.kaszek.com/people/"
+  },
+  "scraped_at": "2026-02-27T22:17:13.603241"
+}

@@ -1,0 +1,118 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Advisor",
+      "Investor",
+      "Marketing Operator"
+    ],
+    "location": "Finland",
+    "name": "Vitaly Yanko",
+    "signalScore": 122,
+    "website": "https://insta.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Insta Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/insta-ventures",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$200K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Victor Zakharchenko (Flyer One Ventures)"
+      ],
+      "company": "Bairro",
+      "date": "Jan 2022",
+      "roundSize": "$2.3M",
+      "stage": "Seed",
+      "totalRaised": "$2.3M"
+    },
+    {
+      "coInvestors": [
+        "Roman Beloded (YellowRocks.vc)"
+      ],
+      "company": "Postoplan",
+      "date": "Jun 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzdxQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--be3838258e1616cdad22207dd8d4766d182520da/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/vitaly-yanko",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "vitaly-yanko",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/organization/insta-ventures",
+    "linkedin": "https://www.linkedin.com/in/vyanko/",
+    "website": "https://www.insta.vc/"
+  },
+  "scraped_at": "2026-02-27T05:31:57.421383"
+}

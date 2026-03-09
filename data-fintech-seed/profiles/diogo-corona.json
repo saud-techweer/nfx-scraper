@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Diogo Corona"
+  },
+  "experience": [
+    {
+      "company": "Smart Fit",
+      "dates": "2013 - 2016",
+      "position": "Gerente de Planejamento"
+    },
+    {
+      "company": "Smart Fit",
+      "dates": "2010 - 2013",
+      "position": "Analista de Expansão"
+    },
+    {
+      "company": "Smart Fit",
+      "dates": "2010 - 2010",
+      "position": "Estagiário Administrativo"
+    },
+    {
+      "company": "TOTALPASS",
+      "dates": "2019 - Present",
+      "position": "CEO"
+    },
+    {
+      "company": "Smart Fit",
+      "dates": "2016 - Present",
+      "position": "Diretor Smart Fit"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzd6QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e1d5effe4eff994bc21e84ebb7ed01c143b79da8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/diogo-corona",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "diogo-corona",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/diogo-corona",
+    "linkedin": "https://www.linkedin.com/in/diogo-corona-722153153/"
+  },
+  "scraped_at": "2026-03-03T17:05:37.737304"
+}

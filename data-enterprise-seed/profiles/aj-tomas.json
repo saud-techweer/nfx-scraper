@@ -1,0 +1,157 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "AJ Tomas",
+    "signalScore": 176,
+    "website": "https://aebjohn.com/"
+  },
+  "experience": [
+    {
+      "company": "JP Morgan",
+      "dates": "2021",
+      "position": "Investment Banking Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Touchdown Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/touchdown-ventures",
+      "position": "Associate"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$3.0M - $25.0M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Pano",
+      "date": "Sep 2022",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Halo Car",
+      "date": "Apr 2022",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ed Sim (Boldstart Ventures)"
+      ],
+      "company": "Spectro Cloud",
+      "date": "Mar 2022",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Elodie Jamous (mExpand Family Office)"
+      ],
+      "company": "Dialpad",
+      "date": "Dec 2021",
+      "roundSize": "$170M",
+      "stage": "Series F",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Cequence Security",
+      "date": "Dec 2021",
+      "roundSize": "$60M",
+      "stage": "Series C",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [
+        "Patrick Chang (Dispersion Capital)",
+        "Somik Behera"
+      ],
+      "company": "SignalWire",
+      "date": "May 2021",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$33M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenZGQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--10f70c19212bebb493a57b7bf108e66a9248f143/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aj-tomas",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "aj-tomas",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/aebjohn-aj-tomas/",
+    "website": "https://www.aebjohn.com/"
+  },
+  "scraped_at": "2026-02-27T19:57:25.107113"
+}

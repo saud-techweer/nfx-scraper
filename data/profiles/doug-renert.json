@@ -1,0 +1,65 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Burlingame, California",
+    "name": "Doug Renert",
+    "signalScore": 70,
+    "website": "https://tandemcap.com/"
+  },
+  "experience": [
+    {
+      "company": "Tandem Capital",
+      "dates": "2007 - Present",
+      "position": "Co-Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tandem",
+      "firmUrl": "https://signal.nfx.com/firms/tandem",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $2.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--beb179aa00a4f545f2b60e553bafeabe95c5a0d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/doug-renert",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "doug-renert",
+  "socials": {
+    "angellist": "https://www.angel.co/drenert",
+    "crunchbase": "https://www.crunchbase.com/person/doug-renert",
+    "linkedin": "https://www.linkedin.com/in/dougrenert/",
+    "twitter": "https://www.twitter.com/dougrenert",
+    "website": "https://www.tandemcap.com/"
+  },
+  "scraped_at": "2026-02-11T10:08:22.396376"
+}

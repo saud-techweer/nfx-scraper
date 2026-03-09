@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Jason Ball",
+    "website": "https://www.qualcommventures.com/team/jason-ball"
+  },
+  "experience": [
+    {
+      "company": "London Seed Capital",
+      "dates": "2004 - 2008",
+      "position": "Investment Director"
+    },
+    {
+      "company": "Simbiosis Venture Capital",
+      "dates": "2003 - 2004",
+      "position": "Analyst"
+    },
+    {
+      "company": "Random One",
+      "dates": "2002 - 2003",
+      "position": "Business Development Manager"
+    },
+    {
+      "company": "Infonomia.com",
+      "dates": "1999 - 2001",
+      "position": "Research Analyst"
+    },
+    {
+      "company": "Seedcamp",
+      "dates": "2010 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Qualcomm Ventures",
+      "dates": "2008 - Present",
+      "position": "Managing Director, Qualcomm Ventures Europe"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Qualcomm Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/qualcomm-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$150M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHY3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2e3e11f24370956e2aafd500894e65f138a28569/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jason-ball",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jason-ball",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jason-ball",
+    "linkedin": "https://www.linkedin.com/in/jasonball/",
+    "twitter": "https://www.twitter.com/12thday",
+    "website": "https://www.qualcommventures.com/team/jason-ball"
+  },
+  "scraped_at": "2026-02-27T00:49:49.511212"
+}

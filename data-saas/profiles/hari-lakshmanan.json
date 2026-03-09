@@ -1,0 +1,151 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Product Operator",
+      "Growth Operator"
+    ],
+    "name": "Hari Lakshmanan",
+    "positionAndFirm": "Angel Investor, Growth & AI Product Strategy",
+    "signalScore": 2
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $100K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$45K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Clockwork",
+      "date": "Oct 2023",
+      "roundSize": "$6M",
+      "stage": "Equity Crowdfunding",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Zach Bratun-Glennon (Gradient Ventures)",
+        "Jeff Schox (Trucks Venture Capital)"
+      ],
+      "company": "Rad AI",
+      "date": "Nov 2021",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [
+        "Dhruv Kaul"
+      ],
+      "company": "Jurny",
+      "date": "Oct 2021",
+      "roundSize": "$10M",
+      "stage": "Series Unknown",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Justin Waldron (Polychain Capital)",
+        "Bernardt Vogel (VU Venture Partners)"
+      ],
+      "company": "Substack",
+      "date": "Mar 2021",
+      "roundSize": "$65M",
+      "stage": "Series B",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Capitalize",
+      "date": "Mar 2020",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/hari-lakshmanan",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AutoTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-pre-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    }
+  ],
+  "slug": "hari-lakshmanan",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/harilakshmanan/"
+  },
+  "scraped_at": "2026-02-27T00:19:15.814785"
+}

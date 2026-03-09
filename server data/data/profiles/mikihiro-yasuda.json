@@ -1,0 +1,169 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Mikihiro Yasuda"
+  },
+  "experience": [
+    {
+      "company": "DeNA",
+      "dates": "2014 - 2017",
+      "position": "Partner, Strategic Investment Office"
+    },
+    {
+      "company": "DeNA West",
+      "dates": "2013 - 2014",
+      "position": "Senior Director Information Technology"
+    },
+    {
+      "company": "Open Network Lab",
+      "dates": "2011 - 2013",
+      "position": "CEO"
+    },
+    {
+      "company": "Neo Innovation",
+      "dates": "2012 - 2013",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Digital Hollywood University Graduate School",
+      "dates": "2010 - 2012",
+      "position": "Guest Professor"
+    },
+    {
+      "company": "Digital Garage",
+      "dates": "1999 - 2004",
+      "position": "Director of Technology Div."
+    },
+    {
+      "company": "Netscape Communications",
+      "dates": "1997 - 1999",
+      "position": "Practice Manager"
+    },
+    {
+      "company": "Hike Ventures",
+      "dates": "2017 - Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DeNA",
+      "firmUrl": "https://signal.nfx.com/firms/dena",
+      "position": "Partner"
+    },
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Craig Albrecht (Thompson Street Capital Partners)",
+        "Anand Swaminathan (Accenture)",
+        "Dave McClure (Practical Venture Capital)",
+        "Louis Beryl"
+      ],
+      "company": "Greentoe",
+      "date": "Aug 2014",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzhDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--77fa801607d5a1097c55a451f2f198a57b3afb53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mikihiro-yasuda",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Local Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-pre-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "mikihiro-yasuda",
+  "socials": {
+    "angellist": "https://www.angel.co/mikihiro-yasuda",
+    "crunchbase": "https://www.crunchbase.com/person/mikihiro-yasuda",
+    "linkedin": "https://www.linkedin.com/in/mikihiroyasuda/",
+    "twitter": "https://www.twitter.com/mikihiro_yasuda"
+  },
+  "scraped_at": "2026-02-12T10:09:12.982729"
+}

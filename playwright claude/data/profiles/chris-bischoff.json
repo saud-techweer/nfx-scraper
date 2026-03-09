@@ -1,0 +1,230 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "London",
+    "name": "Chris Bischoff",
+    "website": "https://generalcatalyst.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "General Catalyst",
+      "firmUrl": "https://signal.nfx.com/firms/general-catalyst",
+      "position": "Managing Director"
+    },
+    "fundSize": "$1.1B",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 61,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Reva Nohria (General Catalyst)",
+        "Jay H. Kim (Black Jays Investments)"
+      ],
+      "company": "Birches Health",
+      "date": "Sep 2025",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [
+        "Pete Hudson (Alta Partners)",
+        "Philip Carson (Cubit Capital)"
+      ],
+      "company": "Harbor Health",
+      "date": "Sep 2025",
+      "roundSize": "$130M",
+      "stage": "Series B",
+      "totalRaised": "$230M"
+    },
+    {
+      "coInvestors": [
+        "Shahar Tzafrir (TLV Partners)",
+        "Gopi Vaddi (TCV)",
+        "Axel Badalian (Alpha Intelligence Capital)",
+        "Rona Segev-Gal (TLV Partners)"
+      ],
+      "company": "Aidoc",
+      "date": "Jul 2025",
+      "roundSize": "$110M",
+      "stage": "Series Unknown",
+      "totalRaised": "$340M"
+    },
+    {
+      "coInvestors": [
+        "Enke Bashllari (Arkitekt Ventures)",
+        "Will Young (Trust Ventures)",
+        "Bart Macdonald (bloom venture partners)",
+        "Bobby Lo"
+      ],
+      "company": "Certify",
+      "date": "Jun 2025",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [
+        "Todd Cozzens (Transformation Capital)",
+        "Lachy Groom (LGF)"
+      ],
+      "company": "Sword Health",
+      "date": "Jun 2025",
+      "roundSize": "$40M",
+      "stage": "Series Unknown",
+      "totalRaised": "$320M"
+    },
+    {
+      "coInvestors": [
+        "Reva Nohria (General Catalyst)"
+      ],
+      "company": "Clarium",
+      "date": "May 2025",
+      "roundSize": "$27M",
+      "stage": "Series A",
+      "totalRaised": "$38M"
+    },
+    {
+      "coInvestors": [
+        "Candace Richardson (General Catalyst)"
+      ],
+      "company": "Kouper Health",
+      "date": "May 2025",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Dan Rose (Coatue)",
+        "Todd Jackson (First Round Capital)",
+        "William Barnes (Moving Capital)",
+        "Leah Solivan (Fuel Capital)",
+        "Emil Michael"
+      ],
+      "company": "Dandy",
+      "date": "May 2025",
+      "roundSize": null,
+      "stage": "Series D",
+      "totalRaised": "$3.9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHNxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6a3ee4307ff255ed3c355974745dc9bd7339ea25/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-bischoff",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "chris-bischoff",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/chris-bischoff",
+    "linkedin": "https://www.linkedin.com/in/chris-bischoff-65394828/",
+    "twitter": "https://www.twitter.com/chriswbischoff",
+    "website": "https://www.generalcatalyst.com/"
+  },
+  "scraped_at": "2026-02-11T11:34:53.762376"
+}

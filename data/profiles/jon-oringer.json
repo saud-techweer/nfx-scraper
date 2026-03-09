@@ -1,0 +1,170 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Miami, Florida",
+    "name": "Jon Oringer",
+    "website": "https://www.pareto20.com/"
+  },
+  "experience": [
+    {
+      "company": "Shutterstock",
+      "dates": "2013 - Present",
+      "position": "TitleFounder & Executive Chairman"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pareto Holdings",
+      "firmUrl": "https://signal.nfx.com/firms/pareto-holdings",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 158,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dylan Field"
+      ],
+      "company": "OneImaging",
+      "date": "Oct 2025",
+      "roundSize": "$31M",
+      "stage": "Series A",
+      "totalRaised": "$31M"
+    },
+    {
+      "coInvestors": [
+        "Sean Rad"
+      ],
+      "company": "SLUSHY",
+      "date": "Jun 2024",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [
+        "Mark Kim (Samsung NEXT Ventures)",
+        "Nicolas Dessaigne (Y Combinator)"
+      ],
+      "company": "Unsloth AI",
+      "date": "May 2024",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Skedway",
+      "date": "Jun 2023",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Paul Grossinger (Gaingels)",
+        "Jonathan Wasserstrum",
+        "Francis Santora",
+        "Vishal Rao"
+      ],
+      "company": "Jome",
+      "date": "Jun 2023",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Sandeep Nailwal (Polygon)",
+        "Paul Grossinger (Gaingels)",
+        "Masha Bucher (Day One Ventures)",
+        "Andrew McKinzie (aCrew Capital)",
+        "Mir Faiyaz (Soma Capital)",
+        "Drake Austin Rehfeld (Day One Ventures)",
+        "Kirthiga Reddy (F7 Ventures)",
+        "Yahya Mokhtarzada",
+        "Jonathan Wasserstrum"
+      ],
+      "company": "Zamp",
+      "date": "May 2023",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [
+        "Richard Ma (Pioneer Fund)",
+        "Tegan Kline",
+        "Thibaud Elziere",
+        "Pascal Gauthier",
+        "Frederic Montagnon"
+      ],
+      "company": "Swaap",
+      "date": "Apr 2023",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Alex Chung (Curious Capital)"
+      ],
+      "company": "Along AI",
+      "date": "Sep 2022",
+      "roundSize": "$980K",
+      "stage": "Pre Seed",
+      "totalRaised": "$980K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1RYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7aa000642c97b63d400f966f03ff92724f177e00/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jon-oringer",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jon-oringer",
+  "socials": {
+    "angellist": "https://www.angel.co/u/joringer",
+    "crunchbase": "https://www.crunchbase.com/person/jon-oringer-9079",
+    "linkedin": "https://www.linkedin.com/in/shutterstock/",
+    "twitter": "https://www.twitter.com/jonoringer",
+    "website": "https://www.pareto20.com/"
+  },
+  "scraped_at": "2026-02-11T12:29:11.256524"
+}

@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "name": "Mei Shi"
+  },
+  "experience": [
+    {
+      "company": "General Atlantic",
+      "dates": "2016 - 2020",
+      "position": "Vice President"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "Present",
+      "position": "Investment Banking - Technology, Media, Telecom"
+    },
+    {
+      "company": "Benjamin A. Trustman Fellowship",
+      "dates": "Present",
+      "position": "Fellowship Recipient"
+    },
+    {
+      "company": "Silver Lake Partners",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "Blue Apron",
+      "dates": "Present",
+      "position": "MBA Operations Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Advisor"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBblR4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9270a05fa3bc7d32c373604e46f25477cfb8e806/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mei-shi",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mei-shi",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mei-shi",
+    "linkedin": "https://www.linkedin.com/in/meichengshi/"
+  },
+  "scraped_at": "2026-02-27T23:48:30.423114"
+}

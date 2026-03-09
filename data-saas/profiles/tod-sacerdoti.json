@@ -1,0 +1,280 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor",
+      "Founder",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Tod Sacerdoti",
+    "positionAndFirm": "Entrepreneur. Founder/CEO  @Pipedream . Also father, investor & lifelong learner.",
+    "signalScore": 1030,
+    "website": "https://www.flexcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Yahoo",
+      "dates": "2015 - 2017",
+      "position": "VP, Display & Video Advertising Products"
+    },
+    {
+      "company": "BrightRoll",
+      "dates": "2006 - 2017",
+      "position": "CEO & Founder"
+    },
+    {
+      "company": "Plaxo Inc.",
+      "dates": "2004 - 2006",
+      "position": "Director, Business Development"
+    },
+    {
+      "company": "Robertson Stephens",
+      "dates": "1999 - 2001",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "Pipedream",
+      "dates": "2019 - Present",
+      "position": "CEO & Founder"
+    },
+    {
+      "company": "Flex Capital",
+      "dates": "2018 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Flex Capital",
+      "firmUrl": "https://signal.nfx.com/firms/flex-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$300M",
+    "investmentRange": "$25K - $10.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Auren Hoffman (Flex Capital)"
+      ],
+      "company": "Retain.ai",
+      "date": "Apr 2019",
+      "roundSize": "$4.6M",
+      "stage": "Funding Round",
+      "totalRaised": "$4.6M"
+    },
+    {
+      "coInvestors": [
+        "Keith Rabois (Khosla Ventures)",
+        "David Frankel (Founder Collective)",
+        "Jack Groetzinger (Founder Collective)",
+        "David Thacker (Greylock)",
+        "Matt Murphy (Menlo Ventures)",
+        "Auren Hoffman (Flex Capital)",
+        "Justin Ziebell (Indeed.com)",
+        "Eduardo Vivas (Curated)",
+        "Susan Hobbs (CrunchFund)"
+      ],
+      "company": "Truework",
+      "date": "Apr 2018",
+      "roundSize": "$2.9M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [
+        "Auren Hoffman (Flex Capital)",
+        "Naren Gupta (Nexus Venture Partners)",
+        "Pete Briger (Fortress Investment Group)",
+        "Benjamin Savage (Clocktower Technology Ventures)",
+        "Jim Andelman (Bonfire Ventures)",
+        "Kim Perell"
+      ],
+      "company": "Windfall",
+      "date": "Dec 2016",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaVFGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5bff2acdc542751ffa2457b96cac4b9c989f1e0f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tod-sacerdoti",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-b-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tod-sacerdoti",
+  "socials": {
+    "angellist": "https://www.angel.co/sacerdoti",
+    "crunchbase": "https://www.crunchbase.com/person/tod-m-sacerdoti",
+    "linkedin": "https://www.linkedin.com/in/sacerdoti/",
+    "twitter": "https://www.twitter.com/tod",
+    "website": "https://www.flexcapital.com/"
+  },
+  "scraped_at": "2026-02-27T05:14:09.934623"
+}

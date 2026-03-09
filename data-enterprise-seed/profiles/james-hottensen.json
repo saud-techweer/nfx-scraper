@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "James Hottensen",
+    "signalScore": 49,
+    "website": "https://greatoaksvc.com/team/47"
+  },
+  "experience": [
+    {
+      "company": "Tentrr",
+      "dates": "2017 - 2017",
+      "position": "Consultant--Growth & Operations"
+    },
+    {
+      "company": "Great Oaks Venture Capital",
+      "dates": "2014 - 2016",
+      "position": "Analyst"
+    },
+    {
+      "company": "Bradesco",
+      "dates": "2013 - 2013",
+      "position": "Intern"
+    },
+    {
+      "company": "Columbia University Institute For Tele-Information",
+      "dates": "2012 - 2012",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Media 24--Soccer Laduma",
+      "dates": "2011 - 2011",
+      "position": "Intern"
+    },
+    {
+      "company": "Great Oaks Venture Capital",
+      "dates": "2016 - Present",
+      "position": "Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Great Oaks Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/great-oaks-venture-capital",
+      "position": "Associate"
+    },
+    "fundSize": "$40M",
+    "investmentRange": "$50K - $500K",
+    "sweetSpot": "$275K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjhKIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1b08b39238bcaffc64a0ae7a0962f91d751aa89d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-hottensen",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "james-hottensen",
+  "socials": {
+    "angellist": "https://www.angel.co/u/james-hottensen-2",
+    "crunchbase": "https://www.crunchbase.com/person/james-hottensen",
+    "linkedin": "https://www.linkedin.com/in/james-hottensen-50b0194b/",
+    "twitter": "https://www.twitter.com/jamesBhott",
+    "website": "https://www.greatoaksvc.com/team/47"
+  },
+  "scraped_at": "2026-02-27T22:30:11.078181"
+}

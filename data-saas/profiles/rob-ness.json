@@ -1,0 +1,149 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Rob Ness",
+    "signalScore": 201,
+    "website": "https://asymmetry.vc/"
+  },
+  "experience": [
+    {
+      "company": "Capgemini",
+      "dates": "2016 - 2018",
+      "position": "Manager"
+    },
+    {
+      "company": "Grant Thornton LLP",
+      "dates": "2013 - 2016",
+      "position": "Project Lead"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "dates": "2010 - 2013",
+      "position": "Senior Consultant"
+    },
+    {
+      "company": "Economic Competitiveness Group",
+      "dates": "2001 - 2003",
+      "position": "Research Associate"
+    },
+    {
+      "company": "Asymmetry Ventures",
+      "dates": "2018 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "US Army",
+      "dates": "2003 - Present",
+      "position": "Civil Affairs Branch; Engineer Branch"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Asymmetry Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/asymmetry-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$125K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0xrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cc8f74cbe86a1005afdd718b814b75aa305ac9d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rob-ness",
+  "sectorRankings": [
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Material Science (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rob-ness",
+  "socials": {
+    "angellist": "https://www.angel.co/rob-ness",
+    "crunchbase": "https://www.crunchbase.com/person/rob-ness",
+    "linkedin": "https://www.linkedin.com/in/robnessdc/",
+    "website": "https://www.asymmetry.vc/"
+  },
+  "scraped_at": "2026-02-27T04:02:15.591819"
+}

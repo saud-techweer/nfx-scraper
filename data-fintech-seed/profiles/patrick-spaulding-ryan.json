@@ -1,0 +1,185 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Advisor",
+      "Founder",
+      "Attorney"
+    ],
+    "location": "Berkeley, California",
+    "name": "Patrick Spaulding Ryan",
+    "signalScore": 195,
+    "website": "https://pryan.net/"
+  },
+  "experience": [
+    {
+      "company": "ByteDance",
+      "dates": "2020 - 2022",
+      "position": "Lead TPM"
+    },
+    {
+      "company": "Google",
+      "dates": "2011 - 2020",
+      "position": "Trust, Strategy & Engineering Principal"
+    },
+    {
+      "company": "University of Colorado Boulder",
+      "dates": "2004 - 2016",
+      "position": "Faculty Director & Adjunct Professor"
+    },
+    {
+      "company": "TetraTech",
+      "dates": "1994 - 2001",
+      "position": "Director of Operations"
+    },
+    {
+      "company": "Berkeley SkyDeck",
+      "dates": "2023 - Present",
+      "position": "Advisor/Mentor"
+    },
+    {
+      "company": "University of California - Berkeley",
+      "dates": "2023 - Present",
+      "position": "Visiting Scholar, Berkeley Law"
+    },
+    {
+      "company": "Turion Space",
+      "dates": "2022 - Present",
+      "position": "Space Evangelist | FGC"
+    },
+    {
+      "company": "bttn.",
+      "dates": "2021 - Present",
+      "position": "Founding advisor | first investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Leawood Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/leawood-venture-capital",
+      "position": "Angel"
+    },
+    "investmentRange": "$1K - $100K",
+    "investmentsOnRecord": 23,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Always Blue Games",
+      "date": "Nov 2023",
+      "roundSize": null,
+      "stage": "Friends & Family",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Everykey",
+      "date": "Oct 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Signatur Biosciences",
+      "date": "Oct 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Avion UAV",
+      "date": "Sep 2022",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Clupp (YC W22)",
+      "date": "Jul 2022",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "CurveCatch",
+      "date": "Jun 2022",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "AT Worthy",
+      "date": "Jan 2022",
+      "roundSize": null,
+      "stage": "Angel Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Arrenda",
+      "date": "Dec 2021",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNENPQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--efbfe0c5b031791b4ac097ecae25b1c0ac734e7f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/patrick-spaulding-ryan",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "patrick-spaulding-ryan",
+  "socials": {
+    "angellist": "https://www.angel.co/p/patrickspauldingryan",
+    "crunchbase": "https://www.crunchbase.com/person/patrick-spaulding-ryan-phd",
+    "linkedin": "https://www.linkedin.com/in/psrlaw/",
+    "twitter": "https://www.twitter.com/djslyry",
+    "website": "https://www.pryan.net/"
+  },
+  "scraped_at": "2026-03-03T23:10:53.238262"
+}

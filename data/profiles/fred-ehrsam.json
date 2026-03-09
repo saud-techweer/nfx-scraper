@@ -1,0 +1,160 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Fred Ehrsam",
+    "website": "https://paradigm.xyz/team/fredehrsam/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Paradigm",
+      "firmUrl": "https://signal.nfx.com/firms/paradigm",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$2.5B",
+    "investmentRange": "$1M - $100.0M",
+    "investmentsOnRecord": 50,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dylan Field"
+      ],
+      "company": "Arcadia Medicine",
+      "date": "Oct 2025",
+      "roundSize": "$9M",
+      "stage": "Seed",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Jake Paul (Anti fund)",
+        "Neeraj Arora (Venture Highway)",
+        "Yuri Sagalov (10100)",
+        "Logan Paul",
+        "John Collison",
+        "Patrick Collison",
+        "Guillermo Rauch"
+      ],
+      "company": "The Interaction Company of California",
+      "date": "Sep 2025",
+      "roundSize": "$15M",
+      "stage": "Seed",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Elena Viboch (General Catalyst)",
+        "Greg Yap (Menlo Ventures)",
+        "Lachy Groom (LGF)"
+      ],
+      "company": "Chai Discovery",
+      "date": "Aug 2025",
+      "roundSize": "$70M",
+      "stage": "Series A",
+      "totalRaised": "$200M"
+    },
+    {
+      "coInvestors": [
+        "Joe Lonsdale (8VC)",
+        "Nat Friedman (C2 Investment)",
+        "Eric Schmidt (Innovation Endeavors)",
+        "Daniel Gross (C2 Investment)",
+        "John Collison",
+        "Patrick Collison"
+      ],
+      "company": "NewLimit",
+      "date": "May 2025",
+      "roundSize": "$130M",
+      "stage": "Series B",
+      "totalRaised": "$200M"
+    },
+    {
+      "coInvestors": [
+        "Rex Salisbury (Cambrian Ventures)"
+      ],
+      "company": "Inventex",
+      "date": "Apr 2025",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Gaurav Ahuja (Thrive Capital)",
+        "Emilie Choi (Coinbase Ventures)",
+        "Lachy Groom (LGF)"
+      ],
+      "company": "Dot Product",
+      "date": "Jan 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "James Fickel (Starbloom Ventures)",
+        "Vitalik Buterin"
+      ],
+      "company": "Swift Solar",
+      "date": "Jun 2024",
+      "roundSize": "$27M",
+      "stage": "Series A",
+      "totalRaised": "$35M"
+    },
+    {
+      "coInvestors": [
+        "Keith Bender (Pear VC)",
+        "Patrick Collison",
+        "bill weathersby",
+        "John Collison",
+        "Tony Xu",
+        "Karim Atiyeh"
+      ],
+      "company": "Cognition",
+      "date": "Mar 2024",
+      "roundSize": "$21M",
+      "stage": "Series A",
+      "totalRaised": "$21M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBem1IQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0ff7ea9e7256b0f94b275ebb98a98e1353751b1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/fred-ehrsam",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "fred-ehrsam",
+  "socials": {
+    "angellist": "https://www.angel.co/p/fred-ehrsam",
+    "crunchbase": "https://www.crunchbase.com/person/fred-ehrsam",
+    "linkedin": "https://www.linkedin.com/in/fredehrsam/",
+    "twitter": "https://www.twitter.com/FEhrsam",
+    "website": "https://www.paradigm.xyz/team/fredehrsam/"
+  },
+  "scraped_at": "2026-02-11T10:15:37.051922"
+}

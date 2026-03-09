@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Chad Harris",
+    "website": "https://bip-capital.com/"
+  },
+  "experience": [
+    {
+      "company": "SunTrust Robinson Humphrey",
+      "dates": "2017 - 2020",
+      "position": "Equity Capital Markets"
+    },
+    {
+      "company": "SunTrust Robinson Humphrey",
+      "dates": "2012 - 2017",
+      "position": "Associate, Technology, Media & Telecommunications"
+    },
+    {
+      "company": "MTV Networks",
+      "dates": "2008 - 2010",
+      "position": "Manager, Strategy and Business Development"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "2005 - 2008",
+      "position": "Associate, Media Equity Research"
+    },
+    {
+      "company": "SB Opportunity Fund",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BIP Capital",
+      "firmUrl": "https://signal.nfx.com/firms/bip-capital",
+      "position": "Vice President"
+    },
+    "fundSize": "$550M",
+    "investmentRange": "$2.0M - $10.0M",
+    "sweetSpot": "$6.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTltQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--17ae7b5fc24aa0166065380238b5396c3bd39cbc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chad-harris",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chad-harris",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/chad-harris-73b2",
+    "linkedin": "https://www.linkedin.com/in/chad-harris-17b00026/",
+    "twitter": "https://mobile.twitter.com/chad_harris14",
+    "website": "https://www.bip-capital.com/"
+  },
+  "scraped_at": "2026-02-26T09:14:19.534161"
+}

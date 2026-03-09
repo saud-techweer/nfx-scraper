@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Madelaine Czufin",
+    "website": "https://www.theventurecollective.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The Venture Collective (TVC)",
+      "firmUrl": "https://signal.nfx.com/firms/the-venture-collective-tvc",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$15M",
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1dYQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--16a7a5f265d027c1767e43ad619d4ba7e142cf6f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/madelaine-czufin",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "madelaine-czufin",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/madelaine-czufin",
+    "linkedin": "https://www.linkedin.com/in/madelaine-czufin-5317b963/",
+    "twitter": "https://www.twitter.com/MCzufin",
+    "website": "https://www.theventurecollective.com/"
+  },
+  "scraped_at": "2026-03-03T22:03:32.287279"
+}

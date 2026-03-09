@@ -1,0 +1,102 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "London",
+    "name": "Nahu Ghebremichael",
+    "website": "https://singular.vc/"
+  },
+  "experience": [
+    {
+      "company": "Deliveroo",
+      "dates": "2019 - 2021",
+      "position": "Senior Director, Strategy & Transformation"
+    },
+    {
+      "company": "NerdWallet",
+      "dates": "2015 - 2017",
+      "position": "GM & Product Manager, Insurance"
+    },
+    {
+      "company": "Manicube",
+      "dates": "2014 - 2015",
+      "position": "Director, General Manager Bay Area"
+    },
+    {
+      "company": "Bain & Company",
+      "dates": "2006 - 2014",
+      "position": "Case Team Leader"
+    },
+    {
+      "company": "Alma Angels",
+      "dates": "2021 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Singular",
+      "dates": "2021 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Singular",
+      "firmUrl": "https://signal.nfx.com/firms/singular",
+      "position": "Partner"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFBFQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e502518abbc9518d360336274f3dfe1b7f44e4df/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nahu-ghebremichael",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nahu-ghebremichael",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/nahu-ghebremichael",
+    "linkedin": "https://www.linkedin.com/in/nahug/",
+    "twitter": "https://www.twitter.com/Nahu_tweets",
+    "website": "https://www.singular.vc/"
+  },
+  "scraped_at": "2026-02-28T02:20:58.793677"
+}

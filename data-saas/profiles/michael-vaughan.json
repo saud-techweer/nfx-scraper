@@ -1,0 +1,172 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Angel"
+    ],
+    "location": "Philadelphia, Pennsylvania",
+    "name": "Michael Vaughan",
+    "signalScore": 403,
+    "website": "https://veraequity.com/"
+  },
+  "experience": [
+    {
+      "company": "Oak HC/FT",
+      "dates": "2019 - 2022",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Venmo",
+      "dates": "2011 - 2019",
+      "position": "COO"
+    },
+    {
+      "company": "TicketLeap",
+      "dates": "2008 - 2011",
+      "position": "VP Business Development"
+    },
+    {
+      "company": "Telephia",
+      "dates": "1999 - 2004",
+      "position": "Director, Product Operations"
+    },
+    {
+      "company": "Stripes",
+      "dates": "2022 - Present",
+      "position": "Operating Partner"
+    },
+    {
+      "company": "Vera Equity",
+      "dates": "2022 - Present",
+      "position": "Co-founder & General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Vera Equity",
+      "firmUrl": "https://signal.nfx.com/firms/vera-equity",
+      "position": "General Partner"
+    },
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Keep Technologies",
+      "date": "Nov 2021",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Overflow",
+      "date": "Oct 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Liron Azrielant (Meron Capital)"
+      ],
+      "company": "Mesh Payments",
+      "date": "Dec 2018",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Kuran Malhotra (Insight Partners)",
+        "Matt Brown (Matrix)",
+        "Brian Bell (Team Ignite Ventures)",
+        "Cyril Grislain"
+      ],
+      "company": "Unit.co",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Dave Messina (Pioneer Fund)"
+      ],
+      "company": "SPRX",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLzkvQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eae0b95e193f3b23f10d51b17283b2893e35972e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-vaughan",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "michael-vaughan",
+  "socials": {
+    "angellist": "https://www.angel.co/u/vaughan_michael",
+    "crunchbase": "https://www.crunchbase.com/person/michael-vaughan",
+    "linkedin": "https://www.linkedin.com/in/michaelvaughan/",
+    "twitter": "https://www.twitter.com/michael_vaughan?lang=en",
+    "website": "https://www.veraequity.com/"
+  },
+  "scraped_at": "2026-02-27T02:52:26.612135"
+}

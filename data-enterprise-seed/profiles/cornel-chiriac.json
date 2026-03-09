@@ -1,0 +1,152 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel"
+    ],
+    "location": "London",
+    "name": "Cornel Chiriac",
+    "signalScore": 1,
+    "website": "https://2050cap.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "2050 Capital",
+      "firmUrl": "https://signal.nfx.com/firms/2050-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$200K - $3.0M",
+    "investmentsOnRecord": 13,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "One Silicon Chip Photonics",
+      "date": "May 2023",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "KETS Quantum",
+      "date": "Mar 2023",
+      "roundSize": null,
+      "stage": "Bridge",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Hadean",
+      "date": "Sep 2022",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Chai",
+      "date": "Jul 2022",
+      "roundSize": "$2.8M",
+      "stage": "Seed II",
+      "totalRaised": "$2.8M"
+    },
+    {
+      "coInvestors": [
+        "Baris Ozaydinli (Ascension Ventures)"
+      ],
+      "company": "AMFG",
+      "date": "Apr 2022",
+      "roundSize": "$8.5M",
+      "stage": "Series A",
+      "totalRaised": "$8.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Blackrock Neurotech",
+      "date": "May 2021",
+      "roundSize": "$10M",
+      "stage": "Venture Round",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Origin Sciences",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Baris Ozaydinli (Ascension Ventures)"
+      ],
+      "company": "Grakn",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOStrQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--58ed313ca3785cb9c40bc5e48d5ff44fecd13a7d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cornel-chiriac",
+  "sectorRankings": [
+    {
+      "name": "Material Science (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-material-science-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "cornel-chiriac",
+  "socials": {
+    "angellist": "https://www.angel.co/cornel-chiriac?public_profile=1",
+    "linkedin": "https://www.linkedin.com/in/cornelchiriac/",
+    "website": "https://www.2050cap.com/"
+  },
+  "scraped_at": "2026-02-26T09:51:33.576960"
+}

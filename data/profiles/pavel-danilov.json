@@ -1,0 +1,107 @@
+{
+  "basicInfo": {
+    "name": "Pavel Danilov",
+    "signalScore": 131,
+    "investorTypes": [
+      "Advisor",
+      "CEO",
+      "Operator",
+      "Founder"
+    ],
+    "website": "https://www.fridgenomore.com/",
+    "location": "New York, New York"
+  },
+  "investingProfile": {
+    "currentPosition": "Advisor",
+    "investmentsOnRecord": 2
+  },
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Tomi.ai",
+      "stage": "Pre-seed",
+      "date": "Feb 2021",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Elementaree",
+      "stage": "Venture",
+      "date": "Jul 2018",
+      "roundSize": "$1.5M",
+      "totalRaised": "$1.5M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "CEO",
+      "company": "Fridge No More",
+      "dates": "2020 - 2022"
+    },
+    {
+      "position": "Associate",
+      "company": "Barclays Capital",
+      "dates": "2007 - 2011"
+    }
+  ],
+  "socials": {
+    "website": "https://www.fridgenomore.com/",
+    "linkedin": "https://www.linkedin.com/in/pvdanilov/",
+    "crunchbase": "https://www.crunchbase.com/person/pavel-danilov"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzBwQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--74609854baf48139e2d4be48cd248df3fc45be04/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pavel-danilov",
+  "slug": "pavel-danilov",
+  "scraped_at": "2026-02-26T00:21:14.935278"
+}

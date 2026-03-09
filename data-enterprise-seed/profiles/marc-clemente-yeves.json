@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Marc Clemente Yeves",
+    "website": "https://en.kfund.vc/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "KFund",
+      "firmUrl": "https://signal.nfx.com/firms/kfund",
+      "position": "Investor"
+    },
+    "investmentRange": "$230K - $2.3M",
+    "sweetSpot": "$1.2M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDUvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9c6839a4546a0ffb68d8faa405c0ed82db443c31/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marc-clemente-yeves",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "marc-clemente-yeves",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/marc-clemente",
+    "linkedin": "https://www.linkedin.com/in/marcclementeyeves/?originalSubdomain=es",
+    "twitter": "https://www.twitter.com/marccley?lang=en",
+    "website": "https://en.kfund.vc/team"
+  },
+  "scraped_at": "2026-02-27T23:32:02.075368"
+}

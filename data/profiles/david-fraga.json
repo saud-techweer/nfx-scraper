@@ -1,0 +1,133 @@
+{
+  "basicInfo": {
+    "name": "David Fraga",
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Brooklyn, New York"
+  },
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K",
+    "investmentsOnRecord": 1
+  },
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Brainbase",
+      "stage": "Series A",
+      "date": "May 2020",
+      "roundSize": "$8M",
+      "totalRaised": "$8M",
+      "coInvestors": [
+        "Spencer Lazar (General Catalyst)",
+        "Kent Bennett (Bessemer Venture Partners)",
+        "Jennifer “Jenny\" Fleiss (Volition Capital)",
+        "Britt Danneman (Alpha Edison)",
+        "Sahin Boydas",
+        "Michael Stoppelman"
+      ]
+    }
+  ],
+  "experience": [
+    {
+      "position": "President",
+      "company": "InVision",
+      "dates": "2020 - 2021"
+    },
+    {
+      "position": "Chief Operating Officer",
+      "company": "InVision",
+      "dates": "2015 - 2020"
+    },
+    {
+      "position": "Vice President, Corporate Development",
+      "company": "Shutterstock",
+      "dates": "2009 - 2015"
+    },
+    {
+      "position": "Co-Founder",
+      "company": "LendforPeace.org",
+      "dates": "2008 - 2014"
+    },
+    {
+      "position": "Investor",
+      "company": "Insight Partners",
+      "dates": "2006 - 2009"
+    },
+    {
+      "position": "Advisor and Investor",
+      "company": "Various",
+      "dates": "2012 - Present"
+    }
+  ],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/davidfraga/",
+    "twitter": "https://www.twitter.com/davidfraga",
+    "angellist": "https://www.angel.co/u/david-fraga",
+    "crunchbase": "https://www.crunchbase.com/person/david-fraga"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMC84QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e0d03370cf2493f5f71fa1ecdb51604857e99295/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-fraga",
+  "slug": "david-fraga",
+  "scraped_at": "2026-02-24T10:54:34.234749"
+}

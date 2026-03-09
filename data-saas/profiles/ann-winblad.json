@@ -1,0 +1,230 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Ann Winblad",
+    "website": "https://hwvp.com/team"
+  },
+  "experience": [
+    {
+      "company": "MuleSoft",
+      "dates": "2006 - 2018",
+      "position": "Director"
+    },
+    {
+      "company": "Voltage Security",
+      "dates": "2002 - 2015",
+      "position": "Director"
+    },
+    {
+      "company": "Karmasphere",
+      "dates": "2010 - 2014",
+      "position": "Director"
+    },
+    {
+      "company": "SVForum",
+      "dates": "1998 - 2014",
+      "position": "Director, Former Chairperson"
+    },
+    {
+      "company": "Star Analytics",
+      "dates": "2007 - 2013",
+      "position": "Director"
+    },
+    {
+      "company": "Krillion, Inc.",
+      "dates": "2006 - 2011",
+      "position": "Director"
+    },
+    {
+      "company": "Marketwire",
+      "dates": "2000 - 2006",
+      "position": "Director"
+    },
+    {
+      "company": "The Knot",
+      "dates": "1999 - 2005",
+      "position": "Director"
+    },
+    {
+      "company": "Liquid Audio",
+      "dates": "1996 - 2003",
+      "position": "Director"
+    },
+    {
+      "company": "Intrinsa",
+      "dates": "1999 - 2003",
+      "position": "Director"
+    },
+    {
+      "company": "Net Perceptions",
+      "dates": "1996 - 2001",
+      "position": "Director"
+    },
+    {
+      "company": "Hyperion",
+      "dates": "1991 - 1996",
+      "position": "Director"
+    },
+    {
+      "company": "Central Point Software",
+      "dates": "1990 - 1993",
+      "position": "Director"
+    },
+    {
+      "company": "Open Systems, Inc",
+      "dates": "1976 - 1984",
+      "position": "Co-Founder and CEO"
+    },
+    {
+      "company": "Federal Reserve Bank of Minneapolis",
+      "dates": "1973 - 1975",
+      "position": "Systems Analyst"
+    },
+    {
+      "company": "Richard M. Schulze Family Foundation",
+      "dates": "2014 - Present",
+      "position": "Trustee"
+    },
+    {
+      "company": "OptiMine Software, Inc.",
+      "dates": "2014 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Sonatype",
+      "dates": "2010 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Ace Metrix",
+      "dates": "2008 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "University of St Thomas",
+      "dates": "2000 - Present",
+      "position": "Trustee"
+    },
+    {
+      "company": "Hummer Winblad Venture Partners",
+      "dates": "1989 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "HWVP (Hummer Winblad Venture Partners)",
+      "firmUrl": "https://signal.nfx.com/firms/hummer-winbald-venture-partners",
+      "position": "Managing Director"
+    },
+    "fundSize": "$80.6M",
+    "investmentsOnRecord": 16
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Ace Metrix",
+      "date": "Aug 2014",
+      "roundSize": "$4M",
+      "stage": "Series C",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Karmasphere",
+      "date": "Sep 2013",
+      "roundSize": "$1.5M",
+      "stage": "Series C",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sonatype",
+      "date": "Sep 2009",
+      "roundSize": "$5.2M",
+      "stage": "Series A",
+      "totalRaised": "$9.7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Star Analytics",
+      "date": "Jul 2007",
+      "roundSize": "$3.5M",
+      "stage": "Series A",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Krillion",
+      "date": "Jun 2006",
+      "roundSize": "$9.2M",
+      "stage": "Series A",
+      "totalRaised": "$9.2M"
+    },
+    {
+      "coInvestors": [
+        "Jeff Epstein (Bessemer Venture Partners)",
+        "Brian Jacobs (Emergence Capital)",
+        "Byron Deeter (Bessemer Venture Partners)",
+        "Chelsea Stoner (Battery Ventures)",
+        "Bob Spinner (Jackson Square Ventures)",
+        "Greg Sands (Costanoa Ventures)",
+        "Harshul Sanghi (American Express Ventures)"
+      ],
+      "company": "Sage Intacct",
+      "date": "May 2006",
+      "roundSize": "$7M",
+      "stage": "Series B",
+      "totalRaised": "$42M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Internet Wire",
+      "date": "Mar 2002",
+      "roundSize": "$4M",
+      "stage": "Venture Round",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0lIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ac437feb62b6c6127a753c14e47456080337e3e3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ann-winblad",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ann-winblad",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ann-winblad",
+    "linkedin": "https://www.linkedin.com/in/annwinblad/",
+    "website": "https://www.hwvp.com/team"
+  },
+  "scraped_at": "2026-02-26T08:21:35.836858"
+}

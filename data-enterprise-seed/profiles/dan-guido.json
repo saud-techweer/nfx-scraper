@@ -1,0 +1,103 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "CEO",
+      "Advisor",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Dan Guido",
+    "positionAndFirm": "Co-founder/CEO at Trail of Bits, Angel Investor",
+    "website": "https://www.trailofbits.com/"
+  },
+  "experience": [
+    {
+      "company": "Trail of Bits",
+      "dates": "2012 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$10K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Meow",
+      "date": "Nov 2021",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    }
+  ],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/dan-guido",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    }
+  ],
+  "slug": "dan-guido",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/danguido/",
+    "twitter": "https://www.twitter.com/dguido",
+    "website": "https://www.trailofbits.com/"
+  },
+  "scraped_at": "2026-02-26T09:57:17.376185"
+}

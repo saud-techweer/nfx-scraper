@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Michael Eisenberg",
+    "positionAndFirm": "Husband, Father, Grandfather, Author and Venture Capitalist",
+    "website": "https://aleph.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Aleph VC",
+      "firmUrl": "https://signal.nfx.com/firms/aleph-vc",
+      "position": "Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dave Morin (Offline Ventures)",
+        "Simon Levene (Mosaic Ventures)",
+        "Marvin Tien (Corner Ventures)",
+        "Jonathan Machado (Samsung NEXT Ventures)",
+        "Gavin Baker (Atreides Management)"
+      ],
+      "company": "Nexar",
+      "date": "Apr 2020",
+      "roundSize": "$52M",
+      "stage": "Series C",
+      "totalRaised": "$52M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlBkQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0bc1de84ce11974bf8b6a9662ef284138d0cff9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-eisenberg",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-eisenberg",
+  "socials": {
+    "angellist": "https://www.angel.co/p/michael-eisenberg-2",
+    "crunchbase": "https://www.crunchbase.com/person/michael-eisenberg",
+    "linkedin": "https://www.linkedin.com/in/mieisenberg/",
+    "twitter": "https://www.twitter.com/mikeeisenberg",
+    "website": "https://www.aleph.vc/"
+  },
+  "scraped_at": "2026-02-27T23:50:44.689899"
+}

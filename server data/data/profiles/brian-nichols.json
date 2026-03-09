@@ -1,0 +1,134 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Brian Nichols",
+    "signalScore": 192,
+    "website": "https://nicholsb.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hustle Fund",
+      "firmUrl": "https://signal.nfx.com/firms/hustle-fund",
+      "position": "Investor"
+    },
+    "fundSize": "$34M",
+    "investmentRange": "$50K - $100K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$75K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Chad Packard (Pelion Venture Partners)",
+        "Justin Norden (GSR Ventures)",
+        "Newth Morris (Ankona Capital)",
+        "Scott Dorsey (High Alpha)",
+        "Eric Tobias (High Alpha)",
+        "Seth Corder (High Alpha)",
+        "Mike Fitzgerald (High Alpha)",
+        "Louis Beryl"
+      ],
+      "company": "Canopy",
+      "date": "Oct 2023",
+      "roundSize": "$240K",
+      "stage": "Pre Seed",
+      "totalRaised": "$190M"
+    },
+    {
+      "coInvestors": [
+        "Shiyan Koh (Hustle Fund)",
+        "Morgan Schwanke (Mana Ventures)",
+        "Julian Jung (Republic Capital)",
+        "Nick Hunley"
+      ],
+      "company": "EquityList",
+      "date": "Sep 2023",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1dCQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--12aef6918bf3e68dcb12825ce5b5bbc8d6fbb7a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-nichols",
+  "sectorRankings": [
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brian-nichols",
+  "socials": {
+    "angellist": "https://www.angel.co/p/brian-nichols-6",
+    "crunchbase": "https://www.crunchbase.com/person/brian-nichols",
+    "linkedin": "https://www.linkedin.com/in/briannichols11/",
+    "twitter": "https://www.twitter.com/b_nicks11",
+    "website": "https://www.nicholsb.com/"
+  },
+  "scraped_at": "2026-02-11T11:04:53.263131"
+}

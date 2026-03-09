@@ -1,0 +1,268 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "VC",
+      "CEO"
+    ],
+    "location": "Virginia",
+    "name": "Auren Hoffman",
+    "signalScore": 3,
+    "website": "https://flexcapital.com/#team"
+  },
+  "experience": [
+    {
+      "company": "LiveRamp",
+      "dates": "2006 - 2015",
+      "position": "CEO and cofounder"
+    },
+    {
+      "company": "BrightRoll",
+      "dates": "2013 - 2014",
+      "position": "Board Member"
+    },
+    {
+      "company": "Stonebrick Group",
+      "dates": "2003 - 2006",
+      "position": "Chairman"
+    },
+    {
+      "company": "BridgePath",
+      "dates": "1998 - 2002",
+      "position": "CEO"
+    },
+    {
+      "company": "Human Ingenuity",
+      "dates": "1997 - 1998",
+      "position": "VP Engineering"
+    },
+    {
+      "company": "Kyber Systems",
+      "dates": "1995 - 1997",
+      "position": "CTO and co-founder"
+    },
+    {
+      "company": "Datavant",
+      "dates": "2019 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "SafeGraph",
+      "dates": "2016 - Present",
+      "position": "CEO and Chief Historian"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Flex Capital",
+      "firmUrl": "https://signal.nfx.com/firms/flex-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$300M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tod Sacerdoti (Flex Capital)"
+      ],
+      "company": "Retain.ai",
+      "date": "Apr 2019",
+      "roundSize": "$4.6M",
+      "stage": "Funding Round",
+      "totalRaised": "$4.6M"
+    },
+    {
+      "coInvestors": [
+        "Jack Groetzinger (Founder Collective)",
+        "David Thacker (Greylock)",
+        "Keith Rabois (Khosla Ventures)",
+        "David Frankel (Founder Collective)",
+        "Matt Murphy (Menlo Ventures)",
+        "Tod Sacerdoti (Flex Capital)",
+        "Justin Ziebell (Indeed.com)",
+        "Eduardo Vivas (Curated)",
+        "Susan Hobbs (CrunchFund)"
+      ],
+      "company": "Truework",
+      "date": "Apr 2018",
+      "roundSize": "$2.9M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [
+        "Tod Sacerdoti (Flex Capital)",
+        "Benjamin Savage (Clocktower Technology Ventures)",
+        "Jim Andelman (Bonfire Ventures)",
+        "Naren Gupta (Nexus Venture Partners)",
+        "Pete Briger (Fortress Investment Group)",
+        "Kim Perell"
+      ],
+      "company": "Windfall",
+      "date": "Dec 2016",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Fabrice Grinda (FJ Labs)",
+        "Aydin Senkut (Felicis Ventures)",
+        "Yervand Sarkisyan (Granatus Ventures)",
+        "Kevin Dasch (Social Starts)",
+        "Julia Popowitz (Broadway Angels)",
+        "Russ Fradin",
+        "Charlie Songhurst"
+      ],
+      "company": "CodeSignal",
+      "date": "Apr 2015",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [
+        "Brian Wayne (Aegon Asset Management)",
+        "Marc Benioff"
+      ],
+      "company": "Rubicon",
+      "date": "Jan 2015",
+      "roundSize": "$32M",
+      "stage": "Series B",
+      "totalRaised": "$32M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2ZCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--55a5b7e437b76e7828198be59603d06ef20ddcc4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/auren-hoffman",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Advertising (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-series-a-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "auren-hoffman",
+  "socials": {
+    "angellist": "https://www.angel.co/auren",
+    "crunchbase": "https://www.crunchbase.com/person/auren-hoffman",
+    "linkedin": "https://www.linkedin.com/in/auren/",
+    "twitter": "https://www.twitter.com/auren",
+    "website": "https://www.flexcapital.com/#team"
+  },
+  "scraped_at": "2026-02-26T08:34:06.467405"
+}

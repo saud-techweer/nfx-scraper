@@ -1,0 +1,146 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Henry McNamara",
+    "signalScore": 406,
+    "website": "https://greatoaksvc.com/team/5"
+  },
+  "experience": [
+    {
+      "company": "Great Oaks Venture Capital",
+      "dates": "2015 - 2016",
+      "position": "Principal"
+    },
+    {
+      "company": "Great Oaks Venture Capital",
+      "dates": "2013 - 2015",
+      "position": "Analyst"
+    },
+    {
+      "company": "Runway for Recovery",
+      "dates": "2019 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Whalebone Ventures",
+      "dates": "2019 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Great Oaks Venture Capital",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Great Oaks Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/great-oaks-venture-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$40M",
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$275K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Brendan Wallace (Fifth Wall)",
+        "Scott Stanford (ACME Capital)",
+        "Andrew Boszhardt (Great Oaks Venture Capital)",
+        "Phin Barnes (The General Partnership)"
+      ],
+      "company": "PHL",
+      "date": "Jan 2014",
+      "roundSize": "$4.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3J3QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a32240ad312aa3a0e268f82e9f4fa51f09f45c95/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/henry-mcnamara",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "henry-mcnamara",
+  "socials": {
+    "angellist": "https://www.angel.co/p/henrylmcnamara",
+    "crunchbase": "https://www.crunchbase.com/person/henry-mcnamara",
+    "linkedin": "https://www.linkedin.com/in/henrylmcnamara/",
+    "twitter": "https://www.twitter.com/HenryLMcNamara",
+    "website": "https://www.greatoaksvc.com/team/5"
+  },
+  "scraped_at": "2026-02-11T11:15:50.728207"
+}

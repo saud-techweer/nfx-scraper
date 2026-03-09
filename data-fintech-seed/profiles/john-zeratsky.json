@@ -1,0 +1,79 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC",
+      "Founder"
+    ],
+    "location": "Milwaukee, Wisconsin",
+    "name": "John Zeratsky",
+    "website": "https://johnzeratsky.com/"
+  },
+  "experience": [
+    {
+      "company": "GV",
+      "dates": "2011 - 2017",
+      "position": "Design Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Character",
+      "firmUrl": "https://signal.nfx.com/firms/character",
+      "position": "General Partner"
+    },
+    "investmentRange": "$500K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0xRQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3950747ca420db6514d203f669c8d9b78b2543ed/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-zeratsky",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "john-zeratsky",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jazer",
+    "crunchbase": "https://www.crunchbase.com/person/john-zeratsky",
+    "linkedin": "https://www.linkedin.com/in/johnzeratsky/",
+    "twitter": "https://www.twitter.com/jazer",
+    "website": "https://www.johnzeratsky.com/"
+  },
+  "scraped_at": "2026-03-03T21:08:09.845182"
+}

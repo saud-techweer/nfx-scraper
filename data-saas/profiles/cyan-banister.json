@@ -1,0 +1,353 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Operator"
+    ],
+    "location": "Half Moon Bay",
+    "name": "Cyan Banister",
+    "signalScore": 180,
+    "website": "https://longjourney.vc/"
+  },
+  "experience": [
+    {
+      "company": "Founders Fund",
+      "dates": "2016 - 2020",
+      "position": "Partner"
+    },
+    {
+      "company": "AngelList",
+      "dates": "2015 - 2020",
+      "position": "Ev\"angel\"ist"
+    },
+    {
+      "company": "Zivity - www.zivity.com",
+      "dates": "2006 - 2016",
+      "position": "Co Founder"
+    },
+    {
+      "company": "Signal Media Project",
+      "dates": "2013 - 2016",
+      "position": "Co-founder"
+    },
+    {
+      "company": "IronPort",
+      "dates": "2005 - 2006",
+      "position": "Senior Manager, Security Operations"
+    },
+    {
+      "company": "IronPort",
+      "dates": "2005 - 2005",
+      "position": "Manager of Strategic Support and Anti-Spam Operations"
+    },
+    {
+      "company": "IronPort",
+      "dates": "2004 - 2005",
+      "position": "Manager of Support, Worldwide"
+    },
+    {
+      "company": "IronPort",
+      "dates": "2003 - 2004",
+      "position": "Standards and Practices Manager"
+    },
+    {
+      "company": "IronPort Systems",
+      "dates": "2003 - 2004",
+      "position": "Standards and Practices Manager"
+    },
+    {
+      "company": "Savicom",
+      "dates": "2002 - 2003",
+      "position": "Standards and Practices Manager"
+    },
+    {
+      "company": "Women's Economic Agenda Project",
+      "dates": "2001 - 2002",
+      "position": "CTO"
+    },
+    {
+      "company": "iAsiaWorks",
+      "dates": "2001 - 2001",
+      "position": "Tools and Automation Engineer"
+    },
+    {
+      "company": "NBCi",
+      "dates": "1999 - 2001",
+      "position": "Operations - Systems Administration - Development Support"
+    },
+    {
+      "company": "Extreme Internet",
+      "dates": "1997 - 1998",
+      "position": "Systems Admin / Support Manager"
+    },
+    {
+      "company": "The Ugly Duckling",
+      "dates": "2020 - Present",
+      "position": "Author"
+    },
+    {
+      "company": "Long Journey Ventures",
+      "dates": "2020 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Long Journey Ventures",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Banister Capital",
+      "dates": "2008 - Present",
+      "position": "Owner"
+    },
+    {
+      "company": "Banister Advisors",
+      "dates": "2006 - Present",
+      "position": "Recruiter"
+    },
+    {
+      "company": "Hot Potato",
+      "dates": "Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Long Journey Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/long-journey-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$35M",
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Eric Paley (Founder Collective)",
+        "Jarrid Tingle (Harlem Capital)",
+        "Lee Jacobs (Long Journey Ventures)",
+        "Scott Belsky"
+      ],
+      "company": "CASHDROP",
+      "date": "Aug 2020",
+      "roundSize": "$2.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.7M"
+    },
+    {
+      "coInvestors": [
+        "Mark Suster (Upfront Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Dick Costolo (01 Advisors)",
+        "Alex Rodriguez (Vision/Capital/People (VCP))",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Jason Calacanis (LAUNCH)",
+        "Pete Moore",
+        "Hiten Shah",
+        "Julia Hartz",
+        "Scott Banister",
+        "Moshe Lifschitz"
+      ],
+      "company": "Density",
+      "date": "Jul 2020",
+      "roundSize": "$51M",
+      "stage": "Series C",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [
+        "Ann Miura Ko (Floodgate)",
+        "Stephen Chau (Sequoia Capital)",
+        "Ramtin Naimi (Abstract Ventures)",
+        "Gautam Gupta"
+      ],
+      "company": "Popshop Live",
+      "date": "Jul 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Hot Mic",
+      "date": "Dec 2019",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Justin Waldron (Polychain Capital)",
+        "Aydin Senkut (Felicis Ventures)",
+        "Charles Hudson (Precursor Ventures)",
+        "Hootan Rashidifard (Canaan Partners)",
+        "Eduardo Vivas (Curated)",
+        "Chris Howard (Fuel Capital)",
+        "Maynard Webb (Webb Investment Network)",
+        "Mike Kerns (TCG (The Chernin Group))",
+        "Jordan Fudge (Sinai Ventures)",
+        "Adam Foroughi",
+        "Mark Pincus"
+      ],
+      "company": "Drivetime",
+      "date": "Nov 2018",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Arjun Sethi (Tribe Capital)",
+        "Dmitry Alimov (Frontier Ventures)"
+      ],
+      "company": "Panda",
+      "date": "Jun 2018",
+      "roundSize": "$850K",
+      "stage": "Seed Round",
+      "totalRaised": "$850K"
+    },
+    {
+      "coInvestors": [
+        "Ellen Pao"
+      ],
+      "company": "Flex Productions",
+      "date": "Oct 2016",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Flow Laboratories, Inc.",
+      "date": "Feb 2016",
+      "roundSize": "$300K",
+      "stage": "Convertible Note",
+      "totalRaised": "$300K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a7d95185e81a2d6baeccc0892ae039a72db7851b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cyan-banister",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "cyan-banister",
+  "socials": {
+    "angellist": "https://www.angel.co/cyantist",
+    "crunchbase": "https://www.crunchbase.com/person/cyan-banister",
+    "linkedin": "https://www.linkedin.com/in/cyanb/",
+    "twitter": "https://www.twitter.com/cyantist",
+    "website": "https://www.longjourney.vc/"
+  },
+  "scraped_at": "2026-02-26T09:54:52.757176"
+}

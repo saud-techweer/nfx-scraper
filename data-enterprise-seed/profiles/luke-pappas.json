@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Luke Pappas",
+    "website": "https://nea.com/team/luke-pappas"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New Enterprise Associates (NEA)",
+      "firmUrl": "https://signal.nfx.com/firms/new-enterprise-associates",
+      "position": "Partner"
+    },
+    "fundSize": "$6.2B",
+    "investmentRange": "$2.0M - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODNpQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2d7fb9f7959ef6c219a667fcb9a4c0f3cf6b8ac9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/luke-pappas",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "luke-pappas",
+  "socials": {
+    "angellist": "https://www.angel.co/luke-pappas",
+    "crunchbase": "https://www.crunchbase.com/person/luke-pappas",
+    "linkedin": "https://www.linkedin.com/in/luke-pappas-78ba5699/",
+    "twitter": "https://www.twitter.com/luke_pappas?lang=en",
+    "website": "https://www.nea.com/team/luke-pappas"
+  },
+  "scraped_at": "2026-02-27T23:28:13.444135"
+}

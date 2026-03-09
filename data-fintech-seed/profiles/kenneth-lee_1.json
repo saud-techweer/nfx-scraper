@@ -1,0 +1,180 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Kenneth Lee",
+    "website": "https://vuventurepartners.com/"
+  },
+  "experience": [
+    {
+      "company": "Trading.TV",
+      "dates": "2021 - 2022",
+      "position": "Head Of Engineering"
+    },
+    {
+      "company": "Lyft",
+      "dates": "2018 - 2019",
+      "position": "Data Engineering, Business Operations"
+    },
+    {
+      "company": "Carnivore Inc",
+      "dates": "2017 - 2018",
+      "position": "Co-Founder & CTO"
+    },
+    {
+      "company": "Linekong US, a subsidary of Linekong Entertainment Technology",
+      "dates": "2015 - 2017",
+      "position": "Head of Game Science"
+    },
+    {
+      "company": "Chartboost",
+      "dates": "2012 - 2014",
+      "position": "Director of Growth and Analytics"
+    },
+    {
+      "company": "Klout",
+      "dates": "2011 - 2012",
+      "position": "Engineering Manager/Lead Engineer (Analytics)"
+    },
+    {
+      "company": "GetJar Inc.",
+      "dates": "2010 - 2011",
+      "position": "Principal Architect"
+    },
+    {
+      "company": "Trulia",
+      "dates": "2009 - 2010",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "company": "Quantcast Corporation",
+      "dates": "2008 - 2009",
+      "position": "Senior Developer"
+    },
+    {
+      "company": "C Station",
+      "dates": "1995 - 2008",
+      "position": "e-business Consultant and Co-Founder"
+    },
+    {
+      "company": "North Point, Inc.",
+      "dates": "1992 - 1995",
+      "position": "Object Consultant"
+    },
+    {
+      "company": "Hewlett Packard",
+      "dates": "1988 - 1992",
+      "position": "Member of Technical Staff"
+    },
+    {
+      "company": "VU Venture Partners",
+      "dates": "2020 - Present",
+      "position": "Venture Investor"
+    },
+    {
+      "company": "Big Fast Data",
+      "dates": "2019 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VU Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/vu-venture-partners",
+      "position": "Investor"
+    },
+    "investmentRange": "$1M - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMjYyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa56cc17aa53d7514765fb3d63e666052d64d0cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kenneth-lee_1",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kenneth-lee_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kyklee/",
+    "twitter": "https://www.twitter.com/kykl",
+    "website": "https://www.vuventurepartners.com/"
+  },
+  "scraped_at": "2026-03-03T21:33:24.933818"
+}

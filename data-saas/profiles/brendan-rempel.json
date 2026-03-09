@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Brendan Rempel",
+    "signalScore": 122,
+    "website": "https://openviewpartners.com/"
+  },
+  "experience": [
+    {
+      "company": "OpenView Venture Partners",
+      "dates": "2016 - 2022",
+      "position": "Vice President"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Kintent",
+      "date": "Apr 2022",
+      "roundSize": "$18M",
+      "stage": "Series A",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Jonno Elliott"
+      ],
+      "company": "Speechify",
+      "date": "Apr 2021",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Deputy",
+      "date": "Dec 2016",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$25M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHhhQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b41df60a949e8145bbd5cc3e8eccf64cd7198302/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brendan-rempel",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brendan-rempel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/brendan-rempel",
+    "linkedin": "https://www.linkedin.com/in/brendan-rempel/",
+    "website": "https://www.openviewpartners.com/"
+  },
+  "scraped_at": "2026-02-26T08:54:36.072783"
+}

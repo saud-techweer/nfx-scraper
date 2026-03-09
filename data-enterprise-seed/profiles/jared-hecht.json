@@ -1,0 +1,185 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel"
+    ],
+    "location": "New York",
+    "name": "Jared Hecht",
+    "website": "https://www.fundera.com/"
+  },
+  "experience": [
+    {
+      "company": "Tumblr",
+      "dates": "Present",
+      "position": "Business Development"
+    },
+    {
+      "company": "GroupMe (Acquired by Skype / MSFT)",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "Present",
+      "position": "Director"
+    },
+    {
+      "company": "Splice.com",
+      "dates": "Present",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Fundera",
+      "dates": "Present",
+      "position": "Co-Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Magellan (magellan.ventures)",
+      "firmUrl": "https://signal.nfx.com/firms/magellan-magellan-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Topher Conway (SV Angel)",
+        "Niko Bonatsos (General Catalyst)",
+        "Frank Rotman (QED Investors)",
+        "Vítor Lourenco (Expa)",
+        "Garrett Camp (Expa)",
+        "Phil Bronner (Ardent Venture Partners)",
+        "Scott Belsky",
+        "Gokul Rajaram",
+        "Vivek Patel"
+      ],
+      "company": "Collective",
+      "date": "Sep 2020",
+      "roundSize": "$8.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVYrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--787ebbe2b12f540389b0b8f4641351051e168a59/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jared-hecht",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Space (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jared-hecht",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jared-hecht",
+    "crunchbase": "https://www.crunchbase.com/person/jared-hecht",
+    "linkedin": "https://www.linkedin.com/in/jaredhecht/",
+    "twitter": "https://www.twitter.com/jaredhecht",
+    "website": "https://www.fundera.com/"
+  },
+  "scraped_at": "2026-02-27T22:32:17.034642"
+}

@@ -1,0 +1,156 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "CEO",
+      "Founder",
+      "Investor"
+    ],
+    "location": "New Jersey",
+    "name": "Uri Zilberman",
+    "positionAndFirm": "An investor, entrepreneur and a leader.",
+    "signalScore": 41,
+    "website": "https://www.impactventures.biz/"
+  },
+  "experience": [
+    {
+      "company": "Real-Life Innovations (RLI)",
+      "dates": "2016 - 2020",
+      "position": "General Partner"
+    },
+    {
+      "company": "President, RAD Inc",
+      "dates": "2008 - 2016",
+      "position": "President"
+    },
+    {
+      "company": "RADirect",
+      "dates": "2001 - 2008",
+      "position": "President"
+    },
+    {
+      "company": "RADirect, Inc",
+      "dates": "2000 - 2001",
+      "position": "Director, Product & Marketing"
+    },
+    {
+      "company": "RAD",
+      "dates": "1996 - 1999",
+      "position": "Senior Product Manager"
+    },
+    {
+      "company": "Scitex",
+      "dates": "1991 - 1995",
+      "position": "Team Leader - Software Dev."
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Real-Life Innovations",
+      "firmUrl": "https://signal.nfx.com/firms/real-life-innovations",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnNDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fdec8d4e948c9380814a64923c346d64139340d7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/uri-zilberman",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "uri-zilberman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/uri-zilberman",
+    "linkedin": "https://www.linkedin.com/in/urizilberman/",
+    "website": "https://www.impactventures.biz/"
+  },
+  "scraped_at": "2026-02-27T05:24:30.937288"
+}

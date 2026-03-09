@@ -1,0 +1,56 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Peter Hsing"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Merus Capital",
+      "firmUrl": "https://signal.nfx.com/firms/merus-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$200K - $20.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Gaurav Jain (Afore Capital)",
+        "Kevin Moore (KRM Interests LLC)",
+        "Sean Dempsey (Merus Capital)",
+        "Marc McCabe"
+      ],
+      "company": "Modern Health",
+      "date": "Jun 2018",
+      "roundSize": "$2.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1F0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7e844d273ec659fdceab6e4ad6473b03f5f04860/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-hsing",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "peter-hsing",
+  "socials": {
+    "angellist": "https://www.angel.co/superuser",
+    "crunchbase": "https://www.crunchbase.com/person/peter-hsing",
+    "linkedin": "https://www.linkedin.com/in/peterhsing/",
+    "twitter": "https://www.twitter.com/shrewdinvestor"
+  },
+  "scraped_at": "2026-02-28T02:37:55.229232"
+}

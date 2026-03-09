@@ -1,0 +1,112 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Former CEO",
+      "Founder"
+    ],
+    "location": "Netherlands",
+    "name": "Martijn van der Schaaf",
+    "positionAndFirm": "Seasoned investor and founder in the B2B SaaS and Technology space  - 2x founder, 2x exit"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Independent",
+      "firmUrl": "https://signal.nfx.com/firms/independent",
+      "position": "Investor"
+    },
+    "investmentRange": "$50K - $150K",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Computicate PSA",
+      "date": "Jan 2020",
+      "roundSize": "$300K",
+      "stage": "Post-seed",
+      "totalRaised": "$800K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Schenkservice",
+      "date": "Jan 2012",
+      "roundSize": "$25K",
+      "stage": "Pre-seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Bannerspace",
+      "date": "Jun 2007",
+      "roundSize": "$15K",
+      "stage": "Pre-seed",
+      "totalRaised": "$15K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Computication",
+      "date": "Oct 2003",
+      "roundSize": "$20K",
+      "stage": "Pre-seed",
+      "totalRaised": "$20K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGpyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--628617a50c7100978c199b77837b750038c7e3c4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martijn-van",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "martijn-van",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/martijn-van",
+    "linkedin": "https://www.linkedin.com/in/mvdschaaf/"
+  },
+  "scraped_at": "2026-02-27T23:38:33.874472"
+}

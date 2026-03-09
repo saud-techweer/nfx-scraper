@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Scott Friend"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bain Capital Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/bain-capital-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Angela Tran (Version One Ventures)",
+        "Fabrice Grinda (FJ Labs)",
+        "Jeff Fluhr (Craft Ventures)",
+        "Guy Oseary (Sound Ventures)",
+        "Pir Granoff"
+      ],
+      "company": "Lolli",
+      "date": "May 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Ashley Carroll (Social Capital)",
+        "Ted Maidenberg (Tribe Capital)",
+        "Daniel Scrivner (Ligature)",
+        "James Conigliaro (Array Ventures)",
+        "Zach Coelius (Coelius Capital)"
+      ],
+      "company": "mParticle",
+      "date": "Sep 2017",
+      "roundSize": "$35M",
+      "stage": "Series C",
+      "totalRaised": "$35M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbjc3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f0efbbd7078de6942e868a7312266bd4d9b5575d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/scott-friend",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "scott-friend",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/scott-friend",
+    "twitter": "https://www.twitter.com/sfriend37"
+  },
+  "scraped_at": "2026-02-27T04:27:40.588250"
+}

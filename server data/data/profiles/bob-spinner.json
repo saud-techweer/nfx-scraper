@@ -1,0 +1,203 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Danville, California",
+    "name": "Bob Spinner",
+    "website": "https://www.jsv.com/people/bob-spinner"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Jackson Square Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/jackson-square-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$193M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 43,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jesse Devitte (Building Ventures)",
+        "Allen Preger (Building Ventures)"
+      ],
+      "company": "Clearstory.build",
+      "date": "Jun 2024",
+      "roundSize": "$16M",
+      "stage": "Series B",
+      "totalRaised": "$34M"
+    },
+    {
+      "coInvestors": [
+        "Akriti Dokania (Ridge Ventures (Formerly known as IDG Ventures USA))"
+      ],
+      "company": "Channel99",
+      "date": "Nov 2022",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Waterline Data",
+      "date": "Oct 2018",
+      "roundSize": "$15M",
+      "stage": "Series C",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Victoria Treyger (Felicis Ventures)",
+        "Mallun Yen (Operator Collective)",
+        "Debjit Mukerji (Next47)",
+        "Tamara Steffens (Thomson Reuters Ventures)",
+        "Joshua Browder (Browder Capital)",
+        "Salle Yoo (January Ventures)"
+      ],
+      "company": "DataGrail",
+      "date": "Sep 2018",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$84M"
+    },
+    {
+      "coInvestors": [
+        "Alexander Niehenke (Scale Venture Partners)",
+        "Stacey Bishop (Scale Venture Partners)"
+      ],
+      "company": "Demandbase",
+      "date": "May 2017",
+      "roundSize": "$65M",
+      "stage": "Series H",
+      "totalRaised": "$130M"
+    },
+    {
+      "coInvestors": [
+        "Lorenz Bogaert (Pitchdrive)"
+      ],
+      "company": "Sparkcentral",
+      "date": "Nov 2016",
+      "roundSize": "$20M",
+      "stage": "Series Unknown",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [],
+      "company": "AT&T CyberSecurity",
+      "date": "Aug 2015",
+      "roundSize": "$52M",
+      "stage": "Series E",
+      "totalRaised": "$100M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Vetter Software",
+      "date": "Apr 2015",
+      "roundSize": "$930K",
+      "stage": "Angel",
+      "totalRaised": "$1.9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0Z3QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d7aa72877442beeab8cbb252bb47c54bad26fc8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bob-spinner",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bob-spinner",
+  "socials": {
+    "angellist": "https://www.angel.co/p/bob-spinner",
+    "crunchbase": "https://www.crunchbase.com/person/bob-spinner",
+    "linkedin": "https://www.linkedin.com/in/bob-spinner-29638/",
+    "twitter": "https://www.twitter.com/Bobaspinner",
+    "website": "https://www.jsv.com/people/bob-spinner"
+  },
+  "scraped_at": "2026-02-11T11:00:25.439664"
+}

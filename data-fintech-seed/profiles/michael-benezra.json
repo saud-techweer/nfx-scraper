@@ -1,0 +1,171 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "CEO"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Michael Benezra",
+    "positionAndFirm": "General Partner & at Erez Capital, CEO at Signal87 AI, Fmr. Dir of Innovation for the Israeli Ministry of Foreign Affairs",
+    "signalScore": 241,
+    "website": "https://www.erezcapital.io/"
+  },
+  "experience": [
+    {
+      "company": "GK Fund",
+      "dates": "2020 - 2022",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Ministry of Foreign Affairs of Israel",
+      "dates": "2016 - 2020",
+      "position": "Director of Economic Affairs and Innovation"
+    },
+    {
+      "company": "Harvard Law School",
+      "dates": "2012 - 2013",
+      "position": "Harvard Law School Research Director"
+    },
+    {
+      "company": "The White House",
+      "dates": "2010 - 2011",
+      "position": "White House Fellow: U.S. Department of Commerce"
+    },
+    {
+      "company": "Curio LV",
+      "dates": "2023 - Present",
+      "position": "Advisory Board"
+    },
+    {
+      "company": "Brex",
+      "dates": "2023 - Present",
+      "position": "CXE Board"
+    },
+    {
+      "company": "Erez Capital",
+      "dates": "2022 - Present",
+      "position": "Managing Partner and Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Erez Capital",
+      "firmUrl": "https://signal.nfx.com/firms/erez-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $20.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Clockout",
+      "date": "Apr 2024",
+      "roundSize": "$50K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Real Reports",
+      "date": "Apr 2024",
+      "roundSize": "$20K",
+      "stage": "Seed",
+      "totalRaised": "$20K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Curio Legacy Ventures",
+      "date": "Aug 2023",
+      "roundSize": "$100K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Stackwell",
+      "date": "Feb 2021",
+      "roundSize": "$20K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$20K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMy9PQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c6bbb5b5294c939e935d974c7539ec121aa19984/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-benezra",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    }
+  ],
+  "slug": "michael-benezra",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/michael-benezra-35aa",
+    "linkedin": "https://www.linkedin.com/in/michaelbenezra/",
+    "website": "https://www.erezcapital.io/"
+  },
+  "scraped_at": "2026-03-03T22:31:56.624078"
+}

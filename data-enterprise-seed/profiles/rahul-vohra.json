@@ -1,0 +1,230 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Rahul Vohra",
+    "signalScore": 661,
+    "website": "https://superhuman.com/"
+  },
+  "experience": [
+    {
+      "company": "LinkedIn",
+      "dates": "2012 - 2014",
+      "position": "LinkedIn Intro"
+    },
+    {
+      "company": "Rapportive",
+      "dates": "2010 - 2014",
+      "position": "CEO & Co-Founder"
+    },
+    {
+      "company": "mo.jo",
+      "dates": "2007 - 2009",
+      "position": "Co-founder"
+    },
+    {
+      "company": "Cambridge University Entrepreneurs",
+      "dates": "2007 - 2008",
+      "position": "Chairman"
+    },
+    {
+      "company": "Cambridge University Entrepreneurs",
+      "dates": "2006 - 2007",
+      "position": "President"
+    },
+    {
+      "company": "Jagex",
+      "dates": "2004 - 2004",
+      "position": "Game Designer"
+    },
+    {
+      "company": "YesGraph",
+      "dates": "2014 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Superhuman",
+      "dates": "2014 - Present",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "NamePlacer",
+      "dates": "2014 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "sendwithus",
+      "dates": "2013 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "EasyPost",
+      "dates": "2013 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BOLDstart Ventures",
+      "dates": "2013 - Present",
+      "position": "Technical Advisor"
+    },
+    {
+      "company": "Partender",
+      "dates": "2012 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "InboxVudu",
+      "dates": "2012 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Monogram",
+      "dates": "2012 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Todd and Rahul's Angel Fund",
+      "firmUrl": "https://signal.nfx.com/firms/todd-and-rahul-angel-fund",
+      "position": "Angel"
+    },
+    "fundSize": "$24M",
+    "investmentRange": "$100K - $250K",
+    "investmentsOnRecord": 27,
+    "sweetSpot": "$175K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Scott Belsky"
+      ],
+      "company": "Bukuwarung",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed+",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jordan Wan (CoFound Partners)",
+        "Moshe Lifschitz"
+      ],
+      "company": "Charthop",
+      "date": "Aug 2020",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Parrot",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Petsapp",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jacob Kerzner"
+      ],
+      "company": "Clutch",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$41M"
+    },
+    {
+      "coInvestors": [
+        "Vivek Sodera (Supercharge.vc)"
+      ],
+      "company": "Cohere",
+      "date": "Aug 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Debuild",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Hemant Mohapatra (Lightspeed India Partners)",
+        "Christopher Golda",
+        "Ben Tossell"
+      ],
+      "company": "Supabase",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNytCQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0ee4d4d191b27d5de1d5bb733f3f9f116c064217/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rahul-vohra",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rahul-vohra",
+  "socials": {
+    "angellist": "https://www.angel.co/p/rahulvohra",
+    "crunchbase": "https://www.crunchbase.com/person/rahul-vohra",
+    "linkedin": "https://www.linkedin.com/in/rahulvohra/",
+    "twitter": "https://www.twitter.com/rahulvohra",
+    "website": "https://www.facebook.com/rahul.vohraa"
+  },
+  "scraped_at": "2026-02-28T00:59:01.025747"
+}

@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Mike Galgon",
+    "website": "https://psl.com/team/mike-galgon"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pioneer Square Labs",
+      "firmUrl": "https://signal.nfx.com/firms/pioneer-square-labs",
+      "position": "Managing Director"
+    },
+    "fundSize": "$80M",
+    "investmentRange": "$500K - $3.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUtYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--62bd44d0f40feec6f4c2bc65a1138ccb3a612582/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-galgon",
+  "sectorRankings": [
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mike-galgon",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mike-galgon",
+    "linkedin": "https://www.linkedin.com/in/mike-galgon-817374/",
+    "website": "https://www.psl.com/team/mike-galgon"
+  },
+  "scraped_at": "2026-02-27T23:56:34.382909"
+}

@@ -1,0 +1,123 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "CEO",
+      "Founder",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Tammy Camp",
+    "signalScore": 448,
+    "website": "https://tammycamp.com/"
+  },
+  "experience": [
+    {
+      "company": "Internet Retail Services, Inc.",
+      "dates": "Present",
+      "position": "Founder"
+    },
+    {
+      "company": "ComCorp, Inc.",
+      "dates": "Present",
+      "position": "CEO"
+    },
+    {
+      "company": "Camp International",
+      "dates": "Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Walmart Labs",
+      "dates": "Present",
+      "position": "Demand Generation Product Manager + Business Development (Consultant)"
+    },
+    {
+      "company": "Stellar.org",
+      "dates": "Present",
+      "position": "Head of Growth"
+    },
+    {
+      "company": "500 Startups",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Action Factory",
+      "dates": "Present",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "Stronghold",
+      "dates": "Present",
+      "position": "Founder & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Stronghold",
+      "firmUrl": "https://signal.nfx.com/firms/stronghold",
+      "position": "Investor"
+    },
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjRHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--17608cb69c06a8ac79b6d71af2b863c37120554f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tammy-camp",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "tammy-camp",
+  "socials": {
+    "angellist": "https://www.angel.co/tammycamp",
+    "crunchbase": "https://www.crunchbase.com/person/tammy-camp",
+    "linkedin": "https://www.linkedin.com/in/tammycamp/",
+    "twitter": "https://www.twitter.com/TammyCamp",
+    "website": "https://www.tammycamp.com/"
+  },
+  "scraped_at": "2026-02-27T05:00:12.964743"
+}

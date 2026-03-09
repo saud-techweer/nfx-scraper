@@ -1,0 +1,324 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Strategy Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Pankaj Jain",
+    "signalScore": 531,
+    "website": "https://saka.vc/"
+  },
+  "experience": [
+    {
+      "company": "AngelList India",
+      "dates": "2018 - 2021",
+      "position": "Advisor & Member of Investment Committee"
+    },
+    {
+      "company": "BlockHack",
+      "dates": "2017 - 2021",
+      "position": "Founder"
+    },
+    {
+      "company": "OTF",
+      "dates": "2017 - 2020",
+      "position": "Member of Investment Committee"
+    },
+    {
+      "company": "500 Startups",
+      "dates": "2012 - 2016",
+      "position": "Partner"
+    },
+    {
+      "company": "Startup Weekend",
+      "dates": "2010 - 2014",
+      "position": "Founder & Country Coordinator for India"
+    },
+    {
+      "company": "Teknatus Solutions",
+      "dates": "2007 - 2012",
+      "position": "Founder"
+    },
+    {
+      "company": "TLabs",
+      "dates": "2012 - 2012",
+      "position": "Consultant"
+    },
+    {
+      "company": "HeadStart Network Foundation",
+      "dates": "2008 - 2010",
+      "position": "City Lead and Organizer for Startup Saturday Delhi"
+    },
+    {
+      "company": "HeadStart Network Foundation",
+      "dates": "2008 - 2010",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Cymtec Systems",
+      "dates": "2005 - 2006",
+      "position": "Director of Sales"
+    },
+    {
+      "company": "GlobeOp Financial Services",
+      "dates": "1999 - 2004",
+      "position": "Director of Market Data and Application Support"
+    },
+    {
+      "company": "Long-Term Capital Management",
+      "dates": "1996 - 1999",
+      "position": "Associate"
+    },
+    {
+      "company": "JP Morgan",
+      "dates": "1994 - 1996",
+      "position": "Management Trainee"
+    },
+    {
+      "company": "Saka Ventures",
+      "dates": "2022 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Saka Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/saka-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$125K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Joe Magyer (Seaplane Ventures)"
+      ],
+      "company": "Unifize",
+      "date": "Feb 2022",
+      "roundSize": "$10K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$10K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Whiz.ai",
+      "date": "Jan 2018",
+      "roundSize": "$1.2M",
+      "stage": "Seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Tristan Pollock (Cool Climate Collective)"
+      ],
+      "company": "InnovAccer",
+      "date": "Jun 2014",
+      "roundSize": "$120K",
+      "stage": "Seed",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Shiprocket",
+      "date": "Jun 2014",
+      "roundSize": "$150K",
+      "stage": "Seed",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [
+        "Tristan Pollock (Cool Climate Collective)"
+      ],
+      "company": "Headout",
+      "date": "Jan 2014",
+      "roundSize": "$100K",
+      "stage": "Accelerator",
+      "totalRaised": "$.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Segwise",
+      "date": "N/A",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "Gloroots",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Nymble",
+      "date": "N/A",
+      "roundSize": "$10K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$50K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVJPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8d07a1e82e75c648ca5768e29e86abe73fec64a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pankaj-jain",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "pankaj-jain",
+  "socials": {
+    "angellist": "https://www.angel.co/pjain",
+    "crunchbase": "https://www.crunchbase.com/person/pankaj-jain",
+    "linkedin": "https://www.linkedin.com/in/pankajjain/",
+    "twitter": "https://www.twitter.com/pjain",
+    "website": "https://www.saka.vc/"
+  },
+  "scraped_at": "2026-02-27T03:26:51.597526"
+}

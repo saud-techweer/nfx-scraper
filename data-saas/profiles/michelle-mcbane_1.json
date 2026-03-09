@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Toronto, Ontario",
+    "name": "Michelle McBane",
+    "signalScore": 215,
+    "website": "https://www.standupvc.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Managing Director",
+    "investmentRange": "$500K - $2.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Fergus Dunn (QVentures)",
+        "Baris Ozaydinli (Ascension Ventures)"
+      ],
+      "company": "Coconut",
+      "date": "May 2020",
+      "roundSize": "$2M",
+      "stage": "Seed +",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Sylvain Carle (Metanoia)"
+      ],
+      "company": "My Intelligent Machines (MIMS)",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVJkQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f2a0bc38d8ae6e2127ea0192b1548635ca2f8280/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/michelle-mcbane_1",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "michelle-mcbane_1",
+  "socials": {
+    "angellist": "https://www.angel.co/michellemcbane",
+    "crunchbase": "https://www.crunchbase.com/person/michelle-mcbane",
+    "linkedin": "https://www.linkedin.com/in/michellemcbane/",
+    "twitter": "https://www.twitter.com/michellemcbane",
+    "website": "https://www.standupvc.com/"
+  },
+  "scraped_at": "2026-02-27T02:53:32.814216"
+}

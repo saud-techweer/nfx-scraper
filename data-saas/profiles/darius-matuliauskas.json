@@ -1,0 +1,133 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Lithuania",
+    "name": "Darius Matuliauskas",
+    "website": "https://billo.app/"
+  },
+  "experience": [
+    {
+      "company": "Treatwell",
+      "dates": "2012 - 2021",
+      "position": "Senior B2B Product Manager"
+    },
+    {
+      "company": "StartupHighway",
+      "dates": "2012 - 2014",
+      "position": "Mentor"
+    },
+    {
+      "company": "Salonium",
+      "dates": "2009 - 2012",
+      "position": "Co-founder"
+    },
+    {
+      "company": "HOSTEX",
+      "dates": "2007 - 2012",
+      "position": "Hosting Business Line Manager"
+    },
+    {
+      "company": "LNK TV",
+      "dates": "1998 - 2007",
+      "position": "IT Manager"
+    },
+    {
+      "company": "Open Society Fund Lithuania",
+      "dates": "1995 - 1997",
+      "position": "IT support"
+    },
+    {
+      "company": "Lithuanian Business Angel Network LitBAN",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Billo",
+      "dates": "2021 - Present",
+      "position": "Product Lead"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Billo",
+      "firmUrl": "https://signal.nfx.com/firms/billo",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVBxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e78c8911ca8d631cb6aada919f7f575bcc7ed8d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/darius-matuliauskas",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "darius-matuliauskas",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/darius-matuliauskas-d428",
+    "linkedin": "https://www.linkedin.com/in/matuliauskas/",
+    "twitter": "https://www.twitter.com/madutis",
+    "website": "https://www.billo.app/"
+  },
+  "scraped_at": "2026-02-26T10:05:58.390827"
+}

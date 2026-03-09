@@ -1,0 +1,52 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York",
+    "name": "Rachel Lauren",
+    "website": "https://bdmifund.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BDMI - Bertelsmann Digital Media Investments",
+      "firmUrl": "https://signal.nfx.com/firms/bdmi-bertelsmann-digital-media-investments",
+      "position": "Investor"
+    },
+    "fundSize": "$63M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3RDQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3c25ef011f2f979d6054554977ceab532be49850/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rachel-lauren",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rachel-lauren",
+  "socials": {
+    "angellist": "https://www.angel.co/p/rachel-lauren-3",
+    "crunchbase": "https://www.crunchbase.com/person/rachel-lauren",
+    "linkedin": "https://www.linkedin.com/in/rachel-lauren/",
+    "twitter": "https://www.twitter.com/RachelnotLauren?lang=en",
+    "website": "https://www.bdmifund.com/team"
+  },
+  "scraped_at": "2026-02-28T02:40:56.825262"
+}

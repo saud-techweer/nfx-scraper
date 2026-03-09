@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "VC",
+      "Investor"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Rodrigo Stoqui",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SaaSholic Fund",
+      "firmUrl": "https://signal.nfx.com/firms/saasholic-fund",
+      "position": "Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$63K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2dzQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a48043b77488772e9d1510162fa053de4c796d3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rodrigo-stoqui",
+  "sectorRankings": [
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "rodrigo-stoqui",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rodrigo-stoqui",
+    "linkedin": "https://www.linkedin.com/in/rodrigostoqui/",
+    "twitter": "https://www.twitter.com/rodrigostoqui",
+    "website": "https://www.saasholic.com/fund/"
+  },
+  "scraped_at": "2026-02-27T04:07:19.801130"
+}

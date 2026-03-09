@@ -1,0 +1,239 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Garry Tan",
+    "positionAndFirm": "President & CEO, Y Combinator",
+    "signalScore": 3,
+    "website": "https://blog.garrytan.com/"
+  },
+  "experience": [
+    {
+      "company": "Y Combinator",
+      "dates": "2010 - 2015",
+      "position": "Partner"
+    },
+    {
+      "company": "Posterous.com",
+      "dates": "2008 - 2011",
+      "position": "Cofounder"
+    },
+    {
+      "company": "Palantir Technologies",
+      "dates": "2005 - 2007",
+      "position": "Lead Engineer, Designer"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2003 - 2005",
+      "position": "Program Manager"
+    },
+    {
+      "company": "Sun Microsystems",
+      "dates": "2002 - 2003",
+      "position": "Software Engineer Intern"
+    },
+    {
+      "company": "TheMan.com",
+      "dates": "2000 - 2000",
+      "position": "Software Engineer Intern"
+    },
+    {
+      "company": "Sapient",
+      "dates": "1998 - 2000",
+      "position": "Software Engineer Intern"
+    },
+    {
+      "company": "Posthaven.com",
+      "dates": "2013 - Present",
+      "position": "Cofounder"
+    },
+    {
+      "company": "Initialized Capital",
+      "dates": "2012 - Present",
+      "position": "Cofounder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "President"
+    },
+    "investmentRange": "$500K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jerry Yang (AME Cloud Ventures)",
+        "Avichal Garg (Electric Capital)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Katie Stanton (Moxxie Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Max Levchin (Scifi Vc)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Jerry Yang (Hardware Club)",
+        "Mariam Naficy (Heretic Ventures)",
+        "Paul Hewson (Bono)",
+        "Ben Davenport",
+        "Julia Hartz",
+        "Drew Houston",
+        "Aaron Levie"
+      ],
+      "company": "Color",
+      "date": "Apr 2015",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$60M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBWVk9IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2f13916a7699304d817b0a4b8425151bcfd3684e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/garry-tan",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "garry-tan",
+  "socials": {
+    "angellist": "https://www.angel.co/p/garrytan-gmail-com",
+    "crunchbase": "https://www.crunchbase.com/person/garry-tan",
+    "linkedin": "https://www.linkedin.com/in/garrytan/",
+    "twitter": "https://www.twitter.com/garrytan",
+    "website": "https://blog.garrytan.com/"
+  },
+  "scraped_at": "2026-02-11T10:18:26.499822"
+}

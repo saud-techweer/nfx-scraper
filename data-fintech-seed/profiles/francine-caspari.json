@@ -1,0 +1,36 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "France",
+    "name": "Francine Caspari",
+    "website": "https://business-angels.info/about/presentation"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Business Angels des Grandes Ecoles",
+      "firmUrl": "https://signal.nfx.com/firms/business-angels-des-grandes-ecoles",
+      "position": "Angel"
+    },
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlVsQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cefe0f08738aaaf82afb794bf507ed5cb359bec9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/francine-caspari",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "francine-caspari",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/francine-caspari-2629691/",
+    "website": "https://www.business-angels.info/about/presentation"
+  },
+  "scraped_at": "2026-03-05T19:32:39.671094"
+}

@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Stephen DeBerry"
+  },
+  "experience": [
+    {
+      "company": "Kapor Capital",
+      "dates": "2006 - 2012",
+      "position": "Partner"
+    },
+    {
+      "company": "The California Endowment",
+      "dates": "2008 - 2011",
+      "position": "Trustee, Investment Committee"
+    },
+    {
+      "company": "Omidyar Network",
+      "dates": "2004 - 2007",
+      "position": "Director, Investments"
+    },
+    {
+      "company": "Interval Research Corporation",
+      "dates": "1997 - 2002",
+      "position": "Senior Manager, Business Development"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bronze Investments",
+      "firmUrl": "https://signal.nfx.com/firms/bronze-investments",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Daniel Pianko (University Ventures)"
+      ],
+      "company": "UniversityNow",
+      "date": "Sep 2013",
+      "roundSize": "$19M",
+      "stage": "Series C",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Saeed Amidi (Plug & Play Ventures)",
+        "Nasir Jones (QueensBridge Venture Partners)",
+        "Anthony Saleh"
+      ],
+      "company": "Proven",
+      "date": "Jul 2013",
+      "roundSize": "$1.1M",
+      "stage": "Series A",
+      "totalRaised": "$1.1M"
+    },
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Brian Ascher (Venrock)"
+      ],
+      "company": "SmartBiz Loans",
+      "date": "Jan 2013",
+      "roundSize": "$21M",
+      "stage": "Series C",
+      "totalRaised": "$26M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWNGQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cff7af07b441646c29e17364d7601e183dee0941/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stephen-deberry",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "stephen-deberry",
+  "socials": {
+    "angellist": "https://www.angel.co/stephendeberry",
+    "crunchbase": "https://www.crunchbase.com/person/stephen-deberry",
+    "linkedin": "https://www.linkedin.com/in/stephendeberry/",
+    "twitter": "https://www.twitter.com/stephendeberry"
+  },
+  "scraped_at": "2026-02-11T12:28:15.827894"
+}

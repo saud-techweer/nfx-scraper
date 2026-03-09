@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Michael Donnelly",
+    "positionAndFirm": "Co-founder, Partner and Chief Risk Officer at Energy Impact Partners",
+    "website": "https://www.energyimpactpartners.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Energy Impact Partners",
+      "firmUrl": "https://signal.nfx.com/firms/energy-impact-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$3.0M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$7.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hans Kobler (Energy Impact Partners)",
+        "Nancy Pfund (DBL Partners)"
+      ],
+      "company": "Advanced Microgrid Solutions",
+      "date": "Jul 2017",
+      "roundSize": "$35M",
+      "stage": "Series B",
+      "totalRaised": "$35M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGxEQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d4e36a5a5ef6e111d27a961fa6f3ee372030738b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-donnelly",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "michael-donnelly",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/michael-donnelly-3",
+    "linkedin": "https://www.linkedin.com/in/michael-donnelly-4b7b14b/",
+    "website": "https://www.energyimpactpartners.com/team/"
+  },
+  "scraped_at": "2026-03-03T22:32:25.145938"
+}

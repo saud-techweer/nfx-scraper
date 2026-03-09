@@ -1,0 +1,165 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "TK Kuegler"
+  },
+  "experience": [
+    {
+      "company": "Campbell High School",
+      "dates": "2011 - 2015",
+      "position": "Football Coach, Offensive Coordinator"
+    },
+    {
+      "company": "RightNow Technologies",
+      "dates": "1999 - 2000",
+      "position": "VP Marketing"
+    },
+    {
+      "company": "Skyline Network Technologies",
+      "dates": "1994 - 1999",
+      "position": "CEO"
+    },
+    {
+      "company": "Wasabi Ventures Stables",
+      "dates": "2016 - Present",
+      "position": "Founder and Managing Partner"
+    },
+    {
+      "company": "LearnLaunchX",
+      "dates": "2013 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "PBworks",
+      "dates": "2006 - Present",
+      "position": "Chief Revenue Officer"
+    },
+    {
+      "company": "Wasabi Ventures, LLC",
+      "dates": "2003 - Present",
+      "position": "Managing Partner and Co-Founder"
+    },
+    {
+      "company": "Porthos Consulting",
+      "dates": "2001 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wasabi Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/wasabi-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$278K",
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andre De Baubigny (Modern Venture Partners)",
+        "Courtney Broadus (Operator Collective)",
+        "Catherine Lu"
+      ],
+      "company": "Lacework",
+      "date": "Aug 2018",
+      "roundSize": "$24M",
+      "stage": "Series B",
+      "totalRaised": "$24M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNklCQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--730ed99d59ec00566765e63d413adf54048e8f4e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tk-kuegler",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Local Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-pre-seed-investors"
+    },
+    {
+      "name": "GovTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "tk-kuegler",
+  "socials": {
+    "angellist": "https://www.angel.co/tom-tk-kuegler",
+    "crunchbase": "https://www.crunchbase.com/person/tk-kuegler",
+    "linkedin": "https://www.linkedin.com/in/tkkuegler/",
+    "twitter": "https://www.twitter.com/TKKuegler"
+  },
+  "scraped_at": "2026-02-27T05:13:27.016923"
+}

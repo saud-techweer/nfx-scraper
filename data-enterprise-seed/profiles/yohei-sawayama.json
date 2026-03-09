@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Tokyo",
+    "name": "Yohei Sawayama",
+    "website": "https://coralcap.co/people/yohei-sawayama/?lang=en"
+  },
+  "experience": [
+    {
+      "company": "Nomura",
+      "dates": "2012 - 2015",
+      "position": "Researcher"
+    },
+    {
+      "company": "JPMorgan Chase",
+      "dates": "2009 - 2012",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "Towers Watson",
+      "dates": "2007 - 2008",
+      "position": "Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Coral Capital",
+      "firmUrl": "https://signal.nfx.com/firms/coral-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVkwQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--38978954ea44ff0d2666b687a2def3d76a00c6d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yohei-sawayama",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "yohei-sawayama",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/yohei-sawayama",
+    "linkedin": "https://www.linkedin.com/in/yohei-sawayama/",
+    "twitter": "https://www.twitter.com/yoheisawayama?lang=en",
+    "website": "https://www.coralcap.co/people/yohei-sawayama/?lang=en"
+  },
+  "scraped_at": "2026-02-28T14:12:47.728682"
+}

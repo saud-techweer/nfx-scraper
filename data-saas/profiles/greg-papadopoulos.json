@@ -1,0 +1,135 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Greg Papadopoulos",
+    "website": "https://www.nea.com/team/greg-papadopoulos"
+  },
+  "experience": [
+    {
+      "company": "Sun Microsystems",
+      "dates": "1994 - 2010",
+      "position": "CTO/EVP R&D"
+    },
+    {
+      "company": "New Enterprise Associates",
+      "dates": "2010 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "PictureTel",
+      "dates": "Present",
+      "position": "Founding Hardware Engineer/Architect"
+    },
+    {
+      "company": "Ergo Computing",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "MIT",
+      "dates": "Present",
+      "position": "Associate Professor, EECS"
+    },
+    {
+      "company": "Thinking Machines Corporation",
+      "dates": "Present",
+      "position": "Chief Architect"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New Enterprise Associates (NEA)",
+      "firmUrl": "https://signal.nfx.com/firms/new-enterprise-associates",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$6.2B",
+    "investmentRange": "$2.0M - $50.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Matt Mcilwain (Madrona Ventures)"
+      ],
+      "company": "Turi",
+      "date": "Jan 2015",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczBEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f8a110ff8ac1bf016a83a8f8bc992c8de4b3c788/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/greg-papadopoulos",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "greg-papadopoulos",
+  "socials": {
+    "angellist": "https://www.angel.co/u/greg-papadopoulos",
+    "crunchbase": "https://www.crunchbase.com/person/greg-papadopoulos",
+    "linkedin": "https://www.linkedin.com/in/techwonk/",
+    "website": "https://www.nea.com/team/greg-papadopoulos"
+  },
+  "scraped_at": "2026-02-27T00:14:18.799764"
+}

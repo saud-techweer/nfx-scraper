@@ -1,0 +1,49 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO"
+    ],
+    "location": "Indianapolis, Indiana",
+    "name": "Blake Koriath",
+    "signalScore": 259,
+    "website": "https://www.highalpha.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "High Alpha",
+      "firmUrl": "https://signal.nfx.com/firms/high-alpha",
+      "position": "Investor"
+    },
+    "investmentRange": "$500K - $4.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2I2IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d59ba265be92c7e45be923fee118a93c072885cc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/blake-koriath",
+  "sectorRankings": [
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "blake-koriath",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/blake-koriath",
+    "linkedin": "https://www.linkedin.com/in/bkoriath/",
+    "website": "https://www.highalpha.com/"
+  },
+  "scraped_at": "2026-02-26T08:48:26.076326"
+}

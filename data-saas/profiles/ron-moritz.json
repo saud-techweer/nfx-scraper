@@ -1,0 +1,206 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Former CEO"
+    ],
+    "location": "Jerusalem, Israel",
+    "name": "Ron Moritz",
+    "signalScore": 3,
+    "website": "https://about.me/ron.moritz"
+  },
+  "experience": [
+    {
+      "company": "FireBlade",
+      "dates": "2013 - 2017",
+      "position": "Board Director"
+    },
+    {
+      "company": "BioCatch",
+      "dates": "2015 - 2016",
+      "position": "CEO (Interim)"
+    },
+    {
+      "company": "BioCatch",
+      "dates": "2014 - 2015",
+      "position": "Board Director"
+    },
+    {
+      "company": "Microsoft Israel R&D Center",
+      "dates": "2009 - 2009",
+      "position": "General Manager"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "2007 - 2009",
+      "position": "General Manager"
+    },
+    {
+      "company": "Computer Associates",
+      "dates": "2002 - 2007",
+      "position": "SVP & Chief Security Strategist"
+    },
+    {
+      "company": "Symantec Corporation",
+      "dates": "1999 - 2001",
+      "position": "SVP & Chief Technology Officer"
+    },
+    {
+      "company": "Finjan Holdings",
+      "dates": "1996 - 2000",
+      "position": "Chief Technology Officer"
+    },
+    {
+      "company": "Case Western Reserve University",
+      "dates": "1989 - 1996",
+      "position": "Associate Director for IT Security, Audit and Assurance"
+    },
+    {
+      "company": "CyberX",
+      "dates": "2016 - Present",
+      "position": "Board Observer"
+    },
+    {
+      "company": "OurCrowd",
+      "dates": "2012 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "OurCrowd",
+      "firmUrl": "https://signal.nfx.com/firms/ourcrowd",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$200m",
+    "investmentRange": "$1M - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ashley Flucas (Flucas Ventures)"
+      ],
+      "company": "Corelight",
+      "date": "May 2021",
+      "roundSize": "$75M",
+      "stage": "Series D",
+      "totalRaised": "$75M"
+    },
+    {
+      "coInvestors": [
+        "Secil Altintas (AXA Strategic Ventures)",
+        "Chaim Meir Tessler"
+      ],
+      "company": "D-ID",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2RiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a6ec0c89728222904f536d9cf59fa786012f2a6c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ron-moritz",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ron-moritz",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ron-moritz",
+    "crunchbase": "https://www.crunchbase.com/person/ron-moritz",
+    "linkedin": "https://www.linkedin.com/in/ronmoritz/",
+    "twitter": "https://www.twitter.com/ronmoritz?lang=en",
+    "website": "https://www.about.me/ron.moritz"
+  },
+  "scraped_at": "2026-02-27T04:09:46.691984"
+}

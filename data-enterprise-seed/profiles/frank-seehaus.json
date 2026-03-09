@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Munich, Germany",
+    "name": "Frank Seehaus",
+    "website": "https://actoncapital.com/Frank_Seehaus"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Acton Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/acton-capital-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$215M",
+    "investmentRange": "$5.6M - $20.0M",
+    "sweetSpot": "$8.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaDhIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4f601f22168a9cab0d6d08551a188ea1a11c3fb9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/frank-seehaus",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "frank-seehaus",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/frank-seehaus",
+    "linkedin": "https://www.linkedin.com/in/frank-seehaus-b028909/",
+    "website": "https://www.actoncapital.com/Frank_Seehaus"
+  },
+  "scraped_at": "2026-02-27T21:59:19.977962"
+}

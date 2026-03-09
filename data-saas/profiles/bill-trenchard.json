@@ -1,0 +1,182 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Founder",
+      "Former CEO"
+    ],
+    "location": "United States",
+    "name": "Bill Trenchard",
+    "signalScore": 1,
+    "website": "https://firstround.com/person/bill-trenchard/#mystory"
+  },
+  "experience": [
+    {
+      "company": "LiveOps",
+      "dates": "Present",
+      "position": "CEO/Chairman"
+    },
+    {
+      "company": "Founder Collective",
+      "dates": "Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "LiveOps",
+      "dates": "Present",
+      "position": "Co-Founder & Board Member"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Gateways Group LLC",
+      "dates": "Present",
+      "position": "Founder and President"
+    },
+    {
+      "company": "Jump Networks",
+      "dates": "Present",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "Microsoft Corporation",
+      "dates": "Present",
+      "position": "MSN Group"
+    },
+    {
+      "company": "Idealab",
+      "dates": "Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "CallCast, inc.",
+      "dates": "Present",
+      "position": "Co-Founder and CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "First Round Capital",
+      "firmUrl": "https://signal.nfx.com/firms/first-round-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$738M",
+    "investmentRange": "$750K - $4.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.4M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jake Gibson (Better Tomorrow Ventures)",
+        "Rich Kleiman (Thirty Five Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Tim Ferriss"
+      ],
+      "company": "Grove",
+      "date": "Jun 2018",
+      "roundSize": "$8M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Sheel Mohnot (Better Tomorrow Ventures)",
+        "Paul Sethi (2048 Ventures)",
+        "Henry Fertik (Strategic Beta)",
+        "Yuri Sagalov (10100)",
+        "Gianni Martire"
+      ],
+      "company": "Flexport",
+      "date": "Aug 2014",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN081QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b5d8c0aa21069bae42ed55547116eb74192c0d43/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bill-trenchard",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    }
+  ],
+  "slug": "bill-trenchard",
+  "socials": {
+    "angellist": "https://www.angel.co/billtrenchard",
+    "crunchbase": "https://www.crunchbase.com/person/bill-trenchard",
+    "linkedin": "https://www.linkedin.com/in/billtrenchard/",
+    "twitter": "https://www.twitter.com/btrenchard",
+    "website": "https://www.firstround.com/person/bill-trenchard/#mystory"
+  },
+  "scraped_at": "2026-02-26T08:47:02.974998"
+}

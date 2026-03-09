@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Taiwan",
+    "name": "Andy Tsai",
+    "website": "https://appworks.tw/team/andy-tsai/"
+  },
+  "experience": [
+    {
+      "company": "AppWorks",
+      "dates": "2018 - 2019",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "The CID Group",
+      "dates": "2008 - 2017",
+      "position": "Vice President"
+    },
+    {
+      "company": "CDIB",
+      "dates": "2006 - 2008",
+      "position": "Junior Manager"
+    },
+    {
+      "company": "AppWorks",
+      "dates": "2019 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AppWorks",
+      "firmUrl": "https://signal.nfx.com/firms/appworks",
+      "position": "Partner"
+    },
+    "fundSize": "$150M",
+    "investmentRange": "$200K - $10.0M",
+    "sweetSpot": "$5.1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWRrQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--df5f4c78606f24d22a7eb5b342b31e55d77b5f17/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andy-tsai",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "andy-tsai",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andy-tsai-de18",
+    "linkedin": "https://www.linkedin.com/in/andy-tsai-7a489628/",
+    "website": "https://www.appworks.tw/team/andy-tsai/"
+  },
+  "scraped_at": "2026-02-28T00:20:30.671532"
+}

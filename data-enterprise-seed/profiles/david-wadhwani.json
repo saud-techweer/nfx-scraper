@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "San Francisco, California",
+    "name": "David Wadhwani",
+    "website": "https://greylock.com/team/david-wadhwani/"
+  },
+  "experience": [
+    {
+      "company": "Lightspeed Venture Partners",
+      "dates": "2019 - Present",
+      "position": "CEO Council"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Greylock",
+      "firmUrl": "https://signal.nfx.com/firms/greylock",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$500K - $200.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0x4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a9619171fdf033edf50bb62c89060c593ef6cc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-wadhwani",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-wadhwani",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-wadhwani",
+    "linkedin": "https://www.linkedin.com/in/davidwadhwani/",
+    "twitter": "https://www.twitter.com/dwadhwani",
+    "website": "https://www.greylock.com/team/david-wadhwani/"
+  },
+  "scraped_at": "2026-02-26T10:18:24.784111"
+}

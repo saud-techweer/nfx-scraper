@@ -1,0 +1,254 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "CEO",
+      "Founder",
+      "VC"
+    ],
+    "location": "Charlotte, North Carolina",
+    "name": "Stephen Romanoff",
+    "website": "https://babbageidea.com/"
+  },
+  "experience": [
+    {
+      "company": "Phalanx Capital",
+      "dates": "2018 - 2021",
+      "position": "General Partner"
+    },
+    {
+      "company": "US Army",
+      "dates": "2014 - 2020",
+      "position": "LRRS Fire team leader"
+    },
+    {
+      "company": "United States Department of Defense",
+      "dates": "2019 - 2019",
+      "position": "Consultant"
+    },
+    {
+      "company": "Babbage Education",
+      "dates": "2025 - Present",
+      "position": "Co-Founder & CEO"
+    },
+    {
+      "company": "Mentat Private Credit Fund I, LP",
+      "dates": "2022 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sydney Meheula (Softbank Group)",
+        "Ryan Broshar (Matchstick Ventures)",
+        "Natty Zola (Matchstick Ventures)"
+      ],
+      "company": "Ordermark",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Martin Mignot (Index Ventures)",
+        "David Murray-Hundley (Pario Ventures)",
+        "Tom Stafford (DST Global)",
+        "Klaus Hommels (Lakestar)",
+        "Dan Jones (Jigsaw VC)",
+        "Ralph Baddour (Badhouse Ventures)"
+      ],
+      "company": "Revolut",
+      "date": "Apr 2018",
+      "roundSize": "$250M",
+      "stage": "Series C",
+      "totalRaised": "$250M"
+    },
+    {
+      "coInvestors": [
+        "Michael Chase (Outliers Fund)",
+        "Stu Shea (01 Advisors)",
+        "Ana Levine (E1 Ventures)",
+        "Sebastian Bausch (11k Ventures)",
+        "Mislav Tolusic (Marlinspike)",
+        "Josh Manchester (Champion Hill Labs)",
+        "Brian Rabben (Rabben Hood Ventures)",
+        "Fanny Surjana",
+        "William Miller",
+        "Mircea Pasoi",
+        "Mattia Astori"
+      ],
+      "company": "Anduril Industries",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Secondary Market",
+      "totalRaised": "$6B"
+    },
+    {
+      "coInvestors": [
+        "Yuri Sagalov (10100)"
+      ],
+      "company": "Observe AI",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Secondary",
+      "totalRaised": "$5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2VqQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5049577a61f112938c214d9d677729d5c5486fe6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stephen_1",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-b-investors"
+    },
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-b-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-b-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "Space (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_b-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "stephen_1",
+  "socials": {
+    "angellist": "https://www.angel.co/p/stephen-romanoff",
+    "crunchbase": "https://www.crunchbase.com/person/stephen-romanoff",
+    "linkedin": "https://www.linkedin.com/in/stephen-romanoff-989856145/",
+    "twitter": "https://www.twitter.com/RomanoffStephen",
+    "website": "https://www.babbageidea.com/"
+  },
+  "scraped_at": "2026-02-27T04:51:47.834023"
+}

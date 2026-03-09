@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York",
+    "name": "David Frankel",
+    "signalScore": 102,
+    "website": "https://hanacovc.com/team/david-frankel"
+  },
+  "experience": [
+    {
+      "company": "UCLA Anderson School of Management",
+      "dates": "Present",
+      "position": "MBA Candidate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hanaco Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/hanaco-ventures",
+      "position": "Vice President"
+    },
+    "fundSize": "€64m",
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVVwQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e1b8f11c91fa34e8e83220f186c3810f3fb7cbc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-frankel",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "david-frankel",
+  "socials": {
+    "angellist": "https://www.angel.co/u/david-frankel-6",
+    "crunchbase": "https://www.crunchbase.com/person/david-frankel-4",
+    "linkedin": "https://www.linkedin.com/in/david-frankel/",
+    "twitter": "https://www.twitter.com/Dfrankdatank",
+    "website": "https://www.hanacovc.com/team/david-frankel"
+  },
+  "scraped_at": "2026-02-27T21:24:01.622464"
+}

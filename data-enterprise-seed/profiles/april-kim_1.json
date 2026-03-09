@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Richmond, Virginia",
+    "name": "April Kim",
+    "website": "https://trolleyventures.com/our-team"
+  },
+  "experience": [
+    {
+      "company": "Trolley Venture Partners",
+      "dates": "2018 - Present",
+      "position": "Fund Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Trolley Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/trolley-venture-partners",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDlKQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0df68db355cd769b83500af2717ededb165e3606/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/april-kim_1",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "april-kim_1",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/april-k-784799169/",
+    "website": "https://www.trolleyventures.com/our-team"
+  },
+  "scraped_at": "2026-02-27T20:25:29.184270"
+}

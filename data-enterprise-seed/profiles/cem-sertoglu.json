@@ -1,0 +1,267 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Istanbul",
+    "name": "Cem Sertoglu",
+    "signalScore": 272,
+    "website": "https://www.bekventures.com/team"
+  },
+  "experience": [
+    {
+      "company": "iLab Ventures",
+      "dates": "2008 - 2009",
+      "position": "Partner"
+    },
+    {
+      "company": "Mondus",
+      "dates": "2006 - 2007",
+      "position": "CEO & Co-Founder"
+    },
+    {
+      "company": "SelectMinds (acquired by Oracle)",
+      "dates": "1999 - 2005",
+      "position": "CEO & Co-founder"
+    },
+    {
+      "company": "Farmer & Company",
+      "dates": "1998 - 1999",
+      "position": "Vice President"
+    },
+    {
+      "company": "KTI",
+      "dates": "1996 - 1998",
+      "position": "Corporate Knowledge Manager"
+    },
+    {
+      "company": "IMS",
+      "dates": "1993 - 1995",
+      "position": "Engagement Manager"
+    },
+    {
+      "company": "Invest Europe (fka EVCA)",
+      "dates": "2015 - Present",
+      "position": "VC Council Member"
+    },
+    {
+      "company": "Earlybird Venture Capital",
+      "dates": "2012 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Young Turk Ventures",
+      "dates": "Present",
+      "position": "Founder & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bek Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/bek-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "UIPath",
+      "date": "Sep 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Mehmet Atici (Bek Ventures)"
+      ],
+      "company": "Vivense Home & Living",
+      "date": "Mar 2014",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "DCSplus",
+      "date": "Mar 2014",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "obilet",
+      "date": "Mar 2014",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "PropertyFinder",
+      "date": "Mar 2013",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "YemekSepeti.com",
+      "date": "Mar 2008",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "GittiGidiyor",
+      "date": "Mar 2006",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVp1Qnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--793347203044a5b8d9a46c26874f9122875f295f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cem-sertoglu",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Travel (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-b-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "cem-sertoglu",
+  "socials": {
+    "angellist": "https://www.angel.co/csertoglu",
+    "crunchbase": "https://www.crunchbase.com/person/m-cem-sertoglu",
+    "linkedin": "https://www.linkedin.com/in/csertoglu/",
+    "twitter": "https://www.twitter.com/csertoglu",
+    "website": "https://www.bekventures.com/team"
+  },
+  "scraped_at": "2026-02-11T12:46:49.050627"
+}

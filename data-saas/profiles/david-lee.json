@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "David Lee",
+    "positionAndFirm": "EVP at Samsung Electronics; Head of Samsung Next | Prior: MP at Refactor, SV Angel",
+    "signalScore": 581,
+    "website": "https://daslee.me/"
+  },
+  "experience": [
+    {
+      "company": "Refactor Capital",
+      "dates": "2016 - 2021",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Samsung NEXT Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/samsung-next-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$250K - $20.0M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGN1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--20269e0487aa96df98df7508941f2a834adec7f8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-lee",
+  "sectorRankings": [
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "david-lee",
+  "socials": {
+    "angellist": "https://www.angel.co/daslee",
+    "crunchbase": "https://www.crunchbase.com/person/david-lee",
+    "linkedin": "https://www.linkedin.com/in/davidlee10/",
+    "twitter": "https://www.twitter.com/davidlee",
+    "website": "https://www.daslee.me/"
+  },
+  "scraped_at": "2026-02-26T10:15:37.835748"
+}

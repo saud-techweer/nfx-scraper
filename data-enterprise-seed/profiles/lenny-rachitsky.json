@@ -1,0 +1,342 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Lenny Rachitsky",
+    "website": "https://lennysnewsletter.com/"
+  },
+  "experience": [
+    {
+      "company": "Airbnb",
+      "dates": "2012 - 2019",
+      "position": "Product Lead, Supply Growth"
+    },
+    {
+      "company": "Localmind",
+      "dates": "2010 - 2012",
+      "position": "Co-Founder, CEO"
+    },
+    {
+      "company": "Webmetrics/Neustar",
+      "dates": "2004 - 2010",
+      "position": "Engineer, Head of R&D"
+    },
+    {
+      "company": "Webmetrics",
+      "dates": "2001 - 2004",
+      "position": "Lead Engineer"
+    },
+    {
+      "company": "Self-employed",
+      "dates": "2019 - Present",
+      "position": "Writing, Advising, Investing, Exploring"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AirAngels",
+      "firmUrl": "https://signal.nfx.com/firms/airangels",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 69,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ali Partovi (Neo)",
+        "Jean-Denis Greze (Plaid)",
+        "Nicolas Dessaigne (Y Combinator)",
+        "Taro Fukuyama (Pioneer Fund)",
+        "Boris Golden (Partech Ventures)",
+        "Andrew Miklas (S28 Capital)",
+        "Peter Boyce II (Stellation Capital)",
+        "Chris Adelsbach (Outrun Ventures)",
+        "Sylvain Zimmer (50 Partners)",
+        "Ankur Nagpal (Vibe Capital)",
+        "Tien Tzuo",
+        "Surahbi Gupta",
+        "Kevin Weil",
+        "Kelvin Beachum Jr.",
+        "William Levy",
+        "Thibaud Elziere",
+        "Ron Pragides"
+      ],
+      "company": "Vybe",
+      "date": "Dec 2025",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Bryan Kim (Andreessen Horowitz)",
+        "Jared Hecht (Magellan (magellan.ventures))"
+      ],
+      "company": "Oboe",
+      "date": "Dec 2025",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Simular",
+      "date": "Dec 2025",
+      "roundSize": "$22M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Dominic Perks (Hambro Perks)",
+        "Bradley Horowitz",
+        "Michael Whitfield"
+      ],
+      "company": "Tempo",
+      "date": "Oct 2025",
+      "roundSize": "$5M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Amy Wu (Menlo Ventures)",
+        "Avlok Kohli (AngelList)",
+        "Matteo Franceschetti",
+        "Vishal Rao"
+      ],
+      "company": "Delphi",
+      "date": "Jun 2025",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Faraz Fatemi (Lightspeed Venture Partners)",
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Daniel Gross (C2 Investment)",
+        "Nat Friedman (C2 Investment)",
+        "Amjad Masad",
+        "Tobias Lutke",
+        "Guillermo Rauch",
+        "Karim Atiyeh",
+        "Mike Hudack",
+        "Mike Krieger",
+        "David Lieb"
+      ],
+      "company": "Granola",
+      "date": "May 2025",
+      "roundSize": "$43M",
+      "stage": "Series B",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [
+        "Christian Reber",
+        "Mario Götze",
+        "Nico Rosberg"
+      ],
+      "company": "Fyxer AI",
+      "date": "Mar 2025",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Avi Bharadwaj (Innovation Endeavors)",
+        "Morgan Schwanke (Mana Ventures)",
+        "Anthony Goldbloom (AIX Ventures)"
+      ],
+      "company": "TrueFoundry",
+      "date": "Feb 2025",
+      "roundSize": "$19M",
+      "stage": "Series A",
+      "totalRaised": "$21M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHQ4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9b8b4ee1fc278ed9ef03e0852c29bdbda3db0468/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lenny-rachitsky",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "lenny-rachitsky",
+  "socials": {
+    "angellist": "https://www.angel.co/p/lennysan",
+    "crunchbase": "https://www.crunchbase.com/person/lenny-rachitsky",
+    "linkedin": "https://www.linkedin.com/in/lennyrachitsky/",
+    "twitter": "https://www.twitter.com/lennysan",
+    "website": "https://www.lennysnewsletter.com/"
+  },
+  "scraped_at": "2026-02-11T10:07:04.461422"
+}

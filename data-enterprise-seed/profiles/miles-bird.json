@@ -1,0 +1,101 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Miles Bird",
+    "website": "https://tbirdcap.com/"
+  },
+  "experience": [
+    {
+      "company": "The Kairos Society",
+      "dates": "2013 - 2015",
+      "position": "Business Development"
+    },
+    {
+      "company": "Khan Investment Management",
+      "dates": "2011 - 2014",
+      "position": "Founder & Director"
+    },
+    {
+      "company": "Life Patch Systems",
+      "dates": "2013 - 2014",
+      "position": "Founder"
+    },
+    {
+      "company": "iShop4Microfinance",
+      "dates": "2010 - 2011",
+      "position": "Founder"
+    },
+    {
+      "company": "Grameen Bank",
+      "dates": "Present",
+      "position": "Intern"
+    },
+    {
+      "company": "Asia Pacific Investment Partners",
+      "dates": "Present",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "PwC Advisory",
+      "dates": "Present",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Hybrid Social Solutions, Inc. (HSSi)",
+      "dates": "Present",
+      "position": "Summer Fellow"
+    },
+    {
+      "company": "Something New",
+      "dates": "Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "T-Bird Capital",
+      "firmUrl": "https://signal.nfx.com/firms/t-bird-capital",
+      "position": "Associate"
+    },
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFhSQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce4b0ba5a82b9d923e2a138152dc19b9602ae9a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/miles-bird",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "miles-bird",
+  "socials": {
+    "angellist": "https://www.angel.co/p/miles-t-bird",
+    "crunchbase": "https://www.crunchbase.com/person/miles-bird",
+    "linkedin": "https://www.linkedin.com/in/bird/",
+    "twitter": "https://www.twitter.com/milestbird",
+    "website": "https://www.tbirdcap.com/"
+  },
+  "scraped_at": "2026-02-28T02:15:17.889858"
+}

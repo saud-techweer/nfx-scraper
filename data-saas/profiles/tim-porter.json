@@ -1,0 +1,302 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Tim Porter",
+    "signalScore": 1,
+    "website": "https://www.madrona.com/team-profiles/tim-porter/"
+  },
+  "experience": [
+    {
+      "company": "Microsoft",
+      "dates": "2003 - 2006",
+      "position": "Corporate Development"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Madrona Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/madrona-venture-group",
+      "position": "Managing Director"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 29,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jacob Colker (Allen Institute for Artificial Intelligence Incubator (AI2))"
+      ],
+      "company": "Lexion",
+      "date": "Mar 2019",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Lisa Nelson (Movac)",
+        "Gordon Rubenstein (Raine Ventures)",
+        "Stuart Nagae (Vulcan Capital)"
+      ],
+      "company": "Pixvana, Inc.",
+      "date": "Nov 2017",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [
+        "Sudip Chakrabarti (Decibel Partners)"
+      ],
+      "company": "Heptio",
+      "date": "Sep 2017",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [
+        "Dan Weld (Madrona Ventures)",
+        "Geoff Entress (Pioneer Square Labs)",
+        "Shivon Zilis"
+      ],
+      "company": "Versive",
+      "date": "Aug 2017",
+      "roundSize": "$13M",
+      "stage": "Series C",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Algorithmia",
+      "date": "Jun 2017",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Bill Gates"
+      ],
+      "company": "Echodyne",
+      "date": "May 2017",
+      "roundSize": "$29M",
+      "stage": "Series B",
+      "totalRaised": "$44M"
+    },
+    {
+      "coInvestors": [
+        "Garth Timoll (Top Tier Capital Partners)"
+      ],
+      "company": "2nd Watch",
+      "date": "Mar 2017",
+      "roundSize": "$19M",
+      "stage": "Series D",
+      "totalRaised": "$56M"
+    },
+    {
+      "coInvestors": [
+        "George Bischof (Meritech Capital Partners)",
+        "Matt Mcilwain (Madrona Ventures)",
+        "Richard Kimball (TCV)",
+        "Sujal Patel"
+      ],
+      "company": "ExtraHop Networks",
+      "date": "May 2014",
+      "roundSize": "$41M",
+      "stage": "Series C",
+      "totalRaised": "$55M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lGIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--5e03295e09578b7857f3f9b52a0470154a529da4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tim-porter",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "tim-porter",
+  "socials": {
+    "angellist": "https://www.angel.co/tim-porter",
+    "crunchbase": "https://www.crunchbase.com/person/tim-porter",
+    "linkedin": "https://www.linkedin.com/in/portertim/",
+    "twitter": "https://www.twitter.com/tmporter",
+    "website": "https://www.madrona.com/team-profiles/tim-porter/"
+  },
+  "scraped_at": "2026-02-27T05:11:18.223494"
+}

@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "location": "San Francisco Bay Area",
+    "name": "Kane Hsieh",
+    "signalScore": 1,
+    "website": "https://root.vc/"
+  },
+  "experience": [
+    {
+      "company": "Brilliant Bicycles",
+      "dates": "2014 - 2016",
+      "position": "Head of Product, Co-founder"
+    },
+    {
+      "company": "RRE Ventures",
+      "dates": "2012 - 2014",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Romotive",
+      "dates": "2012 - 2012",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2011 - 2011",
+      "position": "Program Manager"
+    },
+    {
+      "company": "Harvard University Graduate School of Design",
+      "dates": "2008 - 2010",
+      "position": "Imaging Technician"
+    },
+    {
+      "company": "Root Ventures",
+      "dates": "2015 - Present",
+      "position": "VC"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Root Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/root-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$150M",
+    "investmentRange": "$500K - $2.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczRFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--954f000ed49055fc87f3c018b1ac9772c78a8c10/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kane-hsieh",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kane-hsieh",
+  "socials": {
+    "angellist": "https://www.angel.co/kane",
+    "crunchbase": "https://www.crunchbase.com/person/kane-hsieh",
+    "linkedin": "https://www.linkedin.com/in/kanehsieh/",
+    "twitter": "https://www.twitter.com/kane",
+    "website": "https://www.root.vc/"
+  },
+  "scraped_at": "2026-02-27T05:52:55.887871"
+}

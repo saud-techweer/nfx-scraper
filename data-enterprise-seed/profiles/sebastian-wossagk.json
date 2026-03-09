@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Munich, Germany",
+    "name": "Sebastian Wossagk",
+    "website": "https://actoncapital.com/Sebastian_Wossagk"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Acton Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/acton-capital-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$215M",
+    "investmentRange": "$5.6M - $20.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$8.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Erik Lim (Fifth Wall)",
+        "Dominik Alvermann (Acton Capital Partners)",
+        "Imran Akram (AXA Strategic Ventures)"
+      ],
+      "company": "Zenjob",
+      "date": "Nov 2018",
+      "roundSize": "$17M",
+      "stage": "Series B",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaU1IIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0c53151e662b4517dec4aa412464fc8fc283706f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sebastian-wossagk",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sebastian-wossagk",
+  "socials": {
+    "angellist": "https://www.angel.co/sebastian-wossagk",
+    "crunchbase": "https://www.crunchbase.com/person/sebastian-wossagk",
+    "linkedin": "https://www.linkedin.com/in/wossagk/",
+    "website": "https://www.actoncapital.com/Sebastian_Wossagk"
+  },
+  "scraped_at": "2026-02-28T05:01:59.786949"
+}

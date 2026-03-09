@@ -1,0 +1,44 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Germany",
+    "name": "Alexander Witt",
+    "website": "https://www.cfh.de/tgfs-team/alexander-witt/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Technologiegründerfonds Sachsen (TGFS)",
+      "firmUrl": "https://signal.nfx.com/firms/technologiegrunderfonds-sachsen-tgfs",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.6M",
+    "sweetSpot": "$2.9M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlN0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ef0e9f28de998e7b2db5d9a6f3398e336a0f3550/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexander-witt",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alexander-witt",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/alexander-witt-05227314a/",
+    "website": "https://www.cfh.de/tgfs-team/alexander-witt/"
+  },
+  "scraped_at": "2026-02-28T00:00:15.483750"
+}

@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "John Vecchio",
+    "website": "https://www.mosleyventures.com/team/john-vecchio/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mosley Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mosley-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$250K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dan Abelon (Two Sigma Ventures)",
+        "Tx Zhuo (Fika Ventures)",
+        "Leah Solivan (Fuel Capital)",
+        "Chris Howard (Fuel Capital)",
+        "Brandon Tidwell (Signal Peak Ventures)",
+        "Arteen Arabshahi",
+        "Jon Hallett",
+        "Leah Busque"
+      ],
+      "company": "Bark Technologies",
+      "date": "Aug 2018",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjVmQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1bf70ec58306c4ce25135e8589cb278c6fcc2a53/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-vecchio",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "john-vecchio",
+  "socials": {
+    "angellist": "https://www.angel.co/u/john-vecchio",
+    "crunchbase": "https://www.crunchbase.com/person/john-vecchio",
+    "linkedin": "https://www.linkedin.com/in/jvecchio84/",
+    "website": "https://www.mosleyventures.com/team/john-vecchio/"
+  },
+  "scraped_at": "2026-02-27T01:16:57.474185"
+}

@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "name": "Marcial González Fraga",
+    "signalScore": 37,
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Strategy Operator",
+      "Angel"
+    ],
+    "location": "Buenos Aires, Argentina"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Latitud",
+      "firmUrl": "https://signal.nfx.com/firms/latitud",
+      "position": "Investor"
+    },
+    "investmentRange": "$200K - $400K",
+    "sweetSpot": "$300K",
+    "investmentsOnRecord": 2
+  },
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Pomelo",
+      "stage": "Seed",
+      "date": "Aug 2022",
+      "roundSize": "$20M",
+      "totalRaised": "$32M",
+      "coInvestors": [
+        "Tomas Roggio (Latitud)"
+      ]
+    },
+    {
+      "company": "Finkargo",
+      "stage": "Seed",
+      "date": "Apr 2022",
+      "roundSize": "$8M",
+      "totalRaised": "$16M",
+      "coInvestors": [
+        "Tomas Roggio (Latitud)",
+        "Rafa de la Guia (Quona Capital)"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/marcialgfraga/"
+  },
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/marcial-gonzalez-fraga",
+  "slug": "marcial-gonzalez-fraga",
+  "scraped_at": "2026-02-24T13:46:56.556039"
+}

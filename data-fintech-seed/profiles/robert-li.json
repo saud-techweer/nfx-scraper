@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York City",
+    "name": "Robert Li",
+    "website": "https://lererhippeau.com/team"
+  },
+  "experience": [
+    {
+      "company": "Lerer Hippeau",
+      "dates": "2021 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "Draper Dragon Fund",
+      "dates": "2018 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "DiDi",
+      "dates": "2017 - 2017",
+      "position": "Summer Intern, Strategy and Advisory Dept."
+    },
+    {
+      "company": "Sequoia Capital China",
+      "dates": "2017 - 2017",
+      "position": "Summer Intern"
+    },
+    {
+      "company": "Draper Dragon Fund",
+      "dates": "2016 - 2016",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Cisco",
+      "dates": "2016 - 2016",
+      "position": "Summer Intern"
+    },
+    {
+      "company": "Citi",
+      "dates": "2022 - Present",
+      "position": "Vice President, Citi Ventures"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lerer Hippeau",
+      "firmUrl": "https://signal.nfx.com/firms/lerer-hippeau",
+      "position": "Associate"
+    },
+    "fundSize": "$130M",
+    "investmentRange": "$100K - $3.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXZ6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f73b95e934b3f86a71f82ee11bfcdc372c22ea88/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robert-li",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "robert-li",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/robert-li-36cd",
+    "linkedin": "https://www.linkedin.com/in/robertli-vc/",
+    "website": "https://www.lererhippeau.com/team"
+  },
+  "scraped_at": "2026-03-05T20:00:37.989617"
+}

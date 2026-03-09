@@ -1,0 +1,206 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Sales Operator"
+    ],
+    "location": "Brazil",
+    "name": "Gustavo Souza",
+    "signalScore": 60,
+    "website": "https://angel.co/s/saasholic/GJvyw"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SaaSholic Fund",
+      "firmUrl": "https://signal.nfx.com/firms/saasholic-fund",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $120K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$70K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jake Ellowitz (Tribe Capital)",
+        "William Cordeiro (SaaSholic Fund)",
+        "Dalton Caldwell (Y Combinator)",
+        "Paulo Silveira",
+        "Justin Mateen"
+      ],
+      "company": "Conta Simples",
+      "date": "Aug 2020",
+      "roundSize": "$1",
+      "stage": "Pre Seed",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [
+        "Ron Rymon"
+      ],
+      "company": "A55",
+      "date": "Jul 2018",
+      "roundSize": "$300K",
+      "stage": "Seed",
+      "totalRaised": "$300K"
+    },
+    {
+      "coInvestors": [
+        "Kelly Ford",
+        "Chris Guzowski"
+      ],
+      "company": "B2B Stack",
+      "date": "N/A",
+      "roundSize": "$1M",
+      "stage": "Pre Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Wivo.io",
+      "date": "N/A",
+      "roundSize": "$500K",
+      "stage": "Angel",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "DocSales",
+      "date": "N/A",
+      "roundSize": "$1M",
+      "stage": "Pre Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Deskfy",
+      "date": "N/A",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PingBack",
+      "date": "N/A",
+      "roundSize": "$500K",
+      "stage": "Angel",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [
+        "William Cordeiro (SaaSholic Fund)"
+      ],
+      "company": "Atlas Governance",
+      "date": "N/A",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGFhQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b439eeaa6de5c0c10a58089b59615229caed0a58/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gustavo-souza",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "gustavo-souza",
+  "socials": {
+    "angellist": "https://www.angel.co/p/gustavohsouza",
+    "crunchbase": "https://www.crunchbase.com/person/gustavo-souza-e0f2",
+    "linkedin": "https://www.linkedin.com/in/gustavosouza1/"
+  },
+  "scraped_at": "2026-02-11T14:03:38.568468"
+}

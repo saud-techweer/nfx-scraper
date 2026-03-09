@@ -1,0 +1,152 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor"
+    ],
+    "location": "United States",
+    "name": "Maia Bittner",
+    "signalScore": 527,
+    "website": "https://www.maiabittner.com/"
+  },
+  "experience": [
+    {
+      "company": "Pinch",
+      "dates": "2016 - 2018",
+      "position": "Cofounder"
+    },
+    {
+      "company": "Rocksbox",
+      "dates": "2012 - 2016",
+      "position": "Cofounder & CTO"
+    },
+    {
+      "company": "Rocksbox",
+      "dates": "2012 - 2016",
+      "position": "Cofounder"
+    },
+    {
+      "company": "Franklin W. Olin College of Engineering",
+      "dates": "2020 - Present",
+      "position": "Member, Board of Trustees"
+    },
+    {
+      "company": "Chime",
+      "dates": "2018 - Present",
+      "position": "Voice of the Member"
+    },
+    {
+      "company": "Chime - Mobile Banking",
+      "dates": "2018 - Present",
+      "position": "Voice of the Member"
+    },
+    {
+      "company": "SeeqPod, Inc.",
+      "dates": "Present",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Spock",
+      "dates": "Present",
+      "position": "Community Manager"
+    },
+    {
+      "company": "Pierce Washington",
+      "dates": "Present",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "The Hikery",
+      "dates": "Present",
+      "position": "Cofounder"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "Present",
+      "position": "Sequoia Capital Scout"
+    },
+    {
+      "company": "Parcel B",
+      "dates": "Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $100K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ivan Kirigin (Tango.vc)",
+        "Wesley Chan (FPV Fund)",
+        "Wayne Chang",
+        "Joshua Schachter",
+        "Kyle Vogt"
+      ],
+      "company": "Quartz Systems",
+      "date": "May 2020",
+      "roundSize": "$7.8M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.8M"
+    },
+    {
+      "coInvestors": [
+        "Alexander Tran (Plug & Play Ventures)",
+        "Grant Newlin (Newlin)",
+        "Grant Newlin"
+      ],
+      "company": "Buddy",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBczN0IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a14ee8dbb977a5da5fa021555ea2b4496b761f1d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/maia-bittner",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "maia-bittner",
+  "socials": {
+    "angellist": "https://www.angel.co/p/maiab",
+    "crunchbase": "https://www.crunchbase.com/person/maia-bittner",
+    "linkedin": "https://www.linkedin.com/in/maiabittner/",
+    "website": "https://www.maiabittner.com/"
+  },
+  "scraped_at": "2026-03-03T22:04:46.069683"
+}

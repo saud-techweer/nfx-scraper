@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York",
+    "name": "Erik de Stefanis",
+    "website": "https://interlaceventures.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Interlace Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/interlace-ventures",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Vivian Cheng (CRV)",
+        "James Tamplin (Founder Collective)",
+        "Laura Yao (EQT Ventures)",
+        "Tim Connors (PivotNorth Capital)",
+        "Bobby Yazdani (Cota Capital)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Gokul Rajaram"
+      ],
+      "company": "Darkstore",
+      "date": "Jan 2019",
+      "roundSize": "$7.5M",
+      "stage": "Series A",
+      "totalRaised": "$7.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDNWQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a4c3c85402d2f2fe8bd4892053f5e9b6315df66c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/erik-de-stefanis",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "erik-de-stefanis",
+  "socials": {
+    "angellist": "https://www.angel.co/p/erik-de-stefanis-1",
+    "crunchbase": "https://www.crunchbase.com/person/erik-de-stefanis",
+    "linkedin": "https://www.linkedin.com/in/erikdestefanis/",
+    "twitter": "https://www.twitter.com/ohlookitserik",
+    "website": "https://www.interlaceventures.com/team/"
+  },
+  "scraped_at": "2026-02-26T23:45:45.262068"
+}

@@ -1,0 +1,207 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Zach Weinberg",
+    "website": "https://curie.bio/"
+  },
+  "experience": [
+    {
+      "company": "Google",
+      "dates": "2010 - 2012",
+      "position": "Product Management"
+    },
+    {
+      "company": "Invite Media Inc. (Acquired by Google)",
+      "dates": "2007 - 2012",
+      "position": "Co-Founder, President & COO"
+    },
+    {
+      "company": "EatNow.com",
+      "dates": "2005 - 2006",
+      "position": "Co-Founder; President"
+    },
+    {
+      "company": "Flatiron Health",
+      "dates": "2012 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Curie.Bio",
+      "firmUrl": "https://signal.nfx.com/firms/curie-bio",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Nat Turner (Operator Partners)",
+        "Arun Penmetsa (Storm Ventures)"
+      ],
+      "company": "Qualio",
+      "date": "Jul 2020",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Darian Shirazi (Gradient Ventures)",
+        "Gaurav Jain (Afore Capital)",
+        "Nat Turner (Operator Partners)",
+        "Ben Blumenrose (Designer Fund)",
+        "Frances Schwiep (Two Sigma Ventures)",
+        "Aneel Ranadive (Soma Capital)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Enrique Allen (Designer Fund)",
+        "Muzzammil (MZ) Zaveri (Audacious Ventures)",
+        "Andrea Funsten (Basecamp Fund)"
+      ],
+      "company": "Flatfile",
+      "date": "May 2020",
+      "roundSize": "$7.6M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.6M"
+    },
+    {
+      "coInvestors": [
+        "Micah Rosenbloom (Founder Collective)",
+        "Jason Finger (The Finger Group)",
+        "Nat Turner (Operator Partners)",
+        "Scott Belsky"
+      ],
+      "company": "Tropic",
+      "date": "Apr 2020",
+      "roundSize": "$2.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNm5IQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--62e10e054189de731feec36278d629d40f114ee7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zach-weinberg",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-seed-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Pharmaceuticals (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-pharmaceuticals-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "zach-weinberg",
+  "socials": {
+    "angellist": "https://www.angel.co/zachweinberg",
+    "crunchbase": "https://www.crunchbase.com/person/zach-weinberg",
+    "linkedin": "https://www.linkedin.com/in/zachweinberg/",
+    "twitter": "https://www.twitter.com/zachweinberg",
+    "website": "https://www.curie.bio/"
+  },
+  "scraped_at": "2026-02-27T05:47:20.605246"
+}

@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Guillaume Cabane",
+    "signalScore": 330,
+    "website": "https://sequoiacap.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Scout"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$10K - $100K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Micah Rosenbloom (Founder Collective)",
+        "Scooter Braun (TQ Ventures)",
+        "Sriram Krishnan (Kearny Jackson)",
+        "Lauren Kolodny (aCrew Capital)",
+        "Asad Khaliq (aCrew Capital)",
+        "Andreas Klinger (Prototype Capital)",
+        "Scott Belsky"
+      ],
+      "company": "Grain",
+      "date": "Apr 2020",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDk0QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ab696532ac7543679ab71b055337cd250f1b3d19/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/guillaume-cabane",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "guillaume-cabane",
+  "socials": {
+    "angellist": "https://www.angel.co/p/guillaume-cabane",
+    "crunchbase": "https://www.crunchbase.com/person/guillaume-cabane",
+    "linkedin": "https://www.linkedin.com/in/cabane/",
+    "twitter": "https://www.twitter.com/guillaumecabane",
+    "website": "https://www.sequoiacap.com/"
+  },
+  "scraped_at": "2026-02-27T22:09:46.944203"
+}

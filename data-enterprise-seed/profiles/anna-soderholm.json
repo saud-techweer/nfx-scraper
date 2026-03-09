@@ -1,0 +1,59 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Anna Söderholm",
+    "website": "https://almi.se/en/almi-invest/team/anna-soderholm/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Almi Invest",
+      "firmUrl": "https://signal.nfx.com/firms/almi-invest",
+      "position": "Investor"
+    },
+    "investmentRange": "$120K - $150K",
+    "sweetSpot": "$135K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmh5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8861761ec40ce7d9225a6857296af9e882780064/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anna-soderholm",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "anna-soderholm",
+  "socials": {
+    "angellist": "https://www.angel.co/u/anna-soderholm",
+    "crunchbase": "https://www.crunchbase.com/person/anna-soderholm",
+    "linkedin": "https://www.linkedin.com/in/annasoderholm/?originalSubdomain=se",
+    "twitter": "https://www.twitter.com/annasoderholm?lang=en",
+    "website": "https://www.almi.se/en/almi-invest/team/anna-soderholm/"
+  },
+  "scraped_at": "2026-02-27T20:23:03.015710"
+}

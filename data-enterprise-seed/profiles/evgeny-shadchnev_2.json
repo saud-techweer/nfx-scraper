@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Scout"
+    ],
+    "location": "United Kingdom",
+    "name": "Evgeny Shadchnev",
+    "website": "https://www.evgeny.coach/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ada Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ada-ventures",
+      "position": "Scout"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN0tIQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--774be30f751296472f1adaf8b2b6f7a381ea3782/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/evgeny-shadchnev_2",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "evgeny-shadchnev_2",
+  "socials": {
+    "angellist": "https://www.angel.co/u/evgeny-shadchnev",
+    "crunchbase": "https://www.crunchbase.com/person/evgeny-shadchnev",
+    "linkedin": "https://www.linkedin.com/in/shadchnev/",
+    "twitter": "https://www.twitter.com/shadchnev",
+    "website": "https://www.evgeny.coach/"
+  },
+  "scraped_at": "2026-02-27T21:51:46.446352"
+}

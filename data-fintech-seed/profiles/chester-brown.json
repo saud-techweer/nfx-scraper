@@ -1,0 +1,75 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Stanford, California",
+    "name": "Chester Brown",
+    "website": "https://atacamaventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Vmo Aircraft Leasing",
+      "dates": "2021 - 2023",
+      "position": "Consultant"
+    },
+    {
+      "company": "H55",
+      "dates": "2023 - 2023",
+      "position": "Business Development Consultant"
+    },
+    {
+      "company": "Atacama Ventures",
+      "dates": "2021 - 2021",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "P2 Capital Partners, LLC",
+      "dates": "2018 - 2020",
+      "position": "Associate"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "2015 - 2018",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "AEI HorizonX",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Atacama Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/atacama-ventures",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/chester-brown",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "chester-brown",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/chester-w-brown/",
+    "website": "https://www.atacamaventures.com/"
+  },
+  "scraped_at": "2026-02-28T01:36:34.042338"
+}

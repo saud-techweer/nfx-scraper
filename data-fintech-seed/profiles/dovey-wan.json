@@ -1,0 +1,342 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Singapore",
+    "name": "Dovey Wan",
+    "signalScore": 1,
+    "website": "http://primitive.ventures/"
+  },
+  "experience": [
+    {
+      "company": "Chaos Labs",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "HOOKED Protocol",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "RockX",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Credora",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Nansen",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Biconomy",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Multichain",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "DODO",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Optimism Foundation",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "CoinDesk",
+      "dates": "2019 - Present",
+      "position": "Advisory Board Member"
+    },
+    {
+      "company": "Primitive Ventures",
+      "dates": "2018 - Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "Spacemesh",
+      "dates": "2018 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Tendermint",
+      "dates": "2018 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "Figure",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Celer Network",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "StarkWare Industries",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Messari",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Keep Network",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "TrustToken (now Archblock)",
+      "dates": "2018 - Present",
+      "position": "Investor& Advisor"
+    },
+    {
+      "company": "Polychain Capital",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Chia Network",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Theta Labs, Inc.",
+      "dates": "2017 - Present",
+      "position": "Investor & Board Director"
+    },
+    {
+      "company": "MoneyLion",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kyber Networks LLC",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Brave Software",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "PathAI",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "AutoX",
+      "dates": "2016 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Nefeli Networks",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "TeamDom",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "LoomAi",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Pilot AI",
+      "dates": "2015 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Flexport",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "GrubMarket Inc.",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Wish - Shopping Made Fun!",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "String Labs",
+      "dates": "2014 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Survios",
+      "dates": "2014 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Primitive Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/primitive-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 16,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Yvonne Lutsch (Lam Research Capital)",
+        "Wendell Brooks",
+        "Tuff Yen"
+      ],
+      "company": "Syntiant",
+      "date": "May 2018",
+      "roundSize": "$5.1M",
+      "stage": "Series A",
+      "totalRaised": "$5.1M"
+    },
+    {
+      "coInvestors": [
+        "Joe Kraus (GV (Google Ventures))",
+        "Zach Coelius (Coelius Capital)",
+        "Greg Castle (Anorak Ventures)"
+      ],
+      "company": "Loom.ai",
+      "date": "Aug 2017",
+      "roundSize": "$1.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [
+        "William Tunstall-Pedoe"
+      ],
+      "company": "Fluent.ai",
+      "date": "Jun 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "CA$2M"
+    },
+    {
+      "coInvestors": [
+        "Chris Moreno (Infinite Niches)"
+      ],
+      "company": "Lime",
+      "date": "Mar 2017",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$82M"
+    },
+    {
+      "coInvestors": [
+        "Jeremy Fiance (The House Fund)"
+      ],
+      "company": "Nefeli Networks",
+      "date": "Dec 2016",
+      "roundSize": "$9.2M",
+      "stage": "Venture Round",
+      "totalRaised": "$9.2M"
+    },
+    {
+      "coInvestors": [
+        "Mack Healy (KdT Ventures)"
+      ],
+      "company": "PathAI",
+      "date": "Dec 2016",
+      "roundSize": "$4.2M",
+      "stage": "Venture Round",
+      "totalRaised": "$4.2M"
+    },
+    {
+      "coInvestors": [
+        "Scott Darling (Dell Technologies Capital)"
+      ],
+      "company": "Barefoot Networks",
+      "date": "Nov 2016",
+      "roundSize": "$23M",
+      "stage": "Series C",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Hyperpilot",
+      "date": "Oct 2016",
+      "roundSize": null,
+      "stage": "Venture Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZzBIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--36d751b0b29ae1759d9d5f3225a9f7f3033e7733/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dovey-wan",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "dovey-wan",
+  "socials": {
+    "angellist": "https://www.angel.co/doveywan",
+    "crunchbase": "https://www.crunchbase.com/person/dovey-wan",
+    "linkedin": "https://www.linkedin.com/pub/dovey-wan/1b/a76/34/",
+    "twitter": "https://www.twitter.com/doveywan",
+    "website": "https://www.primitive.ventures/"
+  },
+  "scraped_at": "2026-03-03T17:08:42.399477"
+}

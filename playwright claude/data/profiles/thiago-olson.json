@@ -1,0 +1,315 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Former CEO",
+      "Founder"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Thiago Olson",
+    "signalScore": 274,
+    "website": "https://eveatlas.com/"
+  },
+  "experience": [
+    {
+      "company": "Tech Square Ventures",
+      "dates": "2021",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Engage Ventures",
+      "dates": "2021",
+      "position": "Managing Director"
+    },
+    {
+      "company": "ATDC",
+      "dates": "2017",
+      "position": "Entrepreneur in Residence"
+    },
+    {
+      "company": "Stratos, Inc.",
+      "dates": "2016",
+      "position": "CEO"
+    },
+    {
+      "company": "US Department of Defense, RDECOM-TARDEC",
+      "dates": "2011",
+      "position": "Program Manager / Electrical Engineer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "EVE Atlas",
+      "firmUrl": "https://signal.nfx.com/firms/eve-atlas",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$1.4M - $6.0M",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tim Streit (Grand Ventures)",
+        "Chris Stallman (Fontinalis Partners)"
+      ],
+      "company": "Chain.io",
+      "date": "Jun 2022",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$27M"
+    },
+    {
+      "coInvestors": [
+        "Dan Malven (4490 Ventures)",
+        "Ashish Mahashabde"
+      ],
+      "company": "Fluree",
+      "date": "Sep 2020",
+      "roundSize": "$2.5M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Lee Arnold (Florida Funders)",
+        "Jeffrey Vinik"
+      ],
+      "company": "Peerfit",
+      "date": "Sep 2019",
+      "roundSize": "$8M",
+      "stage": "Post Series B Note",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [
+        "Blake Patton (Tech Square Ventures)"
+      ],
+      "company": "Freightwaves",
+      "date": "Feb 2019",
+      "roundSize": "$21M",
+      "stage": "Series B",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [
+        "Ben Patz (DeepWork Capital)",
+        "Jeffrey Vinik"
+      ],
+      "company": "Homee",
+      "date": "Jun 2018",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Alda Dennis (Initialized Capital)",
+        "James Dugan (OCA Ventures)",
+        "Gale Wilkinson (Vitalize Venture Group)",
+        "Jack Leeney (7GC & Co)",
+        "Scott Dorsey (High Alpha)",
+        "Eric Tobias (High Alpha)",
+        "Seth Corder (High Alpha)",
+        "Mike Fitzgerald (High Alpha)",
+        "Hayden Williams (BrandProject)"
+      ],
+      "company": "The Mom Project",
+      "date": "May 2018",
+      "roundSize": "$2.6M",
+      "stage": "Seed",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Karen Page (B Capital Group)",
+        "Hammad Aslam (Susa Ventures)",
+        "Nick Bunick (NewView Capital)",
+        "Christopher Klaus (Cyberlaunch)",
+        "Michael G. Rubin",
+        "Max Mullen",
+        "Thomas Noonan"
+      ],
+      "company": "Stord",
+      "date": "Apr 2018",
+      "roundSize": "$2.4M",
+      "stage": "Seed",
+      "totalRaised": "$220M"
+    },
+    {
+      "coInvestors": [
+        "Jenna Bryant (Embedded Ventures)",
+        "Sam Cates (daybreak)",
+        "Bill Ford (Fontinalis Partners)",
+        "Nathan Doctor (Infinite Capital)",
+        "Laurence A. Tosi (WestCap)",
+        "Jordan Noone (Embedded Ventures)",
+        "Ethan Batraski (Venrock)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Ian Rountree (Cantos Ventures)"
+      ],
+      "company": "Skyryse",
+      "date": "Feb 2018",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$230M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa3dLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--55a0cf3414bec948cb5fba7340274dfd6155471f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/thiago-olson",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Hardware (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-b-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-a-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "thiago-olson",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/thiago-olson",
+    "linkedin": "https://www.linkedin.com/in/olsontd/",
+    "twitter": "https://www.twitter.com/thiagoolson",
+    "website": "https://www.eveatlas.com/"
+  },
+  "scraped_at": "2026-02-11T12:16:22.285454"
+}

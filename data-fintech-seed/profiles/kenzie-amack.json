@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Waco, Texas",
+    "name": "Kenzie Amack"
+  },
+  "experience": [
+    {
+      "company": "TCV",
+      "dates": "2019 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "Evercore",
+      "dates": "2017 - 2019",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "Bank of America Merrill Lynch",
+      "dates": "2016 - 2016",
+      "position": "Investment Banking Summer Analyst"
+    },
+    {
+      "company": "Baylor University",
+      "dates": "2015 - 2016",
+      "position": "Community Leader Mentor"
+    },
+    {
+      "company": "Dodge & Cox",
+      "dates": "2014 - 2014",
+      "position": "Operations Intern"
+    },
+    {
+      "company": "Stanford University Graduate School of Business",
+      "dates": "2022 - Present",
+      "position": "MBA Candidate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$10.0M - $30.0M",
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDdqQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b21ad56ad4c62971d01eb230b14288277da9362/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kenzie-amack",
+  "sectorRankings": [
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "kenzie-amack",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kenzie-amack-70137880/",
+    "twitter": "https://www.twitter.com/kenzieamack"
+  },
+  "scraped_at": "2026-03-03T21:33:47.587815"
+}

@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Burlingame, California",
+    "name": "Gady Nemirovsky"
+  },
+  "experience": [
+    {
+      "company": "Inspiration Ventures",
+      "dates": "2007 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Inspiration VC",
+      "firmUrl": "https://signal.nfx.com/firms/inspiration-vc",
+      "position": "General Partner"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbG5kIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--27e43870ea7bbbd98acead26be8035e9559e7c87/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gady-nemirovsky",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "gady-nemirovsky",
+  "socials": {
+    "angellist": "https://www.angel.co/gady-nemirovsky",
+    "crunchbase": "https://www.crunchbase.com/person/gady-nemirovsky",
+    "linkedin": "https://www.linkedin.com/in/gady-nemirovsky-804bb33/"
+  },
+  "scraped_at": "2026-02-11T11:48:06.574222"
+}

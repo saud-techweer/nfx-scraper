@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Matthew Hartman",
+    "positionAndFirm": "Managing Partner, Factorial Capital",
+    "signalScore": 644,
+    "website": "https://factorialcap.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Factorial",
+      "firmUrl": "https://signal.nfx.com/firms/factorial",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$350K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ana Levine (E1 Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Ronny Conway (A Capital)",
+        "Brad Bitler",
+        "Ronny Conway"
+      ],
+      "company": "Hugging Face",
+      "date": "May 2018",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$110M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUFKQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8bd911d9dedb2c99676b8e1430ffcbb3d1fb1924/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/matthew-hartman",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "matthew-hartman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/matthew-hartman",
+    "linkedin": "https://www.linkedin.com/in/matthewforresthartman/",
+    "twitter": "https://www.twitter.com/MattHartman",
+    "website": "https://www.factorialcap.com/"
+  },
+  "scraped_at": "2026-02-27T23:44:32.510099"
+}

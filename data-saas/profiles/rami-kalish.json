@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Israel",
+    "name": "Rami Kalish",
+    "website": "https://www.pitango.com/team/rami-kalish/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pitango Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/pitango-venture-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Paul Madera (Meritech Capital Partners)",
+        "Rob Ward (Meritech Capital Partners)",
+        "Theresia Gouw (aCrew Capital)",
+        "Kamil Saeid (Defy Partners)"
+      ],
+      "company": "ForeScout Technologies",
+      "date": "Jul 2008",
+      "roundSize": "$8M",
+      "stage": "Series E",
+      "totalRaised": "$44M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1IwQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0681907b8e44a295de967f7af7af8a0af0396884/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rami-kalish",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rami-kalish",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/rami-kalish",
+    "linkedin": "https://www.linkedin.com/in/rami-kalish-27a15b/",
+    "website": "https://www.pitango.com/team/rami-kalish/"
+  },
+  "scraped_at": "2026-02-27T03:50:34.643641"
+}

@@ -1,0 +1,36 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "location": "New York, New York",
+    "name": "Paul Bianco"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Advisor"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2J2QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a26e3a69cb068805da2dd005ed152d732b482b94/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-bianco",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paul-bianco",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paul-bianco",
+    "linkedin": "https://www.linkedin.com/in/paullbianco/"
+  },
+  "scraped_at": "2026-03-03T23:11:15.960647"
+}

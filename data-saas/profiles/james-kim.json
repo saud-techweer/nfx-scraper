@@ -1,0 +1,290 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "James Kim",
+    "signalScore": 793,
+    "website": "https://reachcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Yale University",
+      "dates": "2014 - 2016",
+      "position": "Assistant Director of Undergraduate Admissions"
+    },
+    {
+      "company": "Reach Capital",
+      "dates": "2018 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Reach Capital",
+      "firmUrl": "https://signal.nfx.com/firms/reach-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$82M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Scott Belsky"
+      ],
+      "company": "Hopps",
+      "date": "Aug 2021",
+      "roundSize": "$5.6M",
+      "stage": "Seed",
+      "totalRaised": "$6.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Polygence",
+      "date": "May 2021",
+      "roundSize": "$3.6M",
+      "stage": "Seed",
+      "totalRaised": "$3.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Major League Hacking",
+      "date": "Apr 2021",
+      "roundSize": "$3.8M",
+      "stage": "Seed",
+      "totalRaised": "$3.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sketchy",
+      "date": "Nov 2020",
+      "roundSize": "$29M",
+      "stage": "Series A",
+      "totalRaised": "$29M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Riipen",
+      "date": "Dec 2019",
+      "roundSize": "$3.8M",
+      "stage": "Seed",
+      "totalRaised": "$3.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Paper",
+      "date": "Dec 2019",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Crash",
+      "date": "Oct 2019",
+      "roundSize": "$750K",
+      "stage": "Seed",
+      "totalRaised": "$750K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Coral Care",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM09VQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5179c8819cc9ec5949d048e07d059370962ace74/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-kim",
+  "sectorRankings": [
+    {
+      "name": "Parenting/Families (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Education (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-b-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "Parenting/Families (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-a-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Parenting/Families (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Parenting/Families (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "james-kim",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/james-kim-0bdf",
+    "linkedin": "https://www.linkedin.com/in/jamesbyungjoonkim/",
+    "twitter": "https://www.twitter.com/jameskimEDU",
+    "website": "https://www.reachcapital.com/"
+  },
+  "scraped_at": "2026-02-27T00:45:05.096069"
+}

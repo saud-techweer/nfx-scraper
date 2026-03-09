@@ -1,0 +1,252 @@
+{
+  "basicInfo": {
+    "name": "Michael Bloch",
+    "signalScore": 1040,
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Former CEO"
+    ],
+    "website": "https://michaelxbloch.com/",
+    "location": "New York, New York"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Quiet Capital",
+      "firmUrl": "https://signal.nfx.com/firms/quiet-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$1M - $25.0M",
+    "sweetSpot": "$4.0M",
+    "investmentsOnRecord": 8
+  },
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Cache",
+      "stage": "Seed",
+      "date": "Mar 2024",
+      "roundSize": "$9M",
+      "totalRaised": "$9M",
+      "coInvestors": [
+        "Vivek Patel"
+      ]
+    },
+    {
+      "company": "Taalas",
+      "stage": "Series A",
+      "date": "Mar 2024",
+      "roundSize": "$37M",
+      "totalRaised": "$37M",
+      "coInvestors": []
+    },
+    {
+      "company": "Swarmbotics AI",
+      "stage": "Pre Seed",
+      "date": "Nov 2023",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "DragonflyDB",
+      "stage": "Series A",
+      "date": "Mar 2023",
+      "roundSize": "$21M",
+      "totalRaised": "$21M",
+      "coInvestors": [
+        "Astasia Myers (Felicis Ventures)",
+        "Eyal Gura (Webtalk Ltd)"
+      ]
+    },
+    {
+      "company": "Dynamic",
+      "stage": "Seed",
+      "date": "Jun 2022",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Doppel",
+      "stage": "Seed",
+      "date": "May 2022",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Modern Treasury",
+      "stage": "Seed",
+      "date": "Aug 2018",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Louis Beryl"
+      ]
+    },
+    {
+      "company": "Blank Street",
+      "stage": "Seed",
+      "date": "N/A",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Founder & CEO",
+      "company": "Pillar",
+      "dates": "2018 - 2021"
+    },
+    {
+      "position": "Director of Strategy & Operations",
+      "company": "DoorDash",
+      "dates": "2015 - 2018"
+    },
+    {
+      "position": "Partner",
+      "company": "Quiet Capital",
+      "dates": "2021 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.michaelxbloch.com/",
+    "linkedin": "https://www.linkedin.com/in/michaelxbloch/",
+    "twitter": "https://www.twitter.com/michaelxbloch"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1RYQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18069e63ef62278e70b984b5a39bc292e86d89ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-bloch",
+  "slug": "michael-bloch",
+  "scraped_at": "2026-02-24T12:27:58.662153"
+}

@@ -1,0 +1,39 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Pennsylvania",
+    "name": "Darren Sandberg",
+    "website": "https://www.dreamit.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DreamIt Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/dreamit-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$37.8M",
+    "investmentRange": "$500K - $500K",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeW9PQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dce7626e92e05114fb43766777f0e6e01eced618/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/darren-sandberg",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "darren-sandberg",
+  "socials": {
+    "angellist": "https://www.angel.co/u/darren-sandberg",
+    "crunchbase": "https://www.crunchbase.com/person/darren-sandberg-f07d",
+    "linkedin": "https://www.linkedin.com/in/sandbergdarren/",
+    "website": "https://www.dreamit.com/team"
+  },
+  "scraped_at": "2026-02-26T10:06:29.150771"
+}

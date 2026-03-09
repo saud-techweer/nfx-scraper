@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Andre Martins",
+    "website": "https://www.babel.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Babel Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/babel-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$26M",
+    "investmentRange": "$100K - $3.0M",
+    "sweetSpot": "$1.6M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNW5aQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4968b36af2b43da58ab49b897b31db13ea1a9925/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andre-martins",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "andre-martins",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andr%C3%A9-martins",
+    "linkedin": "https://www.linkedin.com/in/andre-martins-b43362/",
+    "twitter": "https://www.twitter.com/andrercmartins",
+    "website": "https://www.babel.ventures/"
+  },
+  "scraped_at": "2026-02-27T20:15:10.093555"
+}

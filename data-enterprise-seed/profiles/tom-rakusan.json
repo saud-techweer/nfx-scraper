@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Virginia",
+    "name": "Tom Rakusan",
+    "website": "https://trackercap.com/"
+  },
+  "experience": [
+    {
+      "company": "US Federal Government",
+      "dates": "1982 - 2021",
+      "position": "Senior Executive"
+    },
+    {
+      "company": "CHESS TECHNOLOGIES LIMITED",
+      "dates": "2023 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Cerberus Capital Management",
+      "dates": "2022 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Tracker Capital Management",
+      "dates": "2021 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tracker Capital",
+      "firmUrl": "https://signal.nfx.com/firms/tracker-capital",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/tom-rakusan",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tom-rakusan",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/tom-rakusan-74ba74132/",
+    "website": "https://www.trackercap.com/"
+  },
+  "scraped_at": "2026-02-28T05:45:47.655616"
+}

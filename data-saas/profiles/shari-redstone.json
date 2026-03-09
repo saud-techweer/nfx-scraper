@@ -1,0 +1,78 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Shari Redstone",
+    "website": "https://www.advancitcapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Advancit Capital",
+      "firmUrl": "https://signal.nfx.com/firms/advancit-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$40M",
+    "investmentsOnRecord": 3
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Deborah Quazzo (GSV Acceleration)",
+        "Scott Booth (Lead Edge Capital)"
+      ],
+      "company": "Speakaboos",
+      "date": "May 2016",
+      "roundSize": "$13M",
+      "stage": "Series B",
+      "totalRaised": "$25M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ2tEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c3e687a04a1e4709144b4c9c05ec254e4b88c4c0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/shari-redstone",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Media/Content (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "shari-redstone",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/shari-redstone",
+    "website": "https://www.advancitcapital.com/"
+  },
+  "scraped_at": "2026-02-27T04:37:07.428309"
+}

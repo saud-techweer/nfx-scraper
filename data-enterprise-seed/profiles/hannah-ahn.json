@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Hannah Ahn",
+    "website": "https://www.hannah-ahn.com/"
+  },
+  "experience": [
+    {
+      "company": "Ultraviolet Ventures",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AfterWork Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/afterwork-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$30M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzM5QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c20fce5d891349dfdc1177faf485e2fc2b0264d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hannah-ahn",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hannah-ahn",
+  "socials": {
+    "angellist": "https://www.angel.co/u/hannah-ahn-1",
+    "linkedin": "https://www.linkedin.com/in/ahnhannah/",
+    "twitter": "https://www.twitter.com/_hannahahn",
+    "website": "https://www.hannah-ahn.com/"
+  },
+  "scraped_at": "2026-02-27T22:12:40.966587"
+}

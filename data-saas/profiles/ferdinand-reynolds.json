@@ -1,0 +1,214 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Sales Operator",
+      "Investor",
+      "Growth Operator"
+    ],
+    "location": "London",
+    "name": "Ferdinand Reynolds",
+    "signalScore": 471
+  },
+  "experience": [
+    {
+      "company": "Ark",
+      "dates": "2021",
+      "position": "Growth Lead"
+    },
+    {
+      "company": "goinstore",
+      "dates": "2020",
+      "position": "Business Development"
+    },
+    {
+      "company": "Kurima",
+      "dates": "2019",
+      "position": "Co-Founder and BizDev Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SuperSeed",
+      "firmUrl": "https://signal.nfx.com/firms/superseed",
+      "position": "Senior Associate"
+    },
+    "investmentRange": "$500K - $1.5M",
+    "investmentsOnRecord": 13,
+    "sweetSpot": "$1.1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Intelligent AI",
+      "date": "Nov 2022",
+      "roundSize": "$400K",
+      "stage": "Pre-Seed",
+      "totalRaised": "$400K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Garvis",
+      "date": "Sep 2022",
+      "roundSize": "€3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "€3.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Finteum",
+      "date": "Sep 2022",
+      "roundSize": "$1.8M",
+      "stage": "Seed",
+      "totalRaised": "$2.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Uhura",
+      "date": "Jan 2022",
+      "roundSize": "$1.7M",
+      "stage": "Seed",
+      "totalRaised": "$1.7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Integrated Finance",
+      "date": "Sep 2021",
+      "roundSize": "£2M",
+      "stage": "Seed Round",
+      "totalRaised": "£2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Techsembly",
+      "date": "Apr 2021",
+      "roundSize": "£1M",
+      "stage": "Seed Round",
+      "totalRaised": "£1M"
+    },
+    {
+      "coInvestors": [
+        "Okan Kara (ACT Venture Partners)"
+      ],
+      "company": "Ai Build",
+      "date": "Jan 2021",
+      "roundSize": "$1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Kamma",
+      "date": "Nov 2020",
+      "roundSize": "£1.6M",
+      "stage": "Seed Round",
+      "totalRaised": "£1.6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBenRrQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1c9ac392e374afb1ea2f95f57b8db5ee8b7a4be/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ferdinand-reynolds",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ferdinand-reynolds",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/ferdinand-reynolds/",
+    "twitter": "https://www.twitter.com/ReynoldsAFC"
+  },
+  "scraped_at": "2026-02-26T23:55:18.955631"
+}

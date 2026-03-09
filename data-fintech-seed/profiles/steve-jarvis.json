@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Steve Jarvis",
+    "website": "http://www.unlockvp.com/team/"
+  },
+  "experience": [
+    {
+      "company": "Learning and Giving",
+      "dates": "2017 - 2019",
+      "position": "Retired and Part Time Consultant"
+    },
+    {
+      "company": "Madrona Venture Labs",
+      "dates": "2018 - 2018",
+      "position": "Founder in Residence"
+    },
+    {
+      "company": "Expedia",
+      "dates": "2012 - 2016",
+      "position": "VP Strategy, Global Tour & Transport"
+    },
+    {
+      "company": "Expedia",
+      "dates": "2011 - 2012",
+      "position": "Vice President, Product Operations"
+    },
+    {
+      "company": "Concur Technologies",
+      "dates": "2010 - 2011",
+      "position": "Vice President, Marketing, Small & Midsize Business"
+    },
+    {
+      "company": "Alaska Airlines",
+      "dates": "2005 - 2010",
+      "position": "VP Marketing, Sales and Customer Experience"
+    },
+    {
+      "company": "Alaska Airlines",
+      "dates": "2002 - 2005",
+      "position": "Vice President, Sales & Customer Experience"
+    },
+    {
+      "company": "Alaska Airlines",
+      "dates": "1999 - 2002",
+      "position": "Staff VP, E-Commerce & Distribution"
+    },
+    {
+      "company": "CredHub",
+      "dates": "2019 - Present",
+      "position": "CEO"
+    },
+    {
+      "company": "Unlock Venture Partners",
+      "dates": "2018 - Present",
+      "position": "Limited Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Unlock Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/unlock-venture-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$60M",
+    "investmentRange": "$750K - $1.5M",
+    "sweetSpot": "$1.1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0VkQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5a96a1ed59c9f10bb1ffcda37d4273cbf41237e7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/steve-jarvis",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "steve-jarvis",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/sbenjarvis/",
+    "website": "https://www.unlockvp.com/team/"
+  },
+  "scraped_at": "2026-02-27T04:53:03.642920"
+}

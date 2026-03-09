@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Ann Arbor, Michigan",
+    "name": "Turner Novak",
+    "website": "https://bananacapital.vc/team"
+  },
+  "experience": [
+    {
+      "company": "Afore Capital",
+      "dates": "2019 - 2019",
+      "position": "Investor"
+    },
+    {
+      "company": "TDN Capital, LLC",
+      "dates": "2017 - 2019",
+      "position": "Founder"
+    },
+    {
+      "company": "Van Andel Institute",
+      "dates": "2015 - 2019",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "Gelt Venture Capital",
+      "dates": "2019 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Banana Capital",
+      "firmUrl": "https://signal.nfx.com/firms/banana-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$250K - $750K",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXM5QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e501080c932df4a080bfd8344f6df97d2be29e1b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/turner-novak",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "turner-novak",
+  "socials": {
+    "angellist": "https://www.angel.co/turner-novak",
+    "crunchbase": "https://www.crunchbase.com/person/turner-novak",
+    "linkedin": "https://www.linkedin.com/in/turnernovak/",
+    "twitter": "https://www.twitter.com/TurnerNovak",
+    "website": "https://www.bananacapital.vc/team"
+  },
+  "scraped_at": "2026-02-27T05:22:40.941403"
+}

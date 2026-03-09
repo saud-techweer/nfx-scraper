@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco, California",
+    "name": "TJ Nahigian",
+    "signalScore": 1,
+    "website": "https://base10.vc/team/tj-nahigian/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Base10 (Base10 Partners)",
+      "firmUrl": "https://signal.nfx.com/firms/base10-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$460M",
+    "investmentRange": "$500K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Taylor Barada (SignalFire)",
+        "Frederique Dame (GV (Google Ventures))",
+        "Nikhil Basu Trivedi (Footwork)",
+        "Evan Mintz (VMG Partners)",
+        "Carle Stenmark (VMG Partners)"
+      ],
+      "company": "The Pill Club",
+      "date": "Jan 2019",
+      "roundSize": "$51M",
+      "stage": "Series B",
+      "totalRaised": "$51M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN25rQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4bedb16efb20995ee6470598edc0b295b296bd39/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tj-nahigian",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AutoTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-a-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tj-nahigian",
+  "socials": {
+    "angellist": "https://www.angel.co/u/tj-nahigian",
+    "crunchbase": "https://www.crunchbase.com/person/tj-nahigan",
+    "linkedin": "https://www.linkedin.com/in/tj-nahigian-478a803/",
+    "twitter": "https://www.twitter.com/tjnahigian",
+    "website": "https://www.base10.vc/team/tj-nahigian/"
+  },
+  "scraped_at": "2026-02-28T06:44:26.570874"
+}

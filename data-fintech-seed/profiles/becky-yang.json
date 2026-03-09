@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Becky Yang",
+    "website": "https://everywhere.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Everywhere Ventures (The Fund)",
+      "firmUrl": "https://signal.nfx.com/firms/the-fund",
+      "position": "Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBem50QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--67f63963c795e40e90cac7a122b9f438be191cde/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/becky-yang",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "becky-yang",
+  "socials": {
+    "angellist": "https://www.angel.co/u/becxyang",
+    "crunchbase": "https://www.crunchbase.com/person/becky-yang-a9f7",
+    "linkedin": "https://www.linkedin.com/in/beckyyangprofile/",
+    "twitter": "https://www.twitter.com/becsyang?lang=en",
+    "website": "https://www.everywhere.vc/"
+  },
+  "scraped_at": "2026-02-28T14:36:40.583205"
+}

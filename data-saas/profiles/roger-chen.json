@@ -1,0 +1,162 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Austin, Texas",
+    "name": "Roger Chen",
+    "signalScore": 94,
+    "website": "https://silvertonpartners.com/roger-chen"
+  },
+  "experience": [
+    {
+      "company": "Genacast Ventures",
+      "dates": "2014 - 2017",
+      "position": "Principal"
+    },
+    {
+      "company": "Google",
+      "dates": "2010 - 2014",
+      "position": "PM"
+    },
+    {
+      "company": "Silverton Partners",
+      "dates": "2017 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Silverton Partners",
+      "firmUrl": "https://signal.nfx.com/firms/silverton-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$120M",
+    "investmentRange": "$6.0M - $7.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$6.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Kelly Perdew (Moonshots Capital)",
+        "Craig Cummings (Moonshots Capital)",
+        "Jessica Verrilli (Adverb Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Dan Graham (Springdale Ventures)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Nikhil Basu Trivedi (Footwork)",
+        "Dick Costolo (01 Advisors)",
+        "Thomas D. Lehrman (Teamworthy Ventures)",
+        "Genevieve Gilbreath (Springdale Ventures)"
+      ],
+      "company": "Literati",
+      "date": "Oct 2019",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHlqQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02ed792e8306c39c100a466f55bc6c7f458f1383/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/roger-chen",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "roger-chen",
+  "socials": {
+    "angellist": "https://www.angel.co/rogerbchen",
+    "crunchbase": "https://www.crunchbase.com/person/roger-chen-4",
+    "linkedin": "https://www.linkedin.com/in/chenro/",
+    "twitter": "https://www.twitter.com/rogerbchen",
+    "website": "https://www.silvertonpartners.com/roger-chen"
+  },
+  "scraped_at": "2026-02-27T04:07:37.894272"
+}

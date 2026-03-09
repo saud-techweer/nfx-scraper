@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Isaac Madan"
+  },
+  "experience": [
+    {
+      "company": "Venrock",
+      "dates": "2016 - 2018",
+      "position": "Investor"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2015 - 2015",
+      "position": "TA"
+    },
+    {
+      "company": "Chalky (acq. by Admittedly)",
+      "dates": "2013 - 2014",
+      "position": "Co-founder"
+    },
+    {
+      "company": "U.S. Green Building Council",
+      "dates": "2012 - 2012",
+      "position": "Fellow"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2012 - 2012",
+      "position": "Researcher"
+    },
+    {
+      "company": "NASA Ames Research Center",
+      "dates": "2011 - 2011",
+      "position": "Intern"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2010 - 2010",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Stanford University School of Medicine",
+      "dates": "2009 - 2010",
+      "position": "Intern"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2008 - 2009",
+      "position": "Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$10K - $100K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXZ4QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--aa0a121f53ab09b2751a1241f7f8494bc6aa7c30/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/isaac-madan",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "isaac-madan",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/isaac-madan",
+    "linkedin": "https://www.linkedin.com/in/isaacmadan/"
+  },
+  "scraped_at": "2026-02-27T22:23:16.944079"
+}

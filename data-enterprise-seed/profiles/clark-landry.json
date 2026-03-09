@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Clark Landry",
+    "signalScore": 725
+  },
+  "experience": [
+    {
+      "company": "Maple Media",
+      "dates": "2016 - 2017",
+      "position": "Co-Founder & Chief Operating Officer"
+    },
+    {
+      "company": "SHIFT",
+      "dates": "2010 - 2015",
+      "position": "Co-Founder and Executive Chairman"
+    },
+    {
+      "company": "Top Level Domain Holdings",
+      "dates": "2007 - 2010",
+      "position": "Co-Founder and CEO"
+    },
+    {
+      "company": "TagWorld",
+      "dates": "2004 - 2006",
+      "position": "Co-Founder and CMO"
+    },
+    {
+      "company": "iwin.com",
+      "dates": "1999 - 2000",
+      "position": "Director of Marketing"
+    },
+    {
+      "company": "Barrington Associates",
+      "dates": "1999 - 1999",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "CESPPA",
+      "dates": "2018 - Present",
+      "position": "Founder and COO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTNYQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a1941d4316bdd348d271ae755a79b3da274f0593/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/clark-landry",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "clark-landry",
+  "socials": {
+    "angellist": "https://www.angel.co/clandry",
+    "crunchbase": "https://www.crunchbase.com/person/clark-landry",
+    "linkedin": "https://www.linkedin.com/in/clarklandry/"
+  },
+  "scraped_at": "2026-02-27T21:09:07.119566"
+}

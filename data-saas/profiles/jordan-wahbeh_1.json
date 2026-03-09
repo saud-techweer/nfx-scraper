@@ -1,0 +1,151 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Advisor",
+      "Operator"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Jordan Wahbeh",
+    "signalScore": 8,
+    "website": "https://www.linkedin.com/in/jordanwahbeh/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Jordan Wahbeh",
+      "firmUrl": "https://signal.nfx.com/firms/jordan-wahbeh",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Somar Somasegar (Madrona Ventures)",
+        "David Rusenko (Leap Forward Ventures)",
+        "Phil Nadel (Forefront Venture Partners)"
+      ],
+      "company": "BlueDot",
+      "date": "Mar 2016",
+      "roundSize": "$10M",
+      "stage": "Venture Round",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDRzQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--18b4e17f79aaf65d3bec57a480917d1e59d9ceae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jordan-wahbeh_1",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Space (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-series_a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Space (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-space-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    }
+  ],
+  "slug": "jordan-wahbeh_1",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jordan-wahbeh-business-operations",
+    "crunchbase": "https://www.crunchbase.com/person/jordan-wahbeh",
+    "linkedin": "https://www.linkedin.com/in/jordanwahbeh/",
+    "twitter": "https://www.twitter.com/SVVentureGroup"
+  },
+  "scraped_at": "2026-02-27T01:22:29.157019"
+}

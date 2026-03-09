@@ -1,0 +1,87 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Alex Bard",
+    "website": "https://redpoint.com/our-people/alex-bard/"
+  },
+  "experience": [
+    {
+      "company": "Campaign Monitor",
+      "dates": "2014 - 2017",
+      "position": "CEO"
+    },
+    {
+      "company": "salesforce.com",
+      "dates": "2011 - 2014",
+      "position": "EVP & GM"
+    },
+    {
+      "company": "Assistly, Inc.",
+      "dates": "2009 - 2011",
+      "position": "CEO"
+    },
+    {
+      "company": "AOL",
+      "dates": "2008 - 2009",
+      "position": "Vice President - Products"
+    },
+    {
+      "company": "Goowy Media",
+      "dates": "2004 - 2009",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "eAssist Global Solutions",
+      "dates": "1999 - 2004",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Redpoint Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/redpoint-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$100K - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDRLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--986bff40f56448202d864b7299709f1995405974/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-bard",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "alex-bard",
+  "socials": {
+    "angellist": "https://www.angel.co/p/alexbard",
+    "crunchbase": "https://www.crunchbase.com/person/alex-bard",
+    "linkedin": "https://www.linkedin.com/in/alexbard/",
+    "twitter": "https://www.twitter.com/alexbard",
+    "website": "https://www.redpoint.com/our-people/alex-bard/"
+  },
+  "scraped_at": "2026-02-26T06:42:22.180363"
+}

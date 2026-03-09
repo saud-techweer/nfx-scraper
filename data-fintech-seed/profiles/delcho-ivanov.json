@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Advisor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "DELCHO IVANOV",
+    "website": "https://www.oxfordangelfund.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Oxonian Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/oxonian-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$3.0M - $5.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2dYQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba3ac17863ec6cb981172f1f0de2e33dfda286c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/delcho-ivanov",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "delcho-ivanov",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/delcho-ivanov",
+    "linkedin": "https://www.linkedin.com/in/delchoivanov/",
+    "twitter": "https://www.twitter.com/delisimo",
+    "website": "https://www.oxfordangelfund.com/"
+  },
+  "scraped_at": "2026-03-03T17:02:44.557535"
+}

@@ -1,0 +1,189 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "name": "Federico Pistono",
+    "positionAndFirm": "Founder, 10x Investor Club",
+    "signalScore": 60,
+    "website": "https://10xinvestor.club/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "10x Investor Club",
+      "firmUrl": "https://signal.nfx.com/firms/10x-investor-club",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$200K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Sacha Levy (New York Angels)"
+      ],
+      "company": "PainQx",
+      "date": "Sep 2021",
+      "roundSize": "$1.6M",
+      "stage": "Post seed",
+      "totalRaised": "$2.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Comehome",
+      "date": "Sep 2021",
+      "roundSize": "$150K",
+      "stage": "Post seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Emil Waskoenig (Moonstone Venture Capital)",
+        "Mario Scuderi (CDP Venture Capital)",
+        "Chiara Castelli (Moonstone Venture Capital)",
+        "Alberto Cresto (Lunar Ventures)"
+      ],
+      "company": "Cubbit",
+      "date": "Jun 2021",
+      "roundSize": "$8.1M",
+      "stage": "Series A",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Arctic Bioscience AS",
+      "date": "Apr 2021",
+      "roundSize": "$280K",
+      "stage": "Series B",
+      "totalRaised": "$280K"
+    },
+    {
+      "coInvestors": [],
+      "company": "InVRsion",
+      "date": "Dec 2020",
+      "roundSize": "$25K",
+      "stage": "Seed",
+      "totalRaised": "$25K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Winegrid",
+      "date": "Jan 2020",
+      "roundSize": "$20K",
+      "stage": "Seed",
+      "totalRaised": "$20K"
+    },
+    {
+      "coInvestors": [
+        "Rodrigo Ocejo (Avalancha Ventures)",
+        "Lorenzo Garza (Avalancha Ventures)"
+      ],
+      "company": "Paybook",
+      "date": "Nov 2019",
+      "roundSize": "$50K",
+      "stage": "Seed",
+      "totalRaised": "$550K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGg2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f717176d5b628d3a429726ff42b5589b5a07b71/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/federico-pistono",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "federico-pistono",
+  "socials": {
+    "angellist": "https://www.angel.co/federicopistono",
+    "crunchbase": "https://www.crunchbase.com/person/federico-pistono",
+    "linkedin": "https://www.linkedin.com/in/federicopistono/",
+    "twitter": "https://www.twitter.com/FedericoPistono",
+    "website": "https://www.10xinvestor.club/"
+  },
+  "scraped_at": "2026-02-11T14:03:20.527505"
+}

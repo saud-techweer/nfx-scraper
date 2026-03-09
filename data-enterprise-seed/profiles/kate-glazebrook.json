@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Kate Glazebrook",
+    "website": "https://www.adaventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Blackbird",
+      "dates": "2021 - Present",
+      "position": "Head of Impact and Operating Principal"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Ada Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/ada-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNCtCQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1d5468c4887a2b93ada5f11f6b848027b5fd46e6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kate-glazebrook",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kate-glazebrook",
+  "socials": {
+    "angellist": "https://www.angel.co/u/kate-glazebrook",
+    "crunchbase": "https://www.crunchbase.com/person/kate-glazebrook",
+    "linkedin": "https://www.linkedin.com/in/kateglazebrook1/",
+    "twitter": "https://www.twitter.com/kateglazebrook",
+    "website": "https://www.adaventures.com/"
+  },
+  "scraped_at": "2026-02-27T23:03:14.008198"
+}

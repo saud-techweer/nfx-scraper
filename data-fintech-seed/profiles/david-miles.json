@@ -1,0 +1,172 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder"
+    ],
+    "location": "West Des Moines, Iowa",
+    "name": "David Miles",
+    "positionAndFirm": "Co-Founder & Managing Partner, ManchesterStory Group",
+    "signalScore": 1
+  },
+  "experience": [
+    {
+      "company": "ManchesterStory Group",
+      "dates": "2017 - Present",
+      "position": "Managing Partner / Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ManchesterStory Group",
+      "firmUrl": "https://signal.nfx.com/firms/manchesterstory-group",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$80.7M",
+    "investmentRange": "$500K - $4.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charlie Cheesman (Oxonian Ventures )",
+        "Josh Tanenbaum (Rebalance Capital)",
+        "Austin Hwang (Honda Xcelerator Ventures)"
+      ],
+      "company": "CNote Group, Inc.",
+      "date": "Aug 2020",
+      "roundSize": "$3M",
+      "stage": "Series Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Alexander Tran (Plug & Play Ventures)",
+        "Matt Kinley (ManchesterStory Group)"
+      ],
+      "company": "Verikai",
+      "date": "Jul 2020",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SF Insuretech, Inc.",
+      "date": "Jun 2020",
+      "roundSize": "$2M",
+      "stage": "Series Seed-2",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "X-Mode Social, Inc.",
+      "date": "Jun 2020",
+      "roundSize": "$8M",
+      "stage": "Convertible Note",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Elizabeth Caven (Next Level Ventures)",
+        "Josh Tanenbaum (Rebalance Capital)",
+        "Elliot Levy (DreamIt Ventures)",
+        "Andreas Ritter"
+      ],
+      "company": "Trusty.care",
+      "date": "Apr 2020",
+      "roundSize": "$1.5M",
+      "stage": "Convertible Note",
+      "totalRaised": "$5.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Engaged Retirement, Inc.",
+      "date": "Dec 2019",
+      "roundSize": "$1M",
+      "stage": "Series Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "HedgeCoVest/SMArt Xchange (SMArtX)",
+      "date": "Dec 2019",
+      "roundSize": "$4M",
+      "stage": "Series C",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Ian Rountree (Cantos Ventures)"
+      ],
+      "company": "Anagram, Inc.",
+      "date": "Aug 2019",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWRDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--704ec3050ee21109630e68eea935d63c2ea8bbfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-miles",
+  "sectorRankings": [
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-miles",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-miles-44c1",
+    "linkedin": "https://www.linkedin.com/in/davidmiles3/"
+  },
+  "scraped_at": "2026-03-03T16:58:52.735402"
+}

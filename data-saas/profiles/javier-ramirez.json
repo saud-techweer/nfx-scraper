@@ -1,0 +1,100 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor"
+    ],
+    "location": "Miami, Florida",
+    "name": "Javier Ramirez",
+    "positionAndFirm": "Enabling SaaS sales in US, Latin America & Spain",
+    "signalScore": 32,
+    "website": "https://www.cuota.io/"
+  },
+  "experience": [
+    {
+      "company": "WeWork",
+      "dates": "2018 - 2020",
+      "position": "Sales Director"
+    },
+    {
+      "company": "Rippling",
+      "dates": "2017 - 2017",
+      "position": "Sales"
+    },
+    {
+      "company": "Zenefits",
+      "dates": "2014 - 2017",
+      "position": "Sales Manager"
+    },
+    {
+      "company": "Cuota",
+      "dates": "2020 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MB40",
+      "firmUrl": "https://signal.nfx.com/firms/mb40",
+      "position": "Investor"
+    },
+    "investmentRange": "$1K - $25K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lucas Arzola (Parallel18)",
+        "Sergio Marrero"
+      ],
+      "company": "BrainHi",
+      "date": "Nov 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$150K"
+    },
+    {
+      "coInvestors": [
+        "Gregory Laredo (5 Star Capital)",
+        "Jason Calacanis (LAUNCH)"
+      ],
+      "company": "LEAF",
+      "date": "Jul 2016",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNVhyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e9525c62ef2cccb22836d4eb4990eb3f6f99cdc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/javier-ramirez",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "javier-ramirez",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/javier-ramirez-lugo/",
+    "twitter": "https://www.twitter.com/JaviEug",
+    "website": "https://www.cuota.io/"
+  },
+  "scraped_at": "2026-02-27T00:52:06.276405"
+}

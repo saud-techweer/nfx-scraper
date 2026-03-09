@@ -1,0 +1,177 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Founder",
+      "Operator",
+      "CEO"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "David Carrico",
+    "signalScore": 165,
+    "website": "http://www.jlabsllc.com/home-2"
+  },
+  "experience": [
+    {
+      "company": "EVNTLIVE",
+      "dates": "Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Jlabs",
+      "firmUrl": "https://signal.nfx.com/firms/jlabs",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $150K",
+    "investmentsOnRecord": 24,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Kona",
+      "date": "Jul 2022",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Polygon",
+      "date": "Feb 2022",
+      "roundSize": "$450M",
+      "stage": "Venture Round",
+      "totalRaised": "$450M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Metaphysic AI",
+      "date": "Jan 2022",
+      "roundSize": "$7.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Mem Protocol",
+      "date": "Nov 2021",
+      "roundSize": "$3.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Yup.io",
+      "date": "Oct 2021",
+      "roundSize": "$3.5M",
+      "stage": "Seed",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [
+        "Michelle Valentine (Plug & Play Ventures)"
+      ],
+      "company": "Omni",
+      "date": "Aug 2020",
+      "roundSize": "$1.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Olive & June",
+      "date": "Jun 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Rosebud AI",
+      "date": "Mar 2020",
+      "roundSize": "$2.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM25UQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ea2c5538de71b4613183abeb681df9023ef2796/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-carrico",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "david-carrico",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/davidacarrico/",
+    "website": "https://www.jlabsllc.com/home-2"
+  },
+  "scraped_at": "2026-02-27T05:51:56.768129"
+}

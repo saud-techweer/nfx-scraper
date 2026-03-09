@@ -1,0 +1,279 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Former CEO",
+      "Founder",
+      "Product Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Pawan Deshpande",
+    "signalScore": 130,
+    "website": "https://pawandeshpande.com/"
+  },
+  "experience": [
+    {
+      "company": "Galileo AI",
+      "dates": "2024 - 2025",
+      "position": "Product"
+    },
+    {
+      "company": "Linea",
+      "dates": "2024 - 2025",
+      "position": "Head of Product & Growth"
+    },
+    {
+      "company": "Scale AI",
+      "dates": "2022 - 2023",
+      "position": "Product Architect"
+    },
+    {
+      "company": "Domino Data Lab",
+      "dates": "2020 - 2021",
+      "position": "Head of ModelOps"
+    },
+    {
+      "company": "Curata",
+      "dates": "2007 - 2020",
+      "position": "CEO"
+    },
+    {
+      "company": "Google",
+      "dates": "2005 - 2005",
+      "position": "Researcher"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2004 - 2004",
+      "position": "Developer"
+    },
+    {
+      "company": "IMlogic",
+      "dates": "2004 - 2004",
+      "position": "Developer"
+    },
+    {
+      "company": "Kubi Software",
+      "dates": "2003 - 2003",
+      "position": "Developer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $150K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Rocksalt",
+      "date": "Jul 2025",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Customers.ai",
+      "date": "Apr 2023",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Charles Svirk (MassMutual Ventures)",
+        "Saurabh Sharma (Jump Crypto)"
+      ],
+      "company": "LinkSquares",
+      "date": "Jan 2020",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Lan Xuezhao (Basis Set Ventures)",
+        "Mark Gorenberg (Zetta Venture Partners)",
+        "Jason Sydow (Next47)"
+      ],
+      "company": "Falkonry",
+      "date": "Jun 2018",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Marta Laorden (McWin Capital Partners)"
+      ],
+      "company": "UPSIDE Foods",
+      "date": "Aug 2017",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$420M"
+    },
+    {
+      "coInvestors": [
+        "John Pepper (040 Capital)"
+      ],
+      "company": "Toast",
+      "date": "Jan 2016",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0lJQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0f440d452bf267e79b37778f349d622a9652603e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pawan-deshpande",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "LegalTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "pawan-deshpande",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/pawandeshpande/",
+    "twitter": "https://www.twitter.com/idlivada",
+    "website": "https://www.pawandeshpande.com/"
+  },
+  "scraped_at": "2026-02-27T03:34:56.500979"
+}

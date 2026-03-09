@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Stephanie Zhan",
+    "website": "https://sequoiacap.com/people/stephanie-zhan/"
+  },
+  "experience": [
+    {
+      "company": "Sequoia Capital",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Associate Product Marketing Manager"
+    },
+    {
+      "company": "Nest",
+      "dates": "Present",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Andreessen Horowitz",
+      "dates": "Present",
+      "position": "Investment Team"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$1M - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3FWQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--da9e1ea71f7710c92063fc859ac3e814bdf70236/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stephanie-zhan",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "stephanie-zhan",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/stephanie-zhan",
+    "linkedin": "https://www.linkedin.com/in/stephaniezhan/",
+    "twitter": "https://www.twitter.com/stephzhan?lang=en",
+    "website": "https://www.sequoiacap.com/people/stephanie-zhan/"
+  },
+  "scraped_at": "2026-02-28T02:00:14.306871"
+}

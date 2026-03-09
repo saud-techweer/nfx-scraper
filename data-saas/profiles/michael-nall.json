@@ -1,0 +1,122 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Founder",
+      "Investor",
+      "Finance Operator"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Michael R. Nall",
+    "signalScore": 35,
+    "website": "https://midmarket.ai/"
+  },
+  "experience": [
+    {
+      "company": "Alliance of M&A Advisors",
+      "dates": "1998 - 2020",
+      "position": "Founder"
+    },
+    {
+      "company": "Global Capital",
+      "dates": "1993 - 1998",
+      "position": "M&A Specialist"
+    },
+    {
+      "company": "Geneva Business Services",
+      "dates": "1984 - 1989",
+      "position": "Dealmaker"
+    },
+    {
+      "company": "Arthur Andersen",
+      "dates": "1973 - 1974",
+      "position": "CPA"
+    },
+    {
+      "company": "MidMarket Alliance",
+      "dates": "2020 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MidMarket Place",
+      "firmUrl": "https://signal.nfx.com/firms/midmarket-place",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$10K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Alliance of M&A Advisors",
+      "date": "Jan 2008",
+      "roundSize": "$250K",
+      "stage": "start-up",
+      "totalRaised": "$250K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHhlQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1979412a5ae03491662ee0d1d231993945c0b3a5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-nall",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "michael-nall",
+  "socials": {
+    "angellist": "https://www.angel.co/midmarketplace",
+    "crunchbase": "https://www.crunchbase.com/person/michael-nall",
+    "linkedin": "https://www.linkedin.com/in/midmarket/",
+    "twitter": "https://www.twitter.com/privatealliance",
+    "website": "https://www.midmarket.ai/"
+  },
+  "scraped_at": "2026-02-27T02:50:37.349397"
+}

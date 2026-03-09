@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Jordan Windmueller",
+    "website": "https://www.a-star.co/"
+  },
+  "experience": [
+    {
+      "company": "Bessemer Venture Partners",
+      "dates": "2014 - 2018",
+      "position": "Venture Capital Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "A* Capital (A Star Capital)",
+      "firmUrl": "https://signal.nfx.com/firms/a-star-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$300M",
+    "investmentRange": "$1M - $10.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0QwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--2bc48f7bde67126fc35dcac7ef6ae55ad079fbd4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jordan-windmueller",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    }
+  ],
+  "slug": "jordan-windmueller",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jhwindmueller",
+    "crunchbase": "https://www.crunchbase.com/person/jordan-windmueller",
+    "linkedin": "https://www.linkedin.com/in/jordanwindmueller/",
+    "twitter": "https://www.twitter.com/jhwindmueller",
+    "website": "https://www.a-star.co/"
+  },
+  "scraped_at": "2026-02-27T22:52:43.768525"
+}

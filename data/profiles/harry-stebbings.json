@@ -1,0 +1,214 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel",
+      "Founder"
+    ],
+    "location": "London",
+    "name": "Harry Stebbings",
+    "signalScore": 1634,
+    "website": "https://stride.vc/"
+  },
+  "experience": [
+    {
+      "company": "Stride.VC",
+      "dates": "2017 - 2021",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "20VC",
+      "firmUrl": "https://signal.nfx.com/firms/20vc",
+      "position": "Investor"
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andrew Chen (Andreessen Horowitz)",
+        "Greg Rosen (BoxGroup)",
+        "David Ulevitch (Andreessen Horowitz)",
+        "Jason Warner (Redpoint Ventures)",
+        "Andrea Funsten (Basecamp Fund)",
+        "April Underwood (Adverb Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "Scott Belsky",
+        "Howie Liu",
+        "Drew Houston"
+      ],
+      "company": "Balsa",
+      "date": "Oct 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$50K"
+    },
+    {
+      "coInvestors": [
+        "Gabe Greenbaum (B Capital Group)",
+        "Jeremy Levine (Bessemer Venture Partners)",
+        "Justin Kan (Goat Capital)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Nat Friedman (C2 Investment)",
+        "Jeff Fagnan (Accomplice VC)",
+        "Adam Bain (01 Advisors)",
+        "Ali Rowghani (Y Combinator)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Anne Dwane (Village Global)",
+        "Jordan Fliegel (Techstars)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Chris Keller (NextGen Venture Partners)",
+        "Eric Wu",
+        "Joshua Reeves",
+        "Kevin Weil",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "Jennifer Lum",
+        "Elad Gil",
+        "Adrian Aoun",
+        "Jason Robins",
+        "David Cancel"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbVlJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1650a9e272ef5f7777275005dc24d1a6139f7a1a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/harry-stebbings",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "harry-stebbings",
+  "socials": {
+    "angellist": "https://www.angel.co/harry-stebbings-1",
+    "crunchbase": "https://www.crunchbase.com/person/harry-stebbings",
+    "linkedin": "https://www.linkedin.com/in/harry-stebbings-50b8b14b/",
+    "twitter": "https://www.twitter.com/HarryStebbings",
+    "website": "https://www.stride.vc/"
+  },
+  "scraped_at": "2026-02-11T15:06:24.674380"
+}

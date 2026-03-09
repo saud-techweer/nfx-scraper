@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Parker Harris",
+    "website": "https://www.salesforce.com/ap/"
+  },
+  "experience": [
+    {
+      "company": "Left Coast Software",
+      "dates": "1996 - 1999",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Metropolis Software",
+      "dates": "1993 - 1996",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Honeybee Software Co., ltd.",
+      "dates": "1989 - 1993",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Salesforce",
+      "dates": "1999 - Present",
+      "position": "Chief Technology Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Magdalena Yesil (Broadway Angels)"
+      ],
+      "company": "Salesforce",
+      "date": "Jun 1999",
+      "roundSize": "$3.8M",
+      "stage": "Series B",
+      "totalRaised": "$3.8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3JPQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5ddbc0f8e2fa9cfe2d202f4b03e2e30c050323a7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/parker-harris",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "parker-harris",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/parker-harris",
+    "linkedin": "https://www.linkedin.com/in/parker-harris-451040211/",
+    "twitter": "https://www.twitter.com/parkerharris",
+    "website": "https://www.salesforce.com/ap/"
+  },
+  "scraped_at": "2026-02-27T03:27:31.025395"
+}

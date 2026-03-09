@@ -1,0 +1,151 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Mike Chalfen",
+    "signalScore": 2,
+    "website": "https://www.chalfenventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Ubiquisys",
+      "dates": "2011 - 2013",
+      "position": "NED"
+    },
+    {
+      "company": "The Foundry",
+      "dates": "2009 - 2011",
+      "position": "NED"
+    },
+    {
+      "company": "Mosaic Ventures",
+      "dates": "2014 - Present",
+      "position": "Co-founder and Partner"
+    },
+    {
+      "company": "Advent Venture Partners",
+      "dates": "2008 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "BCG",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "The Boston Consulting Group",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "SUSE Linux AG",
+      "dates": "Present",
+      "position": "NED"
+    },
+    {
+      "company": "Apax Partners",
+      "dates": "Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Tideway Systems",
+      "dates": "Present",
+      "position": "Non-Executive Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Chalfen Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/chalfen-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ben Steven (Momenta Ventures)",
+        "Charlie Songhurst"
+      ],
+      "company": "Crate.io",
+      "date": "Jun 2018",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbkg1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f7bc8e74ef93e1f04e14596a3569cfe3feffd7e6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-chalfen",
+  "sectorRankings": [
+    {
+      "name": "Lodging/Hospitality (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-lodging-hospitality-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Lodging/Hospitality (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-lodging-hospitality-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "mike-chalfen",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/mike-chalfen",
+    "linkedin": "https://www.linkedin.com/in/mikechalfen/",
+    "twitter": "https://www.twitter.com/chalfs",
+    "website": "https://www.wellfound.com/p/mike-chalfen"
+  },
+  "scraped_at": "2026-02-27T02:54:56.508784"
+}

@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Burlingame, California",
+    "name": "Tom Shields",
+    "website": "https://agfunder.com/about-us/team/#team_member_category_investment_team"
+  },
+  "experience": [
+    {
+      "company": "AppNexus",
+      "dates": "2016 - Present",
+      "position": "Chief Strategy Officer"
+    },
+    {
+      "company": "AppNexus",
+      "dates": "2015 - Present",
+      "position": "SVP, Strategy, Publishers"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AgFunder",
+      "firmUrl": "https://signal.nfx.com/firms/agfunder",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$10M",
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$20K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNW9aQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bae1d3d05bc4f37d1c18558582e5a6d693c19cc5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tom-shields",
+  "sectorRankings": [
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tom-shields",
+  "socials": {
+    "angellist": "https://www.angel.co/tshields",
+    "crunchbase": "https://www.crunchbase.com/person/tom-shields",
+    "linkedin": "https://www.linkedin.com/in/tomshields/",
+    "twitter": "https://www.twitter.com/tshields",
+    "website": "https://www.agfunder.com/about-us/team/#team_member_category_investment_team"
+  },
+  "scraped_at": "2026-02-28T07:14:19.102493"
+}

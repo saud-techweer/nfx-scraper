@@ -1,0 +1,180 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Richard Boyle",
+    "signalScore": 61,
+    "website": "https://canaan.com/team/rich-boyle"
+  },
+  "experience": [
+    {
+      "company": "Khosla Ventures",
+      "dates": "2014 - 2015",
+      "position": "Operating Partner"
+    },
+    {
+      "company": "LoopNet",
+      "dates": "2012",
+      "position": "Chairman & CEO"
+    },
+    {
+      "company": "Canaan Partners",
+      "dates": "2016 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Risk Management Solutions",
+      "dates": "Present",
+      "position": "Senior Vice President"
+    },
+    {
+      "company": "LoopNet",
+      "dates": "Present",
+      "position": "VP Products & Engineering"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Canaan Partners",
+      "firmUrl": "https://signal.nfx.com/firms/canaan-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$250K - $20.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "SterlingBackcheck",
+      "date": "Jun 2015",
+      "roundSize": null,
+      "stage": "Private Equity",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Bobby Brannigan (NextGen Venture Partners)",
+        "Marissa Campise (Rucker Park Capital)",
+        "Rick Wagoner"
+      ],
+      "company": "YourMechanic",
+      "date": "Feb 2015",
+      "roundSize": null,
+      "stage": "Venture Round",
+      "totalRaised": "$34M"
+    },
+    {
+      "coInvestors": [
+        "Matt Ocko (DCVC (Data Collective))",
+        "Gil Demeter"
+      ],
+      "company": "Blue River Technology",
+      "date": "Mar 2014",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$27M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c467d3bc206c352e5b6271d0176c67cdb0edc50a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rich-boyle",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rich-boyle",
+  "socials": {
+    "angellist": "https://www.angel.co/rich-boyle",
+    "crunchbase": "https://www.crunchbase.com/person/richard-boyle",
+    "linkedin": "https://www.linkedin.com/in/richard-boyle-938113/",
+    "twitter": "https://www.twitter.com/boyle_rich",
+    "website": "https://www.canaan.com/team/rich-boyle"
+  },
+  "scraped_at": "2026-02-11T10:19:20.418010"
+}

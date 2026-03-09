@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Joyce Chung",
+    "website": "https://www.garage.com/about/team/"
+  },
+  "experience": [
+    {
+      "company": "Cardinal Venture Capital",
+      "dates": "2000 - 2007",
+      "position": "Founding Managing Director"
+    },
+    {
+      "company": "Adobe Systems",
+      "dates": "1997 - 2000",
+      "position": "Director, Adobe Ventures"
+    },
+    {
+      "company": "Adobe Systems",
+      "dates": "1993 - 1997",
+      "position": "Senior Product Marketing Manager"
+    },
+    {
+      "company": "Sony Electronics",
+      "dates": "1991 - 1993",
+      "position": "Manager"
+    },
+    {
+      "company": "Cambridge Technology Partners",
+      "dates": "1985 - 1989",
+      "position": "Vice President, Marketing and Sales"
+    },
+    {
+      "company": "Garage Technology Ventures",
+      "dates": "2007 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Garage Technology Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/garage-technology-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$500K - $3.0M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamtIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1dc7ba55b78487fd8048e06eb65e5e88079f7279/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joyce-chung",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "joyce-chung",
+  "socials": {
+    "angellist": "https://www.angel.co/joycechung",
+    "crunchbase": "https://www.crunchbase.com/person/joyce-chung",
+    "linkedin": "https://www.linkedin.com/in/jochung/",
+    "website": "https://www.garage.com/about/team/"
+  },
+  "scraped_at": "2026-02-27T01:27:59.477432"
+}

@@ -1,0 +1,92 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Jim White"
+  },
+  "experience": [
+    {
+      "company": "Macromedia Inc.",
+      "dates": "1996 - 2000",
+      "position": "VP"
+    },
+    {
+      "company": "Silicon Graphics Inc (SGI)",
+      "dates": "1989 - 1996",
+      "position": "VP marketing"
+    },
+    {
+      "company": "Hewlett Packard (HPQ)",
+      "dates": "1981 - 1987",
+      "position": "Product Manager"
+    },
+    {
+      "company": "LuMind Foundation",
+      "dates": "2004 - Present",
+      "position": "Co Founder"
+    },
+    {
+      "company": "Sutter Hill Ventures",
+      "dates": "2000 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sutter Hill Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/sutter-hill-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$103.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcS9qIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8879aaecb5d1e0b31645dac327f149cd1c6af673/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jim-white",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Travel (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jim-white",
+  "socials": {
+    "angellist": "https://www.angel.co/jnwhite",
+    "crunchbase": "https://www.crunchbase.com/person/jim-white",
+    "linkedin": "https://www.linkedin.com/in/whitejim/",
+    "twitter": "https://www.twitter.com/jnwhite"
+  },
+  "scraped_at": "2026-02-27T01:06:20.929475"
+}

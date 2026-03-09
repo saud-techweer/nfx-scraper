@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Ken Chenault Jr.",
+    "website": "https://benchstrengthvc.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Benchstrength",
+      "firmUrl": "https://signal.nfx.com/firms/benchstrength",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Hemant Taneja (General Catalyst)",
+        "Kenneth Chenault (General Catalyst)",
+        "Laela Sturdy (CapitalG)",
+        "Christian Jensen (Dragoneer Investment Group)",
+        "Jeff Abbott (Blitzscaling Ventures)",
+        "Anu Hariharan (Y Combinator)",
+        "Louis Beryl",
+        "Hiten Shah"
+      ],
+      "company": "Gusto",
+      "date": "Jul 2018",
+      "roundSize": "$140M",
+      "stage": "Series C",
+      "totalRaised": "$150M"
+    },
+    {
+      "coInvestors": [
+        "Kenneth Chenault (General Catalyst)",
+        "Jaisa Minor (New Voices Fund)"
+      ],
+      "company": "Beauty Bakerie Cosmetics Brand",
+      "date": "Oct 2017",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Kenneth Chenault (General Catalyst)",
+        "Cyrus Massoumi (Humbition)",
+        "Katie Stanton (Moxxie Ventures)"
+      ],
+      "company": "Compass",
+      "date": "Dec 2012",
+      "roundSize": "$8M",
+      "stage": "Seed Round",
+      "totalRaised": "$9.1M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlcyQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4433593d099b734f0653a2bdf9f582bc87eb9b91/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ken-chenault-jr",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ken-chenault-jr",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/kenneth-chenault-c187",
+    "linkedin": "https://www.linkedin.com/in/kenneth-chenault-697325b6/",
+    "twitter": "https://www.twitter.com/k_chenault",
+    "website": "https://www.benchstrengthvc.com/"
+  },
+  "scraped_at": "2026-02-27T23:06:33.420020"
+}

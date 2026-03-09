@@ -1,0 +1,181 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Growth Operator",
+      "Finance Operator",
+      "Advisor"
+    ],
+    "name": "Sandy Cass",
+    "positionAndFirm": "Founder consigliere, Former CFO/COO @ Artsy & Bonobos",
+    "signalScore": 417
+  },
+  "experience": [
+    {
+      "company": "Artsy",
+      "dates": "2015 - 2020",
+      "position": "CFO/COO"
+    },
+    {
+      "company": "Bonobos",
+      "dates": "2012 - 2015",
+      "position": "VP Finance"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Red Swan Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/red-swan-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$400K - $1.3M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ben Gindhart (IPD Capital)",
+        "Jack Leeney (7GC & Co)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Jonno Elliott"
+      ],
+      "company": "Capsule Pharmacy",
+      "date": "Apr 2018",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Tracksmith",
+      "date": "Aug 2017",
+      "roundSize": "$2",
+      "stage": "Seed",
+      "totalRaised": "$2"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sonder",
+      "date": "Feb 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "LibertyX",
+      "date": "Apr 2016",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "ShineOn",
+      "date": "Dec 2015",
+      "roundSize": "$2",
+      "stage": "Pre-Seed",
+      "totalRaised": "$2"
+    },
+    {
+      "coInvestors": [],
+      "company": "Whisk",
+      "date": "Dec 2014",
+      "roundSize": "$3",
+      "stage": "Pre-Seed",
+      "totalRaised": "$3"
+    },
+    {
+      "coInvestors": [
+        "Leo Polovets (Humba Ventures)"
+      ],
+      "company": "Rockbot",
+      "date": "Sep 2014",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Zak Schwarzman (MetaProp Ventures)",
+        "Louis Beryl"
+      ],
+      "company": "Eave",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Funding Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUVTQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--17bb09105f175c4b2a299fd119501edb195aede8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sandy-cass",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sandy-cass",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/sandy-cass",
+    "linkedin": "https://www.linkedin.com/in/sandersoncass/"
+  },
+  "scraped_at": "2026-02-27T04:22:37.122054"
+}

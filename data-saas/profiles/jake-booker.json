@@ -1,0 +1,138 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Scout",
+      "Investor",
+      "Advisor"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Jake Booker",
+    "website": "https://www.antler.co/"
+  },
+  "experience": [
+    {
+      "company": "Antler",
+      "dates": "2022 - 2022",
+      "position": "Director, Origination"
+    },
+    {
+      "company": "Investible",
+      "dates": "2019 - 2021",
+      "position": "Principal"
+    },
+    {
+      "company": "Macquarie Group",
+      "dates": "2017 - 2019",
+      "position": "Senior Associate - Structured Credit & Business Solutions"
+    },
+    {
+      "company": "Select positions held",
+      "dates": "2013 - 2016",
+      "position": "Various"
+    },
+    {
+      "company": "Sefa (Social Enterprise Finance Australia)",
+      "dates": "2023 - Present",
+      "position": "Growth Capital Advisor"
+    },
+    {
+      "company": "Antler",
+      "dates": "2022 - Present",
+      "position": "Associate Partner"
+    },
+    {
+      "company": "Various",
+      "dates": "2019 - Present",
+      "position": "Technology Advocate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Antler",
+      "firmUrl": "https://signal.nfx.com/firms/antler",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNTNQQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0b6b524211ecd1c61d30e24c3cd8b25f8b28542c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jake-booker",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jake-booker",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jakebooker/",
+    "website": "https://www.antler.co/"
+  },
+  "scraped_at": "2026-02-27T00:41:13.376195"
+}

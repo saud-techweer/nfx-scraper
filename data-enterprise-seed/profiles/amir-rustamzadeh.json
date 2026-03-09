@@ -1,0 +1,410 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Engineering Operator",
+      "Product Operator",
+      "Advisor"
+    ],
+    "name": "Amir Rustamzadeh",
+    "signalScore": 146,
+    "website": "https://firestreak.com/"
+  },
+  "experience": [
+    {
+      "company": "Kurtosis",
+      "dates": "2022 - 2023",
+      "position": "Head of Product"
+    },
+    {
+      "company": "Cypress.io",
+      "dates": "2019 - 2022",
+      "position": "Director of Developer Experience (DX)"
+    },
+    {
+      "company": "Cypress.io",
+      "dates": "2018 - 2019",
+      "position": "Senior Software Engineer"
+    },
+    {
+      "company": "Rustamson",
+      "dates": "2014 - 2018",
+      "position": "Founder & Lead Engineer"
+    },
+    {
+      "company": "College of Engineering - Center for Environmental Research and Technology",
+      "dates": "2012 - 2014",
+      "position": "Graduate Student Researcher"
+    },
+    {
+      "company": "University of California, Riverside",
+      "dates": "2010 - 2012",
+      "position": "Undergraduate Researcher"
+    },
+    {
+      "company": "Space Exploration Technologies",
+      "dates": "2011 - 2011",
+      "position": "Avionics Intern"
+    },
+    {
+      "company": "Jet Propulsion Laboratory",
+      "dates": "2008 - 2008",
+      "position": "Academic Part Time Employee"
+    },
+    {
+      "company": "Jet Propulsion Laboratory",
+      "dates": "2008 - 2008",
+      "position": "Mobility and Robotics Systems Intern"
+    },
+    {
+      "company": "Charm",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Daytona",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Live Aware Labs",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Arcus",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Cohere",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "PerfectScale",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Reworkd AI (YC S23)",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Storyteller.AI",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Trustwise",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Bytez",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Churney",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Stability AI",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Modal Labs",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Anthropic",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Turso",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "HoneyHive AI",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Filigran",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Lago",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "artillery.io",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Dylibso",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "SPREAD GmbH",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Inventive",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "flox",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Oxen",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Mage",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Firestreak Ventures",
+      "dates": "2023 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "BentoML",
+      "dates": "2023 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "ThreatKey",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Ampt",
+      "dates": "2023 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Perfect",
+      "dates": "2023 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Oblivious",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "DAGWorks Inc.",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Permit.io",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Digma",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Flightcontrol",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Sprkl",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Speakeasy",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Snaplet",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Earthly Technologies",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Alphadoc",
+      "dates": "2022 - Present",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Rustamzadeh",
+      "dates": "2022 - Present",
+      "position": "Angel Investor & Advisor"
+    },
+    {
+      "company": "Cypress.io",
+      "dates": "2022 - Present",
+      "position": "Ambassador"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$10K - $150K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzlhQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--94280de6540ea06800600da1e78c2cf3dff67f1e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amir-rustamzadeh",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    }
+  ],
+  "slug": "amir-rustamzadeh",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/amirrustam/",
+    "twitter": "https://www.twitter.com/amirrustam",
+    "website": "https://www.firestreak.com/"
+  },
+  "scraped_at": "2026-02-27T20:11:44.433516"
+}

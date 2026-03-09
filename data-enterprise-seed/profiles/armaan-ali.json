@@ -1,0 +1,91 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Armaan Ali",
+    "website": "https://human.capital/about"
+  },
+  "experience": [
+    {
+      "company": "Stanford Social Entrepreneurial Students' Association (SENSA)",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "General Catalyst Partners",
+      "dates": "Present",
+      "position": "Investment Team"
+    },
+    {
+      "company": "Nav Talent",
+      "dates": "Present",
+      "position": "President"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Human Capital",
+      "firmUrl": "https://signal.nfx.com/firms/human-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Roelof Botha (Sequoia Capital)",
+        "Naomi Pilosof Ionita (Menlo Ventures)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Tony Fadell (Future Shape)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Deborah Quazzo (GSV Acceleration)",
+        "Nate Dalton (Daybreak Partners)",
+        "Mike Krieger"
+      ],
+      "company": "mmhmm",
+      "date": "Jul 2020",
+      "roundSize": "$4.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$9M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1BhIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1ecd48f14763365c6d3b704776d1b28277032a09/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/armaan-ali",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "armaan-ali",
+  "socials": {
+    "angellist": "https://www.angel.co/u/armaan-ali-5",
+    "crunchbase": "https://www.crunchbase.com/person/armaan-ali",
+    "linkedin": "https://www.linkedin.com/in/armaan-ali-37813b76/",
+    "twitter": "https://www.twitter.com/1armaanali",
+    "website": "https://www.human.capital/about"
+  },
+  "scraped_at": "2026-02-27T20:27:42.562164"
+}

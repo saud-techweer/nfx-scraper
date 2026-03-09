@@ -1,0 +1,328 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Tokyo",
+    "name": "Tetsuro Miyatake",
+    "signalScore": 125,
+    "website": "https://www.dgincubation.co.jp/en/team/miyatake-tetsuro/"
+  },
+  "experience": [
+    {
+      "company": "Boston Celtics",
+      "dates": "2013 - 2014",
+      "position": "Intern, Basketball Operations Department"
+    },
+    {
+      "company": "RKG | Rimm-Kaufman Group",
+      "dates": "2013 - 2013",
+      "position": "Intern"
+    },
+    {
+      "company": "netprice.com, Ltd.",
+      "dates": "2012 - 2012",
+      "position": "Intern (Summer)"
+    },
+    {
+      "company": "Tokyo Buyers",
+      "dates": "2010 - 2011",
+      "position": "Chief Operating Officer"
+    },
+    {
+      "company": "Babson Havaianas",
+      "dates": "2010 - 2011",
+      "position": "Chief Executive Officer, VP of Information Technology, VP of Communications"
+    },
+    {
+      "company": "Digital Garage",
+      "dates": "2014 - Present",
+      "position": "Employee"
+    },
+    {
+      "company": "DG Incubation",
+      "dates": "2014 - Present",
+      "position": "Investment Manager"
+    },
+    {
+      "company": "Open Network Lab",
+      "dates": "2014 - Present",
+      "position": "Investment Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DG Incubation",
+      "firmUrl": "https://signal.nfx.com/firms/dg-incubation",
+      "position": "Investor"
+    },
+    "investmentRange": "$20K - $10.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Audiobyte",
+      "date": "Dec 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Coursebase",
+      "date": "Aug 2018",
+      "roundSize": "$4M",
+      "stage": "Series AA",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Anton Waitz (Project A Ventures)",
+        "Jon Soberg (MS&AD Ventures)"
+      ],
+      "company": "Qunomedical",
+      "date": "Aug 2018",
+      "roundSize": null,
+      "stage": "Bridge Round",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Trash",
+      "date": "Jun 2018",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Eric Lagier (byFounders)",
+        "Gerhard Eschelbeck",
+        "Pete Moore",
+        "Scott Belsky"
+      ],
+      "company": "Cobalt",
+      "date": "Apr 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$35M"
+    },
+    {
+      "coInvestors": [],
+      "company": "All Turtles",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Seed Labs",
+      "date": "Oct 2015",
+      "roundSize": null,
+      "stage": "Series Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Mike Zappert (Adams Street Partners)",
+        "Derek Zanutto (CapitalG)",
+        "Morgan Livermore (Quiet Capital)",
+        "Mark A. Johnson (TTV Capital)",
+        "Jeff Kearl (Pelion Venture Partners)",
+        "Todd Pedersen",
+        "Peter Kight"
+      ],
+      "company": "MX Technologies",
+      "date": "Apr 2015",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$380M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ0lLIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--d11add1f3e662dfd544f188ccd38919f724d6fc8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tetsuro-miyatake",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-b-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-b-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "tetsuro-miyatake",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/tetsuro-miyatake",
+    "linkedin": "https://www.linkedin.com/in/tetsuro-miyatake-b76a854a/",
+    "website": "https://www.dgincubation.co.jp/en/team/miyatake-tetsuro/"
+  },
+  "scraped_at": "2026-02-11T15:07:00.784649"
+}

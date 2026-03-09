@@ -1,0 +1,217 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC",
+      "Founder"
+    ],
+    "location": "London",
+    "name": "Igor Tikhturov",
+    "signalScore": 380,
+    "website": "https://www.truesight.vc/#team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TrueSight Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/truesight-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 13,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jay H. Kim (Black Jays Investments)",
+        "Oleg Tikhturov (TrueSight Ventures)",
+        "Venus Williams"
+      ],
+      "company": "Swish Robotics",
+      "date": "Mar 2025",
+      "roundSize": "$3M",
+      "stage": "Pre Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Oleg Tikhturov (TrueSight Ventures)"
+      ],
+      "company": "MEplace",
+      "date": "Mar 2023",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Oleg Tikhturov (TrueSight Ventures)",
+        "Dave Clark (Expa)",
+        "Tosin Agbabiaka (Octopus Ventures)",
+        "Chris Adelsbach (Outrun Ventures)",
+        "Will Neale (Passion Capital)",
+        "Tom Blomfield",
+        "Charles Delingpole",
+        "Yi Luo"
+      ],
+      "company": "Bondaval",
+      "date": "Dec 2022",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [
+        "Masha Bucher (Day One Ventures)",
+        "Oleg Tikhturov (TrueSight Ventures)",
+        "Gabbi Cahane (Stride VC)",
+        "Natalie Somekh (ActivumSG)",
+        "Richard Fearn",
+        "Ian Hogarth",
+        "Azeem Azhar",
+        "Chris Murphy",
+        "Marc McCabe"
+      ],
+      "company": "Hofy",
+      "date": "Sep 2022",
+      "roundSize": "$15M",
+      "stage": "Series B",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Oleg Tikhturov (TrueSight Ventures)",
+        "Paul Forster",
+        "Biz Stone"
+      ],
+      "company": "Oxwash",
+      "date": "Aug 2022",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Oleg Tikhturov (TrueSight Ventures)",
+        "Will Armitage",
+        "Ilya Kondrashov",
+        "Caroline Hazlehurst"
+      ],
+      "company": "Alphagreen Group",
+      "date": "Oct 2020",
+      "roundSize": "$780K",
+      "stage": "Seed",
+      "totalRaised": "$4.4M"
+    },
+    {
+      "coInvestors": [
+        "Shaan Puri (Shaan's All Access Fund)",
+        "Oleg Tikhturov (TrueSight Ventures)"
+      ],
+      "company": "HolidayFox",
+      "date": "May 2020",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNi8yQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--11d8dacb6ddd9bb86d4175683af3bac72d9de8c5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/igor-tikhturov",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "igor-tikhturov",
+  "socials": {
+    "angellist": "https://www.angel.co/u/igor-truesight",
+    "crunchbase": "https://www.crunchbase.com/person/igor-tikhturov",
+    "linkedin": "https://www.linkedin.com/in/tikhturov/",
+    "twitter": "https://www.twitter.com/Tikhturov",
+    "website": "https://www.truesight.vc/#team"
+  },
+  "scraped_at": "2026-02-12T11:01:06.927351"
+}

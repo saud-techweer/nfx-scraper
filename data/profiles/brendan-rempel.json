@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "name": "Brendan Rempel",
+    "signalScore": 122,
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "website": "https://openviewpartners.com/",
+    "location": "Los Angeles, California"
+  },
+  "investingProfile": {
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$1M",
+    "investmentsOnRecord": 3
+  },
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Kintent",
+      "stage": "Series A",
+      "date": "Apr 2022",
+      "roundSize": "$18M",
+      "totalRaised": "$18M",
+      "coInvestors": []
+    },
+    {
+      "company": "Speechify",
+      "stage": "Seed",
+      "date": "Apr 2021",
+      "roundSize": "$10M",
+      "totalRaised": "$10M",
+      "coInvestors": [
+        "Jonno Elliott"
+      ]
+    },
+    {
+      "company": "Deputy",
+      "stage": "Series A",
+      "date": "Dec 2016",
+      "roundSize": "$25M",
+      "totalRaised": "$25M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "Vice President",
+      "company": "OpenView Venture Partners",
+      "dates": "2016 - 2022"
+    }
+  ],
+  "socials": {
+    "website": "https://www.openviewpartners.com/",
+    "linkedin": "https://www.linkedin.com/in/brendan-rempel/",
+    "crunchbase": "https://www.crunchbase.com/person/brendan-rempel"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHhhQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b41df60a949e8145bbd5cc3e8eccf64cd7198302/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brendan-rempel",
+  "slug": "brendan-rempel",
+  "scraped_at": "2026-02-24T10:27:30.727876"
+}

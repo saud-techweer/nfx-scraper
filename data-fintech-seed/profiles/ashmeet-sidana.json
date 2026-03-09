@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Ashmeet Sidana",
+    "positionAndFirm": "Chief Engineer, Engineering Capital",
+    "signalScore": 2,
+    "website": "https://engineeringcapital.com/team/#ashmeet"
+  },
+  "experience": [
+    {
+      "company": "Foundation Capital",
+      "dates": "2004 - 2013",
+      "position": "General Partner, Venture Partner, EIR"
+    },
+    {
+      "company": "VMware",
+      "dates": "2003 - 2004",
+      "position": "Dir. Product Management"
+    },
+    {
+      "company": "Engineering Capital",
+      "dates": "2015 - Present",
+      "position": "Founder, Managing Partner"
+    },
+    {
+      "company": "Hewlett-Packard",
+      "dates": "Present",
+      "position": "R&D Engineer"
+    },
+    {
+      "company": "Silicon Graphics",
+      "dates": "Present",
+      "position": "Member of Technical Staff"
+    },
+    {
+      "company": "Sidana Systems, Inc.",
+      "dates": "Present",
+      "position": "Founder/CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Engineering Capital",
+      "firmUrl": "https://signal.nfx.com/firms/engineering-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$47.5M",
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBckh5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--fcc87e3a575fd2de03a8d548c039e56e60feb6e4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ashmeet-sidana",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "ashmeet-sidana",
+  "socials": {
+    "angellist": "https://www.angel.co/p/ashmeet-sidana",
+    "crunchbase": "https://www.crunchbase.com/person/ashmeet-sidana-2",
+    "linkedin": "https://www.linkedin.com/in/sidana/",
+    "twitter": "https://www.twitter.com/ashmeetsidana",
+    "website": "https://www.engineeringcapital.com/team/#ashmeet"
+  },
+  "scraped_at": "2026-02-28T00:32:42.503497"
+}

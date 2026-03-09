@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Paris, France",
+    "name": "Paulin Dementhon",
+    "positionAndFirm": "Entrepreneur, Investor. Ex- Drivy Founder and CEO"
+  },
+  "experience": [
+    {
+      "company": "Self-employed",
+      "dates": "2021 - 2022",
+      "position": "Time off. Occasional business angel, focusing on environmental impact"
+    },
+    {
+      "company": "Getaround",
+      "dates": "2019 - 2021",
+      "position": "Europe CEO"
+    },
+    {
+      "company": "Drivy",
+      "dates": "2010 - 2019",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "France Digitale",
+      "dates": "2016 - 2018",
+      "position": "Board Member"
+    },
+    {
+      "company": "Quivaou.com",
+      "dates": "2008 - 2010",
+      "position": "Founder"
+    },
+    {
+      "company": "CMA CGM",
+      "dates": "2003 - 2008",
+      "position": "Commercial Manager"
+    },
+    {
+      "company": "Swell Dance",
+      "dates": "2022 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOVlEQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f8a4333900a63f40b7a853157b3234a47908bf4e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paulin-dementhon",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paulin-dementhon",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/paulin-dementhon",
+    "linkedin": "https://www.linkedin.com/in/paulin/",
+    "twitter": "https://www.twitter.com/popaulin"
+  },
+  "scraped_at": "2026-03-03T23:14:31.837623"
+}

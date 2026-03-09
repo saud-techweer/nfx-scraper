@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Wisconsin",
+    "name": "Jonathon Horne",
+    "website": "https://www.ideafundvc.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Idea Fund of La Crosse",
+      "firmUrl": "https://signal.nfx.com/firms/idea-fund-of-la-crosse",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Smartcare Software",
+      "date": "Apr 2022",
+      "roundSize": "$5M",
+      "stage": "Series A",
+      "totalRaised": "$5.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Quiver Quantitative",
+      "date": "Mar 2022",
+      "roundSize": "$2M",
+      "stage": "Follow on",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Curate Solutions",
+      "date": "Jun 2019",
+      "roundSize": "$1.3M",
+      "stage": "Follow on",
+      "totalRaised": "$1.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Agrograph",
+      "date": "May 2018",
+      "roundSize": "$500K",
+      "stage": "Seed",
+      "totalRaised": "$500K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1g4QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--def8516332776277555d4d00fdffd1b59c1a0edc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathon-horne",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jonathon-horne",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jonathon-horne",
+    "linkedin": "https://www.linkedin.com/in/jonathon-horne-54034317/",
+    "website": "https://www.ideafundvc.com/"
+  },
+  "scraped_at": "2026-02-27T01:21:41.864971"
+}

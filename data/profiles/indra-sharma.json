@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "name": "Indra Sharma",
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "website": "https://peak.capital/team/",
+    "location": "Stockholm, Sweden"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peak",
+      "firmUrl": "https://signal.nfx.com/firms/peak",
+      "position": "Partner"
+    },
+    "investmentRange": "$260K - $4.2M",
+    "sweetSpot": "$2.2M",
+    "investmentsOnRecord": 4
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "The Wild Ventures",
+      "stage": "Angel",
+      "date": "Apr 2025",
+      "roundSize": "$750K",
+      "totalRaised": "$750K",
+      "coInvestors": []
+    },
+    {
+      "company": "DREM",
+      "stage": "Pre Seed",
+      "date": "Nov 2024",
+      "roundSize": "$1M",
+      "totalRaised": "$3M",
+      "coInvestors": []
+    },
+    {
+      "company": "Melon",
+      "stage": "Pre Seed",
+      "date": "Dec 2022",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.peak.capital/team/",
+    "linkedin": "https://www.linkedin.com/in/indra-sharma-b6500213/",
+    "twitter": "https://www.twitter.com/indraeleonora",
+    "angellist": "https://www.angel.co/u/indra-sharma-1",
+    "crunchbase": "https://www.crunchbase.com/person/indra-sharma"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNm1VQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c42d681262af1d17b490fe2189b022058ce5fd9c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/indra-sharma",
+  "slug": "indra-sharma",
+  "scraped_at": "2026-02-24T11:20:20.058727"
+}

@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Austria",
+    "name": "Benjamin Ruschin",
+    "website": "https://www.bigcheese.io/benruschin"
+  },
+  "experience": [
+    {
+      "company": "Calm/Storm Ventures",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Founders of Europe",
+      "dates": "2021 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Code Capital Holding",
+      "dates": "2012 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Big Cheese Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/big-cheese-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2c2QkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bb367aa59784a6e55e281bb96f4952b4b424cd8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/benjamin-ruschin",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "benjamin-ruschin",
+  "socials": {
+    "angellist": "https://www.angel.co/u/benjamin-ruschin-1",
+    "crunchbase": "https://www.crunchbase.com/person/benjamin-a-ruschin",
+    "linkedin": "https://www.linkedin.com/in/benruschin/",
+    "twitter": "https://www.twitter.com/benruschin",
+    "website": "https://www.bigcheese.io/benruschin"
+  },
+  "scraped_at": "2026-02-27T20:39:29.614195"
+}

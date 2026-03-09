@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "London",
+    "name": "Carlos Eduardo Espinal",
+    "website": "https://seedcamp.com/"
+  },
+  "experience": [
+    {
+      "company": "Doughty Hanson",
+      "dates": "2007 - 2010",
+      "position": "Venture Capital"
+    },
+    {
+      "company": "Seedcamp",
+      "dates": "2010 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Baltimore Technologies",
+      "dates": "Present",
+      "position": "Network Engineering Consultant"
+    },
+    {
+      "company": "NYSE Euronext",
+      "dates": "Present",
+      "position": "Engineer - Advanced Comm. Technologies SIAC"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Seedcamp",
+      "firmUrl": "https://signal.nfx.com/firms/seedcamp",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$108.7M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcnJ5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--53782e3f6dea706079f2964250446311b35da714/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/carlos-eduardo-espinal",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "carlos-eduardo-espinal",
+  "socials": {
+    "angellist": "https://www.angel.co/cee",
+    "crunchbase": "https://www.crunchbase.com/person/carlos-espinal",
+    "linkedin": "https://www.linkedin.com/in/carloseduardoespinal/",
+    "website": "https://www.seedcamp.com/"
+  },
+  "scraped_at": "2026-02-27T20:55:55.270614"
+}

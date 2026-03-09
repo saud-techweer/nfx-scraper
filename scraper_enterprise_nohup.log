@@ -1,0 +1,198 @@
+2026-02-28 14:04:31,634 [INFO] ============================================================
+2026-02-28 14:04:31,634 [INFO]   NFX SIGNAL - ENTERPRISE SEED SCRAPER (HEADLESS SEQUENTIAL)
+2026-02-28 14:04:31,635 [INFO]   Total:     6410
+2026-02-28 14:04:31,635 [INFO]   Done:      6284
+2026-02-28 14:04:31,635 [INFO]   Remaining: 126
+2026-02-28 14:04:31,635 [INFO]   Retries:   10
+2026-02-28 14:04:31,635 [INFO] ============================================================
+2026-02-28 14:04:31,635 [INFO] Launching headless Chrome...
+2026-02-28 14:04:46,313 [INFO] Logging in to NFX Signal...
+2026-02-28 14:05:10,483 [INFO] Login OK: https://signal.nfx.com/investors
+2026-02-28 14:05:10,483 [INFO]   MAIN PASS: 126 profiles to scrape
+2026-02-28 14:05:24,231 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:05:27,110 [INFO]   OK sid-sadiq-shaik (Sid (Sadiq) Shaik)
+2026-02-28 14:05:30,422 [INFO]   OK slava-agafonov (Slava Agafonov)
+2026-02-28 14:05:33,580 [INFO]   OK steve-munich (Steve Munich)
+2026-02-28 14:05:37,010 [INFO]   OK steve-singh (Steve Singh)
+2026-02-28 14:05:40,526 [INFO]   OK steve-wilhelm (Steve Wilhelm)
+2026-02-28 14:05:44,501 [INFO]   OK steven-clarke (Steven Clarke)
+2026-02-28 14:05:47,983 [INFO]   OK steven-ji (Steven Ji)
+2026-02-28 14:05:51,953 [INFO]   OK steven-kishi (Steve Kishi)
+2026-02-28 14:05:55,052 [INFO]   OK steven-tamm (Steven Tamm)
+2026-02-28 14:05:59,490 [INFO]   OK steven-weinstein_1 (Steven Weinstein)
+2026-02-28 14:06:04,188 [INFO]   OK steven-williams (Steven Williams)
+2026-02-28 14:06:07,875 [INFO]   OK storm-stillman (Storm Stillman)
+2026-02-28 14:06:15,095 [INFO]   OK stuart-posin (Stuart Posin)
+2026-02-28 14:06:18,785 [INFO]   OK subeer-monga (Subeer Monga)
+2026-02-28 14:06:22,536 [INFO]   OK sudheesh-nair (Sudheesh Nair)
+2026-02-28 14:06:26,866 [INFO]   OK sukanta-ganguly (Sukanta Ganguly)
+2026-02-28 14:06:30,811 [INFO]   OK sumeet-gajri (Sumeet Gajri)
+2026-02-28 14:06:35,027 [INFO]   OK sumit-mehta (Sumit Mehta)
+2026-02-28 14:06:39,033 [INFO]   OK suzanne-fletcher (Suzanne Fletcher)
+2026-02-28 14:06:43,094 [INFO]   OK swetha-ravichandran (Swetha Ravichandran)
+2026-02-28 14:06:46,286 [INFO]   OK tal-tsfany (Tal Tsfany)
+2026-02-28 14:06:49,840 [INFO]   OK talmadge-o-neill (Talmadge O'Neill)
+2026-02-28 14:06:53,865 [INFO]   OK tami-bronner (Tami Bronner)
+2026-02-28 14:06:58,160 [INFO]   OK tanooj-luthra (Tanooj Luthra)
+2026-02-28 14:07:04,421 [INFO]   [25/126] OK tara-hernandez (Tara Hernandez) | total: 6309
+2026-02-28 14:07:08,024 [INFO]   OK tara-reeves (Tara Reeves)
+2026-02-28 14:07:11,783 [INFO]   OK tarek-elessawi (Tarek Elessawi)
+2026-02-28 14:07:15,244 [INFO]   OK tarikh-korula (Tarikh Korula)
+2026-02-28 14:07:19,178 [INFO]   OK taro-maruyama (Taro Maruyama)
+2026-02-28 14:07:23,518 [INFO]   OK tasso-argyros (Tasso Argyros)
+2026-02-28 14:07:29,205 [INFO]   OK thomas-mecataff (Thomas Mecataff)
+2026-02-28 14:07:34,153 [INFO]   OK thomas-melzer (Thomas Melzer)
+2026-02-28 14:07:38,216 [INFO]   OK thomas-wilke (Thomas Wilke)
+2026-02-28 14:07:41,954 [INFO]   OK tiago-ribeiro-neves (Tiago Ribeiro Neves)
+2026-02-28 14:07:44,890 [INFO]   OK tianyi-sky-yu (Tianyi (Sky) Yu)
+2026-02-28 14:07:48,432 [INFO]   OK tiasia-o-brien (Tiasia O'Brien)
+2026-02-28 14:07:52,109 [INFO]   OK tiffany-priosoetanto-masrin (Tiffany Priosoetanto- Masrin)
+2026-02-28 14:07:56,375 [INFO]   OK tim-connors (Tim Connors)
+2026-02-28 14:08:00,629 [INFO]   OK tim-lee (Tim Lee)
+2026-02-28 14:08:04,895 [INFO]   OK tim-mahlman (Tim Mahlman)
+2026-02-28 14:08:08,887 [INFO]   OK tina-chong (Tina Chong)
+2026-02-28 14:08:13,196 [INFO]   OK tj-dembinski (TJ Dembinski)
+2026-02-28 14:08:16,966 [INFO]   OK tom-drummond (Tom Drummond)
+2026-02-28 14:08:20,480 [INFO]   OK tom-preston-werner (Tom Preston-Werner)
+2026-02-28 14:08:24,262 [INFO]   OK tom-ryan (Tom Ryan)
+2026-02-28 14:08:30,922 [INFO]   OK tom-wilson (Tom Wilson)
+2026-02-28 14:08:35,208 [INFO]   OK tomas-delano (Tomas Delano)
+2026-02-28 14:08:39,565 [INFO]   OK tomas-penaguiao (Tomás Penaguião)
+2026-02-28 14:08:43,512 [INFO]   OK toni-alejandria (Toni Alejandria)
+2026-02-28 14:08:47,110 [INFO]   [50/126] OK tony-ho (Tony Ho) | total: 6334
+2026-02-28 14:08:50,779 [INFO]   OK tony-spinelli (Tony Spinelli)
+2026-02-28 14:08:54,978 [INFO]   OK trae-stephens (Trae Stephens)
+2026-02-28 14:08:58,355 [INFO]   OK trevor-mottl (Trevor Mottl)
+2026-02-28 14:09:02,789 [INFO]   OK trey-taylor_1 (Trey Taylor)
+2026-02-28 14:09:06,501 [INFO]   OK trip-hofer (Trip Hofer)
+2026-02-28 14:09:10,047 [INFO]   OK troy-carter (Troy Carter)
+2026-02-28 14:09:14,012 [INFO]   OK tuck-lye-koh (Tuck Lye Koh)
+2026-02-28 14:09:17,060 [INFO]   OK tugce-ergul (Tugce Ergul)
+2026-02-28 14:09:20,773 [INFO]   OK turker-ugur-sokullu (Turker Ugur Sokullu)
+2026-02-28 14:09:24,595 [INFO]   OK tyler-savitsky (Tyler Savitsky)
+2026-02-28 14:09:28,524 [INFO]   OK tyler-willis (Tyler Willis)
+2026-02-28 14:09:33,070 [INFO]   OK tyler-winklevoss (Tyler Winklevoss)
+2026-02-28 14:09:36,415 [INFO]   OK tzakhi-freedman_1 (Tzakhi Freedman)
+2026-02-28 14:09:39,784 [INFO]   OK uday-sandhu (Uday Sandhu)
+2026-02-28 14:09:43,977 [INFO]   OK ulrich-schmitt (Ulrich Schmitt)
+2026-02-28 14:09:46,988 [INFO]   OK umesh-garg (Umesh Garg)
+2026-02-28 14:09:50,419 [INFO]   OK valdiney-pimenta (Valdiney Pimenta)
+2026-02-28 14:09:54,580 [INFO]   OK valerie-osband (Valerie Osband Mahoney)
+2026-02-28 14:09:58,115 [INFO]   OK valery-komissarova (Valery Komissarova)
+2026-02-28 14:10:01,952 [INFO]   OK vanessa-liu (Vanessa Liu)
+2026-02-28 14:10:05,859 [INFO]   OK vanessa-yang (Vanessa Yang)
+2026-02-28 14:10:09,945 [INFO]   OK vedika-jain (Vedika Jain)
+2026-02-28 14:10:14,895 [INFO]   OK venkat-bussa (Venkat Bussa)
+2026-02-28 14:10:18,664 [INFO]   OK venkat-mohan (Venkat Mohan)
+2026-02-28 14:10:22,607 [INFO]   [75/126] OK vincent-alexander-pistor (Vincent-Alexander Pistor) | total: 6359
+2026-02-28 14:10:26,331 [INFO]   OK vinicius-alves (Vinicius Alves)
+2026-02-28 14:10:30,269 [INFO]   OK vinod-khosla (Vinod Khosla)
+2026-02-28 14:10:34,404 [INFO]   OK virginie-lucchini (Virginie Lucchini)
+2026-02-28 14:10:38,359 [INFO]   OK vishal-harnal (Vishal Harnal)
+2026-02-28 14:10:42,705 [INFO]   OK vishal-lugani (Vishal Lugani)
+2026-02-28 14:10:46,309 [INFO]   OK vishal-makhijani (Vishal Makhijani)
+2026-02-28 14:10:49,483 [INFO]   OK vishal-sankhla (Vishal Sankhla)
+2026-02-28 14:10:53,155 [INFO]   OK vivek-pandita (Vivek Pandita)
+2026-02-28 14:10:57,498 [INFO]   OK vivek-patel (Vivek Patel)
+2026-02-28 14:11:01,777 [INFO]   OK william-allen (William Allen)
+2026-02-28 14:11:04,956 [INFO]   OK william-bitsky (William Bitsky)
+2026-02-28 14:11:08,192 [INFO]   OK william-faulkner (William Faulkner)
+2026-02-28 14:11:11,980 [INFO]   OK william-jilltoft (William Jilltoft)
+2026-02-28 14:11:15,657 [INFO]   OK william-winkenwerder (William Winkenwerder)
+2026-02-28 14:11:18,131 [INFO]   OK winston-lin (SIGNAL)
+2026-02-28 14:11:22,385 [INFO]   OK winston-zhang (Winston Zhang)
+2026-02-28 14:11:26,299 [INFO]   OK winter-mead (Winter Mead)
+2026-02-28 14:11:29,673 [INFO]   OK wray-thorn (Wray Thorn)
+2026-02-28 14:11:35,753 [INFO]   OK xenia-sarri (Xenia Sarri)
+2026-02-28 14:11:38,726 [INFO]   OK xia-xiao (Xia Xiao)
+2026-02-28 14:11:42,641 [INFO]   OK xiao-liang (Xiao Liang)
+2026-02-28 14:11:46,438 [INFO]   OK xiao-sean-yang (Xiao (Sean) Yang)
+2026-02-28 14:11:50,842 [INFO]   OK xiaolei-cong (Xiaolei Cong)
+2026-02-28 14:11:54,308 [INFO]   OK xiaoping-bob-xu (Xiaoping (Bob) Xu)
+2026-02-28 14:11:58,287 [INFO]   [100/126] OK xiaoshan-zuo (Xiaoshan Zuo) | total: 6384
+2026-02-28 14:11:58,837 [INFO]   Cool-down pause (5s)...
+2026-02-28 14:12:06,812 [INFO]   OK xin-shirley-feng (Xin (Shirley) Feng)
+2026-02-28 14:12:10,933 [INFO]   OK yael-alroy (Yael Alroy)
+2026-02-28 14:12:14,470 [INFO]   OK yanev-suissa (Yanev Suissa)
+2026-02-28 14:12:18,643 [INFO]   OK yann-fiebig (Yann Fiebig)
+2026-02-28 14:12:22,798 [INFO]   OK yasmin-lukatz (Yasmin Lukatz)
+2026-02-28 14:12:26,811 [INFO]   OK yasmine-lacaillade (Yasmine Lacaillade)
+2026-02-28 14:12:30,534 [INFO]   OK yenny-cheung (Yenny Cheung)
+2026-02-28 14:12:34,753 [INFO]   OK yichen-jin (Yichen Jin)
+2026-02-28 14:12:38,651 [INFO]   OK yinebeb-atel (Yinebeb Atel)
+2026-02-28 14:12:43,029 [INFO]   OK yiqun-bai (Yiqun Bai)
+2026-02-28 14:12:47,730 [INFO]   OK yohei-sawayama (Yohei Sawayama)
+2026-02-28 14:12:51,253 [INFO]   OK yoichiro-taku (Yoichiro Taku)
+2026-02-28 14:12:55,114 [INFO]   OK yoon-kim (Yoon Kim)
+2026-02-28 14:12:58,803 [INFO]   OK yoram-snir (Yoram Snir)
+2026-02-28 14:13:03,113 [INFO]   OK yoseph-taslim (Yoseph Taslim)
+2026-02-28 14:13:06,806 [INFO]   OK yossi-pinkas (Yossi Pinkas)
+2026-02-28 14:13:10,711 [INFO]   OK youssef-moemen (Youssef Moemen)
+2026-02-28 14:13:14,577 [INFO]   OK yuanxiang-gao (Yuanxiang Gao)
+2026-02-28 14:13:18,056 [INFO]   OK yue-miao (Yue Miao)
+2026-02-28 14:13:24,680 [INFO]   OK yuri-danilchenko (Yuri Danilchenko)
+2026-02-28 14:13:28,076 [INFO]   OK yuri-de-souza (Yuri de Souza)
+2026-02-28 14:13:31,190 [INFO]   OK yusuke-asakura (Yusuke Asakura)
+2026-02-28 14:13:35,497 [INFO]   OK yuval-shachar (Yuval Shachar)
+2026-02-28 14:13:39,489 [INFO]   OK yvonne-chen (Yvonne Chen)
+2026-02-28 14:13:43,639 [INFO]   [125/126] OK zabreen-khan (Zabreen Khan) | total: 6409
+2026-02-28 14:13:44,238 [INFO]   MAIN PASS done: 125 OK, 1 failed
+2026-02-28 14:13:44,238 [INFO] 
+2026-02-28 14:13:44,239 [INFO] RETRY 1/10: 1 profiles
+2026-02-28 14:14:14,241 [INFO]   RETRY 1: 1 profiles to scrape
+2026-02-28 14:14:27,772 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:14:28,331 [INFO]   RETRY 1 done: 0 OK, 1 failed
+2026-02-28 14:14:28,331 [INFO] 
+2026-02-28 14:14:28,331 [INFO] RETRY 2/10: 1 profiles
+2026-02-28 14:14:58,331 [INFO]   RETRY 2: 1 profiles to scrape
+2026-02-28 14:15:12,049 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:15:12,686 [INFO]   RETRY 2 done: 0 OK, 1 failed
+2026-02-28 14:15:12,686 [INFO] 
+2026-02-28 14:15:12,686 [INFO] RETRY 3/10: 1 profiles
+2026-02-28 14:15:42,695 [INFO]   RETRY 3: 1 profiles to scrape
+2026-02-28 14:15:56,519 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:15:57,585 [INFO]   RETRY 3 done: 0 OK, 1 failed
+2026-02-28 14:15:57,585 [INFO] 
+2026-02-28 14:15:57,585 [INFO] RETRY 4/10: 1 profiles
+2026-02-28 14:16:27,593 [INFO]   RETRY 4: 1 profiles to scrape
+2026-02-28 14:16:41,201 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:16:42,137 [INFO]   RETRY 4 done: 0 OK, 1 failed
+2026-02-28 14:16:42,137 [INFO] 
+2026-02-28 14:16:42,137 [INFO] RETRY 5/10: 1 profiles
+2026-02-28 14:17:12,137 [INFO]   RETRY 5: 1 profiles to scrape
+2026-02-28 14:17:25,714 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:17:27,070 [INFO]   RETRY 5 done: 0 OK, 1 failed
+2026-02-28 14:17:27,071 [INFO] 
+2026-02-28 14:17:27,071 [INFO] RETRY 6/10: 1 profiles
+2026-02-28 14:17:57,076 [INFO]   RETRY 6: 1 profiles to scrape
+2026-02-28 14:18:10,691 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:18:11,336 [INFO]   RETRY 6 done: 0 OK, 1 failed
+2026-02-28 14:18:11,336 [INFO] 
+2026-02-28 14:18:11,336 [INFO] RETRY 7/10: 1 profiles
+2026-02-28 14:18:41,339 [INFO]   RETRY 7: 1 profiles to scrape
+2026-02-28 14:18:55,184 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:18:56,014 [INFO]   RETRY 7 done: 0 OK, 1 failed
+2026-02-28 14:18:56,014 [INFO] 
+2026-02-28 14:18:56,015 [INFO] RETRY 8/10: 1 profiles
+2026-02-28 14:19:26,032 [INFO]   RETRY 8: 1 profiles to scrape
+2026-02-28 14:19:39,685 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:19:40,427 [INFO]   RETRY 8 done: 0 OK, 1 failed
+2026-02-28 14:19:40,427 [INFO] 
+2026-02-28 14:19:40,427 [INFO] RETRY 9/10: 1 profiles
+2026-02-28 14:20:10,427 [INFO]   RETRY 9: 1 profiles to scrape
+2026-02-28 14:20:24,937 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:20:26,436 [INFO]   RETRY 9 done: 0 OK, 1 failed
+2026-02-28 14:20:26,436 [INFO] 
+2026-02-28 14:20:26,436 [INFO] RETRY 10/10: 1 profiles
+2026-02-28 14:20:56,436 [INFO]   RETRY 10: 1 profiles to scrape
+2026-02-28 14:21:10,195 [WARNING]   FAIL pablo-garfinkel: invalid: 
+2026-02-28 14:21:11,458 [INFO]   RETRY 10 done: 0 OK, 1 failed
+2026-02-28 14:21:11,499 [INFO] 
+2026-02-28 14:21:11,500 [INFO] ============================================================
+2026-02-28 14:21:11,500 [INFO]   COMPLETE
+2026-02-28 14:21:11,500 [INFO]   Total URLs:       6410
+2026-02-28 14:21:11,500 [INFO]   On disk:          6409
+2026-02-28 14:21:11,500 [INFO]   In progress:      6409
+2026-02-28 14:21:11,500 [INFO]   Final failed:     1
+2026-02-28 14:21:11,500 [INFO]   Output:           /Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/data-enterprise-seed/profiles
+2026-02-28 14:21:11,500 [INFO] ============================================================

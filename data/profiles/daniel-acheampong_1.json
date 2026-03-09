@@ -1,0 +1,95 @@
+{
+  "basicInfo": {
+    "name": "Daniel Acheampong",
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "website": "https://visiblehands.vc/",
+    "location": "Boston, Massachusetts"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Visible Hands",
+      "firmUrl": "https://signal.nfx.com/firms/visible-hands",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $150K",
+    "sweetSpot": "$75K",
+    "investmentsOnRecord": 4,
+    "fundSize": "$10.5M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Upaway",
+      "stage": "Pre Seed",
+      "date": "Nov 2022",
+      "roundSize": "$540K",
+      "totalRaised": "$540K",
+      "coInvestors": [
+        "Yasmin Cruz Ferrine (Visible Hands)"
+      ]
+    },
+    {
+      "company": "Oatfin",
+      "stage": "Pre Seed",
+      "date": "Aug 2022",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Outline It",
+      "stage": "Pre Seed",
+      "date": "Aug 2022",
+      "roundSize": "$870K",
+      "totalRaised": "$870K",
+      "coInvestors": []
+    },
+    {
+      "company": "CareCopilot",
+      "stage": "Undisclosed",
+      "date": "Mar 2022",
+      "roundSize": "$660K",
+      "totalRaised": "$660K",
+      "coInvestors": [
+        "Yasmin Cruz Ferrine (Visible Hands)",
+        "Justin Kang (Visible Hands)"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.visiblehands.vc/",
+    "linkedin": "https://www.linkedin.com/in/danielacheampong/",
+    "twitter": "https://www.twitter.com/dpong",
+    "crunchbase": "https://www.crunchbase.com/person/daniel-acheampong"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1BFQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--09a68e2052b6c993fda74b5afa34939ac2e1189f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/daniel-acheampong_1",
+  "slug": "daniel-acheampong_1",
+  "scraped_at": "2026-02-24T10:51:59.854543"
+}

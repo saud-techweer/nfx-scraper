@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Peter Secor"
+  },
+  "experience": [
+    {
+      "company": "UC Berkeley",
+      "dates": "2015 - 2016",
+      "position": "Lecturer"
+    },
+    {
+      "company": "Mills College",
+      "dates": "2014 - 2016",
+      "position": "Lecturer"
+    },
+    {
+      "company": "Adobe",
+      "dates": "2009 - 2016",
+      "position": "Director Engineering, Corporate Strategy"
+    },
+    {
+      "company": "Omniture",
+      "dates": "2009 - 2009",
+      "position": "Vice President Engineering"
+    },
+    {
+      "company": "Allmydata, Inc.",
+      "dates": "2006 - 2009",
+      "position": "President and CEO"
+    },
+    {
+      "company": "Micromuse",
+      "dates": "1997 - 2006",
+      "position": "Vice President"
+    },
+    {
+      "company": "SAIC",
+      "dates": "1993 - 1997",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Geoworks, Inc.",
+      "dates": "1990 - 1992",
+      "position": "Software Engineer (Intern)"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2016 - Present",
+      "position": "Engineering Manager"
+    },
+    {
+      "company": "Three Bridges Venture Partners",
+      "dates": "2014 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Three Bridges",
+      "firmUrl": "https://signal.nfx.com/firms/three-bridges",
+      "position": "General Partner"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBKzR6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d097fa798accfff1bdfb59d30b07722129c82e2e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/peter-secor",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "peter-secor",
+  "socials": {
+    "angellist": "https://www.angel.co/secorp",
+    "crunchbase": "https://www.crunchbase.com/person/peter-secor",
+    "linkedin": "https://www.linkedin.com/in/secorp/"
+  },
+  "scraped_at": "2026-02-28T02:38:36.362999"
+}

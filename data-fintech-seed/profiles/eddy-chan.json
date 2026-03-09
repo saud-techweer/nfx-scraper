@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Eddy Chan",
+    "signalScore": 246,
+    "website": "https://www.intudovc.com/our-team"
+  },
+  "experience": [
+    {
+      "company": "Morrison & Foerster LLP",
+      "dates": "Present",
+      "position": "Corporate, M&A & VC/PE Lawyer"
+    },
+    {
+      "company": "Leeo",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Intudo Ventures",
+      "dates": "Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Intudo Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/intudo-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$115M",
+    "investmentRange": "$1M - $10.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNm9HQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e2995999847f0253bb746aef7e3815a7abde5fe5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eddy-chan",
+  "sectorRankings": [
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "eddy-chan",
+  "socials": {
+    "angellist": "https://www.angel.co/eddy-chan-2",
+    "crunchbase": "https://www.crunchbase.com/person/eddy-chan-4",
+    "linkedin": "https://www.linkedin.com/in/eddychan/",
+    "website": "https://www.intudovc.com/our-team"
+  },
+  "scraped_at": "2026-03-03T17:11:26.837953"
+}

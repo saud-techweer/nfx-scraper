@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Chris DeVore",
+    "website": "https://crashdev.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founders' Co-op",
+      "firmUrl": "https://signal.nfx.com/firms/founders-co-op",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$25M",
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tim Porter (Madrona Ventures)"
+      ],
+      "company": "Appature",
+      "date": "Dec 2009",
+      "roundSize": "$3.5M",
+      "stage": "Series A",
+      "totalRaised": "$3.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1JLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--edc5cd7d7a4da715105c55ff186ab24cc09532ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-devore",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "chris-devore",
+  "socials": {
+    "angellist": "https://www.angel.co/crashdev",
+    "crunchbase": "https://www.crunchbase.com/person/chris-devore",
+    "linkedin": "https://www.linkedin.com/in/devore/",
+    "website": "https://www.crashdev.com/"
+  },
+  "scraped_at": "2026-02-27T05:55:40.904287"
+}

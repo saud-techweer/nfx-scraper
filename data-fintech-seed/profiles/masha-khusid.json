@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Columbus, Ohio",
+    "name": "Masha Khusid",
+    "website": "https://www.drivecapital.com/team/masha-khusid"
+  },
+  "experience": [
+    {
+      "company": "Jump Capital",
+      "dates": "2018 - 2019",
+      "position": "Investor"
+    },
+    {
+      "company": "Lighter Capital",
+      "dates": "2016 - 2018",
+      "position": "Investment Director"
+    },
+    {
+      "company": "KKR & Co. Inc.",
+      "dates": "2014 - 2016",
+      "position": "Associate"
+    },
+    {
+      "company": "KeyBanc Capital Markets",
+      "dates": "2011 - 2015",
+      "position": "Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Drive Capital",
+      "firmUrl": "https://signal.nfx.com/firms/drive-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$10.0M - $30.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGEvQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0420bbe82ccc8a99828bc40fce65857ace5807d3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/masha-khusid",
+  "sectorRankings": [
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "masha-khusid",
+  "socials": {
+    "angellist": "https://www.angel.co/u/masha-khusid",
+    "crunchbase": "https://www.crunchbase.com/person/masha-khusid",
+    "linkedin": "https://www.linkedin.com/in/masha-khusid-45a02853/",
+    "twitter": "https://www.twitter.com/masha_khusid",
+    "website": "https://www.drivecapital.com/team/masha-khusid"
+  },
+  "scraped_at": "2026-03-03T22:18:13.339306"
+}

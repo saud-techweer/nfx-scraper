@@ -1,0 +1,95 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Los Altos, California",
+    "name": "Ravi Belani",
+    "signalScore": 2,
+    "website": "https://alchemistaccelerator.com/investors"
+  },
+  "experience": [
+    {
+      "company": "Draper Fisher Jurvetson",
+      "dates": "2006 - 2010",
+      "position": "Associate"
+    },
+    {
+      "company": "Bridgewater Associates",
+      "dates": "2005 - 2005",
+      "position": "Investment Associate Intern"
+    },
+    {
+      "company": "Medtronic",
+      "dates": "2005 - 2005",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Alchemist Accelerator",
+      "dates": "2012 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2012 - Present",
+      "position": "Adjunct Faculty, Fenwick & West Educator of Entrepreneurship"
+    },
+    {
+      "company": "Extensity (IPO'd, then acq by Geac)",
+      "dates": "Present",
+      "position": "Associate Product Manager (Internship)"
+    },
+    {
+      "company": "McKinsey and Company",
+      "dates": "Present",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "Zaplet (acq by MetricStream)",
+      "dates": "Present",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Draper Fisher Jurvetson",
+      "dates": "Present",
+      "position": "Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alchemist Accelerator",
+      "firmUrl": "https://signal.nfx.com/firms/alchemist-accelerator",
+      "position": "Managing Director"
+    },
+    "fundSize": "$4M",
+    "investmentRange": "$40K - $40K",
+    "sweetSpot": "$40K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBem9zQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--25c07de4f41a3d70f31fa6002a0396979747c63e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ravi-belani",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ravi-belani",
+  "socials": {
+    "angellist": "https://www.angel.co/rbelani",
+    "crunchbase": "https://www.crunchbase.com/person/ravi-belani",
+    "linkedin": "https://www.linkedin.com/in/ravibelani/",
+    "twitter": "https://www.twitter.com/rbelani",
+    "website": "https://www.alchemistaccelerator.com/investors"
+  },
+  "scraped_at": "2026-02-28T02:43:29.162780"
+}

@@ -1,0 +1,124 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Atherton",
+    "name": "Byron Deeter",
+    "website": "https://bvp.com/team/byron-deeter"
+  },
+  "experience": [
+    {
+      "company": "IBM",
+      "dates": "2004 - 2005",
+      "position": "Business Development & Market Development Executive"
+    },
+    {
+      "company": "Trigo",
+      "dates": "1999 - 2004",
+      "position": "Founding CEO & VP"
+    },
+    {
+      "company": "TA Associates",
+      "dates": "1998 - 2000",
+      "position": "Associate"
+    },
+    {
+      "company": "McKinsey & Co",
+      "dates": "1996 - 1998",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "Bessemer Venture Partners",
+      "dates": "2005 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bessemer Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/bessemer-venture-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$1.85B",
+    "investmentRange": "$50K - $100.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Brian Jacobs (Emergence Capital)",
+        "Chelsea Stoner (Battery Ventures)",
+        "Jeff Epstein (Bessemer Venture Partners)",
+        "Bob Spinner (Jackson Square Ventures)",
+        "Ann Winblad (HWVP (Hummer Winblad Venture Partners))",
+        "Greg Sands (Costanoa Ventures)",
+        "Harshul Sanghi (American Express Ventures)"
+      ],
+      "company": "Sage Intacct",
+      "date": "Feb 2014",
+      "roundSize": "$30M",
+      "stage": "Series G",
+      "totalRaised": "$42M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdzB0QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--83a06b24d4d90d2b1f1d3794a930156fdfc711e2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/byron-deeter",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "byron-deeter",
+  "socials": {
+    "angellist": "https://www.angel.co/bdeeter",
+    "crunchbase": "https://www.crunchbase.com/person/byron-deeter",
+    "linkedin": "https://www.linkedin.com/in/byrondeeter/",
+    "twitter": "https://www.twitter.com/bdeeter",
+    "website": "https://www.bvp.com/team/byron-deeter"
+  },
+  "scraped_at": "2026-02-26T09:02:11.774285"
+}

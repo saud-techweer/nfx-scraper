@@ -1,0 +1,124 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Advisor"
+    ],
+    "location": "San Mateo, California",
+    "name": "Bobby Lent"
+  },
+  "experience": [
+    {
+      "company": "HoneyBook",
+      "dates": "2015 - Present",
+      "position": "Member Board of Directors and Investor"
+    },
+    {
+      "company": "Mobilize Networks, Inc.",
+      "dates": "2015 - Present",
+      "position": "Member Board of Directors and Investor"
+    },
+    {
+      "company": "Cyhawk Ventures Ltd.",
+      "dates": "2011 - Present",
+      "position": "Partner and Member of Investment Committee"
+    },
+    {
+      "company": "LiveFyre",
+      "dates": "2008 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Expensify",
+      "dates": "2008 - Present",
+      "position": "Board Member and Investor"
+    },
+    {
+      "company": "Hillsven",
+      "dates": "2004 - Present",
+      "position": "Managing General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hillsven",
+      "firmUrl": "https://signal.nfx.com/firms/hillsven",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.2M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Taylor Barada (SignalFire)",
+        "Gil Ben-Artzy (UpWest)",
+        "Itamar Novick (Recursive Ventures)"
+      ],
+      "company": "HoneyBook",
+      "date": "Oct 2012",
+      "roundSize": "$250K",
+      "stage": "Seed",
+      "totalRaised": "$250K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0FGQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--914a37d411c39bad9e30ee8f8e38d5f3526709d0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bobby-lent",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "bobby-lent",
+  "socials": {
+    "angellist": "https://www.angel.co/passionsurfer",
+    "crunchbase": "https://www.crunchbase.com/person/bobby-lent",
+    "linkedin": "https://www.linkedin.com/in/bobbylent/",
+    "twitter": "https://www.twitter.com/bobbylent"
+  },
+  "scraped_at": "2026-03-03T16:16:18.971061"
+}

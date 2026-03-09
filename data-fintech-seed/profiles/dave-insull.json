@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New Zealand",
+    "name": "Dave Insull",
+    "website": "https://www.afterwork.vc/who-we-are"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AfterWork Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/afterwork-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$30M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUg5QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--25a970a8aceafc23496f80afb521fc52a87ad6b0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dave-insull",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "dave-insull",
+  "socials": {
+    "angellist": "https://www.angel.co/u/daveinsull",
+    "linkedin": "https://www.linkedin.com/in/dave-insull/",
+    "twitter": "https://www.twitter.com/daveinsull",
+    "website": "https://www.afterwork.vc/who-we-are"
+  },
+  "scraped_at": "2026-03-03T16:54:22.557471"
+}

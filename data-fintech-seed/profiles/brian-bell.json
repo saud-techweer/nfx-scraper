@@ -1,0 +1,220 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Advisor",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Brian Bell",
+    "signalScore": 1975,
+    "website": "http://pitch.teamignite.vc/"
+  },
+  "experience": [
+    {
+      "company": "Amazon Web Services",
+      "dates": "Present",
+      "position": "BD"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "Present",
+      "position": "Product"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Team Ignite Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/team-ignite-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $500K",
+    "investmentsOnRecord": 25,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Well Seasoned",
+      "date": "Jul 2022",
+      "roundSize": null,
+      "stage": "Pre-seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Jar",
+      "date": "Feb 2022",
+      "roundSize": "$32M",
+      "stage": "Series A",
+      "totalRaised": "$37M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Justt",
+      "date": "Nov 2021",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$50M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Noloco",
+      "date": "Sep 2021",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Maket",
+      "date": "Sep 2021",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Andrew Vigneault (Flexcap)"
+      ],
+      "company": "Cardless",
+      "date": "Jul 2021",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$42M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Algolux",
+      "date": "Jul 2021",
+      "roundSize": "$18M",
+      "stage": "Series B",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Abhi",
+      "date": "Jun 2021",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGlDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e37f57830c76d8584204390e1727a5beb4255b0b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-bell",
+  "sectorRankings": [
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "ConstructionTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brian-bell",
+  "socials": {
+    "angellist": "https://www.angel.co/p/brianbvc",
+    "linkedin": "https://www.linkedin.com/in/bblinkedin/",
+    "twitter": "https://www.twitter.com/brianrbell",
+    "website": "https://pitch.teamignite.vc/"
+  },
+  "scraped_at": "2026-02-26T08:56:52.476304"
+}

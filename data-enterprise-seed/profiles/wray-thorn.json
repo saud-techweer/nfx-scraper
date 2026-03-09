@@ -1,0 +1,75 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Wray Thorn",
+    "website": "https://clear-heights.com/"
+  },
+  "experience": [
+    {
+      "company": "Two Sigma Ventures",
+      "dates": "2017 - 2021",
+      "position": "Chair & Investment Committee"
+    },
+    {
+      "company": "Two Sigma Ventures",
+      "dates": "2012 - 2021",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Clear Heights Capital",
+      "firmUrl": "https://signal.nfx.com/firms/clear-heights-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$250K - $10.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNHZnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--19fb3953ed40341868bcd94d88b3aadd19cf3633/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/wray-thorn",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "wray-thorn",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/wray-thorn",
+    "linkedin": "https://www.linkedin.com/in/wray-thorn-643a5b25/%23/",
+    "twitter": "https://www.twitter.com/WrayThorn",
+    "website": "https://www.clear-heights.com/"
+  },
+  "scraped_at": "2026-02-28T14:11:29.673216"
+}

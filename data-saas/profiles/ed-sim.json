@@ -1,0 +1,211 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor"
+    ],
+    "location": "Miami, Florida",
+    "name": "Ed Sim",
+    "signalScore": 865,
+    "website": "https://whatshot.substack.com/"
+  },
+  "experience": [
+    {
+      "company": "BOLDstart Ventures",
+      "dates": "Present",
+      "position": "Founder and Managing Partner"
+    },
+    {
+      "company": "MState",
+      "dates": "Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Boldstart Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/boldstart-ventures",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$112M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 16,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Jit",
+      "date": "Jan 2021",
+      "roundSize": "$8.2M",
+      "stage": "Seed",
+      "totalRaised": "$8.2M"
+    },
+    {
+      "coInvestors": [
+        "Sebastien de Halleux (Graph Ventures)"
+      ],
+      "company": "Cape Privacy",
+      "date": "Jun 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Dov Moran (Grove Ventures)"
+      ],
+      "company": "Env0",
+      "date": "Apr 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "AJ Tomas (Touchdown Ventures)"
+      ],
+      "company": "Spectro Cloud",
+      "date": "Mar 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [
+        "Matt Weigand (Accel)",
+        "Cornel Chiriac (2050 Capital)",
+        "Joseph Ruscio (Heavybit)",
+        "Jesse Robbins (Heavybit)",
+        "Eliot Durbin (Boldstart Ventures)",
+        "Inbal Shenfeld kolodziejska (Inba Shenfeld holdings)",
+        "Sajid Rahman (MYASIAVC PTE LTD)"
+      ],
+      "company": "Snyk",
+      "date": "Aug 2019",
+      "roundSize": "$70M",
+      "stage": "Series C",
+      "totalRaised": "$80M"
+    },
+    {
+      "coInvestors": [
+        "David Tisch (BoxGroup)",
+        "Adam Rothenberg (BoxGroup)",
+        "Deepak Kamra (Canaan Partners)",
+        "George Damouny (Plug & Play Ventures)",
+        "Gary Benitt (Social Leverage)",
+        "Tomasz Tunguz (Theory Ventures)",
+        "Eliot Durbin (Boldstart Ventures)",
+        "Matt Carbonara (Citi Ventures)",
+        "George Hu",
+        "Matt Carbonara"
+      ],
+      "company": "Kustomer",
+      "date": "Jun 2018",
+      "roundSize": "$26M",
+      "stage": "Series B",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [],
+      "company": "FortressIQ",
+      "date": "Aug 2017",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Tina Chong (U.S. Department Of Defense)",
+        "Sarah Downey (Accomplice)"
+      ],
+      "company": "Blockdaemon",
+      "date": "Jul 2017",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": "$210M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa0lFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e23b6776460b5f2418b396a3b88710ab4b0a997/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ed-sim",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    }
+  ],
+  "slug": "ed-sim",
+  "socials": {
+    "angellist": "https://www.angel.co/edsim",
+    "crunchbase": "https://www.crunchbase.com/person/ed-sim",
+    "linkedin": "https://www.linkedin.com/in/edsim/",
+    "twitter": "https://www.twitter.com/edsim",
+    "website": "https://whatshot.substack.com/"
+  },
+  "scraped_at": "2026-02-26T23:33:41.404682"
+}

@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Margaret Rowe",
+    "website": "https://theventure.city/about-us"
+  },
+  "experience": [
+    {
+      "company": "GSV Ventures",
+      "dates": "2019 - 2021",
+      "position": "Venture Capital Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TheVentureCity",
+      "firmUrl": "https://signal.nfx.com/firms/the-venture-city",
+      "position": "Investor"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMGpaQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--eae3ee7a4752d8eb907c460e6f54c85efbb25ab8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/molly-rowe",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "molly-rowe",
+  "socials": {
+    "angellist": "https://www.angel.co/u/margaret-rowe",
+    "crunchbase": "https://www.crunchbase.com/person/margaret-rowe",
+    "linkedin": "https://www.linkedin.com/in/mollyrowe/",
+    "website": "https://www.theventure.city/about-us"
+  },
+  "scraped_at": "2026-02-28T02:18:44.579524"
+}

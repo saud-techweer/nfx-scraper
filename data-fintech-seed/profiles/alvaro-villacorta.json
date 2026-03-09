@@ -1,0 +1,43 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Spain",
+    "name": "Álvaro Villacorta",
+    "website": "https://thinkbigger.vc/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Think Bigger Capital",
+      "firmUrl": "https://signal.nfx.com/firms/think-bigger-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeHprQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--85ebd601a983e184dd02805697ce74603492d97d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alvaro-villacorta",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alvaro-villacorta",
+  "socials": {
+    "angellist": "https://www.angel.co/u/alvaro-villacorta",
+    "crunchbase": "https://www.crunchbase.com/person/alvaro-villacorta",
+    "linkedin": "https://www.linkedin.com/in/alvarovillacorta/",
+    "twitter": "https://www.twitter.com/AlvaroVillacort",
+    "website": "https://www.thinkbigger.vc/"
+  },
+  "scraped_at": "2026-02-28T00:06:52.381370"
+}

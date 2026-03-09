@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "London",
+    "name": "Alan Morgan",
+    "positionAndFirm": "Chairman, Co-Founder AT MMCVentures",
+    "website": "https://mmc.vc/team/alan-morgan"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "MMC Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mmc-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "£100M",
+    "investmentRange": "$1M - $27.0M",
+    "sweetSpot": "$13.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNU5LQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7d1d2323d50903b5484f40692de077658d98e5e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alan-morgan",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alan-morgan",
+  "socials": {
+    "angellist": "https://www.angel.co/u/alan-morgan",
+    "crunchbase": "https://www.crunchbase.com/person/alan-morgan",
+    "linkedin": "https://www.linkedin.com/in/alan-morgan-8b76b119/",
+    "website": "https://www.mmc.vc/team/alan-morgan"
+  },
+  "scraped_at": "2026-02-27T23:50:22.040839"
+}

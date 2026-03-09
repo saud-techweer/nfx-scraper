@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "name": "Al Forman",
+    "website": "https://www.tuataracapital.com/tuatara-team/al-foreman-partner-chief-investment-officer/"
+  },
+  "experience": [
+    {
+      "company": "Tuatara Capital, L.P.",
+      "dates": "2014 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Tuatara Capital",
+      "firmUrl": "https://signal.nfx.com/firms/tuatara-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$206.8M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Enlighten",
+      "date": "Feb 2018",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Green Dot Labs",
+      "date": "Sep 2017",
+      "roundSize": "$3.3M",
+      "stage": "Series A",
+      "totalRaised": "$3.3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbTRJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4c7893d868317e102cb09230362f1a4f8c7793af/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/al-forman",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "al-forman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/al-foreman",
+    "linkedin": "https://www.linkedin.com/in/al-foreman-25b6751/",
+    "website": "https://www.tuataracapital.com/tuatara-team/al-foreman-partner-chief-investment-officer/"
+  },
+  "scraped_at": "2026-02-27T19:57:45.921632"
+}

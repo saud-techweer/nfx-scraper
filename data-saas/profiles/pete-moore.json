@@ -1,0 +1,205 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "Advisor",
+      "Former CEO"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Pete Moore",
+    "signalScore": 67
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentRange": "$10K - $100K",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Callin",
+      "date": "Sep 2021",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "StoryTiling",
+      "date": "Jul 2021",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Mark Suster (Upfront Ventures)",
+        "Kevin Hartz (A* Capital (A Star Capital))",
+        "Jason Calacanis (LAUNCH)",
+        "Dick Costolo (01 Advisors)",
+        "Alex Rodriguez (Vision/Capital/People (VCP))",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Hiten Shah",
+        "Moshe Lifschitz",
+        "Scott Banister",
+        "Julia Hartz"
+      ],
+      "company": "Density",
+      "date": "Jul 2020",
+      "roundSize": "$51M",
+      "stage": "Series C",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [
+        "Mitchel Laskey (DeepWork Capital)",
+        "Jonathan Chizick",
+        "Jacques Fu"
+      ],
+      "company": "Xendoo",
+      "date": "Dec 2019",
+      "roundSize": "$3.5M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Lauren DeLuca (Motivate Ventures)"
+      ],
+      "company": "Enklu",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Brilliant",
+      "date": "Oct 2017",
+      "roundSize": "$21M",
+      "stage": "Series A",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Signpost",
+      "date": "Apr 2015",
+      "roundSize": "$21M",
+      "stage": "Series C",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Wit.ai",
+      "date": "Oct 2014",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM3dVQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--01ba1c5c95d40af053c801253c85481509d7b125/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pete-moore",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "pete-moore",
+  "socials": {
+    "angellist": "https://www.angel.co/p/askpete",
+    "linkedin": "https://www.linkedin.com/in/askpete/"
+  },
+  "scraped_at": "2026-02-27T03:36:43.030862"
+}

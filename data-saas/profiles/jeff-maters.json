@@ -1,0 +1,197 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Chicago, Illinois",
+    "name": "Jeff Maters",
+    "signalScore": 782,
+    "website": "https://www.networkventures.vc/#jeff"
+  },
+  "experience": [
+    {
+      "company": "Pritzker Group Venture Capital",
+      "dates": "2008 - 2015",
+      "position": "Vice President"
+    },
+    {
+      "company": "UBS Investment Bank",
+      "dates": "2006 - 2008",
+      "position": "Associate Director"
+    },
+    {
+      "company": "BMV Capital",
+      "dates": "2002 - 2004",
+      "position": "Associate"
+    },
+    {
+      "company": "Lehman Brothers Communications Fund",
+      "dates": "2000 - 2002",
+      "position": "Analyst"
+    },
+    {
+      "company": "Network Ventures",
+      "dates": "2015 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Network Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/network-ventures",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $250K",
+    "investmentsOnRecord": 16,
+    "sweetSpot": "$200K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "EarlyBird",
+      "date": "Sep 2020",
+      "roundSize": "$1.8M",
+      "stage": "Seed",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [
+        "Ben Mathews (Night Ventures)",
+        "Claude Johnson"
+      ],
+      "company": "Giggster",
+      "date": "Sep 2020",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Ben Williamson (Invest Nebraska)",
+        "Aaron Stachel (FirstMile Ventures)"
+      ],
+      "company": "Retail Aware",
+      "date": "Aug 2020",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Marketplace.city",
+      "date": "Dec 2019",
+      "roundSize": "$500K",
+      "stage": "Seed",
+      "totalRaised": "$500K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Leafwire",
+      "date": "Jul 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Hunter Kettering (Red Cedar Ventures)"
+      ],
+      "company": "86 Repairs",
+      "date": "May 2019",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "HumanPredictions",
+      "date": "May 2019",
+      "roundSize": "$1.2M",
+      "stage": "Seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Natty Zola (Matchstick Ventures)",
+        "Ryan Broshar (Matchstick Ventures)"
+      ],
+      "company": "Local Crate",
+      "date": "Apr 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmo3IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--857a7563a838fd7e9c73ca71c512a09bbbcd83d1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-maters",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Local Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jeff-maters",
+  "socials": {
+    "angellist": "https://www.angel.co/jeffrey-maters",
+    "crunchbase": "https://www.crunchbase.com/person/jeff-maters",
+    "linkedin": "https://www.linkedin.com/in/jeffmaters/",
+    "website": "https://www.networkventures.vc/#jeff"
+  },
+  "scraped_at": "2026-02-27T00:57:49.174469"
+}

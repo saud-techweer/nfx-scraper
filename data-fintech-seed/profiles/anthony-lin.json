@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Anthony Lin",
+    "positionAndFirm": "VP, Managing Partner and Head at Intel Capital",
+    "website": "https://www.intel.sg/content/www/xa/en/homepage.html"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Intel Capital",
+      "firmUrl": "https://signal.nfx.com/firms/intel-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$132M",
+    "investmentRange": "$1M - $20.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1dnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7cd1198d4353b3bf18ee2aae71336d3bbcdadba1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/anthony-lin",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "anthony-lin",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/anthony-lin-2",
+    "linkedin": "https://www.linkedin.com/in/anthony-lin-%E6%9E%97%E7%AB%8B%E4%B8%AD-0818371/",
+    "website": "https://www.intel.sg/content/www/xa/en/homepage.html"
+  },
+  "scraped_at": "2026-02-28T00:24:24.034279"
+}

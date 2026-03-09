@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Karin Klein",
+    "signalScore": 182,
+    "website": "https://github.com/team"
+  },
+  "experience": [
+    {
+      "company": "Bloomberg Beta",
+      "dates": "2013 - Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "Softbank",
+      "dates": "Present",
+      "position": "Vice President"
+    },
+    {
+      "company": "Bloomberg",
+      "dates": "Present",
+      "position": "Head of New Initiatives, Strategy and Business Development Executive"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bloomberg BETA",
+      "firmUrl": "https://signal.nfx.com/firms/bloomberg-beta",
+      "position": "Partner"
+    },
+    "fundSize": "$75M",
+    "investmentRange": "$25K - $1M",
+    "sweetSpot": "$750K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUV1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6254c492b9e6abfbdd43d021cb2888b6d2c83b51/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/karin-klein",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "karin-klein",
+  "socials": {
+    "angellist": "https://www.angel.co/u/karin-klein",
+    "crunchbase": "https://www.crunchbase.com/person/karin-klein",
+    "linkedin": "https://www.linkedin.com/in/karinklein/",
+    "twitter": "https://www.twitter.com/karinklein",
+    "website": "https://www.github.com/team"
+  },
+  "scraped_at": "2026-02-27T01:37:15.874010"
+}

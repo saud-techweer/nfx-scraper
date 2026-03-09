@@ -1,0 +1,151 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "United Kingdom",
+    "name": "Simon Levene",
+    "positionAndFirm": "Co-founder and Partner, Mosaic Ventures",
+    "signalScore": 2,
+    "website": "https://www.mosaicventures.com/people/simon-levene"
+  },
+  "experience": [
+    {
+      "company": "Index Ventures",
+      "dates": "2011 - 2012",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Accel Partners",
+      "dates": "2006 - 2010",
+      "position": "Partner"
+    },
+    {
+      "company": "yahoo",
+      "dates": "2002 - 2006",
+      "position": "Managing Director/VP, Corp Dev"
+    },
+    {
+      "company": "Mosaic Ventures",
+      "dates": "2014 - Present",
+      "position": "Co-Founder and Partner"
+    },
+    {
+      "company": "lek partnership",
+      "dates": "Present",
+      "position": "associate"
+    },
+    {
+      "company": "@Home",
+      "dates": "Present",
+      "position": "manager bus dev"
+    },
+    {
+      "company": "excite@home",
+      "dates": "Present",
+      "position": "director corp dev"
+    },
+    {
+      "company": "AOL Time Warner",
+      "dates": "Present",
+      "position": "VP business affairs"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mosaic Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mosaic-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$150M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Eisenberg (Aleph VC)",
+        "Dave Morin (Offline Ventures)",
+        "Marvin Tien (Corner Ventures)",
+        "Jonathan Machado (Samsung NEXT Ventures)",
+        "Gavin Baker (Atreides Management)"
+      ],
+      "company": "Nexar",
+      "date": "Apr 2020",
+      "roundSize": "$52M",
+      "stage": "Series C",
+      "totalRaised": "$52M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNThZQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--798b7524418ebd6824f7aac3668c25cac0f01b43/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/simon-levene",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "simon-levene",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/simon-levene",
+    "linkedin": "https://www.linkedin.com/in/slevene/?originalSubdomain=uk",
+    "twitter": "https://www.twitter.com/slevene",
+    "website": "https://www.wellfound.com/p/simon-levene"
+  },
+  "scraped_at": "2026-02-27T04:43:11.663279"
+}

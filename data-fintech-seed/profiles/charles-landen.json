@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Dallas, Texas",
+    "name": "Charles Landen",
+    "website": "https://btgrowthcapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BT Growth Capital",
+      "firmUrl": "https://signal.nfx.com/firms/bt-growth-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$10K - $75K",
+    "sweetSpot": "$43K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd3JpQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a19dea02cf40f57ffd865e49c09c85acb44e7bfd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/charles-landen",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Therapeutics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-series-a-investors"
+    },
+    {
+      "name": "Therapeutics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "charles-landen",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/charles-landen-a3a21b62/",
+    "website": "https://www.btgrowthcapital.com/"
+  },
+  "scraped_at": "2026-02-28T01:33:38.877837"
+}

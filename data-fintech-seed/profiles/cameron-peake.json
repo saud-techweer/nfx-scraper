@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Austin, Texas",
+    "name": "Cameron Peake",
+    "website": "https://restive.com/"
+  },
+  "experience": [
+    {
+      "company": "Financial Venture Studio",
+      "dates": "2022 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Restive Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/restive-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$50K - $2.5M",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDBJQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02d82ebff336c5016158397cd9597b2d3c30ed38/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/cameron-peake",
+  "sectorRankings": [
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "cameron-peake",
+  "socials": {
+    "angellist": "https://www.angel.co/u/cameron-peake",
+    "crunchbase": "https://www.crunchbase.com/person/cameron-peake",
+    "linkedin": "https://www.linkedin.com/in/cameronpeake/",
+    "twitter": "https://www.twitter.com/cameronpeake",
+    "website": "https://www.restive.com/"
+  },
+  "scraped_at": "2026-02-28T15:04:21.454803"
+}

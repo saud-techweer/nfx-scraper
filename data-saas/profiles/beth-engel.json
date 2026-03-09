@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Beth Engel",
+    "website": "https://dundeeventurecapital.com/our-team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Dundee VC",
+      "firmUrl": "https://signal.nfx.com/firms/dundee-vc",
+      "position": "Partner"
+    },
+    "fundSize": "$31M",
+    "investmentRange": "$500K - $3.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Phone2Action",
+      "date": "Jul 2016",
+      "roundSize": "$4.6M",
+      "stage": "Venture Round",
+      "totalRaised": "$5.2M"
+    },
+    {
+      "coInvestors": [
+        "Kirk Holland (Access Venture Partners)"
+      ],
+      "company": "RoundPegg",
+      "date": "May 2016",
+      "roundSize": "$1.8M",
+      "stage": "Series B",
+      "totalRaised": "$4.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "DivvyHQ",
+      "date": "Jun 2015",
+      "roundSize": "$1.8M",
+      "stage": "Series A",
+      "totalRaised": "$1.8M"
+    },
+    {
+      "coInvestors": [
+        "Brian Distelburger"
+      ],
+      "company": "Bulu Group",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$5.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcG9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--afbd70d3fd890a9ff403f3ce0a665a0e8438231b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/beth-engel",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "beth-engel",
+  "socials": {
+    "angellist": "https://www.angel.co/beth-engel",
+    "crunchbase": "https://www.crunchbase.com/person/beth-engel",
+    "linkedin": "https://www.linkedin.com/in/elizabeth-beth-engel-08ab9a/",
+    "twitter": "https://www.twitter.com/ebethengel",
+    "website": "https://www.dundeeventurecapital.com/our-team/"
+  },
+  "scraped_at": "2026-02-26T08:45:19.017134"
+}

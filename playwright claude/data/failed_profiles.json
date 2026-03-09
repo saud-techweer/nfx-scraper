@@ -1,0 +1,52 @@
+{
+  "failed": [
+    {
+      "slug": "daniel-kaplan",
+      "url": "https://signal.nfx.com/investors/daniel-kaplan",
+      "error": "Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(\"h1\") to be visible\n",
+      "timestamp": "2026-02-17T15:16:42.020194"
+    },
+    {
+      "slug": "jose-pepe-benito",
+      "url": "https://signal.nfx.com/investors/jose-pepe-benito",
+      "error": "BrowserContext.new_page: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.022187"
+    },
+    {
+      "slug": "julian-roeoes",
+      "url": "https://signal.nfx.com/investors/julian-roeoes",
+      "error": "BrowserContext.new_page: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.024181"
+    },
+    {
+      "slug": "lukas-erlebach",
+      "url": "https://signal.nfx.com/investors/lukas-erlebach",
+      "error": "Page.wait_for_selector: Target page, context or browser has been closed\nCall log:\n  - waiting for locator(\"h1\") to be visible\n",
+      "timestamp": "2026-02-17T15:16:42.025068"
+    },
+    {
+      "slug": "matt-heiman",
+      "url": "https://signal.nfx.com/investors/matt-heiman",
+      "error": "BrowserContext.new_page: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.029043"
+    },
+    {
+      "slug": "melissa-ho",
+      "url": "https://signal.nfx.com/investors/melissa-ho",
+      "error": "BrowserContext.new_page: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.031649"
+    },
+    {
+      "slug": "stephen-chau",
+      "url": "https://signal.nfx.com/investors/stephen-chau",
+      "error": "BrowserContext.new_page: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.035811"
+    },
+    {
+      "slug": "will-ma_2",
+      "url": "https://signal.nfx.com/investors/will-ma_2",
+      "error": "Page.wait_for_timeout: Target page, context or browser has been closed",
+      "timestamp": "2026-02-17T15:16:42.038803"
+    }
+  ]
+}

@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Montreal",
+    "name": "Katy Yam",
+    "website": "https://happykaty.com/"
+  },
+  "experience": [
+    {
+      "company": "FounderFuel",
+      "dates": "2020 - Present",
+      "position": "General Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Real Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/real-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "CA$180M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK1RYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2a67db1af4018092767d3b12dc2ec1356d82fb73/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/katy-yam",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "katy-yam",
+  "socials": {
+    "angellist": "https://www.angel.co/u/katy-yam-1",
+    "crunchbase": "https://www.crunchbase.com/person/katy-yam-eae2",
+    "linkedin": "https://www.linkedin.com/in/katyyam/",
+    "twitter": "https://www.twitter.com/happykatyyam",
+    "website": "https://www.happykaty.com/"
+  },
+  "scraped_at": "2026-02-27T23:04:37.485679"
+}

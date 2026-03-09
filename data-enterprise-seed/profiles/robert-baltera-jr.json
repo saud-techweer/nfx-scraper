@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Advisor"
+    ],
+    "location": "San Diego, California",
+    "name": "Robert Baltera Jr.",
+    "website": "https://actoneventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Organovo Holdings, Inc,",
+      "dates": "2010 - 2019",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Hawkeye Therapeutics",
+      "dates": "2016 - 2017",
+      "position": "CEO"
+    },
+    {
+      "company": "Amira Pharmaceuticals",
+      "dates": "2015 - 2015",
+      "position": "CEO"
+    },
+    {
+      "company": "Amgen",
+      "dates": "1990 - 2007",
+      "position": "Vice President"
+    },
+    {
+      "company": "Imago BioSciences, Inc.",
+      "dates": "2020 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Inipharm",
+      "dates": "2019 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Cirius Therapeutics",
+      "dates": "2017 - Present",
+      "position": "CEO"
+    },
+    {
+      "company": "Cirius Therapeutics",
+      "dates": "2017 - Present",
+      "position": "CEO Cirius Therapeutics"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Act One Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/act-one-ventures",
+      "position": "Advisor"
+    },
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2szQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5333a5181c47d36f2f3a2eea8c2c64f8217df2e1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robert-baltera-jr",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "robert-baltera-jr",
+  "socials": {
+    "angellist": "https://www.angel.co/u/bob-baltera",
+    "crunchbase": "https://www.crunchbase.com/person/bob-baltera",
+    "linkedin": "https://www.linkedin.com/in/bob-baltera-3466b35/",
+    "website": "https://www.actoneventures.com/"
+  },
+  "scraped_at": "2026-02-28T01:18:40.940910"
+}

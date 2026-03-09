@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Alexa von Tobel",
+    "positionAndFirm": "Founder, Managing Partner at Inspired Capital",
+    "signalScore": 755,
+    "website": "https://inspiredcapital.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Inspired Capital",
+      "firmUrl": "https://signal.nfx.com/firms/inspired-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Peter Fenton (Benchmark)",
+        "David Samuel (Freestyle Capital)",
+        "Max Gazor (CRV)",
+        "Dan Rose (Coatue)",
+        "Joshua Kushner (Thrive Capital)",
+        "Sarah Smith (Sarah Smith Fund)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Evan Lee"
+      ],
+      "company": "Airtable",
+      "date": "Nov 2018",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$470M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0kxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0c41564a864182d91bb79bffcd87537d313efdb6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alexa-von-tobel_1",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alexa-von-tobel_1",
+  "socials": {
+    "angellist": "https://www.angel.co/u/alexa-von-tobel",
+    "crunchbase": "https://www.crunchbase.com/person/alexa-von-tobel",
+    "linkedin": "https://www.linkedin.com/in/alexavontobel/",
+    "twitter": "https://www.twitter.com/alexavontobel",
+    "website": "https://www.inspiredcapital.com/"
+  },
+  "scraped_at": "2026-02-27T23:57:35.113945"
+}

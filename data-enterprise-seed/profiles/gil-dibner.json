@@ -1,0 +1,99 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Copenhagen, Denmark",
+    "name": "Gil Dibner",
+    "signalScore": 64,
+    "website": "https://angularventures.com/"
+  },
+  "experience": [
+    {
+      "company": "DFJ Esprit",
+      "dates": "2013 - 2015",
+      "position": "Partner"
+    },
+    {
+      "company": "Index Ventures",
+      "dates": "2012 - 2013",
+      "position": "Principal"
+    },
+    {
+      "company": "Gemini Israel Funds",
+      "dates": "2010 - 2012",
+      "position": "Principal"
+    },
+    {
+      "company": "Genesis Partners",
+      "dates": "2005 - 2010",
+      "position": "Principal"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2000 - 2003",
+      "position": "Equity Research Analyst"
+    },
+    {
+      "company": "CIBC World Markets (Oppenheimer)",
+      "dates": "1999 - 1999",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "AngelList Syndicate",
+      "dates": "2015 - Present",
+      "position": "Syndicate Lead"
+    },
+    {
+      "company": "GD AngelList Syndicate",
+      "dates": "2015 - Present",
+      "position": "Venture syndicate lead"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Angular Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/angular-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$41M",
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemZiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8302b88d4c522de4ec092bc06bb56039d56fcb84/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gil-dibner",
+  "sectorRankings": [
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "gil-dibner",
+  "socials": {
+    "angellist": "https://www.angel.co/p/gdibner",
+    "crunchbase": "https://www.crunchbase.com/person/gil-dibner",
+    "linkedin": "https://www.linkedin.com/in/gildibner/",
+    "twitter": "https://www.twitter.com/gdibner",
+    "website": "https://www.angularventures.com/"
+  },
+  "scraped_at": "2026-02-27T22:06:05.409010"
+}

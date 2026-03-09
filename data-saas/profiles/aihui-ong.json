@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Aihui Ong",
+    "signalScore": 95,
+    "website": "https://aihuiong.com/"
+  },
+  "experience": [
+    {
+      "company": "Transform Capital",
+      "dates": "2021 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "XFactor Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/x-factor-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$8.6M",
+    "investmentRange": "$100K - $150K",
+    "sweetSpot": "$125K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFR1IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6284f69d0b9ab4655f5ff7a5e80cb122db6ed6d8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aihui-ong",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "aihui-ong",
+  "socials": {
+    "angellist": "https://www.angel.co/aihui",
+    "crunchbase": "https://www.crunchbase.com/person/aihui-ong",
+    "linkedin": "https://www.linkedin.com/in/aihui/",
+    "twitter": "https://www.twitter.com/aihui?lang=en",
+    "website": "https://www.aihuiong.com/"
+  },
+  "scraped_at": "2026-02-26T06:41:23.877669"
+}

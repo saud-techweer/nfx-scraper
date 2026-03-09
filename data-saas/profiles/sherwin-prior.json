@@ -1,0 +1,109 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Sherwin Prior",
+    "website": "https://bluevictorcapital.com/team/"
+  },
+  "experience": [
+    {
+      "company": "GM Ventures",
+      "dates": "2010 - 2018",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Eastern Michigan University",
+      "dates": "2007 - 2010",
+      "position": "Adjunct Lecturer"
+    },
+    {
+      "company": "NorthPointe Capital",
+      "dates": "2005 - 2010",
+      "position": "Equity Analyst"
+    },
+    {
+      "company": "Delphi",
+      "dates": "2004 - 2005",
+      "position": "Treasury Analyst"
+    },
+    {
+      "company": "Morgan Stanley",
+      "dates": "2002 - 2004",
+      "position": "Sr. Associate"
+    },
+    {
+      "company": "General Motors",
+      "dates": "1999 - 2000",
+      "position": "Acquisition Analyst"
+    },
+    {
+      "company": "BankOne",
+      "dates": "1999 - 1999",
+      "position": "Commercial Credit Analyst"
+    },
+    {
+      "company": "Stout Risius Ross",
+      "dates": "1998 - 1999",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Blue Victor Capital LLC",
+      "dates": "2018 - Present",
+      "position": "Founder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blue Victor Capital",
+      "firmUrl": "https://signal.nfx.com/firms/blue-victor-capital",
+      "position": "General Partner"
+    },
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Ushr",
+      "date": "Sep 2017",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBa2tIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--b9ab7880fd66435e6776b14419c06c4c7646da26/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sherwin-prior",
+  "sectorRankings": [
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "sherwin-prior",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/sherwin-l-prior",
+    "linkedin": "https://www.linkedin.com/in/sherwinprior/",
+    "website": "https://www.bluevictorcapital.com/team/"
+  },
+  "scraped_at": "2026-02-27T04:40:03.826070"
+}

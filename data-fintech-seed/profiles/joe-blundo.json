@@ -1,0 +1,179 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Joe Blundo",
+    "website": "https://www.bpc.com/joe-blundo/"
+  },
+  "experience": [
+    {
+      "company": "Technology Crossover Ventures",
+      "dates": "2020 - 2023",
+      "position": "Partner"
+    },
+    {
+      "company": "TCV",
+      "dates": "2020 - 2023",
+      "position": "Partner"
+    },
+    {
+      "company": "tastyworks",
+      "dates": "2018 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "AxiomSL",
+      "dates": "2017 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "Watermark",
+      "dates": "2019 - 2020",
+      "position": "MBA Intern"
+    },
+    {
+      "company": "The Wharton School",
+      "dates": "2018 - 2020",
+      "position": "MBA"
+    },
+    {
+      "company": "Technology Crossover Ventures",
+      "dates": "2015 - 2018",
+      "position": "Investment Professional"
+    },
+    {
+      "company": "Generation Citizen",
+      "dates": "2017 - 2018",
+      "position": "Associate Board Member (Bay Area)"
+    },
+    {
+      "company": "Harris Williams & Co.",
+      "dates": "2013 - 2015",
+      "position": "Analyst"
+    },
+    {
+      "company": "Babson College Fund",
+      "dates": "2012 - 2013",
+      "position": "Telecommunications & Utilities Portfolio Manager"
+    },
+    {
+      "company": "Harris Williams & Co.",
+      "dates": "2012 - 2012",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Fortelligent",
+      "dates": "2011 - 2012",
+      "position": "Analyst"
+    },
+    {
+      "company": "Brighton Park Capital",
+      "dates": "2023 - Present",
+      "position": "Principal"
+    },
+    {
+      "company": "Aidoc",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Syllable",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Humu",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BenchSci",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kipu Health",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Trulioo",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Watermark",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Brighton Park Capital",
+      "firmUrl": "https://signal.nfx.com/firms/brighton-park-capital",
+      "position": "Principal"
+    },
+    "fundSize": "$1.1B",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMVhpQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f93b7d8d9c5ff796ed5fb37fb92fb415eec6264e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joe-blundo",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "joe-blundo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/joseph-blundo-59d8",
+    "linkedin": "https://www.linkedin.com/in/joe-blundo/",
+    "website": "https://www.bpc.com/joe-blundo/"
+  },
+  "scraped_at": "2026-03-03T21:02:36.886489"
+}

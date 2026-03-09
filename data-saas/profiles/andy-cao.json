@@ -1,0 +1,123 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Andy Cao",
+    "website": "https://www.alchemy.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alchemy Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/alchemy-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Architect.io",
+      "date": "Feb 2020",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [
+        "Matthew Howard (Norwest Venture Partners)",
+        "David Zilberman (Norwest Venture Partners)"
+      ],
+      "company": "Aporeto",
+      "date": "Jan 2019",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Onica",
+      "date": "Oct 2017",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [],
+      "company": "UserZoom",
+      "date": "Oct 2015",
+      "roundSize": "$34M",
+      "stage": "Series A",
+      "totalRaised": "$34M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Prolexic",
+      "date": "Jul 2013",
+      "roundSize": "$30M",
+      "stage": "Series C",
+      "totalRaised": "$30M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnRPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--47930873b2e8884a0854c3fc834136b82a399ed2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andy-cao",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "andy-cao",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andy-cao",
+    "linkedin": "https://www.linkedin.com/in/andymcao/",
+    "twitter": "https://www.twitter.com/andymcao",
+    "website": "https://www.alchemy.com/"
+  },
+  "scraped_at": "2026-02-26T08:17:02.250136"
+}

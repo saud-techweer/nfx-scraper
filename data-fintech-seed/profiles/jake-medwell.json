@@ -1,0 +1,278 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Founder"
+    ],
+    "location": "Austin, Texas",
+    "name": "Jake Medwell",
+    "website": "https://8vc.com/team/jake-medwell/"
+  },
+  "experience": [
+    {
+      "company": "Humin (Acq. by Tinder)",
+      "dates": "2013 - 2015",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Investec",
+      "dates": "2010 - 2010",
+      "position": "Private Banking"
+    },
+    {
+      "company": "Sole Bicycle Co",
+      "dates": "2009 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Obey The Giant",
+      "dates": "Present",
+      "position": "Executive Producer"
+    },
+    {
+      "company": "8 VC",
+      "dates": "Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "8VC",
+      "firmUrl": "https://signal.nfx.com/firms/8vc",
+      "position": "Partner"
+    },
+    "fundSize": "$880M",
+    "investmentRange": "$3.0M - $50.0M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$16.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Arjun Sethi (Tribe Capital)",
+        "Baris Ozaydinli (Ascension Ventures)",
+        "Lainy Painter (Craft Ventures)",
+        "Omar Darwazah (AAF Management Ltd.)",
+        "Lucas Vaz (Ravelin Capital)",
+        "Andrew Vigneault (Flexcap)"
+      ],
+      "company": "Prodigy",
+      "date": "Feb 2018",
+      "roundSize": "$5.4M",
+      "stage": "Seed",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Citizen",
+      "date": "N/A",
+      "roundSize": "$25M",
+      "stage": "Series B",
+      "totalRaised": "$25M"
+    },
+    {
+      "coInvestors": [
+        "Rick Zullo (Equal Ventures)"
+      ],
+      "company": "Project 44",
+      "date": "N/A",
+      "roundSize": "$30K",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Outrider.ai",
+      "date": "N/A",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Platform Science",
+      "date": "N/A",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Adam Zobler (Foundamental)",
+        "Beatriz del Rio (Vine Ventures LP)"
+      ],
+      "company": "TUL",
+      "date": "N/A",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Trackonomy Systems",
+      "date": "N/A",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBME1FQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1b1913edef751f8ec0bfc78542857d283214e353/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jake-medwell",
+  "sectorRankings": [
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-b-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "GovTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-b-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "IoT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-b-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_b-investors"
+    },
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-series_a-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "AutoTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "AutoTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-series-b-investors"
+    },
+    {
+      "name": "AutoTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-autotech-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jake-medwell",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jake-medwell",
+    "crunchbase": "https://www.crunchbase.com/person/jake-medwell",
+    "linkedin": "https://www.linkedin.com/in/jakemedwellaustin/",
+    "twitter": "https://www.twitter.com/jakemedwell",
+    "website": "https://www.8vc.com/team/jake-medwell/"
+  },
+  "scraped_at": "2026-03-03T20:41:35.860060"
+}

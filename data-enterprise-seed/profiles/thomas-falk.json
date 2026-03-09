@@ -1,0 +1,144 @@
+{
+  "basicInfo": {
+    "name": "Thomas Falk",
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "website": "https://www.revel.vc/thomas-falk",
+    "location": "Berlin, Germany"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Revel Partners",
+      "firmUrl": "https://signal.nfx.com/firms/revel-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$1M - $5.0M",
+    "sweetSpot": "$3.0M",
+    "investmentsOnRecord": 10,
+    "fundSize": "$50M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "HIVEGEIST",
+      "stage": "Pre Seed",
+      "date": "Nov 2021",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "John Vincent (Revel Partners)"
+      ]
+    },
+    {
+      "company": "Percent",
+      "stage": "Series A",
+      "date": "Apr 2021",
+      "roundSize": "$13M",
+      "totalRaised": "$19M",
+      "coInvestors": [
+        "Eric Meltzer (INBlockchain)"
+      ]
+    },
+    {
+      "company": "Fetcher",
+      "stage": "Seed",
+      "date": "Mar 2019",
+      "roundSize": "$5M",
+      "totalRaised": "$6M",
+      "coInvestors": []
+    },
+    {
+      "company": "Meetrics",
+      "stage": "Series Unknown",
+      "date": "Sep 2016",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Getintent",
+      "stage": "Seed",
+      "date": "Sep 2015",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": []
+    },
+    {
+      "company": "Falk Realtime",
+      "stage": "Seed",
+      "date": "Dec 2014",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Tealium",
+      "stage": "Series A",
+      "date": "Jan 2012",
+      "roundSize": "$1M",
+      "totalRaised": "$1M",
+      "coInvestors": [
+        "John Vincent (Revel Partners)"
+      ]
+    },
+    {
+      "company": "The Trade Desk",
+      "stage": "Series A",
+      "date": "Dec 2010",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.revel.vc/thomas-falk",
+    "linkedin": "https://www.linkedin.com/in/thomasfalk/",
+    "twitter": "https://www.twitter.com/falkthomas",
+    "angellist": "https://www.angel.co/u/thomas-falk",
+    "crunchbase": "https://www.crunchbase.com/person/thomas-falks"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjZqQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1db3ca1506c4a1f354d44b2cfbf3685931bf3552/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/thomas-falk",
+  "slug": "thomas-falk",
+  "scraped_at": "2026-02-24T13:20:58.633141"
+}

@@ -1,0 +1,277 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Miami, Florida",
+    "name": "Eliot Durbin",
+    "signalScore": 389,
+    "website": "https://www.boldstart.vc/"
+  },
+  "experience": [
+    {
+      "company": "IOpipe",
+      "dates": "2016 - 2019",
+      "position": "Investor"
+    },
+    {
+      "company": "Rebel (Acquired by Salesforce)",
+      "dates": "2014 - 2018",
+      "position": "Investor"
+    },
+    {
+      "company": "Yhat, Inc.",
+      "dates": "2013 - 2017",
+      "position": "Investor"
+    },
+    {
+      "company": "Penny Black Holdings LLC",
+      "dates": "2012",
+      "position": "Managing Director & Co-Founder"
+    },
+    {
+      "company": "Rapportive",
+      "dates": "2010 - 2012",
+      "position": "Investor"
+    },
+    {
+      "company": "Permal Asset Management",
+      "dates": "2006 - 2008",
+      "position": "Assistant Vice President"
+    },
+    {
+      "company": "steadybit",
+      "dates": "2020 - Present",
+      "position": "Investor / Board Member"
+    },
+    {
+      "company": "Jeli",
+      "dates": "2019 - Present",
+      "position": "Investor / Board Member"
+    },
+    {
+      "company": "MState",
+      "dates": "2017 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "clay.run",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BigID",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Catalytic",
+      "dates": "2016 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Snyk",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Kustomer",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Replicated",
+      "dates": "2014 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Superhuman",
+      "dates": "2014 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "SecurityScorecard",
+      "dates": "2013 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "BOLDstart Ventures",
+      "dates": "2010 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "BOLDstart Ventures",
+      "dates": "2010 - Present",
+      "position": "Managing General Partner"
+    },
+    {
+      "company": "Templates.com",
+      "dates": "Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Boldstart Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/boldstart-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$112M",
+    "investmentRange": "$250K - $2.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ben Cherian"
+      ],
+      "company": "IOpipe",
+      "date": "Sep 2016",
+      "roundSize": null,
+      "stage": "seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Matt Weigand (Accel)",
+        "Ed Sim (Boldstart Ventures)",
+        "Cornel Chiriac (2050 Capital)",
+        "Joseph Ruscio (Heavybit)",
+        "Jesse Robbins (Heavybit)",
+        "Inbal Shenfeld kolodziejska (Inba Shenfeld holdings)",
+        "Sajid Rahman (MYASIAVC PTE LTD)"
+      ],
+      "company": "Snyk",
+      "date": "Jan 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$80M"
+    },
+    {
+      "coInvestors": [
+        "Adam Rothenberg (BoxGroup)",
+        "David Tisch (BoxGroup)",
+        "Deepak Kamra (Canaan Partners)",
+        "George Damouny (Plug & Play Ventures)",
+        "Gary Benitt (Social Leverage)",
+        "Tomasz Tunguz (Theory Ventures)",
+        "Ed Sim (Boldstart Ventures)",
+        "Matt Carbonara (Citi Ventures)",
+        "George Hu",
+        "Matt Carbonara"
+      ],
+      "company": "Kustomer",
+      "date": "Sep 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$26M"
+    },
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "David Ulevitch (Andreessen Horowitz)",
+        "Jay Levy (Zelkova Ventures)",
+        "Craig Hunter (Operator Ventures)",
+        "Jeff Huber (Triatomic Capital)",
+        "Ed Sim (Boldstart Ventures)",
+        "Ian Rountree (Cantos Ventures)",
+        "Stu Smith (Coughdrop Capital)"
+      ],
+      "company": "Superhuman",
+      "date": "Nov 2014",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$10K"
+    },
+    {
+      "coInvestors": [],
+      "company": "SecurityScorecard Inc.",
+      "date": "Jan 2014",
+      "roundSize": "$2.2M",
+      "stage": "Seed",
+      "totalRaised": "$2.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Blaze.io",
+      "date": "Nov 2010",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Tom Drummond (Heavybit)",
+        "Jesse Robbins (Heavybit)"
+      ],
+      "company": "Jeli",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmUwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--59080f0a8d85341296cb47d029a09f240e3eacc0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/eliot-durbin",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "eliot-durbin",
+  "socials": {
+    "angellist": "https://www.angel.co/p/etdurbin",
+    "crunchbase": "https://www.crunchbase.com/person/eliot-durbin",
+    "linkedin": "https://www.linkedin.com/pub/eliot-durbin/8/66b/5a2/",
+    "twitter": "https://www.twitter.com/etdurbin",
+    "website": "https://www.boldstart.vc/"
+  },
+  "scraped_at": "2026-02-26T23:38:19.605754"
+}

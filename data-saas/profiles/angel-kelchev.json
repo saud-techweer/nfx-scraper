@@ -1,0 +1,286 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor",
+      "Former CEO"
+    ],
+    "location": "Tampa, Florida",
+    "name": "Angel Kelchev",
+    "website": "https://ayana.capital/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AYANA Capital LLC",
+      "firmUrl": "https://signal.nfx.com/firms/ayana-capital-llc",
+      "position": "Partner"
+    },
+    "investmentRange": "$250K - $5.0M",
+    "investmentsOnRecord": 27,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "George Davis"
+      ],
+      "company": "Astek Diagnostics, Inc.",
+      "date": "Apr 2024",
+      "roundSize": "$5M",
+      "stage": "Series A-1",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Healx",
+      "date": "Mar 2024",
+      "roundSize": "$45M",
+      "stage": "Series C",
+      "totalRaised": "$45M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Traydstream",
+      "date": "Dec 2023",
+      "roundSize": "$21M",
+      "stage": "Series B",
+      "totalRaised": "$21M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Droit Financial Technology",
+      "date": "Feb 2023",
+      "roundSize": "$23M",
+      "stage": "Series B",
+      "totalRaised": "$39M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Marble Therapeutics, Inc.",
+      "date": "Feb 2023",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Martin A Cabrera (Quassar Capital)",
+        "Supachai Kid Parchariyanon (SeaX Ventures)",
+        "Maryanna Saenko (Future Ventures)",
+        "Sebastian Bausch (11k Ventures)"
+      ],
+      "company": "Verdant Robotics",
+      "date": "Oct 2022",
+      "roundSize": "$47M",
+      "stage": "Series B",
+      "totalRaised": "$48M"
+    },
+    {
+      "coInvestors": [
+        "Peter Hebert (Lux Capital)",
+        "Jeff Schox (Trucks Venture Capital)"
+      ],
+      "company": "Cape Analytics",
+      "date": "Oct 2022",
+      "roundSize": null,
+      "stage": "Series C",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Trovata Inc.",
+      "date": "May 2022",
+      "roundSize": "$27M",
+      "stage": "Series B",
+      "totalRaised": "$47M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOXFjQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--315b679c44987ca5c7e5328a096d6017a03560e5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/angel-kelchev",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-b-investors"
+    },
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Diagnostics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Digital Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-pre-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "angel-kelchev",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/angelkelchev/",
+    "website": "https://www.ayana.capital/"
+  },
+  "scraped_at": "2026-02-26T08:19:02.372131"
+}

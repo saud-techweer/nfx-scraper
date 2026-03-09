@@ -1,0 +1,316 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Founder",
+      "Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Sebastien de Halleux",
+    "positionAndFirm": "angel, founder, operator, explorer",
+    "signalScore": 1,
+    "website": "https://www.graphventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Saildrone Inc",
+      "dates": "2015 - 2020",
+      "position": "COO"
+    },
+    {
+      "company": "The Aspen Institute",
+      "dates": "2016 - 2019",
+      "position": "Henry Crown Fellow 2016"
+    },
+    {
+      "company": "United World College - USA",
+      "dates": "2011 - 2017",
+      "position": "Trustee"
+    },
+    {
+      "company": "Togetr Inc",
+      "dates": "2012 - 2016",
+      "position": "Founder & CEO"
+    },
+    {
+      "company": "EA",
+      "dates": "2009 - 2011",
+      "position": "VP Bus Development & Strategic Partnerships, EAi"
+    },
+    {
+      "company": "Playfish",
+      "dates": "2007 - 2009",
+      "position": "Chief Operating Officer & Co-Founder"
+    },
+    {
+      "company": "Nokia",
+      "dates": "2007 - 2007",
+      "position": "Strategy and Business Development"
+    },
+    {
+      "company": "Glu Mobile",
+      "dates": "2001 - 2007",
+      "position": "Strategy & Operations"
+    },
+    {
+      "company": "Booz Allen Hamilton",
+      "dates": "1999 - 2001",
+      "position": "Consultant"
+    },
+    {
+      "company": "Graph Ventures",
+      "dates": "2010 - Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Graph Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/graph-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $250K",
+    "investmentsOnRecord": 18,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Kai Buehler (World Fund)",
+        "David Yakobovitch (DataPower Ventures)"
+      ],
+      "company": "Fakespot",
+      "date": "Nov 2020",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Ed Sim (Boldstart Ventures)"
+      ],
+      "company": "Cape Privacy",
+      "date": "Jun 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Henri Yuan (Alumni Ventures )",
+        "John Selep (Sacramento Angels)",
+        "Joe Raczka (York IE)",
+        "Raanan Bar-Cohen (Resolute Ventures)",
+        "Aviram Jenik (Rabbit Ventures)",
+        "Kevin Colas"
+      ],
+      "company": "Metadata",
+      "date": "Apr 2020",
+      "roundSize": null,
+      "stage": "Series-A",
+      "totalRaised": "$47M"
+    },
+    {
+      "coInvestors": [
+        "Patrick Chang (Dispersion Capital)",
+        "Shawn Dimantha (Angel investor)",
+        "Andrew Tymovskyi (Roosh Ventures)"
+      ],
+      "company": "Dapper Labs",
+      "date": "Sep 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$340M"
+    },
+    {
+      "coInvestors": [
+        "Susan Choe (Visionaire Ventures)"
+      ],
+      "company": "TalentWorks",
+      "date": "Feb 2018",
+      "roundSize": null,
+      "stage": "Convertible Note",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Zach Coelius (Coelius Capital)",
+        "Mathieu Guerville",
+        "Anthony Kuo"
+      ],
+      "company": "Entrupy",
+      "date": "Jul 2017",
+      "roundSize": "$2.6M",
+      "stage": "Series A",
+      "totalRaised": "$2.6M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Saildrone Inc",
+      "date": "Sep 2016",
+      "roundSize": "$14M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [
+        "Ed Sim (Boldstart Ventures)"
+      ],
+      "company": "Manifold.co",
+      "date": "Jun 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$45M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFhLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--02c07d8bc39f9ccb148f1b95feac8af82361bca1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sebastien-de-halleux",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sebastien-de-halleux",
+  "socials": {
+    "angellist": "https://www.angel.co/sdehalleux",
+    "crunchbase": "https://www.crunchbase.com/person/sebastien-de-halleux",
+    "linkedin": "https://www.linkedin.com/in/sdehalleux/",
+    "twitter": "https://www.twitter.com/sebdeh",
+    "website": "https://www.graphventures.com/"
+  },
+  "scraped_at": "2026-02-28T05:02:04.561575"
+}

@@ -1,0 +1,57 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Caterina Fake",
+    "signalScore": 189,
+    "website": "https://caterina.net/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Yes VC",
+      "firmUrl": "https://signal.nfx.com/firms/yes-vc",
+      "position": "Partner"
+    },
+    "fundSize": "$10.8M",
+    "investmentRange": "$30K - $1.5M",
+    "sweetSpot": "$250K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb0FHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3d02c1deed5cc79d5c508cf880c7eddd44996d0f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/caterina-fake",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "caterina-fake",
+  "socials": {
+    "angellist": "https://www.angel.co/p/caterina-fake",
+    "crunchbase": "https://www.crunchbase.com/person/caterina-fake",
+    "linkedin": "https://www.linkedin.com/in/cefake/",
+    "twitter": "https://www.twitter.com/Caterina",
+    "website": "https://www.caterina.net/"
+  },
+  "scraped_at": "2026-02-27T20:59:03.251879"
+}

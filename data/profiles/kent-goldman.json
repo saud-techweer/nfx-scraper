@@ -1,0 +1,48 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Kent Goldman",
+    "website": "https://www.upsidevc.com/#philosophy-anchor"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Upside Partnership",
+      "firmUrl": "https://signal.nfx.com/firms/upside-partnership",
+      "position": "Partner"
+    },
+    "fundSize": "$42.5M",
+    "investmentRange": "$250K - $1.5M",
+    "sweetSpot": "$800K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGwwQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--156bf4d00ce79c846b13abfa99edf5e0cbeb39d2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kent-goldman",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "kent-goldman",
+  "socials": {
+    "angellist": "https://www.angel.co/p/kentgoldman",
+    "crunchbase": "https://www.crunchbase.com/person/kent-goldman",
+    "linkedin": "https://www.linkedin.com/in/kentgoldman/",
+    "twitter": "https://www.twitter.com/kentgoldman",
+    "website": "https://www.upsidevc.com/#philosophy-anchor"
+  },
+  "scraped_at": "2026-02-11T14:30:47.046574"
+}

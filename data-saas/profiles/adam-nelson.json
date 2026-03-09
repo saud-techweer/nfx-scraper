@@ -1,0 +1,106 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York",
+    "name": "Adam Nelson",
+    "signalScore": 272,
+    "website": "https://firstmarkcap.com/team/adam-nelson"
+  },
+  "experience": [
+    {
+      "company": "Dropbox",
+      "dates": "2015 - 2015",
+      "position": "Head of Revenue Partnerships (Director)"
+    },
+    {
+      "company": "Dropbox",
+      "dates": "2012 - 2014",
+      "position": "Head of Channel Partnerships"
+    },
+    {
+      "company": "Twitter",
+      "dates": "2011 - 2011",
+      "position": "Business Development Intern"
+    },
+    {
+      "company": "Lindsay Goldberg",
+      "dates": "2008 - 2010",
+      "position": "Associate"
+    },
+    {
+      "company": "Social Capital LP",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Merrill Lynch",
+      "dates": "Present",
+      "position": "Analyst"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "FirstMark Capital",
+      "firmUrl": "https://signal.nfx.com/firms/firstmark-capital",
+      "position": "Managing Director"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Paul Bricault (Amplify.LA)",
+        "Eva Ho (Fika Ventures)",
+        "Leah Busque"
+      ],
+      "company": "WeeCare",
+      "date": "Aug 2018",
+      "roundSize": "$4.2M",
+      "stage": "Seed Round",
+      "totalRaised": "$4.2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNC9JQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e278e55f4fd707f89ea7a97ce420fa823a525e4b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-nelson",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "adam-nelson",
+  "socials": {
+    "angellist": "https://www.angel.co/u/adam-nelson",
+    "crunchbase": "https://www.crunchbase.com/person/adam-nelson-4",
+    "linkedin": "https://www.linkedin.com/in/adam-nelson-97b99b4/",
+    "twitter": "https://www.twitter.com/adamn",
+    "website": "https://www.firstmarkcap.com/team/adam-nelson"
+  },
+  "scraped_at": "2026-02-26T06:41:08.216175"
+}

@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Joel Eriksson",
+    "signalScore": 66
+  },
+  "experience": [
+    {
+      "company": "Creandum",
+      "dates": "2012 - 2017",
+      "position": "Investment Manager"
+    },
+    {
+      "company": "UBI Global",
+      "dates": "2011 - 2012",
+      "position": "CEO & Founder"
+    },
+    {
+      "company": "Consia",
+      "dates": "2009 - 2010",
+      "position": "Management Consultant (product management and strategy)"
+    },
+    {
+      "company": "BetterDoctor",
+      "dates": "2017 - Present",
+      "position": "Director of Strategic Finance & Operations"
+    },
+    {
+      "company": "500 Startups",
+      "dates": "2016 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Sandvik Materials Technology",
+      "dates": "Present",
+      "position": "Quality Management Engineer"
+    },
+    {
+      "company": "Unga Aktiesparare (Swedish Young Shareholders' Association)",
+      "dates": "Present",
+      "position": "Regional Manager, Mid Sweden (part-time)"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Advisor"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdDBCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--afb747efbd14683b71fcec07907e9bb4a5c9ef1f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joel-eriksson",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "joel-eriksson",
+  "socials": {
+    "angellist": "https://www.angel.co/joel-eriksson-enquist?public_profile=1",
+    "crunchbase": "https://www.crunchbase.com/person/joel-eriksson",
+    "linkedin": "https://www.linkedin.com/in/joelenquist/"
+  },
+  "scraped_at": "2026-02-27T22:45:53.372745"
+}

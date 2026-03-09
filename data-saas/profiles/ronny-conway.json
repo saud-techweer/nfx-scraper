@@ -1,0 +1,156 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "United States",
+    "name": "Ronny Conway",
+    "signalScore": 109,
+    "website": "https://acapital.com/our-team"
+  },
+  "experience": [
+    {
+      "company": "A Capital",
+      "dates": "2013 - Present",
+      "position": "Founder & General Partner"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "Direct Sales"
+    },
+    {
+      "company": "Google",
+      "dates": "Present",
+      "position": "New Business Development"
+    },
+    {
+      "company": "Andreessen Horowitz",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "A Capital",
+      "firmUrl": "https://signal.nfx.com/firms/a-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$250K - $3.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Craig Shapiro (Collaborative Fund (Collab Fund))",
+        "Ronny Conway"
+      ],
+      "company": "Circle Medical",
+      "date": "Nov 2018",
+      "roundSize": "$3.5M",
+      "stage": "Funding Round",
+      "totalRaised": "$3.5M"
+    },
+    {
+      "coInvestors": [
+        "Matthew Hartman (Factorial)",
+        "Ana Levine (E1 Ventures)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Ronny Conway",
+        "Brad Bitler"
+      ],
+      "company": "Hugging Face",
+      "date": "May 2018",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$110M"
+    },
+    {
+      "coInvestors": [
+        "Alexis Ohanian (Seven Seven Six)",
+        "Ronny Conway"
+      ],
+      "company": "Skip Scooters",
+      "date": "May 2018",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$6M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHhCQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c71d09b2ef99537b0a871e8f4ff46b78e33ee56/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ronny-conway",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Games (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "ronny-conway",
+  "socials": {
+    "angellist": "https://www.angel.co/ronnyconway",
+    "crunchbase": "https://www.crunchbase.com/person/ronny-conway",
+    "linkedin": "https://www.linkedin.com/pub/ronny-conway/15/388/a4a/",
+    "twitter": "https://www.twitter.com/conwayronny",
+    "website": "https://www.acapital.com/our-team"
+  },
+  "scraped_at": "2026-02-27T04:11:11.154264"
+}

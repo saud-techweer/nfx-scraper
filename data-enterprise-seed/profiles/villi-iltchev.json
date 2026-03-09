@@ -1,0 +1,170 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Villi Iltchev",
+    "website": "https://twosigmaventures.com/our-team/profile/villi-iltchev/"
+  },
+  "experience": [
+    {
+      "company": "GitLab",
+      "dates": "2016 - 2019",
+      "position": "Board Member"
+    },
+    {
+      "company": "SendBird",
+      "dates": "2017 - 2019",
+      "position": "Board Member"
+    },
+    {
+      "company": "FactoryFour",
+      "dates": "2018 - 2019",
+      "position": "Board Member"
+    },
+    {
+      "company": "August Capital",
+      "dates": "2016 - 2019",
+      "position": "General Partner"
+    },
+    {
+      "company": "Box",
+      "dates": "2014 - 2016",
+      "position": "SVP, Strategy & Corporate Development"
+    },
+    {
+      "company": "Lifelock",
+      "dates": "2013 - 2014",
+      "position": "EVP, Chief Strategy Officer"
+    },
+    {
+      "company": "salesforce.com",
+      "dates": "2009 - 2013",
+      "position": "Vice President"
+    },
+    {
+      "company": "Hewlett-Packard",
+      "dates": "2008 - 2009",
+      "position": "Strategy and Corporate Development"
+    },
+    {
+      "company": "Merrill Lynch",
+      "dates": "2004 - 2008",
+      "position": "Vice President"
+    },
+    {
+      "company": "PwC",
+      "dates": "1999 - 2002",
+      "position": "Associate - Project Finance and Privatization"
+    },
+    {
+      "company": "Two Sigma Ventures",
+      "dates": "2019 - Present",
+      "position": "Managing Director & Partner"
+    },
+    {
+      "company": "HiHello",
+      "dates": "2018 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Airtable",
+      "dates": "2013 - Present",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Two Sigma Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/two-sigma-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$228.4M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jan Hammer (Index Ventures)",
+        "Vinicius Alves (Base Partners)",
+        "Andreas Klinger (Prototype Capital)"
+      ],
+      "company": "Remote",
+      "date": "Apr 2020",
+      "roundSize": "$11M",
+      "stage": "Seed",
+      "totalRaised": "$57M"
+    },
+    {
+      "coInvestors": [],
+      "company": "HiHello",
+      "date": "Feb 2019",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [
+        "Sven Strohband (Khosla Ventures)",
+        "Federico Carrasco (Graypes GmbH)"
+      ],
+      "company": "GitLab",
+      "date": "Sep 2016",
+      "roundSize": "$20M",
+      "stage": "Series B",
+      "totalRaised": "$40M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbzcwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c05dbb6806c1d4027e48f29b18dd36757126fcc1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/villi-iltchev",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "villi-iltchev",
+  "socials": {
+    "angellist": "https://www.angel.co/p/villispeaks",
+    "crunchbase": "https://www.crunchbase.com/person/villi-iltchev",
+    "linkedin": "https://www.linkedin.com/in/villi04/",
+    "website": "https://www.twosigmaventures.com/our-team/profile/villi-iltchev/"
+  },
+  "scraped_at": "2026-02-27T05:30:46.177768"
+}

@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "CEO",
+      "Founder"
+    ],
+    "location": "Atlanta, Georgia",
+    "name": "Alok Deshpande",
+    "website": "https://www.joinsmartpath.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "PJC",
+      "firmUrl": "https://signal.nfx.com/firms/pjc",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$400K - $6.0M",
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBLyt5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f9f0b3cc6a880b5d693c11796eea4575981b1efa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alok-deshpande_1",
+  "sectorRankings": [
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alok-deshpande_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alok-deshpande-2",
+    "linkedin": "https://www.linkedin.com/in/alokdeshpande/",
+    "twitter": "https://www.twitter.com/aloksmartpath",
+    "website": "https://www.joinsmartpath.com/"
+  },
+  "scraped_at": "2026-02-28T00:05:37.486451"
+}

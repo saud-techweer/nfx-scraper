@@ -1,0 +1,241 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Gaurav Gupta",
+    "website": "https://lsvp.com/team/gaurav-gupta/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lightspeed Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/lightspeed-venture-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$3.0M - $20.0M",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Caryn Marooney (Coatue)",
+        "Janelle Teng (Bessemer Venture Partners)",
+        "Christian Jensen (Dragoneer Investment Group)",
+        "Kevin Wang (Altimeter Capital)",
+        "Jay Simons (Bond)"
+      ],
+      "company": "ClickHouse",
+      "date": "May 2025",
+      "roundSize": "$350M",
+      "stage": "Series C",
+      "totalRaised": "$1B"
+    },
+    {
+      "coInvestors": [
+        "James Ephrati (Lightspeed Venture Partners)",
+        "David Schneider (Coatue)"
+      ],
+      "company": "Grafana Labs",
+      "date": "Aug 2024",
+      "roundSize": "$270M",
+      "stage": "Series D",
+      "totalRaised": "$800M"
+    },
+    {
+      "coInvestors": [
+        "Chris Denny-Brown (O'Shaughnessy Ventures)",
+        "Eric Schmidt (Innovation Endeavors)",
+        "Robert Nelsen (ARCH Venture Partners)"
+      ],
+      "company": "Stability AI",
+      "date": "Oct 2022",
+      "roundSize": "$100M",
+      "stage": "Seed",
+      "totalRaised": "$180M£89M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ponder",
+      "date": "Mar 2022",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "John Thompson (Lightspeed Venture Partners)",
+        "James Tamplin (Founder Collective)",
+        "Neil Shah (Greenoaks Capital)",
+        "Preetha Parthasarathy",
+        "Michael Stoppelman",
+        "Sam Lambert"
+      ],
+      "company": "Hasura",
+      "date": "Feb 2022",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "Zane Lackey (Andreessen Horowitz)",
+        "David Schneider (Coatue)",
+        "Harpinder Singh (Innovation Endeavors)",
+        "Luca Ascani"
+      ],
+      "company": "Panther",
+      "date": "Dec 2021",
+      "roundSize": "$120M",
+      "stage": "Series B",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "IAS Balamurugan (Anicut Capital)",
+        "Ashvin Chadha (Anicut Capital)"
+      ],
+      "company": "Grip Invest",
+      "date": "Aug 2021",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SmartHR",
+      "date": "Jun 2021",
+      "roundSize": "$110M",
+      "stage": "Series D",
+      "totalRaised": "$110M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeEsxQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--54d260bc0783c62153ad02b9c6637bd6038354fb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gaurav-gupta",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-b-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Data Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "gaurav-gupta",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ggupta",
+    "crunchbase": "https://www.crunchbase.com/person/gaurav-gupta-3",
+    "linkedin": "https://www.linkedin.com/in/ggupta/",
+    "twitter": "https://www.twitter.com/gauravgram",
+    "website": "https://www.lsvp.com/team/gaurav-gupta/"
+  },
+  "scraped_at": "2026-02-11T11:18:31.101055"
+}

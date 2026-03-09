@@ -1,0 +1,282 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Founder",
+      "Advisor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Chian Gong",
+    "signalScore": 779
+  },
+  "experience": [
+    {
+      "company": "Stepful",
+      "dates": "2022 - 2024",
+      "position": "Board Member"
+    },
+    {
+      "company": "Reach Capital",
+      "dates": "2020 - 2024",
+      "position": "General Partner"
+    },
+    {
+      "company": "EveryDay Labs",
+      "dates": "2019 - 2024",
+      "position": "Board Member"
+    },
+    {
+      "company": "Winnie",
+      "dates": "2018 - 2024",
+      "position": "Board Member"
+    },
+    {
+      "company": "PeopleGrove",
+      "dates": "2019 - 2022",
+      "position": "Board Member"
+    },
+    {
+      "company": "Reach Capital",
+      "dates": "2017 - 2020",
+      "position": "Principal"
+    },
+    {
+      "company": "AdmitHub",
+      "dates": "2017 - 2020",
+      "position": "Board Observer"
+    },
+    {
+      "company": "Reach Capital",
+      "dates": "2016 - 2017",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "SV2 - Silicon Valley Social Venture Fund",
+      "dates": "2015 - 2015",
+      "position": "Strategic Initiatives Summer Fellow"
+    },
+    {
+      "company": "The Parthenon Group",
+      "dates": "2014 - 2014",
+      "position": "Summer Principal"
+    },
+    {
+      "company": "NewSchools Venture Fund",
+      "dates": "2014 - 2014",
+      "position": "Seed Fund Intern"
+    },
+    {
+      "company": "Aspire Public Schools",
+      "dates": "2012 - 2013",
+      "position": "Education Pioneers Analyst Fellow/Business Analyst"
+    },
+    {
+      "company": "ZS Associates",
+      "dates": "2011 - 2012",
+      "position": "Business Analytics Associate Consultant"
+    },
+    {
+      "company": "ZS Associates",
+      "dates": "2009 - 2011",
+      "position": "OR Associate"
+    },
+    {
+      "company": "Quorum Consulting",
+      "dates": "2008 - 2009",
+      "position": "Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Reach Capital",
+      "firmUrl": "https://signal.nfx.com/firms/reach-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$82M",
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Stepful",
+      "date": "May 2023",
+      "roundSize": "$75M",
+      "stage": "Seed",
+      "totalRaised": "$75M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Guardians Collective",
+      "date": "May 2020",
+      "roundSize": "$300K",
+      "stage": "Preseed",
+      "totalRaised": "$300K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ01HIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--8303f70de35e5febc071071d21c48e9e2ccddcae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chian-gong",
+  "sectorRankings": [
+    {
+      "name": "Parenting/Families (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-seed-investors"
+    },
+    {
+      "name": "GovTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "Education (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-b-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "GovTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-b-investors"
+    },
+    {
+      "name": "GovTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-series-a-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-b-investors"
+    },
+    {
+      "name": "Parenting/Families (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-a-investors"
+    },
+    {
+      "name": "Impact (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-b-investors"
+    },
+    {
+      "name": "Parenting/Families (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "GovTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-govtech-pre-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Parenting/Families (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chian-gong",
+  "socials": {
+    "angellist": "https://www.angel.co/chian-gong",
+    "crunchbase": "https://www.crunchbase.com/person/chian-gong",
+    "linkedin": "https://www.linkedin.com/in/chiangong/",
+    "twitter": "https://www.twitter.com/chianchirps"
+  },
+  "scraped_at": "2026-02-27T05:54:40.332926"
+}

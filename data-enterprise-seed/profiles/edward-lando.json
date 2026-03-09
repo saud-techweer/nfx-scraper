@@ -1,0 +1,214 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "VC"
+    ],
+    "location": "Miami, Florida",
+    "name": "Edward Lando",
+    "website": "https://www.edwardlando.com/"
+  },
+  "experience": [
+    {
+      "company": "StartX.",
+      "dates": "2012 - 2012",
+      "position": "Intern"
+    },
+    {
+      "company": "GovPredict",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "BlackV Club",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Horizons School of Technology",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Techstars",
+      "dates": "Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Venture for America",
+      "dates": "Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Grand Central Tech",
+      "dates": "Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "Horizons Alpha",
+      "dates": "Present",
+      "position": "Founder"
+    },
+    {
+      "company": "PepTalk Inc.",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Invisible Technologies, Inc.",
+      "dates": "Present",
+      "position": "Chairman"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pareto Holdings",
+      "firmUrl": "https://signal.nfx.com/firms/pareto-holdings",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$300K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Kirsten Green (Forerunner Ventures)",
+        "Serena Williams (Serena Ventures)",
+        "Rachel West (RevTech Ventures)",
+        "Michael Ryan Dubin"
+      ],
+      "company": "Neighborhood Goods",
+      "date": "May 2018",
+      "roundSize": "$5.8M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.8M"
+    },
+    {
+      "coInvestors": [
+        "David Miles (ManchesterStory Group)",
+        "Omar Darwazah (AAF Management Ltd.)"
+      ],
+      "company": "Betterview",
+      "date": "Sep 2017",
+      "roundSize": "$2M",
+      "stage": "Venture Round",
+      "totalRaised": "$6.5M"
+    },
+    {
+      "coInvestors": [
+        "Sharon Wienbar (Broadway Angels)"
+      ],
+      "company": "Applause",
+      "date": "Sep 2010",
+      "roundSize": "$13M",
+      "stage": "Series C",
+      "totalRaised": "$91M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK3pYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4334c0f5defb38bec4ce81458f83f957d8ef2050/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/edward-lando",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    }
+  ],
+  "slug": "edward-lando",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/edward-lando",
+    "linkedin": "https://www.linkedin.com/in/edwardlando/",
+    "twitter": "https://www.twitter.com/edwardlando",
+    "website": "https://www.edwardlando.com/"
+  },
+  "scraped_at": "2026-02-27T21:41:35.028142"
+}

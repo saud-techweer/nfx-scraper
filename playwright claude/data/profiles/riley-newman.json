@@ -1,0 +1,69 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Riley Newman",
+    "website": "https://wave.capital/"
+  },
+  "experience": [
+    {
+      "company": "Airbnb.com",
+      "dates": "2010 - 2016",
+      "position": "Head of Data Science"
+    },
+    {
+      "company": "U.S. Coast Guard",
+      "dates": "2002 - 2012",
+      "position": "BM2"
+    },
+    {
+      "company": "Beacon Economics",
+      "dates": "2008 - 2010",
+      "position": "Senior Research Associate"
+    },
+    {
+      "company": "United Nations",
+      "dates": "2005 - 2005",
+      "position": "Intern"
+    },
+    {
+      "company": "Wave Capital",
+      "dates": "2017 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wave Capital",
+      "firmUrl": "https://signal.nfx.com/firms/wave-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$55M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1VFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a5f338199deba6f8311a5a85bdcf6a03a88e3e12/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/riley-newman",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "riley-newman",
+  "socials": {
+    "angellist": "https://www.angel.co/riley-newman",
+    "crunchbase": "https://www.crunchbase.com/person/riley-newman",
+    "linkedin": "https://www.linkedin.com/in/rileynewman/",
+    "website": "https://www.wave.capital/"
+  },
+  "scraped_at": "2026-02-12T08:50:42.769342"
+}

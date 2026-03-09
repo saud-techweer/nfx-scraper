@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "New York City",
+    "name": "Benjamin Sun",
+    "signalScore": 1833,
+    "website": "https://primary.vc/ben-sun"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Primary Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/primary-venture-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$100K - $3.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Cindy Padnos (Illuminate Ventures)",
+        "Jai Choi (Tekton Ventures)",
+        "Michael Moritz"
+      ],
+      "company": "Coupang",
+      "date": "May 2014",
+      "roundSize": "$100M",
+      "stage": "Venture Round",
+      "totalRaised": "$100M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbnNFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--51c1153432c479bce8294b7588b09456adfdcf8a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ben-sun",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ben-sun",
+  "socials": {
+    "angellist": "https://www.angel.co/bksun",
+    "crunchbase": "https://www.crunchbase.com/person/ben-sun",
+    "linkedin": "https://www.linkedin.com/in/benjaminsun/",
+    "twitter": "https://www.twitter.com/bksun",
+    "website": "https://www.primary.vc/ben-sun"
+  },
+  "scraped_at": "2026-02-27T20:38:16.973178"
+}

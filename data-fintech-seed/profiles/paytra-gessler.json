@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Paytra Gessler",
+    "website": "https://paytramusic.com/"
+  },
+  "experience": [
+    {
+      "company": "Paytra Publishing LLC",
+      "dates": "2016 - 2020",
+      "position": "Artist"
+    },
+    {
+      "company": "Founders Committee",
+      "dates": "2022 - Present",
+      "position": "Board Manager"
+    },
+    {
+      "company": "Founders Committee",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Steinberg Talent Management",
+      "dates": "2017 - Present",
+      "position": "Actress"
+    },
+    {
+      "company": "Paytra Publishing LLC",
+      "dates": "2016 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Founders Committee",
+      "firmUrl": "https://signal.nfx.com/firms/founders-committee",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHJqQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f7a1850bccebf529cd2231fa88e351d0c8c5af7b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paytra-gessler",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "paytra-gessler",
+  "socials": {
+    "angellist": "https://www.angel.co/p/paytra-gessler",
+    "linkedin": "https://www.linkedin.com/in/paytragessler/",
+    "twitter": "https://www.twitter.com/PaytraGessler",
+    "website": "https://www.paytramusic.com/"
+  },
+  "scraped_at": "2026-03-03T23:15:22.118169"
+}

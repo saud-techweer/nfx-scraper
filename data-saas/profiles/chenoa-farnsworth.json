@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Advisor",
+      "Investor"
+    ],
+    "location": "Hawaii",
+    "name": "Chenoa Farnsworth",
+    "positionAndFirm": "Venture accelerator and angel investment group manager, venture fund partner and start-up advisor",
+    "signalScore": 669,
+    "website": "https://www.bluestartups.com/mentors#management"
+  },
+  "experience": [
+    {
+      "company": "HI Impact",
+      "dates": "2011 - 2018",
+      "position": "Founder"
+    },
+    {
+      "company": "Kolohala Ventures",
+      "dates": "2006 - 2009",
+      "position": "Partner"
+    },
+    {
+      "company": "Farnsworth Consulting",
+      "dates": "1996 - 2006",
+      "position": "Principal"
+    },
+    {
+      "company": "Blue Startups LLC",
+      "dates": "2012 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Hawaii Angels",
+      "dates": "2009 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blue Startups",
+      "firmUrl": "https://signal.nfx.com/firms/blue-startups",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $100K",
+    "sweetSpot": "$63K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXpJQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--09a3dbed36b53d590d4334009910e262bb1eeae1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chenoa-farnsworth",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chenoa-farnsworth",
+  "socials": {
+    "angellist": "https://www.angel.co/p/chenoa-farnsworth",
+    "crunchbase": "https://www.crunchbase.com/person/chenoa-farnsworth",
+    "linkedin": "https://www.linkedin.com/in/chenoafarnsworth/",
+    "website": "https://www.bluestartups.com/mentors#management"
+  },
+  "scraped_at": "2026-02-27T05:50:45.421820"
+}

@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Jonathan Ebinger",
+    "signalScore": 830,
+    "website": "https://www.brv.com/jonathan-ebinger"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "BlueRun Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/bluerun-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "CN¥3.5B",
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Cheryl Cheng"
+      ],
+      "company": "ZeeMee",
+      "date": "Oct 2015",
+      "roundSize": "$5.8M",
+      "stage": "Series A",
+      "totalRaised": "$5.8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMUVzQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--73d1dd4f317e58c9a52358a5f26f1a7d35101c57/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathan-ebinger",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jonathan-ebinger",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jebinger",
+    "crunchbase": "https://www.crunchbase.com/person/jonathan-ebinger",
+    "linkedin": "https://www.linkedin.com/in/jonathanebinger/",
+    "twitter": "https://www.twitter.com/jebinger",
+    "website": "https://www.brv.com/jonathan-ebinger"
+  },
+  "scraped_at": "2026-02-27T22:51:37.139509"
+}

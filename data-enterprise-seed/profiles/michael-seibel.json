@@ -1,0 +1,197 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Michael Seibel",
+    "website": "https://michaelseibel.com/"
+  },
+  "experience": [
+    {
+      "company": "Y Combinator",
+      "dates": "2013 - 2014",
+      "position": "Part-time Partner"
+    },
+    {
+      "company": "Socialcam",
+      "dates": "2011 - 2014",
+      "position": "CEO"
+    },
+    {
+      "company": "Justin.tv",
+      "dates": "2006 - 2011",
+      "position": "CEO"
+    },
+    {
+      "company": "Mfume for US Senate 2006",
+      "dates": "2005 - 2006",
+      "position": "Finance Director"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2014 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$150K - $150K",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Tipe",
+      "date": "Jan 2018",
+      "roundSize": "$120K",
+      "stage": "Seed Round",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [
+        "Pierre Planche (Griffin Gaming Partners)"
+      ],
+      "company": "Players' Lounge",
+      "date": "Jan 2018",
+      "roundSize": "$120K",
+      "stage": "Funding Round",
+      "totalRaised": "$4.1M"
+    },
+    {
+      "coInvestors": [],
+      "company": "NewCraft",
+      "date": "Jan 2018",
+      "roundSize": "$120K",
+      "stage": "Seed Round",
+      "totalRaised": "$120K"
+    },
+    {
+      "coInvestors": [
+        "Gabriel Hammond"
+      ],
+      "company": "wifi.com.ng",
+      "date": "Jun 2017",
+      "roundSize": "$2.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [
+        "Jay Zaveri (Social Capital)",
+        "AJ Okereke (Insight Partners)",
+        "Arjun Sethi (Tribe Capital)",
+        "Robin Godenrath (Picus Capital)",
+        "Gabriel Hammond"
+      ],
+      "company": "Tizeti",
+      "date": "May 2017",
+      "roundSize": "$2.1M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.1M"
+    },
+    {
+      "coInvestors": [
+        "Meyer \"Micky\" Malka (Ribbit Capital)",
+        "Peter Thiel (Founders Fund)",
+        "Jake Seid (Ballistic Ventures)",
+        "Andres Morin (Vamos Ventures)",
+        "Tim Brady (Y Combinator)",
+        "Paul Buchheit (Y Combinator)",
+        "Max Levchin (Scifi Vc)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Anu Hariharan (Y Combinator)",
+        "Elad Gil"
+      ],
+      "company": "Brex",
+      "date": "Apr 2017",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Justin Kan (Goat Capital)",
+        "Nasir Jones (QueensBridge Venture Partners)",
+        "Anthony Saleh"
+      ],
+      "company": "DoseDr",
+      "date": "Mar 2016",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Bluesmart",
+      "date": "Mar 2015",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEhJQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b0e971df3d839876b72fdb739be8181ef4bcf9c3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-seibel",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-seibel",
+  "socials": {
+    "angellist": "https://www.angel.co/p/michael-seibel",
+    "crunchbase": "https://www.crunchbase.com/person/michael-seibel",
+    "linkedin": "https://www.linkedin.com/in/mwseibel/",
+    "twitter": "https://www.twitter.com/mwseibel",
+    "website": "https://www.michaelseibel.com/"
+  },
+  "scraped_at": "2026-02-27T23:54:01.285520"
+}

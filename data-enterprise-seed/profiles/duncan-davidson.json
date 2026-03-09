@@ -1,0 +1,55 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Duncan Davidson",
+    "signalScore": 37
+  },
+  "experience": [
+    {
+      "company": "Bullpen Capital",
+      "dates": "2010 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bullpen Capital",
+      "firmUrl": "https://signal.nfx.com/firms/bullpen-capital",
+      "position": ""
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$600K - $2.0M",
+    "sweetSpot": "$1.2M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelFDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e1465da20084b118f47ab48d7d4b10f8599117e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/duncan-davidson",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "duncan-davidson",
+  "socials": {
+    "angellist": "https://www.angel.co/duncandavi",
+    "crunchbase": "https://www.crunchbase.com/person/duncan-davidson",
+    "linkedin": "https://www.linkedin.com/in/duncandavi/",
+    "twitter": "https://www.twitter.com/duncandavi"
+  },
+  "scraped_at": "2026-02-27T21:37:34.221058"
+}

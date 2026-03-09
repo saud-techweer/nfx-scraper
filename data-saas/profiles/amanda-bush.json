@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Amanda Bush"
+  },
+  "experience": [
+    {
+      "company": "Pine Cove Capital",
+      "dates": "2022 - Present",
+      "position": "Managing Partner and Co-Founder"
+    },
+    {
+      "company": "Backpack",
+      "dates": "2022 - Present",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "Hanwha Solutions Corporation",
+      "dates": "2020 - Present",
+      "position": "Member Board of Directors"
+    },
+    {
+      "company": "St. Augustine Capital Partners",
+      "dates": "2015 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Jackson Walker LLP",
+      "dates": "2003 - Present",
+      "position": "Lawyer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "St. Augustine Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/st-augustine-capital-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$10K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMTVqQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f205decf1744f6e43f57b466896908706ac6fee1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/amanda-bush",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "amanda-bush",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/amandabush/"
+  },
+  "scraped_at": "2026-02-26T08:11:34.096701"
+}

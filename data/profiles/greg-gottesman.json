@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "name": "Greg Gottesman",
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "website": "https://psl.com/team/greg-gottesman",
+    "location": "Seattle, Washington"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pioneer Square Labs",
+      "firmUrl": "https://signal.nfx.com/firms/pioneer-square-labs",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$500K - $3.0M",
+    "sweetSpot": "$1.5M",
+    "investmentsOnRecord": 1,
+    "fundSize": "$80M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Rover",
+      "stage": "Series F",
+      "date": "Jul 2017",
+      "roundSize": "$65M",
+      "totalRaised": "$68M",
+      "coInvestors": [
+        "Seth Levine (Foundry Group)",
+        "Brad Feld (Foundry Group)",
+        "Venky Ganesan (Menlo Ventures)",
+        "Stephen Oskoui (Gigafund)",
+        "Megan Quinn"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.psl.com/team/greg-gottesman",
+    "linkedin": "https://www.linkedin.com/in/greggottesman/",
+    "twitter": "https://www.twitter.com/greggottesman",
+    "crunchbase": "https://www.crunchbase.com/person/greg-gottesman"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWlYQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b58b0ac7fb7348e82c626a6d0a4f0d3017b3cdd7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=120x120",
+  "profileUrl": "https://signal.nfx.com/investors/greg-gottesman",
+  "slug": "greg-gottesman",
+  "scraped_at": "2026-02-24T11:11:21.748064"
+}

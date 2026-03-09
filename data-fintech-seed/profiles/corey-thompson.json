@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Hong Kong",
+    "name": "Corey Thompson",
+    "website": "https://www.tgv4plus.com/team.html"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "True Global Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/true-global-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNGM0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--22cae749ee73e949ccd4c8ba0e6002a57610d434/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/corey-thompson",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "corey-thompson",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/coreythompson/",
+    "twitter": "https://www.twitter.com/coreynthompson",
+    "website": "https://www.tgv4plus.com/team.html"
+  },
+  "scraped_at": "2026-03-03T16:45:43.715083"
+}

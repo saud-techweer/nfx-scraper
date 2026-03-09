@@ -1,0 +1,120 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Carine Magescas"
+  },
+  "experience": [
+    {
+      "company": "illico design",
+      "dates": "2003 - 2007",
+      "position": "Founder"
+    },
+    {
+      "company": "Moreover Technologies (acquired by VeriSign)",
+      "dates": "2001 - 2002",
+      "position": "Director, Marketing & Communications"
+    },
+    {
+      "company": "Semio Corporation",
+      "dates": "1999 - 2001",
+      "position": "Director, Marketing & Communications"
+    },
+    {
+      "company": "Informatica",
+      "dates": "1998 - 1999",
+      "position": "ERP Marketing Manager"
+    },
+    {
+      "company": "Business Objects France",
+      "dates": "1996 - 1998",
+      "position": "Director Strategic Alliances"
+    },
+    {
+      "company": "IRI Software - acquired by Oracle",
+      "dates": "1992 - 1996",
+      "position": "Senior Project Manager and European Account Manager"
+    },
+    {
+      "company": "represented by Themes & Projects and Samuel Owen Gallery",
+      "dates": "2012 - Present",
+      "position": "Artist/Photographer"
+    },
+    {
+      "company": "AngelPad",
+      "dates": "2010 - Present",
+      "position": "Founder and General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AngelPad",
+      "firmUrl": "https://signal.nfx.com/firms/angelpad",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$100K - $100K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Bryan Schreier (Sequoia Capital)",
+        "Nabeel Hyatt (Spark Capital)",
+        "Eric Ver Ploeg (Tunitas Ventures)",
+        "Ning Sung"
+      ],
+      "company": "Zum",
+      "date": "Mar 2018",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbUwwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bc9eefd7c2c73d7ce5cd32b96cf13554381eaac6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/carine-magescas",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "carine-magescas",
+  "socials": {
+    "angellist": "https://www.angel.co/carine",
+    "crunchbase": "https://www.crunchbase.com/person/carine-magescas",
+    "linkedin": "https://www.linkedin.com/in/carinemagescas/",
+    "twitter": "https://www.twitter.com/carinemagescas"
+  },
+  "scraped_at": "2026-02-26T09:03:57.196332"
+}

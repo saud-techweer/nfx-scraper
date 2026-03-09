@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "New York City",
+    "name": "Ivan Alo",
+    "signalScore": 434,
+    "website": "https://www.newage.vc/"
+  },
+  "experience": [
+    {
+      "company": "New Age Capital",
+      "dates": "2016 - Present",
+      "position": "Co-Founder/Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New Age Capital",
+      "firmUrl": "https://signal.nfx.com/firms/new-age-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$750K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$750K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "James Currier (NFX)",
+        "Monique Woodard (Cake Ventures)",
+        "Sergio Marrero",
+        "Julie McDermott",
+        "Drew Koven",
+        "Alina Tioupikova"
+      ],
+      "company": "Court Buddy",
+      "date": "Oct 2018",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOTFtQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--81922d6d77b77a706cae6ede2f9ea2d1b5a47657/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ivan-alo",
+  "sectorRankings": [
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "ivan-alo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ivan-alo",
+    "linkedin": "https://www.linkedin.com/in/ivan-alo-a0246631/",
+    "website": "https://www.newage.vc/"
+  },
+  "scraped_at": "2026-02-11T11:41:48.341100"
+}

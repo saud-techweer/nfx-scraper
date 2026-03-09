@@ -1,0 +1,185 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Growth Operator",
+      "Scout",
+      "Advisor"
+    ],
+    "location": "London",
+    "name": "Ade Molajo",
+    "signalScore": 10,
+    "website": "https://www.ademolajo.com/"
+  },
+  "experience": [
+    {
+      "company": "Atos",
+      "dates": "2015 - 2015",
+      "position": "Business Development Manager"
+    },
+    {
+      "company": "Havas Media UK",
+      "dates": "Present",
+      "position": "Summer Business Analyst"
+    },
+    {
+      "company": "C-Tech Innovation",
+      "dates": "Present",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "1E",
+      "dates": "Present",
+      "position": "Technical Analyst"
+    },
+    {
+      "company": "Atos",
+      "dates": "Present",
+      "position": "Business Intelligence Analyst"
+    },
+    {
+      "company": "PwC",
+      "dates": "Present",
+      "position": "Product Manager, Banking and Capital Markets"
+    },
+    {
+      "company": "Future Energy Ventures",
+      "dates": "Present",
+      "position": "Blockchain Entrepreneur In Residence"
+    },
+    {
+      "company": "Halcyonite Digital",
+      "dates": "Present",
+      "position": "Blockchain Strategist"
+    },
+    {
+      "company": "Deloitte Digital",
+      "dates": "Present",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Deloitte Digital",
+      "dates": "Present",
+      "position": "Alliance Manager"
+    },
+    {
+      "company": "KWS Group",
+      "dates": "Present",
+      "position": "Corporate-innovation partnerships manager"
+    },
+    {
+      "company": "Q5",
+      "dates": "Present",
+      "position": "Product Development Manager"
+    },
+    {
+      "company": "Oasis Protocol Foundation",
+      "dates": "Present",
+      "position": "Grant Program and Ecosystem Fund"
+    },
+    {
+      "company": "Ade Molajo Growth Co.",
+      "dates": "Present",
+      "position": "Founder and Principal"
+    },
+    {
+      "company": "Nym Technologies SA",
+      "dates": "Present",
+      "position": "Head of Business Development"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Investor",
+    "investmentRange": "$2K - $2.0M",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2JhQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ae8b63666c5ff7dc94c280cbce231b6452ac2b5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ade-molajo",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ade-molajo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/ade-molajo-d6d7",
+    "linkedin": "https://www.linkedin.com/in/amolajo/",
+    "twitter": "https://www.twitter.com/adotmolajo",
+    "website": "https://www.ademolajo.com/"
+  },
+  "scraped_at": "2026-02-26T06:33:08.360681"
+}

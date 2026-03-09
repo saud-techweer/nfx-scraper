@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Stockholm, Sweden",
+    "name": "Lars Videnros",
+    "website": "https://almi.se/en/almi-invest/team/lars-videnros/"
+  },
+  "experience": [
+    {
+      "company": "The Talent Company",
+      "dates": "2022 - 2022",
+      "position": "Consultant & Investor"
+    },
+    {
+      "company": "Almi Invest",
+      "dates": "2014 - 2022",
+      "position": "Investment Manager / Fund manager"
+    },
+    {
+      "company": "Rocket Internet GmbH",
+      "dates": "2012 - 2012",
+      "position": "Head of Idea Generation"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2004 - 2012",
+      "position": "Global Service Line Leader (Technology, Media & Telecommunications)"
+    },
+    {
+      "company": "Ating / Cloud Capital",
+      "dates": "2022 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "ELE Group",
+      "dates": "2022 - Present",
+      "position": "Chairman of the Board"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Almi Invest",
+      "firmUrl": "https://signal.nfx.com/firms/almi-invest",
+      "position": "Investor"
+    },
+    "investmentRange": "$120K - $150K",
+    "sweetSpot": "$135K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnh5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79ac1094ea87e6f0980d03818b6eed3548c0367a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lars-videnros",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lars-videnros",
+  "socials": {
+    "angellist": "https://www.angel.co/u/lars-videnros",
+    "linkedin": "https://www.linkedin.com/in/larsvidenros/?originalSubdomain=se",
+    "twitter": "https://www.twitter.com/larsvidenros",
+    "website": "https://www.almi.se/en/almi-invest/team/lars-videnros/"
+  },
+  "scraped_at": "2026-02-27T23:17:24.042841"
+}

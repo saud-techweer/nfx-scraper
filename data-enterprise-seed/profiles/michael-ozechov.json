@@ -1,0 +1,43 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "New York City",
+    "name": "Michael Ozechov",
+    "signalScore": 79
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cornerstone Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/cornerstone-venture-partners",
+      "position": "Partner"
+    },
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ1lHIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--6cc927e468747b664c7f615d1796e8bf1592301a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-ozechov",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-ozechov",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/michael-ozechov",
+    "linkedin": "https://www.linkedin.com/in/michaelozechov/",
+    "twitter": "https://www.twitter.com/michaelozie"
+  },
+  "scraped_at": "2026-02-28T04:43:33.776729"
+}

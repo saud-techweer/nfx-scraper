@@ -1,0 +1,227 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Varsha Rao",
+    "signalScore": 333
+  },
+  "experience": [
+    {
+      "company": "Sequoia Capital",
+      "dates": "2017 - 2020",
+      "position": "Sequoia Capital Scout"
+    },
+    {
+      "company": "Clover Health",
+      "dates": "2017 - 2018",
+      "position": "Chief Operating Officer (COO)"
+    },
+    {
+      "company": "Airbnb",
+      "dates": "2013 - 2016",
+      "position": "Head of Global Operations"
+    },
+    {
+      "company": "LivingSocial",
+      "dates": "2011 - 2013",
+      "position": "Senior Vice President, International"
+    },
+    {
+      "company": "SingTel Digital Media (inSing.com)",
+      "dates": "2008 - 2011",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Gap, Inc.",
+      "dates": "2004 - 2008",
+      "position": "Vice President/GM of OldNavy.com"
+    },
+    {
+      "company": "Keen/Ingenio",
+      "dates": "2001 - 2002",
+      "position": "Vice President Category Marketing"
+    },
+    {
+      "company": "Eve.com",
+      "dates": "1998 - 2000",
+      "position": "Founder/Co-CEO"
+    },
+    {
+      "company": "McKinsey & Co.",
+      "dates": "1995 - 1998",
+      "position": "Engagement Manager"
+    },
+    {
+      "company": "Nurx",
+      "dates": "2019 - Present",
+      "position": "CEO"
+    },
+    {
+      "company": "ViaSat Inc.",
+      "dates": "2017 - Present",
+      "position": "Board Of Directors"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$25K - $250K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Vanessa Larco (New Enterprise Associates (NEA))",
+        "Catherine Lu"
+      ],
+      "company": "Lily AI",
+      "date": "Dec 2017",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOW1CQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--11aaaa0dd09c8cb851a1c144025a1f544be37dc3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/varsha-rao",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Cosmetics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cosmetics-series-a-investors"
+    },
+    {
+      "name": "Cosmetics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cosmetics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cosmetics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cosmetics-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "varsha-rao",
+  "socials": {
+    "angellist": "https://www.angel.co/p/varsharao",
+    "crunchbase": "https://www.crunchbase.com/person/varsha-rao",
+    "linkedin": "https://www.linkedin.com/in/varsharao/",
+    "twitter": "https://www.twitter.com/varsharao?ref_src=twsrc%5Egoogle%7Ctwcamp%5Eserp%7Ctwgr%5Eauthor"
+  },
+  "scraped_at": "2026-02-11T14:36:31.400765"
+}

@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Randall Crowder",
+    "website": "https://texoventures.com/about/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TEXO Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/texo-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$3.0M - $10.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Lior Susan (Eclipse Ventures)"
+      ],
+      "company": "SwipeSense",
+      "date": "Jun 2015",
+      "roundSize": "$9.7M",
+      "stage": "Series B",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "OpenMarkets",
+      "date": "Feb 2014",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZ29JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bf9a48d70d3ef24596b6058ee0cf667db7e8b146/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/randall-crowder",
+  "sectorRankings": [
+    {
+      "name": "Medical Devices (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-seed-investors"
+    },
+    {
+      "name": "Medical Devices (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-medical-devices-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "randall-crowder",
+  "socials": {
+    "angellist": "https://www.angel.co/texo-ventures",
+    "crunchbase": "https://www.crunchbase.com/person/randall-crowder-2",
+    "linkedin": "https://www.linkedin.com/in/randallcrowder/",
+    "website": "https://www.texoventures.com/about/"
+  },
+  "scraped_at": "2026-02-27T03:51:08.197917"
+}

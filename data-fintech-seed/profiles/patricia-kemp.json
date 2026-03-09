@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "Connecticut",
+    "name": "Patricia Kemp",
+    "website": "https://oakhcft.com/team-members/patricia-tricia-kemp"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Oak HC/FT",
+      "firmUrl": "https://signal.nfx.com/firms/oak-hc-ft",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$800M",
+    "investmentRange": "$5.0M - $50.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Dan Petrozzo (Oak HC/FT)"
+      ],
+      "company": "NextCapital",
+      "date": "Jan 2018",
+      "roundSize": "$30M",
+      "stage": "Series C",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Dan Raveh"
+      ],
+      "company": "Kasisto",
+      "date": "Dec 2017",
+      "roundSize": "$17M",
+      "stage": "Series B",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Dana Stalder (Matrix)"
+      ],
+      "company": "Poynt",
+      "date": "Oct 2015",
+      "roundSize": "$28M",
+      "stage": "Series B",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Insureon",
+      "date": "Oct 2015",
+      "roundSize": "$31M",
+      "stage": "Venture Round",
+      "totalRaised": "$31M"
+    },
+    {
+      "coInvestors": [],
+      "company": "FastPay",
+      "date": "Nov 2014",
+      "roundSize": "$15M",
+      "stage": "Venture Round",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTdsQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cac9dab40fa3481e09006dea3224ced11b8fe5a3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/patricia-kemp",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    }
+  ],
+  "slug": "patricia-kemp",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/patricia-kemp",
+    "linkedin": "https://www.linkedin.com/in/patriciafkemp/",
+    "twitter": "https://www.twitter.com/_patriciakemp",
+    "website": "https://www.oakhcft.com/team-members/patricia-tricia-kemp"
+  },
+  "scraped_at": "2026-03-03T23:08:50.300607"
+}

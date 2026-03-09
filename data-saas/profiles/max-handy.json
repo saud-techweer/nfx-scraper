@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Salt Lake City, Utah",
+    "name": "Max Handy",
+    "website": "https://petersonventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peterson Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/peterson-ventures",
+      "position": "Associate"
+    },
+    "fundSize": "$140M",
+    "investmentRange": "$250K - $2.5M",
+    "sweetSpot": "$1.4M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/max-handy",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "max-handy",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/max-handy/",
+    "website": "https://www.petersonventures.com/"
+  },
+  "scraped_at": "2026-02-27T02:42:09.287492"
+}

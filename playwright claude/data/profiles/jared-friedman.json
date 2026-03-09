@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Jared Friedman",
+    "website": "https://blog.ycombinator.com/author/jared-friedman/"
+  },
+  "experience": [
+    {
+      "company": "Bridgewater Associates",
+      "dates": "2005 - 2015",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Scribd",
+      "dates": "2005 - 2015",
+      "position": "Co-Founder and CTO"
+    },
+    {
+      "company": "Various Startups",
+      "dates": "2007 - 2015",
+      "position": "Angel Investor"
+    },
+    {
+      "company": "Cycorp",
+      "dates": "2004 - 2004",
+      "position": "Member of the Technical Staff"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2015 - Present",
+      "position": "Group Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Y Combinator",
+      "firmUrl": "https://signal.nfx.com/firms/y-combinator",
+      "position": "Partner"
+    },
+    "investmentRange": "$150K - $150K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$150K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andy McLoughlin (Uncork Capital)",
+        "Fabrice Grinda (FJ Labs)",
+        "Charlie Pinto (Bling Capital)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Cameron McLain (Giant Ventures)",
+        "Kevin Mahaffey (SNR)",
+        "Christina Brodbeck (Rivet Ventures)",
+        "Paul Buchheit (Y Combinator)",
+        "Jugoslav Petkovic",
+        "Jonathan Swanson",
+        "Joshua Reeves",
+        "Jeremy Yap",
+        "Sumon Sadhu",
+        "Naveen Jain",
+        "Darius Contractor"
+      ],
+      "company": "Zesty",
+      "date": "Mar 2014",
+      "roundSize": "$3.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$7.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaFQxIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--1d6ae9e72f9ad7f6c0fa0fd1e99d30fc30da8b92/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jared-friedman",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jared-friedman",
+  "socials": {
+    "angellist": "https://www.angel.co/jared-friedman",
+    "crunchbase": "https://www.crunchbase.com/person/jared-friedman",
+    "linkedin": "https://www.linkedin.com/in/jaredfriedman/",
+    "twitter": "https://www.twitter.com/snowmaker?lang=en",
+    "website": "https://blog.ycombinator.com/author/jared-friedman/"
+  },
+  "scraped_at": "2026-02-11T14:44:37.450206"
+}

@@ -1,0 +1,230 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Sarah Smith",
+    "positionAndFirm": "Solo GP investing ~$250K  into pre-seed/seed. Former Bain Cap VC, Graph Ventures, Quora, FB, Stanford GSB.",
+    "signalScore": 612,
+    "website": "https://www.sarahsmith.fund/about"
+  },
+  "experience": [
+    {
+      "company": "Bain Capital Ventures",
+      "dates": "2018 - 2022",
+      "position": "Investing Partner"
+    },
+    {
+      "company": "Graph Ventures",
+      "dates": "2015 - 2018",
+      "position": "Partner"
+    },
+    {
+      "company": "Quora",
+      "dates": "2016 - 2017",
+      "position": "VP, Advertising Sales and Operations"
+    },
+    {
+      "company": "Quora",
+      "dates": "2012 - 2016",
+      "position": "VP, Recruiting, HR, & User Operations"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2011 - 2012",
+      "position": "Director of SMB Growth - North America"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2010 - 2012",
+      "position": "Director of Online Operations and Head of Office - Austin"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2009 - 2010",
+      "position": "Head of Online Sales Operations - Account Management"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2008 - 2009",
+      "position": "Manager of Online Operations"
+    },
+    {
+      "company": "Swish Marketing",
+      "dates": "2007 - 2008",
+      "position": "Director of New Business"
+    },
+    {
+      "company": "Boston Consulting Group",
+      "dates": "2006 - 2006",
+      "position": "Summer Consultant"
+    },
+    {
+      "company": "Sylvan Learning Center",
+      "dates": "2001 - 2005",
+      "position": "Center Director"
+    },
+    {
+      "company": "Stanford University",
+      "dates": "2022 - Present",
+      "position": "Lean Launchpad Teaching Team"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sarah Smith Fund",
+      "firmUrl": "https://signal.nfx.com/firms/sarah-smith-fund",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Max Gazor (CRV)",
+        "Peter Fenton (Benchmark)",
+        "David Samuel (Freestyle Capital)",
+        "Dan Rose (Coatue)",
+        "Joshua Kushner (Thrive Capital)",
+        "Alexa von Tobel (Inspired Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Aaron Harris",
+        "Eric Wu",
+        "Evan Lee"
+      ],
+      "company": "Airtable",
+      "date": "Nov 2018",
+      "roundSize": "$100M",
+      "stage": "Series C",
+      "totalRaised": "$470M"
+    },
+    {
+      "coInvestors": [
+        "Zach Perret (Mischief Venture Capital)",
+        "Jay Simons (Bond)"
+      ],
+      "company": "Comulate",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmhJQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c18242cca4b55236d5f8430095441c0263659bfa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sarah-smith",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sarah-smith",
+  "socials": {
+    "angellist": "https://www.angel.co/sasmith4",
+    "crunchbase": "https://www.crunchbase.com/person/sarah-smith-6",
+    "linkedin": "https://www.linkedin.com/in/sasmith4/",
+    "twitter": "https://www.twitter.com/sasmith4",
+    "website": "https://www.sarahsmith.fund/about"
+  },
+  "scraped_at": "2026-02-11T12:46:12.988933"
+}

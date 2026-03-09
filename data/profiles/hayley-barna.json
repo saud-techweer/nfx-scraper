@@ -1,0 +1,162 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Hayley Barna",
+    "signalScore": 1455,
+    "website": "https://firstround.com/person/hayley-barna/#mystory"
+  },
+  "experience": [
+    {
+      "company": "Birchbox",
+      "dates": "2010 - 2018",
+      "position": "Co-Founder and Board Member"
+    },
+    {
+      "company": "Bain and Company",
+      "dates": "2005 - 2008",
+      "position": "Senior Associate Consultant"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Angel Investor",
+      "dates": "Present",
+      "position": "Angel Investor & Advisor"
+    },
+    {
+      "company": "RAB Lighting",
+      "dates": "Present",
+      "position": "Board Director"
+    },
+    {
+      "company": "Christie's Hong Kong",
+      "dates": "Present",
+      "position": "Strategy (Bain Extern)"
+    },
+    {
+      "company": "Amazon.com",
+      "dates": "Present",
+      "position": "Product Manager (MBA Summer)"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "First Round Capital",
+      "firmUrl": "https://signal.nfx.com/firms/first-round-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$738M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Louis Beryl"
+      ],
+      "company": "Keeps",
+      "date": "May 2017",
+      "roundSize": "$2.8M",
+      "stage": "Venture Round",
+      "totalRaised": "$10M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNm01QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--32ae187fd41ae853923236958acb074da9aa6bde/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hayley-barna",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    }
+  ],
+  "slug": "hayley-barna",
+  "socials": {
+    "angellist": "https://www.angel.co/hayleybay",
+    "crunchbase": "https://www.crunchbase.com/person/hayley-barna",
+    "linkedin": "https://www.linkedin.com/in/hbarna/",
+    "twitter": "https://www.twitter.com/hayleybay",
+    "website": "https://www.firstround.com/person/hayley-barna/#mystory"
+  },
+  "scraped_at": "2026-02-11T11:45:08.728748"
+}

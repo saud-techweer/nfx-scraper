@@ -1,0 +1,201 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Erik Bullen",
+    "positionAndFirm": "Advisor, COO, Exec Coach, Board Member, Investor | Founder and CEO | Strategy and Operations Exec",
+    "signalScore": 391,
+    "website": "https://about.me/erikbullen"
+  },
+  "experience": [
+    {
+      "company": "GrooveJar",
+      "dates": "2017 - 2018",
+      "position": "CEO"
+    },
+    {
+      "company": "Magemail",
+      "dates": "2017 - 2018",
+      "position": "CEO"
+    },
+    {
+      "company": "Mobiquity",
+      "dates": "2016 - 2017",
+      "position": "VP, Digital Strategy and Innovation"
+    },
+    {
+      "company": "Brightcove",
+      "dates": "2012 - 2016",
+      "position": "Vice President, Global Services"
+    },
+    {
+      "company": "frog design",
+      "dates": "2010 - 2012",
+      "position": "Executive Director, Innovation Strategy"
+    },
+    {
+      "company": "Focal Point Procurement",
+      "dates": "2020 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Launchpad Venture Group",
+      "dates": "2019 - Present",
+      "position": "Member / Investor"
+    },
+    {
+      "company": "Mendoza Ventures",
+      "dates": "2019 - Present",
+      "position": "Limited Partner"
+    },
+    {
+      "company": "Splitfit",
+      "dates": "2019 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Meenta",
+      "dates": "2018 - Present",
+      "position": "Advisor / Investor"
+    },
+    {
+      "company": "Realplay Sports, Inc.",
+      "dates": "2018 - Present",
+      "position": "Advisor / Investor"
+    },
+    {
+      "company": "Walnut Venture Associates",
+      "dates": "2018 - Present",
+      "position": "Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mendoza Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/mendoza-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBakhmIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4925c814f59cb69d0727a2abd201189d1dd77f13/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/erik-bullen",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "erik-bullen",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ebullen",
+    "crunchbase": "https://www.crunchbase.com/person/erik-bullen",
+    "linkedin": "https://www.linkedin.com/in/erikbullen/",
+    "twitter": "https://www.twitter.com/ErikBullen",
+    "website": "https://www.about.me/erikbullen"
+  },
+  "scraped_at": "2026-02-27T21:48:21.122502"
+}

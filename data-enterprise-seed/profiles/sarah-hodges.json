@@ -1,0 +1,190 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Sarah Hodges",
+    "signalScore": 732,
+    "website": "https://pillar.vc/meet-our-team/sarah-hodges/"
+  },
+  "experience": [
+    {
+      "company": "Pluralsight",
+      "dates": "2014 - 2016",
+      "position": "Head of People Ops"
+    },
+    {
+      "company": "Smarterer",
+      "dates": "2012 - 2015",
+      "position": "Head of Strategy & Client Services"
+    },
+    {
+      "company": "Luminary Labs",
+      "dates": "2011 - 2013",
+      "position": "Innovation Consultant"
+    },
+    {
+      "company": "FitnessKeeper, Inc.",
+      "dates": "2010 - 2012",
+      "position": "Head of Marketing"
+    },
+    {
+      "company": "Carbonite, Inc.",
+      "dates": "2009 - 2010",
+      "position": "Marketing"
+    },
+    {
+      "company": "Pavo Real",
+      "dates": "2005 - 2008",
+      "position": "Partner"
+    },
+    {
+      "company": "Pillar VC",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Intelligent.ly",
+      "dates": "2012 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pillar VC",
+      "firmUrl": "https://signal.nfx.com/firms/pillar-vc",
+      "position": "Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$250K - $2.5M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Bobby Brannigan (NextGen Venture Partners)",
+        "Zack Lynch (Jazz Venture Partners)"
+      ],
+      "company": "JobGet",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$40M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Hello Tickets",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Knox Financial",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdmtIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ea40f18efc2dc2a5537c91b53d5f9a5e41eee1a5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sarah-hodges",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Insurance (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sarah-hodges",
+  "socials": {
+    "angellist": "https://www.angel.co/sarahhodges",
+    "crunchbase": "https://www.crunchbase.com/person/sarah-hodges",
+    "linkedin": "https://www.linkedin.com/in/sarahhodges1/",
+    "twitter": "https://www.twitter.com/hodges",
+    "website": "https://www.pillar.vc/meet-our-team/sarah-hodges/"
+  },
+  "scraped_at": "2026-02-12T10:09:31.247070"
+}

@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "name": "Leah Solivan",
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "website": "https://fuelcapital.com/our-team",
+    "location": "United States"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Fuel Capital",
+      "firmUrl": "https://signal.nfx.com/firms/fuel-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$750K - $1M",
+    "sweetSpot": "$875K",
+    "investmentsOnRecord": 1,
+    "fundSize": "$75M"
+  },
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Bark Technologies",
+      "stage": "Series A",
+      "date": "Aug 2018",
+      "roundSize": "$9M",
+      "totalRaised": "$35M",
+      "coInvestors": [
+        "Brandon Tidwell (Signal Peak Ventures)",
+        "John Vecchio (Mosley Ventures)",
+        "Dan Abelon (Two Sigma Ventures)",
+        "Chris Howard (Fuel Capital)",
+        "Tx Zhuo (Fika Ventures)",
+        "Leah Busque",
+        "Arteen Arabshahi",
+        "Jon Hallett"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.fuelcapital.com/our-team",
+    "linkedin": "https://www.linkedin.com/in/leahsolivan/",
+    "twitter": "https://www.twitter.com/labunleashed",
+    "crunchbase": "https://www.crunchbase.com/person/leah-solivan"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeTl5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--04e37ea8dec8c4b9bfc99b8e791f9bcc7e1b7fa8/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/leah-solivan",
+  "slug": "leah-solivan",
+  "scraped_at": "2026-02-24T11:51:54.230889"
+}

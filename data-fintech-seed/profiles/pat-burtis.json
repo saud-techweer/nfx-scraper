@@ -1,0 +1,80 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Pat Burtis",
+    "website": "https://amadeuscapital.com/team/pat-burtis/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Amadeus Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/amadeus-capital-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$340K - $40.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Elie Wurtman (PICO Venture Partners)",
+        "Nick Pianim (DAG Ventures)"
+      ],
+      "company": "GreenRoad Technologies",
+      "date": "May 2011",
+      "roundSize": "$13M",
+      "stage": "Series F",
+      "totalRaised": "$28M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFpkQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--45e6819aa409f61fe0c5c6b712147cc4dbfdea8d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pat-burtis",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-b-investors"
+    },
+    {
+      "name": "Education (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-b-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "pat-burtis",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/patrick-burtis",
+    "linkedin": "https://www.linkedin.com/in/pat-burtis-366124/",
+    "twitter": "https://www.twitter.com/patburtis",
+    "website": "https://www.amadeuscapital.com/team/pat-burtis/"
+  },
+  "scraped_at": "2026-03-03T23:08:32.422932"
+}

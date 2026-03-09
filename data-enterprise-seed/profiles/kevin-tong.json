@@ -1,0 +1,49 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Sydney, Australia",
+    "name": "Kevin Tong",
+    "website": "https://www.afterwork.vc/who-we-are"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AfterWork Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/afterwork-ventures",
+      "position": "Investor"
+    },
+    "fundSize": "$30M",
+    "investmentRange": "$100K - $500K",
+    "sweetSpot": "$300K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2Y5QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5b2ce5b4edaad344664f99484c0c8cc9eea932ce/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kevin-tong",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "kevin-tong",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kevinaotong/",
+    "website": "https://www.afterwork.vc/who-we-are"
+  },
+  "scraped_at": "2026-02-27T23:09:45.898187"
+}

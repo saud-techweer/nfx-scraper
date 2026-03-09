@@ -1,0 +1,250 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "VC",
+      "Strategy Operator",
+      "Sales Operator"
+    ],
+    "location": "Santiago, Chile",
+    "name": "Francisco Schuler",
+    "signalScore": 1,
+    "website": "https://hispam.wayra.com/"
+  },
+  "experience": [
+    {
+      "company": "Wayra Hispam",
+      "dates": "2021 - 2023",
+      "position": "Scouting & Partnerships Analyst"
+    },
+    {
+      "company": "Conectal",
+      "dates": "2020 - 2021",
+      "position": "Business & Performance Analyst"
+    },
+    {
+      "company": "Global66",
+      "dates": "2019 - 2019",
+      "position": "SAC"
+    },
+    {
+      "company": "FINDEC",
+      "dates": "2018 - 2019",
+      "position": "Investigador de mercados"
+    },
+    {
+      "company": "Universidad Andres Bello",
+      "dates": "2017 - 2017",
+      "position": "Ayudante de Estadisticas"
+    },
+    {
+      "company": "BancoEstado Corredores de Bolsa",
+      "dates": "2017 - 2017",
+      "position": "Practica Profesional"
+    },
+    {
+      "company": "Soluservicios S.A",
+      "dates": "2016 - 2016",
+      "position": "Practica Formativa"
+    },
+    {
+      "company": "Wayra Hispam",
+      "dates": "2023 - Present",
+      "position": "Investment Associate"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wayra Hispam",
+      "firmUrl": "https://signal.nfx.com/firms/wayra-hispam",
+      "position": "Scout"
+    },
+    "investmentRange": "$150K - $450K",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "UnDosTres",
+      "date": "Jun 2022",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Moova",
+      "date": "Jun 2022",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Davis Auksmuksts (Plug & Play Ventures)",
+        "Letizia Royo-Villanova (Plug & Play Ventures)",
+        "Guilherme Penna (Silence)"
+      ],
+      "company": "Bankuish",
+      "date": "Mar 2022",
+      "roundSize": "$4.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.7M"
+    },
+    {
+      "coInvestors": [
+        "Rafa de Haro (Cometa)"
+      ],
+      "company": "Simetrik",
+      "date": "Mar 2022",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [],
+      "company": "RetryPay",
+      "date": "Dec 2021",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Monica Black (Resolute Ventures)"
+      ],
+      "company": "Vinco",
+      "date": "Oct 2021",
+      "roundSize": "$2.4M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Poliglota",
+      "date": "May 2021",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Alfred",
+      "date": "Nov 2014",
+      "roundSize": "$2M",
+      "stage": "Seed Round",
+      "totalRaised": "$2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVdFQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--79a7f370690b93ae44c3748396317f4b4e055ec3/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/francisco-schuler",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "LatAm (Latin America)",
+      "url": "https://signal.nfx.com/investor-lists/top-latam-latin-america-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "francisco-schuler",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/francisco-schuler/",
+    "website": "https://hispam.wayra.com/"
+  },
+  "scraped_at": "2026-02-26T23:58:27.684639"
+}

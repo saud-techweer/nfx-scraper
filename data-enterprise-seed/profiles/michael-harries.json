@@ -1,0 +1,90 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Michael Harries",
+    "signalScore": 1
+  },
+  "experience": [
+    {
+      "company": "The Robotics Hub",
+      "dates": "2017 - 2017",
+      "position": "Consulting"
+    },
+    {
+      "company": "Kyndi",
+      "dates": "2016 - 2017",
+      "position": "CTO"
+    },
+    {
+      "company": "Citrix Startup Accelerator",
+      "dates": "2010 - 2016",
+      "position": "Chief Technologist"
+    },
+    {
+      "company": "Citrix Systems",
+      "dates": "2002 - 2011",
+      "position": "Senior Director Strategy and Communications, Citrix Labs and CTO Office"
+    },
+    {
+      "company": "Pacific Knowledge Systems",
+      "dates": "1999 - 2002",
+      "position": "Product Manager/Scientist"
+    },
+    {
+      "company": "University of NSW",
+      "dates": "1995 - 1999",
+      "position": "Researcher/Lecturer"
+    },
+    {
+      "company": "ImpSys",
+      "dates": "1994 - 1999",
+      "position": "Founder/CEO"
+    },
+    {
+      "company": "The Robotics Hub",
+      "dates": "2017 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The Robotics Hub",
+      "firmUrl": "https://signal.nfx.com/firms/the-robotics-hub",
+      "position": "General Partner"
+    }
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaGNMIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--3c30e01773d45b7dfd7f77b5b6ec4bff55d32764/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/michael-harries",
+  "sectorRankings": [
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "michael-harries",
+  "socials": {
+    "angellist": "https://www.angel.co/michaelharries",
+    "crunchbase": "https://www.crunchbase.com/person/michael-harries",
+    "linkedin": "https://www.linkedin.com/in/michaelharries/"
+  },
+  "scraped_at": "2026-02-27T23:51:27.193314"
+}

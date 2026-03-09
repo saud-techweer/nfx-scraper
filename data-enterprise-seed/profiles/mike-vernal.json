@@ -1,0 +1,137 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Tripp Jones",
+    "signalScore": 1132,
+    "website": "https://uncorkcapital.com/team/tripp-jones"
+  },
+  "experience": [
+    {
+      "company": "August Capital",
+      "dates": "2011 - 2021",
+      "position": "General Partner"
+    },
+    {
+      "company": "Spectrum Equity Investors",
+      "dates": "2007 - 2011",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "JMP Securities",
+      "dates": "2005 - 2007",
+      "position": "Analyst"
+    },
+    {
+      "company": "BMO Capital Markets",
+      "dates": "2004 - 2005",
+      "position": "Analyst"
+    },
+    {
+      "company": "Squaw Valley Ski Corp",
+      "dates": "2003 - 2004",
+      "position": "Coach, Development Team"
+    },
+    {
+      "company": "Uncork Capital (formerly SoftTech VC)",
+      "dates": "2021 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Uncork Capital",
+      "firmUrl": "https://signal.nfx.com/firms/uncork-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Sun Basket",
+      "date": "Jan 2018",
+      "roundSize": "$43M",
+      "stage": "Series D",
+      "totalRaised": "$43M"
+    },
+    {
+      "coInvestors": [
+        "Amr Abdelaziz (A'Z Angels)"
+      ],
+      "company": "Paysail",
+      "date": "N/A",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFZnQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--46fbfe4bff1bfb887372c964e30d50bf1cad0b5d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tripp-jones",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "mike-vernal",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/tripp-jones",
+    "linkedin": "https://www.linkedin.com/in/tripp-jones-8341255/",
+    "twitter": "https://www.twitter.com/thistrippjones",
+    "website": "https://www.uncorkcapital.com/team/tripp-jones"
+  },
+  "scraped_at": "2026-02-16T01:46:01.969929",
+  "success": true
+}

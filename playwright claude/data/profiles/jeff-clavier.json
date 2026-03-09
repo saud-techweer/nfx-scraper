@@ -1,0 +1,188 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Jeff Clavier",
+    "signalScore": 4352,
+    "website": "https://uncorkcapital.com/team/jeff-clavier/"
+  },
+  "experience": [
+    {
+      "company": "RVC Capital",
+      "dates": "2000 - 2004",
+      "position": "Partner"
+    },
+    {
+      "company": "RVC SoftEdge Conference",
+      "dates": "2000 - 2004",
+      "position": "Co-Producer"
+    },
+    {
+      "company": "Reuters Plc",
+      "dates": "1993 - 2000",
+      "position": "Head of Development, Systems"
+    },
+    {
+      "company": "Effix Systems",
+      "dates": "1989 - 1993",
+      "position": "Head of Development"
+    },
+    {
+      "company": "Uncork Capital (formerly SoftTech VC)",
+      "dates": "2004 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Uncork Capital",
+      "firmUrl": "https://signal.nfx.com/firms/uncork-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Chris Fralic (First Round Capital)",
+        "Patrick Meenan (Arthur Ventures)",
+        "Alex Gurevich (Javelin Venture Partners)",
+        "David Wanek (Western Technology Investment)",
+        "Yan-David Erlich"
+      ],
+      "company": "stensul",
+      "date": "Jun 2018",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Arjun Sethi (Tribe Capital)",
+        "Ed Sim (Boldstart Ventures)",
+        "Mamoon Hamid (Kleiner Perkins)",
+        "Jay Simons (Bond)",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Stewart Butterfield",
+        "Aaron Harris",
+        "Frederic Kerrest",
+        "Pierre Valade",
+        "Thibaud Elziere",
+        "Eoghan McCabe",
+        "Sam Hickmann",
+        "Hiten Shah"
+      ],
+      "company": "Front",
+      "date": "May 2016",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$76M"
+    },
+    {
+      "coInvestors": [
+        "Matt Mcilwain (Madrona Ventures)",
+        "Scott Jacobson (Madrona Ventures)"
+      ],
+      "company": "Animoto",
+      "date": "Jun 2009",
+      "roundSize": "$4.4M",
+      "stage": "Series B",
+      "totalRaised": "$29M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcUFIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ed8515887458e3baa34d861d389dc7190b5c78a6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-clavier",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Midwest",
+      "url": "https://signal.nfx.com/investor-lists/top-midwest-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jeff-clavier",
+  "socials": {
+    "angellist": "https://www.angel.co/jeff",
+    "crunchbase": "https://www.crunchbase.com/person/jeff-clavier",
+    "linkedin": "https://www.linkedin.com/in/jeffclavier/",
+    "twitter": "https://www.twitter.com/jeff?lang=en",
+    "website": "https://www.uncorkcapital.com/team/jeff-clavier/"
+  },
+  "scraped_at": "2026-02-11T11:19:43.245710"
+}

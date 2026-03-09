@@ -1,0 +1,146 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Zack Schildhorn",
+    "website": "https://luxcapital.com/team/zack-schildhorn/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lux Capital",
+      "firmUrl": "https://signal.nfx.com/firms/lux-capital",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$1.5B",
+    "investmentRange": "$1M - $50.0M",
+    "investmentsOnRecord": 14,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Josh Wolfe (Lux Capital)"
+      ],
+      "company": "Shapeways",
+      "date": "Sep 2021",
+      "roundSize": "$75M",
+      "stage": "Post Ipo Equity",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)"
+      ],
+      "company": "Pawp",
+      "date": "May 2021",
+      "roundSize": "$13M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    },
+    {
+      "coInvestors": [
+        "Rob Lowe (Lego Ventures)",
+        "Jennifer “Jenny\" Fleiss (Volition Capital)",
+        "Max Mullen"
+      ],
+      "company": "Caper",
+      "date": "Sep 2019",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Jeffrey Berman (Camber Creek)",
+        "Marco DeMeireles (TCG (The Chernin Group))",
+        "Keith Hamlin (Third Prime)",
+        "Jordan Nof (Tusk Venture Partners)",
+        "Wes Barton (Third Prime)",
+        "Ashish Toshniwal",
+        "Jaffray Woodriff"
+      ],
+      "company": "Latch",
+      "date": "Aug 2018",
+      "roundSize": "$70M",
+      "stage": "Series B",
+      "totalRaised": "$100M"
+    },
+    {
+      "coInvestors": [
+        "Jonathan Keidan (Torch Capital)",
+        "Mike Edelhart (Social Starts)",
+        "Lior Susan (Eclipse Ventures)"
+      ],
+      "company": "Scatter",
+      "date": "Jan 2018",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Sols",
+      "date": "Feb 2015",
+      "roundSize": "$11M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVBLQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--999dcb954fe894701a0bc16b78d947903759d0dd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zack-schildhorn",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "zack-schildhorn",
+  "socials": {
+    "angellist": "https://www.angel.co/p/zack-schildhorn",
+    "crunchbase": "https://www.crunchbase.com/person/zack-schildhorn",
+    "linkedin": "https://www.linkedin.com/in/zackschildhorn/",
+    "twitter": "https://www.twitter.com/zacktrak?lang=en",
+    "website": "https://www.luxcapital.com/team/zack-schildhorn/"
+  },
+  "scraped_at": "2026-02-11T14:45:49.850242"
+}

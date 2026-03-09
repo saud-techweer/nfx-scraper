@@ -1,0 +1,107 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Dave Rivinus",
+    "positionAndFirm": "Investor, Advisor and Founding Partner at 01 Advisors",
+    "website": "https://01a.com/"
+  },
+  "experience": [
+    {
+      "company": "Twitter",
+      "dates": "2016 - 2018",
+      "position": "Corporate Development, Strategy, and Investor Relations"
+    },
+    {
+      "company": "Twitter",
+      "dates": "2014 - 2016",
+      "position": "Finance and Investor Relations"
+    },
+    {
+      "company": "Yahoo!",
+      "dates": "2010 - 2014",
+      "position": "Senior Director, Investor Relations"
+    },
+    {
+      "company": "Sterling Johnston Capital Management",
+      "dates": "2005 - 2008",
+      "position": "Investment Analyst/PM"
+    },
+    {
+      "company": "Banc of America Securities",
+      "dates": "1999 - 2003",
+      "position": "Equity Research Associate"
+    },
+    {
+      "company": "PwC Consulting",
+      "dates": "1997 - 1999",
+      "position": "Software Developer/IT Consultant"
+    },
+    {
+      "company": "01 Advisors",
+      "dates": "2018 - Present",
+      "position": "Investor, Advisor, and Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "01 Advisors",
+      "firmUrl": "https://signal.nfx.com/firms/01-advisors",
+      "position": "Investor"
+    },
+    "investmentRange": "$2.0M - $15.0M",
+    "sweetSpot": "$6.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeDE2QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--90c31602a4f89fa256661788b1b67193032fd671/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dave-rivinus",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "dave-rivinus",
+  "socials": {
+    "angellist": "https://www.angel.co/p/david-rivinus-cfa",
+    "linkedin": "https://www.linkedin.com/in/dave-rivinus-92b51a/",
+    "twitter": "https://www.twitter.com/DaveRiv",
+    "website": "https://www.01a.com/"
+  },
+  "scraped_at": "2026-02-26T10:08:35.144460"
+}

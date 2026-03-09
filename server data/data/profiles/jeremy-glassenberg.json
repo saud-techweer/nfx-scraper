@@ -1,0 +1,286 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Scout",
+      "Investor",
+      "Product Operator"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jeremy Glassenberg",
+    "positionAndFirm": "Product and API Expert, ex-Box, Tradeshift, DocuSign",
+    "signalScore": 256,
+    "website": "https://www.apistrategist.com/"
+  },
+  "experience": [
+    {
+      "company": "Deserve Inc.",
+      "dates": "2019 - 2021",
+      "position": "Director of Product"
+    },
+    {
+      "company": "Tradeshift",
+      "dates": "2013 - 2015",
+      "position": "Head of Platform Applications"
+    },
+    {
+      "company": "Edmodo",
+      "dates": "2012 - 2013",
+      "position": "Head of Platform Product"
+    },
+    {
+      "company": "Box",
+      "dates": "2008 - 2012",
+      "position": "Platform Manager"
+    },
+    {
+      "company": "ProgrammableWeb",
+      "dates": "2010 - 2012",
+      "position": "Writer - Freelance"
+    },
+    {
+      "company": "GeoNexxus",
+      "dates": "2006 - 2007",
+      "position": "Chief Marketing/Operating Officer"
+    },
+    {
+      "company": "mSpoke (acquired by LinkedIn)",
+      "dates": "2007 - 2007",
+      "position": "Product Manager"
+    },
+    {
+      "company": "Salesforce.com",
+      "dates": "2006 - 2006",
+      "position": "Software Developer"
+    },
+    {
+      "company": "Microsoft",
+      "dates": "2005 - 2005",
+      "position": "Software Design Engineer in Test"
+    },
+    {
+      "company": "Northwestern University Center for Computer-based Learning",
+      "dates": "2004 - 2004",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Technion, Israel",
+      "dates": "2002 - 2002",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Docusign",
+      "dates": "2021 - Present",
+      "position": "Product"
+    },
+    {
+      "company": "Product School",
+      "dates": "2016 - Present",
+      "position": "Lead Product Management Instructor (Part-Time)"
+    },
+    {
+      "company": "BootstrapLabs",
+      "dates": "2016 - Present",
+      "position": "Expert in Residence"
+    },
+    {
+      "company": "API Strategist",
+      "dates": "2015 - Present",
+      "position": "Platform Strategy Consultant"
+    },
+    {
+      "company": "Pypestream",
+      "dates": "Present",
+      "position": "VP Platform"
+    },
+    {
+      "company": "Boostable",
+      "dates": "Present",
+      "position": "Product"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Vice President",
+    "investmentRange": "$1K - $50K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$10K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Luigi Bajetti (LombardStreet Ventures)",
+        "Jesse Robbins (Heavybit)",
+        "Tomas Puig (Test Kitchen Capital)"
+      ],
+      "company": "Moesif",
+      "date": "Jun 2017",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Natty Zola (Matchstick Ventures)",
+        "Ryan Broshar (Matchstick Ventures)"
+      ],
+      "company": "Vidgrid",
+      "date": "Oct 2015",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb1FJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--38bc10089c4466dd4e24a40bd236f8c9db9d3fa2/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeremy-glassenberg",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Sales & CRM (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jeremy-glassenberg",
+  "socials": {
+    "angellist": "https://www.angel.co/jglassenberg",
+    "crunchbase": "https://www.crunchbase.com/person/jeremy-glassenberg",
+    "linkedin": "https://www.linkedin.com/in/jglassenberg/",
+    "twitter": "https://www.twitter.com/jglassenberg",
+    "website": "https://www.apistrategist.com/"
+  },
+  "scraped_at": "2026-02-12T09:27:30.505115"
+}

@@ -1,0 +1,85 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Hans Kobler",
+    "website": "https://www.energyimpactpartners.com/team/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Energy Impact Partners",
+      "firmUrl": "https://signal.nfx.com/firms/energy-impact-partners",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$3.0M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$7.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Donnelly (Energy Impact Partners)",
+        "Nancy Pfund (DBL Partners)"
+      ],
+      "company": "Advanced Microgrid Solutions",
+      "date": "Jul 2017",
+      "roundSize": "$35M",
+      "stage": "Series B",
+      "totalRaised": "$35M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFJDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b7b0d5789042c72c78526dc79e5eee0b235b960c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hans-kobler",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "hans-kobler",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/hans-kobler",
+    "linkedin": "https://www.linkedin.com/in/hanskobler/",
+    "twitter": "https://www.twitter.com/koblerhans",
+    "website": "https://www.energyimpactpartners.com/team/"
+  },
+  "scraped_at": "2026-03-03T20:22:46.043711"
+}

@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Netherlands",
+    "name": "Marnix van der Ploeg",
+    "website": "http://www.koolen.com.br/marnix-ploeg.php"
+  },
+  "experience": [
+    {
+      "company": "EQT Ventures",
+      "dates": "2015 - Present",
+      "position": "Global Rollout Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Koolen and Partners",
+      "firmUrl": "https://signal.nfx.com/firms/koolen-and-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$90K - $950K",
+    "sweetSpot": "$520K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVY5QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ebe71ad5dfad3ac4003afb8eb23f2b6a45161245/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marnix-van-der-ploeg",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "marnix-van-der-ploeg",
+  "socials": {
+    "angellist": "https://www.angel.co/u/marnix-van-der-ploeg",
+    "crunchbase": "https://www.crunchbase.com/person/marnix-van-der-ploeg",
+    "linkedin": "https://www.linkedin.com/in/marnixvanderploeg/",
+    "website": "https://www.koolen.com.br/marnix-ploeg.php"
+  },
+  "scraped_at": "2026-03-03T22:14:58.700325"
+}

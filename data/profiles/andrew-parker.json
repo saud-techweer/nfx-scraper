@@ -1,0 +1,129 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Andrew Parker",
+    "signalScore": 148,
+    "website": "https://andrewparker.net/"
+  },
+  "experience": [
+    {
+      "company": "South Park Commons",
+      "dates": "2019 - 2020",
+      "position": "Member"
+    },
+    {
+      "company": "Spark Capital",
+      "dates": "2013 - 2019",
+      "position": "General Partner"
+    },
+    {
+      "company": "Spark Capital",
+      "dates": "2011 - 2013",
+      "position": "Principal"
+    },
+    {
+      "company": "Spark Capital",
+      "dates": "2010 - 2011",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Union Square Ventures",
+      "dates": "2007 - 2010",
+      "position": "Associate"
+    },
+    {
+      "company": "Union Square Ventures",
+      "dates": "2006 - 2007",
+      "position": "Analyst"
+    },
+    {
+      "company": "Homestead Technologies, Inc",
+      "dates": "2005 - 2006",
+      "position": "Producer"
+    },
+    {
+      "company": "Groupspace.org",
+      "dates": "2004 - 2005",
+      "position": "Developer"
+    },
+    {
+      "company": "Spero Ventures",
+      "dates": "2020 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Spark Capital LLC",
+      "dates": "2013 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Spero Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/spero-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$100M",
+    "investmentRange": "$2.0M - $25.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Shapiro (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Nick Ducoff (G20 Ventures)",
+        "Dalton Caldwell (Y Combinator)",
+        "Amit Patel (Owl Ventures)",
+        "Stephanie Palmeri (NextView Ventures)"
+      ],
+      "company": "Panorama Education",
+      "date": "Nov 2017",
+      "roundSize": "$16M",
+      "stage": "Series B",
+      "totalRaised": "$93M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdFlJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--e4abea79085f5e028b9d5a6350e066d326cb0a13/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-parker",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "andrew-parker",
+  "socials": {
+    "angellist": "https://www.angel.co/p/andrewparker",
+    "crunchbase": "https://www.crunchbase.com/person/andrew-parker",
+    "linkedin": "https://www.linkedin.com/in/andrewparker/",
+    "twitter": "https://www.twitter.com/andrewparker",
+    "website": "https://www.andrewparker.net/"
+  },
+  "scraped_at": "2026-02-11T10:51:46.409915"
+}

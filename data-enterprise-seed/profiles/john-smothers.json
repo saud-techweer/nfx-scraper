@@ -1,0 +1,159 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Palo Alto, California",
+    "name": "John Smothers",
+    "website": "https://www.scribble.vc/"
+  },
+  "experience": [
+    {
+      "company": "BLCK VC",
+      "dates": "2021 - 2022",
+      "position": "Communications Committee"
+    },
+    {
+      "company": "Acrew Capital",
+      "dates": "2021 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "Angel Investor",
+      "dates": "2018 - 2022",
+      "position": "Investor"
+    },
+    {
+      "company": "Greenville Studios",
+      "dates": "2019 - 2020",
+      "position": "Co-founder"
+    },
+    {
+      "company": "Dimension Ventures",
+      "dates": "2018 - 2019",
+      "position": "Co-founder / Investor"
+    },
+    {
+      "company": "Forefront Venture Partners",
+      "dates": "2018 - 2019",
+      "position": "Venture Scout"
+    },
+    {
+      "company": "Array Ventures",
+      "dates": "2018 - 2018",
+      "position": "Summer Analyst"
+    },
+    {
+      "company": "Roots Natural Kitchen",
+      "dates": "2017 - 2017",
+      "position": "Server & Operations Intern"
+    },
+    {
+      "company": "Posyt",
+      "dates": "2015 - 2017",
+      "position": "User Experience"
+    },
+    {
+      "company": "The Mill Space",
+      "dates": "2016 - 2016",
+      "position": "Community Manager, Intern and Assistant to the Founder"
+    },
+    {
+      "company": "Adventist HealthCare",
+      "dates": "2015 - 2015",
+      "position": "Health Care Management Intern"
+    },
+    {
+      "company": "Zingly.ai",
+      "dates": "2023 - Present",
+      "position": "Board Observer"
+    },
+    {
+      "company": "Scribble Ventures",
+      "dates": "2022 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "The Aurora Group",
+      "dates": "2019 - Present",
+      "position": "Co-founder / Owner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Scribble Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/scribble-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$300K - $750K",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVNnQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cff5016dbafe6a6406cbb4fe3717594cddd8c6f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/john-smothers",
+  "sectorRankings": [
+    {
+      "name": "Impact (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Impact (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Impact (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-impact-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "john-smothers",
+  "socials": {
+    "angellist": "https://www.angel.co/p/smothers_john",
+    "crunchbase": "https://www.crunchbase.com/person/john-smothers",
+    "linkedin": "https://www.linkedin.com/in/john-smothers-97b258121/",
+    "twitter": "https://www.twitter.com/smothers_john",
+    "website": "https://www.scribble.vc/"
+  },
+  "scraped_at": "2026-02-27T22:49:32.643807"
+}

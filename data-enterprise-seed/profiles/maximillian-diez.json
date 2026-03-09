@@ -1,0 +1,116 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Advisor",
+      "Operator",
+      "Growth Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Maximillian Diez",
+    "signalScore": 154
+  },
+  "experience": [
+    {
+      "company": "Patch Homes",
+      "dates": "2020 - 2022",
+      "position": "US Managing Broker | Advisor"
+    },
+    {
+      "company": "Movoto",
+      "dates": "2016 - 2020",
+      "position": "VP of Real Estate Operations"
+    },
+    {
+      "company": "UpNest",
+      "dates": "2012 - 2016",
+      "position": "VP of Real Estate Operations"
+    },
+    {
+      "company": "+ CEO",
+      "dates": "2009 - 2013",
+      "position": "Founder"
+    },
+    {
+      "company": "ZipRealty",
+      "dates": "2008 - 2009",
+      "position": "Broker Associate | Trainer"
+    },
+    {
+      "company": "Redfin",
+      "dates": "2006 - 2008",
+      "position": "Redfin California"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Twenty Five Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/twenty-five-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Green Harbor Communities",
+      "date": "Aug 2020",
+      "roundSize": "$50K",
+      "stage": "Seed",
+      "totalRaised": "$50K"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMmVFQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b3829bf38d159dd3d01a09f6b596b6b748524f5e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/maximillian-diez",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "ConstructionTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-constructiontech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "maximillian-diez",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/maximillian-diez",
+    "linkedin": "https://www.linkedin.com/in/maximillian10/",
+    "twitter": "https://www.twitter.com/max_diez"
+  },
+  "scraped_at": "2026-02-11T15:14:36.161263"
+}

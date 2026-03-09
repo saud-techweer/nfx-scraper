@@ -1,0 +1,137 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Advisor"
+    ],
+    "location": "Berlin, Germany",
+    "name": "Andreas Ritter",
+    "signalScore": 7
+  },
+  "experience": [
+    {
+      "company": "ARICO LLC",
+      "dates": "2009 - 2014",
+      "position": "MD, Founder"
+    },
+    {
+      "company": "Duke University",
+      "dates": "2005 - 2009",
+      "position": "Endowment, Head of Private equity"
+    },
+    {
+      "company": "Allianz SE",
+      "dates": "2003 - 2005",
+      "position": "Head of Discontinued Operations"
+    },
+    {
+      "company": "Allianz Venture Partners",
+      "dates": "2001 - 2003",
+      "position": "MD"
+    },
+    {
+      "company": "Deutsche Bank AG",
+      "dates": "1997 - 2001",
+      "position": "Strategy, M&A, PWM"
+    },
+    {
+      "company": "Oropos GmbH",
+      "dates": "2015 - Present",
+      "position": "MD, Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Managing Director",
+    "investmentRange": "$4K - $1M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Elliot Levy (DreamIt Ventures)",
+        "Elizabeth Caven (Next Level Ventures)",
+        "Josh Tanenbaum (Rebalance Capital)",
+        "David Miles (ManchesterStory Group)"
+      ],
+      "company": "Trusty.care",
+      "date": "Jul 2021",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.5M"
+    },
+    {
+      "coInvestors": [
+        "Tristan Schaeffer (Worldview Capital)"
+      ],
+      "company": "Nanotronics Imaging",
+      "date": "Oct 2017",
+      "roundSize": "$30M",
+      "stage": "Series D",
+      "totalRaised": "$86M"
+    },
+    {
+      "coInvestors": [
+        "Omar El-Ayat (Euclid Ventures)"
+      ],
+      "company": "BuildingConnected",
+      "date": "Mar 2014",
+      "roundSize": "$1.5M",
+      "stage": "pre-Seed",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeVpKQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--687f036d584287efc2aed7a290b3fe59a2508701/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andreas-ritter_1",
+  "sectorRankings": [
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Diagnostics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-diagnostics-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "andreas-ritter_1",
+  "socials": {
+    "angellist": "https://www.angel.co/p/aritter-oropospe-com",
+    "linkedin": "https://www.linkedin.com/in/andreasritter/"
+  },
+  "scraped_at": "2026-02-27T20:16:30.355707"
+}

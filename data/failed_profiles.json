@@ -1,0 +1,10 @@
+{
+  "failed": [
+    {
+      "slug": "thomas-petersen",
+      "url": "https://signal.nfx.com/investors/thomas-petersen",
+      "error": "Page.goto: Timeout 60000ms exceeded.\nCall log:\n  - navigating to \"https://signal.nfx.com/investors/thomas-petersen\", waiting until \"domcontentloaded\"\n",
+      "timestamp": "2026-02-26T00:18:00.489463"
+    }
+  ]
+}

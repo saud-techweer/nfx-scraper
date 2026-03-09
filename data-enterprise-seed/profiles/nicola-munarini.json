@@ -1,0 +1,53 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "Investor",
+      "Scout"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Nicola Munarini",
+    "signalScore": 176,
+    "website": "https://www.seasideventures.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Seaside Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/seaside-ventures",
+      "position": "Scout"
+    },
+    "investmentRange": "$50K - $500K",
+    "sweetSpot": "$150K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeXRHQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--20d8c723547499d41216278baa38d7d36a1234c5/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nicola-munarini",
+  "sectorRankings": [
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nicola-munarini",
+  "socials": {
+    "angellist": "https://www.angel.co/u/nicola-munarini-2",
+    "crunchbase": "https://www.crunchbase.com/person/nicola-munarini",
+    "linkedin": "https://www.linkedin.com/in/nicola-munarini-b9615b6/",
+    "twitter": "https://www.twitter.com/NicolaMunarini1",
+    "website": "https://www.seasideventures.com/"
+  },
+  "scraped_at": "2026-02-28T02:25:10.359945"
+}

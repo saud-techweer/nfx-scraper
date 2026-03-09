@@ -1,0 +1,48 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Boca Raton, Florida",
+    "name": "Adam Rogers",
+    "website": "https://www.nextcoastventures.com/people"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Next Coast Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/next-coast-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$310M",
+    "investmentRange": "$3.0M - $5.0M",
+    "sweetSpot": "$4.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBelNOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--243d7f76ded8ae259a82dad6ad5c8275d14d688b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-rogers",
+  "sectorRankings": [
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "adam-rogers",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/adam-rogers",
+    "linkedin": "https://www.linkedin.com/in/adammrogers/",
+    "twitter": "https://www.twitter.com/adamr",
+    "website": "https://www.nextcoastventures.com/people"
+  },
+  "scraped_at": "2026-02-26T06:33:15.959388"
+}

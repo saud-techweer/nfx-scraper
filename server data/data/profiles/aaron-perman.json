@@ -1,0 +1,318 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "Austin, Texas",
+    "name": "Aaron Perman",
+    "website": "https://s3vc.com/"
+  },
+  "experience": [
+    {
+      "company": "Tango Health, Inc.",
+      "dates": "2020 - 2021",
+      "position": "Board Member"
+    },
+    {
+      "company": "Levelset",
+      "dates": "2019 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Liveoak Technologies, Inc.",
+      "dates": "2019 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "Qualia",
+      "dates": "2018 - 2018",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Qualia",
+      "dates": "2016 - 2018",
+      "position": "Investor"
+    },
+    {
+      "company": "Invodo",
+      "dates": "2016 - 2018",
+      "position": "Board Member"
+    },
+    {
+      "company": "Western Standard, LLC",
+      "dates": "2011 - 2013",
+      "position": "Analyst"
+    },
+    {
+      "company": "Speedy Computers LLC",
+      "dates": "2005 - 2012",
+      "position": "Owner"
+    },
+    {
+      "company": "Southern California Edison",
+      "dates": "2011 - 2011",
+      "position": "Analyst - Market Strategy and Resource Planning"
+    },
+    {
+      "company": "Astute Technology, Accenture, Young Capital Management, Dormbikes",
+      "dates": "2004 - 2011",
+      "position": "Internships, Early Learnings, etc."
+    },
+    {
+      "company": "Riscosity",
+      "dates": "2023 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Plural",
+      "dates": "2022 - Present",
+      "position": "Board Member"
+    },
+    {
+      "company": "Sudozi",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Hydrolix Inc.",
+      "dates": "2022 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Buildforce",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "HYAS",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "stellar",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Nexus",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Liquibase",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "S3 Ventures",
+      "dates": "2013 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "S3 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/s3-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$250M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 15,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ernie Bio (ForgePoint Capital)"
+      ],
+      "company": "DataBahn",
+      "date": "Jun 2025",
+      "roundSize": "$17M",
+      "stage": "Series A",
+      "totalRaised": "$17M"
+    },
+    {
+      "coInvestors": [
+        "Spencer Foust (Sozo Ventures)"
+      ],
+      "company": "Hydrolix",
+      "date": "Apr 2025",
+      "roundSize": "$80M",
+      "stage": "Series C",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Laura Moreno (L'ATTITUDE Ventures)"
+      ],
+      "company": "Sunthetics",
+      "date": "Nov 2024",
+      "roundSize": "$4M",
+      "stage": "Seed",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "CereTax",
+      "date": "Jun 2024",
+      "roundSize": "$9M",
+      "stage": "Series A",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Riscosity",
+      "date": "Apr 2023",
+      "roundSize": "$7M",
+      "stage": "Seed",
+      "totalRaised": "$7M"
+    },
+    {
+      "coInvestors": [
+        "Brian Schechter (Primary Venture Partners)",
+        "Ajeet Shankar"
+      ],
+      "company": "Plural",
+      "date": "May 2022",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Madeline Darcy (Kaya Ventures)",
+        "Cotter Cunningham (Next Coast Ventures)",
+        "Charlie Plauche (S3 Ventures)",
+        "Brian Smith (S3 Ventures)",
+        "Shilpa Yarlagadda (StartHer)",
+        "Ian Lopatin",
+        "Brian Cruver",
+        "Suhail Doshi",
+        "Jiake Liu",
+        "Vince Thompson",
+        "Thomas Vu"
+      ],
+      "company": "Eterneva",
+      "date": "Jul 2020",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$5.2M"
+    },
+    {
+      "coInvestors": [
+        "Brian Smith (S3 Ventures)"
+      ],
+      "company": "Pivot3",
+      "date": "Mar 2016",
+      "roundSize": "$55M",
+      "stage": "Series H",
+      "totalRaised": "$110M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNis4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a95e3000baa0423b284302889929f8c0b97ddf1c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/aaron-perman",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Digital Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-b-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health IT (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-b-investors"
+    },
+    {
+      "name": "Digital Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-series-a-investors"
+    },
+    {
+      "name": "Digital Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-digital-health-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "aaron-perman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/aaron-perman",
+    "linkedin": "https://www.linkedin.com/in/aperman/",
+    "twitter": "https://www.twitter.com/aaronperman",
+    "website": "https://www.s3vc.com/"
+  },
+  "scraped_at": "2026-02-12T10:51:05.886286"
+}

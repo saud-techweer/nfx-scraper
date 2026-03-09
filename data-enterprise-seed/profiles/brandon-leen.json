@@ -1,0 +1,111 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Brandon Leen",
+    "website": "https://twilio.com/"
+  },
+  "experience": [
+    {
+      "company": "Adobe",
+      "dates": "2015 - 2021",
+      "position": "Senior Director, Corporate Development"
+    },
+    {
+      "company": "J.P. Morgan",
+      "dates": "2014 - 2015",
+      "position": "Investment Banking Associate"
+    },
+    {
+      "company": "RA Capital Advisors",
+      "dates": "2010 - 2012",
+      "position": "Investment Banking Senior Analyst"
+    },
+    {
+      "company": "Quant Economics (n.k.a. Intensity)",
+      "dates": "2007 - 2010",
+      "position": "Senior Analyst"
+    },
+    {
+      "company": "Twilio",
+      "dates": "2021 - Present",
+      "position": "Head of Direct Investing (Twilio Ventures)"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Twilio Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/twilio-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0N2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c892ac874ea403ac72a8894724cf539c76432113/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brandon-leen",
+  "sectorRankings": [
+    {
+      "name": "Messaging (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Messaging (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Messaging (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brandon-leen",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brandon-leen",
+    "linkedin": "https://www.linkedin.com/in/brandonleen/",
+    "website": "https://www.twilio.com/"
+  },
+  "scraped_at": "2026-02-27T20:46:22.559702"
+}

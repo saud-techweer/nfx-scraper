@@ -1,0 +1,167 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Operator"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Justin Dyer",
+    "positionAndFirm": "CIO & Partner for AWM Capital, a modern multi-family office for professional athletes and founders.",
+    "website": "https://awmcap.com/"
+  },
+  "experience": [
+    {
+      "company": "PHC Inc.",
+      "dates": "2016 - 2021",
+      "position": "CIO & COO"
+    },
+    {
+      "company": "Waypoint Wealth Partners",
+      "dates": "2014 - 2016",
+      "position": "Co-CIO and Wealth Manager"
+    },
+    {
+      "company": "Waypoint Wealth Partners",
+      "dates": "2013 - 2014",
+      "position": "Associate Wealth Manager"
+    },
+    {
+      "company": "REM Advisors, LLC",
+      "dates": "2007 - 2013",
+      "position": "Advisor"
+    },
+    {
+      "company": "AWM Capital",
+      "dates": "2019 - Present",
+      "position": "Chief Investment Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "AWM Capital",
+      "firmUrl": "https://signal.nfx.com/firms/awm-capital",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNFdSQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6cdcbba46dc03037f4b0ba5e65f0ea245158e249/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/justin-dyer",
+  "sectorRankings": [
+    {
+      "name": "Parenting/Families (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Parenting/Families (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-a-investors"
+    },
+    {
+      "name": "Parenting/Families (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-b-investors"
+    },
+    {
+      "name": "Insurance (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-b-investors"
+    },
+    {
+      "name": "Logistics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_b-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Logistics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-series_a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Cybersecurity (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-b-investors"
+    },
+    {
+      "name": "Cybersecurity (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-series-a-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-b-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Therapeutics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-series-b-investors"
+    },
+    {
+      "name": "Therapeutics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-series-a-investors"
+    },
+    {
+      "name": "Therapeutics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-therapeutics-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "justin-dyer",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/justin-dyer-cfa-cfp/",
+    "website": "https://www.awmcap.com/"
+  },
+  "scraped_at": "2026-03-03T21:23:48.435809"
+}

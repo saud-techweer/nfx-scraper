@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "United Kingdom",
+    "name": "Akash Bajwa",
+    "website": "https://earlybird.com/team/"
+  },
+  "experience": [
+    {
+      "company": "EVCA",
+      "dates": "2022 - Present",
+      "position": "London Chapter Lead"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Earlybird Venture Capital",
+      "firmUrl": "https://signal.nfx.com/firms/earlybird-venture-capital",
+      "position": "Investor"
+    },
+    "fundSize": "€350m",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBejRWQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--900602b895aced02d8bc05cc4b696b0ef2ee172d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/akash-bajwa",
+  "sectorRankings": [
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "akash-bajwa",
+  "socials": {
+    "angellist": "https://www.angel.co/u/akash-bajwa",
+    "crunchbase": "https://www.crunchbase.com/person/akash-bajwa-0843",
+    "linkedin": "https://www.linkedin.com/in/akashbajwa/",
+    "twitter": "https://www.twitter.com/AkashBajwa96",
+    "website": "https://www.earlybird.com/team/"
+  },
+  "scraped_at": "2026-02-27T23:49:04.662810"
+}

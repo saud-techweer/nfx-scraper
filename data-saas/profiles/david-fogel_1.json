@@ -1,0 +1,240 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Scout",
+      "Operator"
+    ],
+    "location": "London",
+    "name": "David Fogel",
+    "signalScore": 106,
+    "website": "https://alma-angels.com/"
+  },
+  "experience": [
+    {
+      "company": "Wayra",
+      "dates": "2014 - 2016",
+      "position": "Deputy Director & Head of Acceleration @Wayra UK"
+    },
+    {
+      "company": "Skillnet",
+      "dates": "2012 - 2014",
+      "position": "Manager"
+    },
+    {
+      "company": "IE BUSINESS SCHOOL",
+      "dates": "2010 - 2011",
+      "position": "MBA Candidate"
+    },
+    {
+      "company": "Instituto de Empresa Business School",
+      "dates": "2010 - 2011",
+      "position": "Associate @Venture Lab"
+    },
+    {
+      "company": "NEVEQ",
+      "dates": "2011 - 2011",
+      "position": "Summer Associate"
+    },
+    {
+      "company": "Aman Group",
+      "dates": "2007 - 2010",
+      "position": "Director of Sales & Marketing Financial Department"
+    },
+    {
+      "company": "Aman Group",
+      "dates": "2009 - 2010",
+      "position": "Director Sales & Marketing – FormIT Green IT Department"
+    },
+    {
+      "company": "Aman Computers",
+      "dates": "2006 - 2007",
+      "position": "Manager of Sales & Marketing"
+    },
+    {
+      "company": "Menora Mivtachim Pension Ltd",
+      "dates": "2005 - 2006",
+      "position": "Marketing Intern"
+    },
+    {
+      "company": "ISRAELI DEFENSE FORCES – NAVY",
+      "dates": "2002",
+      "position": "Head of Defense Systems, Non-Commissioned Officer"
+    },
+    {
+      "company": "ISRAELI DEFENSE FORCES – NAVY",
+      "dates": "2000",
+      "position": "Chief Technician, Defense Systems"
+    },
+    {
+      "company": "Alma Angels",
+      "dates": "2019 - Present",
+      "position": "Co-founder"
+    },
+    {
+      "company": "Accelerated Digital Ventures",
+      "dates": "2016 - Present",
+      "position": "Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alma Angels",
+      "firmUrl": "https://signal.nfx.com/firms/alma-angels",
+      "position": "Investor"
+    },
+    "fundSize": "€271.5M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$3.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Crypto Quantique",
+      "date": "Sep 2019",
+      "roundSize": "$8M",
+      "stage": "Seed",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Mandeep Singh"
+      ],
+      "company": "Urban Massage",
+      "date": "May 2019",
+      "roundSize": "$10M",
+      "stage": "Series B",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Buffalogrid",
+      "date": "Dec 2018",
+      "roundSize": "$3.8M",
+      "stage": "Seed",
+      "totalRaised": "$3.8M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lingumi",
+      "date": "Apr 2018",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$1.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "CharlieHR",
+      "date": "Mar 2016",
+      "roundSize": "$1.7M",
+      "stage": "Seed",
+      "totalRaised": "$1.7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbFlEIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--f409f1e6570a8f6ae54f7594a753fed8bbbe0337/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-fogel_1",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-series-a-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "david-fogel_1",
+  "socials": {
+    "angellist": "https://www.angel.co/david-fogel",
+    "crunchbase": "https://www.crunchbase.com/person/david-fogel",
+    "linkedin": "https://www.linkedin.com/in/fogeldavid/",
+    "website": "https://www.alma-angels.com/"
+  },
+  "scraped_at": "2026-02-26T10:13:13.841970"
+}

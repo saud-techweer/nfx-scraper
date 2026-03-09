@@ -1,0 +1,60 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Matt Tucker"
+  },
+  "experience": [],
+  "investingProfile": {
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Ronald Conway Sr. (SV Angel)",
+        "Ron Conway (SV Angel)",
+        "R \"Ray\" Wang (Mindful Venture Capital)",
+        "Adam Nash (Daffy)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Steven Trieu"
+      ],
+      "company": "Overlay",
+      "date": "May 2015",
+      "roundSize": "$1.5M",
+      "stage": "Angel Round",
+      "totalRaised": "$1.5M"
+    }
+  ],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/matt-tucker",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "matt-tucker",
+  "socials": {
+    "angellist": "https://www.angel.co/matttucker",
+    "crunchbase": "https://www.crunchbase.com/person/matt-tucker",
+    "twitter": "https://www.twitter.com/MattTucker"
+  },
+  "scraped_at": "2026-02-27T23:43:29.393592"
+}

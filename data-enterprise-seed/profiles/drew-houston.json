@@ -1,0 +1,100 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Investor",
+      "CEO"
+    ],
+    "location": "San Francisco, California",
+    "name": "Drew Houston",
+    "positionAndFirm": "CEO, Dropbox",
+    "website": "http://dropbox.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $50K",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Greg Rosen (BoxGroup)",
+        "Andrew Chen (Andreessen Horowitz)",
+        "David Ulevitch (Andreessen Horowitz)",
+        "Harry Stebbings (20VC)",
+        "Andrea Funsten (Basecamp Fund)",
+        "April Underwood (Adverb Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "Scott Belsky",
+        "Howie Liu"
+      ],
+      "company": "Balsa",
+      "date": "Oct 2020",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Jerry Yang (AME Cloud Ventures)",
+        "Avichal Garg (Electric Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Max Levchin (Scifi Vc)",
+        "Jerry Yang (Hardware Club)",
+        "Ruchi Sanghvi (South Park Commons)",
+        "Mariam Naficy (Heretic Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Garry Tan (Y Combinator)",
+        "Ben Davenport",
+        "Julia Hartz",
+        "Aaron Levie"
+      ],
+      "company": "Color",
+      "date": "Apr 2015",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMWJjQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--21489c1a0007db8add4661ba9ad8f83232ed90b1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/drew-houston",
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "drew-houston",
+  "socials": {
+    "angellist": "https://www.angel.co/p/drewhouston",
+    "crunchbase": "https://www.crunchbase.com/person/drew-houston",
+    "linkedin": "https://www.linkedin.com/in/drewhouston/",
+    "twitter": "https://www.twitter.com/drewhouston"
+  },
+  "scraped_at": "2026-02-27T21:36:53.400700"
+}

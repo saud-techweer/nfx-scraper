@@ -1,0 +1,153 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "CEO"
+    ],
+    "location": "Zurich, Switzerland",
+    "name": "Klaus Hommels",
+    "website": "http://www.lakestar.com/"
+  },
+  "experience": [
+    {
+      "company": "AOL Germany",
+      "dates": "Present",
+      "position": "Board Member"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lakestar",
+      "firmUrl": "https://signal.nfx.com/firms/lakestar",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$490M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 12,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "CrossLend GmBH",
+      "date": "Sep 2018",
+      "roundSize": "$14M",
+      "stage": "Series B",
+      "totalRaised": "$14M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Auterion",
+      "date": "Sep 2018",
+      "roundSize": "$10M",
+      "stage": "Seed",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Avrios",
+      "date": "Jul 2018",
+      "roundSize": "$4M",
+      "stage": "Venture Round",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Arianna Simpson (Andreessen Horowitz)",
+        "Reid Hoffman (Greylock)",
+        "Katie Haun (Haun Ventures)",
+        "Julia Popowitz (Broadway Angels)",
+        "Tanguy Chau (formation|8)",
+        "Linda Xie (Scalar Capital)",
+        "Vijay Pandurangan (Olima Ventures)",
+        "Nicolas Brand (Lakestar)",
+        "Nitesh Banta (Stellar Capital)",
+        "Elad Gil"
+      ],
+      "company": "Celo",
+      "date": "Jun 2018",
+      "roundSize": "$6.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$6.5M"
+    },
+    {
+      "coInvestors": [
+        "Chris Bischoff (General Catalyst)",
+        "Oliver Heimes (Lakestar)",
+        "Nat Turner (Operator Partners)"
+      ],
+      "company": "Cedar",
+      "date": "Jun 2018",
+      "roundSize": "$36M",
+      "stage": "Series B",
+      "totalRaised": "$36M"
+    },
+    {
+      "coInvestors": [
+        "Keith Rabois (Khosla Ventures)",
+        "Manu Gupta (Lakestar)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Glenn Solomon (Notable Capital (formerly GGV Capital))",
+        "Anton Levy (General Atlantic)",
+        "Louis Beryl"
+      ],
+      "company": "Opendoor",
+      "date": "Jun 2018",
+      "roundSize": "$330M",
+      "stage": "Series E",
+      "totalRaised": "$330M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Amuse.io",
+      "date": "May 2018",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$16M"
+    },
+    {
+      "coInvestors": [
+        "Martin Mignot (Index Ventures)",
+        "Dan Jones (Jigsaw VC)",
+        "David Murray-Hundley (Pario Ventures)",
+        "Tom Stafford (DST Global)",
+        "Ralph Baddour (Badhouse Ventures)",
+        "Stephen Romanoff"
+      ],
+      "company": "Revolut",
+      "date": "Apr 2018",
+      "roundSize": "$250M",
+      "stage": "Series C",
+      "totalRaised": "$250M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemUxQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e43db2d897e354f25033fbc1ed3b44af4a7553a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/klaus-hommels",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "klaus-hommels",
+  "socials": {
+    "angellist": "https://www.angel.co/p/hommels",
+    "crunchbase": "https://www.crunchbase.com/person/klaus-hommels",
+    "website": "https://www.lakestar.com/"
+  },
+  "scraped_at": "2026-02-27T23:12:12.969961"
+}

@@ -1,0 +1,380 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Attorney"
+    ],
+    "location": "Tel Aviv-Yafo, Israel",
+    "name": "Kfir Kachlon",
+    "signalScore": 212,
+    "website": "https://www.91vc.fund/"
+  },
+  "experience": [
+    {
+      "company": "Techstars",
+      "dates": "2023 - 2023",
+      "position": "Mentor"
+    },
+    {
+      "company": "Kahoona",
+      "dates": "2021 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Edge Gaming",
+      "dates": "2021 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "InfiniGrow",
+      "dates": "2021 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "RealView Imaging",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Dataloop AI",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Tovala",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "AnD Ventures",
+      "dates": "2020 - 2021",
+      "position": "Founder & General Partner"
+    },
+    {
+      "company": "SeeTrue AI",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Cybersixgill",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "CytoReason",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "BlueNalu",
+      "dates": "2020 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Tomorrow.io",
+      "dates": "2019 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "Brodmann17",
+      "dates": "2019 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "BOL Pharma",
+      "dates": "2018 - 2021",
+      "position": "Investor"
+    },
+    {
+      "company": "OurCrowd",
+      "dates": "2017 - 2020",
+      "position": "Investments Principal"
+    },
+    {
+      "company": "OurCrowd",
+      "dates": "2017 - 2020",
+      "position": "Principal"
+    },
+    {
+      "company": "Foretellix",
+      "dates": "2019 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "VAYAVISION - A LeddarTech Company",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "7thirty",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "Neura Inc.",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "Unispectral",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "JUMP Bikes",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    },
+    {
+      "company": "L'etape Cycling Apparel",
+      "dates": "2014 - 2019",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "CONTROP Precision Technologies",
+      "dates": "2015 - 2017",
+      "position": "Legal Counsel"
+    },
+    {
+      "company": "CONTROP Precision Technologies Ltd.",
+      "dates": "2015 - 2017",
+      "position": "Tech Lawyer"
+    },
+    {
+      "company": "Omrix Biopharmaceuticals",
+      "dates": "2012 - 2015",
+      "position": "Legal Counsel"
+    },
+    {
+      "company": "Lamay Sider Rahat Tsiddon Fink Advocates & Notaries",
+      "dates": "2014 - 2015",
+      "position": "Tech Lawyer"
+    },
+    {
+      "company": "Dardik, Gross & Co law office",
+      "dates": "2010 - 2012",
+      "position": "Tech and Commercial Lawyer"
+    },
+    {
+      "company": "Jewish Agency",
+      "dates": "2011 - 2011",
+      "position": "Specialist at URJ Camp Newman"
+    },
+    {
+      "company": "Cycling Trading Company (CTC)",
+      "dates": "2007 - 2010",
+      "position": "Trek Israel, bicycle shop mechanic"
+    },
+    {
+      "company": "Israeli Air Force",
+      "dates": "2003 - 2006",
+      "position": "Staff Sergeant,Team Commander, Tech Division, 135th \"Air Kings\" Squadron."
+    },
+    {
+      "company": "91 Ventures",
+      "dates": "2022 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Coolwater",
+      "dates": "2022 - Present",
+      "position": "Member of cohort #4"
+    },
+    {
+      "company": "91 Ventures",
+      "dates": "2022 - Present",
+      "position": "Founder & Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "91 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/91-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $1.5M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Carlos Perez Pla (Plug & Play Ventures)"
+      ],
+      "company": "Kahoona",
+      "date": "Nov 2021",
+      "roundSize": "$4.5M",
+      "stage": "PreSeed",
+      "totalRaised": "$4.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "InfiniGrow",
+      "date": "May 2021",
+      "roundSize": "$5.3M",
+      "stage": "Seed Round",
+      "totalRaised": "$5.3M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Edge Gaming",
+      "date": "Apr 2021",
+      "roundSize": "$2.2M",
+      "stage": "PreSeed",
+      "totalRaised": "$2.2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "BlueNalu",
+      "date": "Jan 2021",
+      "roundSize": "$60M",
+      "stage": "Convertible Note",
+      "totalRaised": "$60M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Dataloop AI",
+      "date": "Oct 2020",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Brodmann17",
+      "date": "Mar 2019",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Kevin O'Hara (Trivian Capital)",
+        "Noah Pickholtz"
+      ],
+      "company": "BOL Pharma",
+      "date": "Dec 2018",
+      "roundSize": "$30M",
+      "stage": "Convertible Note",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Moshe Friedman (Amdocs Ventures)"
+      ],
+      "company": "Neura",
+      "date": "Jan 2016",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$13M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0V0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9ac331263930c8bfb31610dc21e2fc6b6352c925/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/kfir-kachlon",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "kfir-kachlon",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/kfirkachlon/",
+    "website": "https://www.91vc.fund/"
+  },
+  "scraped_at": "2026-02-27T01:49:23.674559"
+}

@@ -1,0 +1,105 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Evan Lodge",
+    "signalScore": 47,
+    "website": "https://orangedao.xyz/"
+  },
+  "experience": [
+    {
+      "company": "Gratitude Plus",
+      "dates": "2022 - 2023",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Vivian Health",
+      "dates": "2019 - 2022",
+      "position": "Head of Product @ Vivian Health (An IAC company)"
+    },
+    {
+      "company": "Orange DAO",
+      "dates": "2021 - 2022",
+      "position": "LP & 🍊 DAO member"
+    },
+    {
+      "company": "Y Combinator",
+      "dates": "2018 - 2019",
+      "position": "Advisor | Startup School 2018"
+    },
+    {
+      "company": "HigherMe",
+      "dates": "2014 - 2018",
+      "position": "Co-Founder, Head of Product (Acquired)"
+    },
+    {
+      "company": "Daysheets",
+      "dates": "2021 - Present",
+      "position": "Investor & Advisor"
+    },
+    {
+      "company": "Glass Water Labs",
+      "dates": "2018 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Pioneer Fund",
+      "dates": "2017 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Orange Fund (Orange DAO)",
+      "firmUrl": "https://signal.nfx.com/firms/orange-fund",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3Y4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--3ddc0ff410347815c83718917405ba55d87f8f70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/evan-lodge",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "evan-lodge",
+  "socials": {
+    "angellist": "https://www.angel.co/p/evan-lodge",
+    "crunchbase": "https://www.crunchbase.com/person/evan-lodge",
+    "linkedin": "https://www.linkedin.com/in/evanlodge/",
+    "twitter": "https://www.twitter.com/evanlodge",
+    "website": "https://www.orangedao.xyz/"
+  },
+  "scraped_at": "2026-03-05T19:25:57.137736"
+}

@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Lisa Feria",
+    "website": "https://straydogcapital.com/about-us/team/"
+  },
+  "experience": [
+    {
+      "company": "Procter & Gamble",
+      "dates": "2010 - 2015",
+      "position": "Charmin and Puffs Brand Manager"
+    },
+    {
+      "company": "Stray Dog Capital",
+      "dates": "2015 - Present",
+      "position": "CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Stray Dog Capital",
+      "firmUrl": "https://signal.nfx.com/firms/stray-dog-capital",
+      "position": ""
+    },
+    "fundSize": "$25.6M",
+    "investmentsOnRecord": 1
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Nick Mindel (Amberstone Ventures)"
+      ],
+      "company": "nutpods",
+      "date": "Dec 2016",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcjBJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7e48b05b0f99fa83cf7636e7b6ab6c5392ce63fc/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lisa-feria",
+  "sectorRankings": [
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "lisa-feria",
+  "socials": {
+    "angellist": "https://www.angel.co/lisa-feria",
+    "crunchbase": "https://www.crunchbase.com/person/lisa-feria",
+    "linkedin": "https://www.linkedin.com/in/lisa-feria-411b5744/",
+    "twitter": "https://www.twitter.com/lisa_feria",
+    "website": "https://www.straydogcapital.com/about-us/team/"
+  },
+  "scraped_at": "2026-03-03T21:55:37.166040"
+}

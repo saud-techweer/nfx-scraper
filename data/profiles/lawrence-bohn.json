@@ -1,0 +1,258 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Boston, Massachusetts",
+    "name": "Lawrence Bohn",
+    "website": "https://generalcatalyst.com/team/larry-bohn/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "General Catalyst",
+      "firmUrl": "https://signal.nfx.com/firms/general-catalyst",
+      "position": "Managing Director"
+    },
+    "fundSize": "$1.1B",
+    "investmentRange": "$500K - $10.0M",
+    "investmentsOnRecord": 86,
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Paul Kwan (General Catalyst)",
+        "Henry Kravis"
+      ],
+      "company": "PhysicsX",
+      "date": "Jun 2025",
+      "roundSize": "$140M",
+      "stage": "Series B",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [
+        "Carsten Thoma (La Famiglia)",
+        "Xavier Lorphelin (Serena Capital)",
+        "Laurel Bowden (83North)",
+        "Jonathan Benhamou (Alven)",
+        "Bastian Nominacher",
+        "Alexis Le-Quoc",
+        "Florian Douetteau"
+      ],
+      "company": "Pelico",
+      "date": "Jun 2025",
+      "roundSize": "$40M",
+      "stage": "Series Unknown",
+      "totalRaised": "$72M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ZAGENO",
+      "date": "May 2023",
+      "roundSize": "$33M",
+      "stage": "Series Unknown",
+      "totalRaised": "$33M"
+    },
+    {
+      "coInvestors": [
+        "Max Rimpel (General Catalyst)",
+        "Luca Eisenstecken (Atomico)",
+        "Kyang Yung (INKEF Capital)",
+        "Stephan Schambach"
+      ],
+      "company": "ChannelEngine",
+      "date": "Mar 2022",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$56M"
+    },
+    {
+      "coInvestors": [
+        "David Frankel (Founder Collective)",
+        "Paul Sagan (General Catalyst)",
+        "Freddie Martignetti (Highland Capital Partners)",
+        "Jeff Arnold",
+        "Greg Brockman"
+      ],
+      "company": "B12",
+      "date": "Oct 2021",
+      "roundSize": "$16M",
+      "stage": "Series A",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [
+        "David Frankel (Founder Collective)",
+        "Tim Tully (Menlo Ventures)",
+        "Aaron Peterman",
+        "Bob Muglia"
+      ],
+      "company": "JuliaHub",
+      "date": "Jul 2021",
+      "roundSize": "$25M",
+      "stage": "Series A",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Tom Eisenmann",
+        "David Petraeus"
+      ],
+      "company": "Mark43",
+      "date": "Jul 2021",
+      "roundSize": "$100M",
+      "stage": "Series E",
+      "totalRaised": "$180M"
+    },
+    {
+      "coInvestors": [
+        "Steven Sarracino (Activant Capital)",
+        "Stephan Schambach"
+      ],
+      "company": "NewStore",
+      "date": "Jul 2021",
+      "roundSize": "$45M",
+      "stage": "Series B",
+      "totalRaised": "$150M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMzh3QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--9f640bf43d1e1cf348ec19a68d841c753002b835/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lawrence-bohn",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-b-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "lawrence-bohn",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/lawrence-bohn",
+    "linkedin": "https://www.linkedin.com/in/labohn/",
+    "twitter": "https://www.twitter.com/larrybohn?lang=en",
+    "website": "https://www.generalcatalyst.com/team/larry-bohn/"
+  },
+  "scraped_at": "2026-02-11T11:33:41.418459"
+}

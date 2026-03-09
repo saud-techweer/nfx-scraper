@@ -1,0 +1,121 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "New York",
+    "name": "David Scalzo",
+    "website": "http://kirenaga.com/leadership/"
+  },
+  "experience": [
+    {
+      "company": "Advisor Engine",
+      "dates": "2015 - 2020",
+      "position": "Co-Founder and Director"
+    },
+    {
+      "company": "Credit Suisse",
+      "dates": "2010 - 2013",
+      "position": "COO, Sales and Client Management - Securities Division"
+    },
+    {
+      "company": "Citadel Solutions LLC",
+      "dates": "2008 - 2009",
+      "position": "Head of Investor Relations"
+    },
+    {
+      "company": "Citadel Solutions LLC",
+      "dates": "2007 - 2009",
+      "position": "Director, Account Management"
+    },
+    {
+      "company": "Bear Stearns",
+      "dates": "2002 - 2007",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Precision Plating Company",
+      "dates": "1995 - 2000",
+      "position": "Director of Operations"
+    },
+    {
+      "company": "PRISMA",
+      "dates": "2021 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Censys Technologies Corporation",
+      "dates": "2020 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Violet Defense",
+      "dates": "2020 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "4mativ Technologies",
+      "dates": "2019 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Northwestern University",
+      "dates": "2018 - Present",
+      "position": "Fund Advisor, Northwestern University Wildcat Athletic Venture Enterprise Fund (NU/WAVE)"
+    },
+    {
+      "company": "Spintech Holdings, Inc.",
+      "dates": "2018 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Kirenaga Partners",
+      "dates": "2013 - Present",
+      "position": "Founder and Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Kirenaga",
+      "firmUrl": "https://signal.nfx.com/firms/kirenaga",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$1M - $3.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDJ4QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0cde63f007b90a6f2328c810f957f956572ddc68/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-scalzo",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "david-scalzo",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-scalzo",
+    "linkedin": "https://www.linkedin.com/in/david-scalzo-a0a6a15/",
+    "twitter": "https://www.twitter.com/scalzo_david",
+    "website": "https://www.kirenaga.com/leadership/"
+  },
+  "scraped_at": "2026-03-03T16:59:57.652425"
+}

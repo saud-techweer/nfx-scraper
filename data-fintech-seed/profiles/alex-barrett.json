@@ -1,0 +1,190 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Advisor",
+      "Founder"
+    ],
+    "location": "Montreal",
+    "name": "Alex Barrett",
+    "signalScore": 156,
+    "website": "https://www.boon.fund/"
+  },
+  "experience": [
+    {
+      "company": "Inovia Capital",
+      "dates": "2021 - Present",
+      "position": "Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Boon Fund",
+      "firmUrl": "https://signal.nfx.com/firms/boon-fund",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Thacker (Greylock)"
+      ],
+      "company": "Wealthsimple",
+      "date": "May 2021",
+      "roundSize": "$750",
+      "stage": "Series D",
+      "totalRaised": "$86M"
+    },
+    {
+      "coInvestors": [
+        "Isaac Souweine"
+      ],
+      "company": "Botpress",
+      "date": "Apr 2021",
+      "roundSize": "$18",
+      "stage": "Series A",
+      "totalRaised": "$18"
+    },
+    {
+      "coInvestors": [],
+      "company": "Rewind.com",
+      "date": "Jan 2021",
+      "roundSize": "$15",
+      "stage": "Series A",
+      "totalRaised": "$15"
+    },
+    {
+      "coInvestors": [],
+      "company": "RenoRun",
+      "date": "Sep 2019",
+      "roundSize": "$18",
+      "stage": "Series A",
+      "totalRaised": "$18"
+    },
+    {
+      "coInvestors": [],
+      "company": "Alayacare",
+      "date": "Aug 2018",
+      "roundSize": "$14",
+      "stage": "Series A",
+      "totalRaised": "$14"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNWJtQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f0df5a30ec9b80ff2cdadb3e12533ba1ae0a33a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-barrett",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-b-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-b-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Payments (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-b-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Travel (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-b-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alex-barrett",
+  "socials": {
+    "angellist": "https://www.angel.co/u/alex-barrett-7",
+    "crunchbase": "https://www.crunchbase.com/person/alexander-barrett",
+    "linkedin": "https://www.linkedin.com/in/alex-barrett-92aa3b3b/",
+    "twitter": "https://www.twitter.com/abarrettmtl",
+    "website": "https://www.boon.fund/"
+  },
+  "scraped_at": "2026-02-27T23:53:32.818326"
+}

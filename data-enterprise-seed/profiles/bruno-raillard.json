@@ -1,0 +1,46 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Paris, France",
+    "name": "Bruno Raillard",
+    "signalScore": 1,
+    "website": "https://www.frst.vc/#Team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Frst",
+      "firmUrl": "https://signal.nfx.com/firms/frst",
+      "position": "Partner"
+    },
+    "fundSize": "€100M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN1lYQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--81ff4144efb93af7bc15333c6a895d65f555b59c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/bruno-raillard",
+  "sectorRankings": [
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "bruno-raillard",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brunoraillard",
+    "crunchbase": "https://www.crunchbase.com/person/bruno-raillard",
+    "linkedin": "https://www.linkedin.com/in/brunoraillard/",
+    "twitter": "https://www.twitter.com/brunoraillard",
+    "website": "https://www.frst.vc/#Team"
+  },
+  "scraped_at": "2026-02-27T20:52:51.667147"
+}

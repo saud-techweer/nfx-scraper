@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Arun Mathew",
+    "website": "https://accel.com/team/arun-mathew"
+  },
+  "experience": [
+    {
+      "company": "Insight Venture Partners",
+      "dates": "2006 - 2009",
+      "position": "Associate"
+    },
+    {
+      "company": "Accel Partners",
+      "dates": "2009 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Accel",
+      "firmUrl": "https://signal.nfx.com/firms/accel",
+      "position": "Partner"
+    },
+    "fundSize": "$18.3B",
+    "investmentRange": "$15.0M - $70.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbm5aIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--915db136dd9f8d2ae754713c0dfc701d22f522c9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/arun-mathew",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Security (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "arun-mathew",
+  "socials": {
+    "angellist": "https://www.angel.co/u/arun-mathew",
+    "crunchbase": "https://www.crunchbase.com/person/arun-mathew",
+    "linkedin": "https://www.linkedin.com/in/arun-mathew-b7186412/",
+    "twitter": "https://www.twitter.com/ammathew",
+    "website": "https://www.accel.com/team/arun-mathew"
+  },
+  "scraped_at": "2026-02-26T08:30:55.836758"
+}

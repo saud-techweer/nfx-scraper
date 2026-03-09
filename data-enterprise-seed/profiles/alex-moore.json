@@ -1,0 +1,58 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Alex Moore",
+    "signalScore": 73,
+    "website": "https://8vc.com/team/alex-moore/#"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "8VC",
+      "firmUrl": "https://signal.nfx.com/firms/8vc",
+      "position": "Partner"
+    },
+    "fundSize": "$880M",
+    "investmentRange": "$3.0M - $30.0M",
+    "sweetSpot": "$16.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOHU3QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7eac308a041a5b3b39a53c225b4818adaf584400/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-moore",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alex-moore",
+  "socials": {
+    "angellist": "https://www.angel.co/p/alexdmoore",
+    "crunchbase": "https://www.crunchbase.com/person/alex-moore",
+    "linkedin": "https://www.linkedin.com/in/alex-moore-4639b91/",
+    "twitter": "https://www.twitter.com/alexdmoore",
+    "website": "https://www.8vc.com/team/alex-moore/"
+  },
+  "scraped_at": "2026-02-27T20:02:32.680150"
+}

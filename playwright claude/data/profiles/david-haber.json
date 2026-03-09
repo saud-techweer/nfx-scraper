@@ -1,0 +1,171 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "David Haber",
+    "signalScore": 533,
+    "website": "https://a16z.com/author/david-haber/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Andreessen Horowitz",
+      "firmUrl": "https://signal.nfx.com/firms/andreessen-horowitz",
+      "position": "General Partner"
+    },
+    "fundSize": "$2.2B",
+    "investmentRange": "$500K - $40.0M",
+    "investmentsOnRecord": 22,
+    "sweetSpot": "$20.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "James Ephrati (Lightspeed Venture Partners)",
+        "James Kuklinski (Spark Capital)",
+        "Tim Tully (Menlo Ventures)",
+        "Sep Kamvar"
+      ],
+      "company": "Eve",
+      "date": "Sep 2025",
+      "roundSize": "$100M",
+      "stage": "Series B",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [],
+      "company": "ModernFi",
+      "date": "Sep 2025",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$59M"
+    },
+    {
+      "coInvestors": [
+        "Caio Vinicius Mayoli Bolognesi (monashees)",
+        "Marcelo Lima (monashees)",
+        "Pierpaolo Barbieri",
+        "Mario Gabriele",
+        "Pedro Franceschi",
+        "Chris Murphy"
+      ],
+      "company": "NG.CASH",
+      "date": "Jul 2025",
+      "roundSize": "$27M",
+      "stage": "Series B",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Marc Andrusko (Andreessen Horowitz)",
+        "Ali Partovi (Neo)",
+        "Alexandra Prosszer (Btomorrow Ventures)",
+        "Henry Kravis"
+      ],
+      "company": "Moment",
+      "date": "Jul 2025",
+      "roundSize": "$36M",
+      "stage": "Series B",
+      "totalRaised": "$58M"
+    },
+    {
+      "coInvestors": [
+        "Barbod Namini (HV Capital)",
+        "Alexander Joel-Carbonell (HV Capital)",
+        "Kaushik Subramanian",
+        "Emmanuel Thomassin",
+        "Daniel Krauss",
+        "Dominik Richter"
+      ],
+      "company": "Payrails",
+      "date": "Jun 2025",
+      "roundSize": "$32M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Crux",
+      "date": "Apr 2025",
+      "roundSize": "$50M",
+      "stage": "Series B",
+      "totalRaised": "$68M"
+    },
+    {
+      "coInvestors": [
+        "Marc Andrusko (Andreessen Horowitz)"
+      ],
+      "company": "Camber",
+      "date": "Feb 2025",
+      "roundSize": "$30M",
+      "stage": "Series B",
+      "totalRaised": "$30M"
+    },
+    {
+      "coInvestors": [
+        "Henry Kravis"
+      ],
+      "company": "Setpoint.io",
+      "date": "Aug 2024",
+      "roundSize": "$31M",
+      "stage": "Series B",
+      "totalRaised": "$74M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMkdNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8b013ecc2c4719d6f7fed94fe65dacb530db4873/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-haber",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "david-haber",
+  "socials": {
+    "angellist": "https://www.angel.co/p/dhaber",
+    "crunchbase": "https://www.crunchbase.com/person/david-haber",
+    "linkedin": "https://www.linkedin.com/in/haber/",
+    "twitter": "https://www.twitter.com/dhaber",
+    "website": "https://www.a16z.com/author/david-haber/"
+  },
+  "scraped_at": "2026-02-11T11:35:11.962467"
+}

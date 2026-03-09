@@ -1,0 +1,206 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Jacob Colker",
+    "signalScore": 366,
+    "website": "https://incubator.allenai.org/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Allen Institute for Artificial Intelligence Incubator (AI2)",
+      "firmUrl": "https://signal.nfx.com/firms/allen-institute-for-ai-accelerator",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$50K - $1M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Ozette.ai",
+      "date": "Jan 2021",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "GetPanda.ai",
+      "date": "Jun 2020",
+      "roundSize": "$3.3M",
+      "stage": "Seed",
+      "totalRaised": "$3.3M"
+    },
+    {
+      "coInvestors": [
+        "Kirby Winfield (Ascend Ventures)"
+      ],
+      "company": "WhyLabs.ai",
+      "date": "Jan 2020",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Tim Porter (Madrona Ventures)"
+      ],
+      "company": "Lexion",
+      "date": "Mar 2019",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "WellSaidLabs.com",
+      "date": "Mar 2019",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [
+        "Lauren Krainski (Allen Institute for Artificial Intelligence Incubator (AI2))"
+      ],
+      "company": "Blue Canoe",
+      "date": "Jun 2018",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1.4M"
+    },
+    {
+      "coInvestors": [
+        "Matt Mcilwain (Madrona Ventures)",
+        "Jeff Peters (Ibex Investors)"
+      ],
+      "company": "XNOR.ai",
+      "date": "Jun 2017",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [
+        "Lauren Krainski (Allen Institute for Artificial Intelligence Incubator (AI2))"
+      ],
+      "company": "Kitt.ai",
+      "date": "Jun 2017",
+      "roundSize": "$1",
+      "stage": "Pre-Seed",
+      "totalRaised": "$1"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaW9JIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--442d4ce100142d0c60bda61f0234d6e551cb8027/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jacob-colker",
+  "sectorRankings": [
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-pre-seed-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "IoT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Manufacturing (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-manufacturing-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "jacob-colker",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jacob-colker",
+    "linkedin": "https://www.linkedin.com/in/jacobcolker/",
+    "website": "https://incubator.allenai.org/"
+  },
+  "scraped_at": "2026-02-27T00:38:52.175531"
+}

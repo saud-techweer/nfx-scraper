@@ -1,0 +1,93 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Stanford, California",
+    "name": "Olivia Moore",
+    "signalScore": 86,
+    "website": "https://a16z.com/author/olivia-moore/"
+  },
+  "experience": [
+    {
+      "company": "Highland Capital Partners",
+      "dates": "2017 - 2017",
+      "position": "Associate"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2016 - 2017",
+      "position": "Analyst - Alternative Investments and Manager Selection"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2015 - 2016",
+      "position": "Intern"
+    },
+    {
+      "company": "Cardinal Ventures",
+      "dates": "2015 - 2016",
+      "position": "Co-Creator/Director"
+    },
+    {
+      "company": "Goldman Sachs",
+      "dates": "2014 - 2014",
+      "position": "Summer Analyst - Investment Management Division"
+    },
+    {
+      "company": "Highland Capital Partners",
+      "dates": "2014 - 2014",
+      "position": "Investment Team Intern"
+    },
+    {
+      "company": "The Stanford Daily Newspaper",
+      "dates": "2012 - 2013",
+      "position": "Research and Technology Desk Editor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Andreessen Horowitz",
+      "firmUrl": "https://signal.nfx.com/firms/andreessen-horowitz",
+      "position": "Partner"
+    },
+    "fundSize": "$2.2B",
+    "investmentRange": "$10K - $100.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBODZNQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--a66140c8b042dc9f4874b57857792bad3c411b12/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/olivia-moore",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "olivia-moore",
+  "socials": {
+    "angellist": "https://www.angel.co/u/olivia-moore",
+    "crunchbase": "https://www.crunchbase.com/person/olivia-moore",
+    "linkedin": "https://www.linkedin.com/in/oliviamoore94/",
+    "twitter": "https://www.twitter.com/venturetwins/",
+    "website": "https://www.a16z.com/author/olivia-moore/"
+  },
+  "scraped_at": "2026-02-11T10:04:16.856706"
+}

@@ -1,0 +1,223 @@
+{
+  "basicInfo": {
+    "name": "Roman Beloded",
+    "investorTypes": [
+      "VC",
+      "Angel"
+    ],
+    "website": "https://yellowrocks.vc/"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "YellowRocks.vc",
+      "firmUrl": "https://signal.nfx.com/firms/yellowrocks-vc",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $2.0M",
+    "sweetSpot": "$500K",
+    "investmentsOnRecord": 10
+  },
+  "sectorRankings": [
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Propertymate.ai",
+      "stage": "Seed",
+      "date": "Feb 2022",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Sasha Polovinkina (YellowRocks.vc)",
+        "Valerie Bertele (YellowRocks.vc)"
+      ]
+    },
+    {
+      "company": "GPU Audio",
+      "stage": "Seed",
+      "date": "Oct 2021",
+      "roundSize": "$5M",
+      "totalRaised": "$5M",
+      "coInvestors": [
+        "Sasha Polovinkina (YellowRocks.vc)",
+        "Yellow Rocks (10100 fund)",
+        "Marina Davidova (Davidovs VC)",
+        "Nick Davidov (Davidovs VC)"
+      ]
+    },
+    {
+      "company": "Traive",
+      "stage": "Series A",
+      "date": "Oct 2021",
+      "roundSize": "$17M",
+      "totalRaised": "$17M",
+      "coInvestors": []
+    },
+    {
+      "company": "Postoplan",
+      "stage": "Seed",
+      "date": "May 2021",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": [
+        "Vitaly Yanko (Insta Ventures)"
+      ]
+    },
+    {
+      "company": "ElectroNeek",
+      "stage": "Pre-seed",
+      "date": "Oct 2019",
+      "roundSize": null,
+      "totalRaised": "$20M",
+      "coInvestors": [
+        "Alexander Piskunov (KAAN Ventures)"
+      ]
+    },
+    {
+      "company": "Buddy.ai",
+      "stage": "Pre Seed Round",
+      "date": "Jul 2019",
+      "roundSize": null,
+      "totalRaised": "$11M",
+      "coInvestors": [
+        "Anton Abdukhamidov"
+      ]
+    },
+    {
+      "company": "Dbrain",
+      "stage": "Pre-seed",
+      "date": "N/A",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    },
+    {
+      "company": "Yaizy",
+      "stage": "Seed",
+      "date": "N/A",
+      "roundSize": null,
+      "totalRaised": null,
+      "coInvestors": []
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.yellowrocks.vc/",
+    "linkedin": "https://www.linkedin.com/in/roman-beloded/"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUtHQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7c997269b85ba10c74a70cf95ed295bd8cf292cd/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/roman-beloded",
+  "slug": "roman-beloded",
+  "scraped_at": "2026-02-24T12:59:50.788742"
+}

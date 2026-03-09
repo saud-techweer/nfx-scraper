@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor"
+    ],
+    "name": "Moshe Lichtman"
+  },
+  "experience": [
+    {
+      "company": "Microsoft",
+      "dates": "1991 - 2011",
+      "position": "Corporate Vice President"
+    },
+    {
+      "company": "Microsoft Israel R&D Center",
+      "dates": "2006 - 2011",
+      "position": "President"
+    },
+    {
+      "company": "Ready Systems",
+      "dates": "1987 - 1989",
+      "position": "Group Manager"
+    },
+    {
+      "company": "Industrial Microprocessor Systems",
+      "dates": "1985 - 1987",
+      "position": "Development Team Lead"
+    },
+    {
+      "company": "Elbit Systems Ltd",
+      "dates": "1983 - 1985",
+      "position": "Program Manager"
+    },
+    {
+      "company": "Israel Growth Partners",
+      "dates": "2012 - Present",
+      "position": "Co-Founder, General Partner"
+    }
+  ],
+  "investingProfile": {
+    "investmentRange": "$50K - $250K"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/moshe-lichtman",
+  "sectorRankings": [
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "moshe-lichtman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/moshe-lichtman",
+    "linkedin": "https://www.linkedin.com/in/moshelichtman/"
+  },
+  "scraped_at": "2026-02-27T03:02:17.227229"
+}

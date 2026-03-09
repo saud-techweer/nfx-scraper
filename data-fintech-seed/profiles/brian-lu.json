@@ -1,0 +1,70 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Taiwan",
+    "name": "Brian Lu",
+    "website": "https://www.ivcrypto.io/team/"
+  },
+  "experience": [
+    {
+      "company": "Infinity Ventures Crypto (IVC)",
+      "dates": "2021 - Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "Headline Asia",
+      "dates": "2021 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Hive Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/hive-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$13.5M",
+    "investmentRange": "$250K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK015QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5cc03ae4b77fb3176f688fc8ee554c49ed0ec487/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-lu",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "brian-lu",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/brian-lu-6f4e",
+    "linkedin": "https://www.linkedin.com/in/luball13/",
+    "twitter": "https://www.twitter.com/luball13",
+    "website": "https://www.ivcrypto.io/team/"
+  },
+  "scraped_at": "2026-03-03T16:18:59.513821"
+}

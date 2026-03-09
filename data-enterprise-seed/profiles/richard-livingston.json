@@ -1,0 +1,78 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Richard Livingston",
+    "website": "https://octave.fund/"
+  },
+  "experience": [
+    {
+      "company": "Octave",
+      "dates": "2020 - 2023",
+      "position": "Associate"
+    },
+    {
+      "company": "Menlo Equities",
+      "dates": "2018 - 2021",
+      "position": "Associate"
+    },
+    {
+      "company": "Menlo Equities",
+      "dates": "2016 - 2018",
+      "position": "Financial Analyst"
+    },
+    {
+      "company": "Oppenheimer & Co. Inc.",
+      "dates": "2015 - 2015",
+      "position": "Summer Analyst, Mergers and Acquisitions, Technology Group"
+    },
+    {
+      "company": "Fragile",
+      "dates": "2023 - Present",
+      "position": "Finance"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Octave",
+      "firmUrl": "https://signal.nfx.com/firms/octave",
+      "position": "Associate"
+    },
+    "investmentRange": "$100K - $1M",
+    "sweetSpot": "$500K"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/richard-livingston",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "richard-livingston",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/richard-livingston-1427a148/",
+    "website": "https://www.octave.fund/"
+  },
+  "scraped_at": "2026-02-28T04:45:34.758869"
+}

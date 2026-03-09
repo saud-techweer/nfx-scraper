@@ -1,0 +1,42 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Beijing",
+    "name": "Levi Liu",
+    "website": "https://5ycap.com/en/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "5Y Capital",
+      "firmUrl": "https://signal.nfx.com/firms/5y-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$5B",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNUtHQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fadf88a7857a697df83a2b45e2ff2e5806a932a1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/levi-liu",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "levi-liu",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/levi-liu",
+    "linkedin": "https://www.linkedin.com/in/levi-liu-ba587527/",
+    "website": "https://www.5ycap.com/en/"
+  },
+  "scraped_at": "2026-03-03T21:52:18.970580"
+}

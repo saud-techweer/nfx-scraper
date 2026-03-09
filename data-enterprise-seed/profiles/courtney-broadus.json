@@ -1,0 +1,176 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Advisor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Courtney Broadus",
+    "website": "https://www.operatorcollective.com/operators"
+  },
+  "experience": [
+    {
+      "company": "Salesforce.com",
+      "dates": "2007 - 2010",
+      "position": "SVP, Technology Engineering"
+    },
+    {
+      "company": "Salesforce.com",
+      "dates": "2002 - 2007",
+      "position": "VP, Quality Engineering & Products"
+    },
+    {
+      "company": "Salesforce.com",
+      "dates": "2000 - 2002",
+      "position": "Dir, Quality Engineering & Products"
+    },
+    {
+      "company": "Oracle",
+      "dates": "1998 - 2000",
+      "position": "Sr Mgr, Quality Engineering"
+    },
+    {
+      "company": "ConnectInc.com (acquired by Calico Commerce, then Peoplesoft)",
+      "dates": "1996 - 1998",
+      "position": "Quality and Automation Manager"
+    },
+    {
+      "company": "CSC Consulting, Object-Oriented Technology Practice",
+      "dates": "1994 - 1996",
+      "position": "Consultant"
+    },
+    {
+      "company": "Spider Capital Partners",
+      "dates": "2015 - Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Operator Collective",
+      "firmUrl": "https://signal.nfx.com/firms/operator-collective",
+      "position": "Partner"
+    },
+    "fundSize": "$45M",
+    "investmentRange": "$500K - $1.5M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "TK Kuegler (Wasabi Ventures)",
+        "Andre De Baubigny (Modern Venture Partners)",
+        "Catherine Lu"
+      ],
+      "company": "Lacework",
+      "date": "Aug 2018",
+      "roundSize": "$24M",
+      "stage": "Series B",
+      "totalRaised": "$24M"
+    },
+    {
+      "coInvestors": [
+        "John Balen (Canaan Partners)",
+        "Eric Ver Ploeg (Tunitas Ventures)",
+        "David Ibnale (AVP (Advance Venture Partners))",
+        "Douglas Carlisle",
+        "Cynthia Ringo"
+      ],
+      "company": "UrbanSitter",
+      "date": "Oct 2017",
+      "roundSize": "$17M",
+      "stage": "Series C",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNDhZQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--72f2960d5f4904a7566d114fd3d6cc2acfa0d20b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/courtney-broadus",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "courtney-broadus",
+  "socials": {
+    "angellist": "https://www.angel.co/u/courtney-broadus",
+    "crunchbase": "https://www.crunchbase.com/person/courtney-broadus",
+    "linkedin": "https://www.linkedin.com/in/courtneybroadus/",
+    "website": "https://www.operatorcollective.com/operators"
+  },
+  "scraped_at": "2026-02-26T09:52:04.273742"
+}

@@ -1,0 +1,132 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Operator"
+    ],
+    "location": "New York, New York",
+    "name": "Jason Corsello",
+    "signalScore": 295,
+    "website": "https://www.acadianventures.com/"
+  },
+  "experience": [
+    {
+      "company": "Cornerstone OnDemand",
+      "dates": "2011 - 2018",
+      "position": "SVP, Strategy & Corporate Development"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Acadian Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/acadian-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$500K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Brandon Tidwell (Signal Peak Ventures)",
+        "Michael McMahon (Jump Capital)",
+        "Deborah Quazzo (GSV Acceleration)",
+        "Sid Krommenhoek (Album VC)",
+        "Chris Eyre"
+      ],
+      "company": "Degreed",
+      "date": "Apr 2021",
+      "roundSize": "$150M",
+      "stage": "Series D",
+      "totalRaised": "$210M"
+    },
+    {
+      "coInvestors": [
+        "TianYu (TY) Wong (Starframe Capital)",
+        "Justin Ziebell (Indeed.com)"
+      ],
+      "company": "Oyster",
+      "date": "Feb 2021",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$70M"
+    },
+    {
+      "coInvestors": [
+        "Ryan Broshar (Matchstick Ventures)",
+        "Will Price (Next Frontier Capital)",
+        "Jordan Fliegel (Techstars)",
+        "Natty Zola (Matchstick Ventures)"
+      ],
+      "company": "Getro",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Utmost",
+      "date": "Oct 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [],
+      "company": "jobpal",
+      "date": "Oct 2019",
+      "roundSize": "€2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "€2.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "SmartRecruiters",
+      "date": "Jun 2016",
+      "roundSize": "$30M",
+      "stage": "Series C",
+      "totalRaised": "$30M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbHdCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--cd55d45e5586a473e462c50faf7c5bd6eaed671e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=72x72",
+  "profileUrl": "https://signal.nfx.com/investors/jason-corsello",
+  "sectorRankings": [
+    {
+      "name": "Human Capital/HRTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Human Capital/HRTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-human-capital-hrtech-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jason-corsello",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jasoncorsello/",
+    "twitter": "https://www.twitter.com/jcorsello",
+    "website": "https://www.acadianventures.com/"
+  },
+  "scraped_at": "2026-02-27T22:33:17.548624"
+}

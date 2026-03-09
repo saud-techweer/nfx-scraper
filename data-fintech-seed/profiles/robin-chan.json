@@ -1,0 +1,200 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "CEO",
+      "Angel",
+      "Founder"
+    ],
+    "location": "United States",
+    "name": "Robin Chan",
+    "signalScore": 248,
+    "website": "https://goat.vc/"
+  },
+  "experience": [
+    {
+      "company": "Operator",
+      "dates": "2017",
+      "position": "Founder"
+    },
+    {
+      "company": "Uber",
+      "dates": "2014 - 2015",
+      "position": "Advisor"
+    },
+    {
+      "company": "BlackBerry",
+      "dates": "2012",
+      "position": "Corporate Takeover (Failed)"
+    },
+    {
+      "company": "Zynga",
+      "dates": "2010 - 2011",
+      "position": "General Manager, Asia Business Operations"
+    },
+    {
+      "company": "XPD Media Inc.",
+      "dates": "2008 - 2010",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "Verizon Wireless",
+      "dates": "2005 - 2007",
+      "position": "Director"
+    },
+    {
+      "company": "Goat Capital",
+      "dates": "2020 - Present",
+      "position": "Founder and General Partner"
+    },
+    {
+      "company": "Operation Masks",
+      "dates": "2020 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Sleeper",
+      "dates": "2019 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Bird",
+      "dates": "2018 - Present",
+      "position": "Special Advisor"
+    },
+    {
+      "company": "Expa",
+      "dates": "Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Flipboard Inc.",
+      "dates": "Present",
+      "position": "Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Goat Capital",
+      "firmUrl": "https://signal.nfx.com/firms/goat-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$50K - $3.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "David Langer (Lionheart Ventures)",
+        "Jude Gomila (Jude Gomila Rolling Fund)",
+        "Cleo Sham (Stride VC)",
+        "Louis Beryl"
+      ],
+      "company": "ZeroDown",
+      "date": "Mar 2019",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Damir Becirovic (Index Ventures)",
+        "Andrew Reed (Sequoia Capital)",
+        "Roelof Botha (Sequoia Capital)",
+        "Courtney Cooper (Alate Partners)",
+        "Ning Sung"
+      ],
+      "company": "Bird",
+      "date": "Mar 2018",
+      "roundSize": "$100M",
+      "stage": "Series B",
+      "totalRaised": "$380M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMDU5QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7a91b75dbf913fe8beff4f0adca78d57228ffb8e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robin-chan",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "robin-chan",
+  "socials": {
+    "angellist": "https://www.angel.co/p/robinchan",
+    "crunchbase": "https://www.crunchbase.com/person/robin-chan",
+    "linkedin": "https://www.linkedin.com/in/robinchan/",
+    "twitter": "https://www.twitter.com/robinchan",
+    "website": "https://www.goat.vc/"
+  },
+  "scraped_at": "2026-03-05T20:02:02.601945"
+}

@@ -1,0 +1,50 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Harald Keller",
+    "website": "https://www.wellington-partners.com/ls/team/profile?p=harald-keller"
+  },
+  "experience": [
+    {
+      "company": "Wellington Partners",
+      "dates": "Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Wellington Partners",
+      "firmUrl": "https://signal.nfx.com/firms/wellington-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "€210M",
+    "investmentRange": "$200K - $15.0M",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdWNIIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--c9594c21ddf7dd13ece234d8348c3c1dffce7647/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/harald-keller",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "harald-keller",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/harald-keller",
+    "linkedin": "https://ch.linkedin.com/in/harald-keller-06072451/",
+    "website": "https://www.wellington-partners.com/ls/team/profile?p=harald-keller"
+  },
+  "scraped_at": "2026-02-27T00:19:04.717215"
+}

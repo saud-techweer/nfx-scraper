@@ -1,0 +1,61 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "New York, New York",
+    "name": "Avery Klemmer",
+    "website": "https://thrivecap.com/"
+  },
+  "experience": [
+    {
+      "company": "FirstMark Capital",
+      "dates": "2018 - 2020",
+      "position": "Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Thrive Capital",
+      "firmUrl": "https://signal.nfx.com/firms/thrive-capital",
+      "position": "Investor"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$1M - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/avery-klemmer",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "avery-klemmer",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/avery-klemmer",
+    "linkedin": "https://www.linkedin.com/in/avery-klemmer/",
+    "twitter": "https://www.twitter.com/averyklemmer?lang=en",
+    "website": "https://www.thrivecap.com/"
+  },
+  "scraped_at": "2026-02-27T20:32:17.263040"
+}

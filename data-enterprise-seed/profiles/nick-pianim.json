@@ -1,0 +1,106 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Nick Pianim",
+    "website": "https://www.dagventures.com/team"
+  },
+  "experience": [
+    {
+      "company": "Juniper Networks",
+      "dates": "2004 - 2007",
+      "position": "Vice President Corporate Development"
+    },
+    {
+      "company": "Ensemble Communications, Inc.",
+      "dates": "2003 - 2004",
+      "position": "CFO, VP Corporate Development"
+    },
+    {
+      "company": "iAsiaWorks",
+      "dates": "2000 - 2002",
+      "position": "CEO, VP Global Corporate Development"
+    },
+    {
+      "company": "DAG Ventures",
+      "dates": "2007 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DAG Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/dag-ventures",
+      "position": "Managing Director"
+    },
+    "fundSize": "$300M",
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Elie Wurtman (PICO Venture Partners)",
+        "Pat Burtis (Amadeus Capital Partners)"
+      ],
+      "company": "GreenRoad Technologies",
+      "date": "May 2011",
+      "roundSize": "$13M",
+      "stage": "Series F",
+      "totalRaised": "$28M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdGNJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--105ef96f55d50925e4411c2e753859387d2ee881/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nick-pianim",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nick-pianim",
+  "socials": {
+    "angellist": "https://www.angel.co/nick-pianim",
+    "crunchbase": "https://www.crunchbase.com/person/nicholas-k-pianim",
+    "linkedin": "https://www.linkedin.com/in/nicholas-pianim-2898a8a3/",
+    "twitter": "https://www.twitter.com/nkwasip",
+    "website": "https://www.dagventures.com/team"
+  },
+  "scraped_at": "2026-02-27T03:11:26.066363"
+}

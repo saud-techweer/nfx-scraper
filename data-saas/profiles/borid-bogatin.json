@@ -1,0 +1,72 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Borid Bogatin"
+  },
+  "experience": [
+    {
+      "company": "NearVerse",
+      "dates": "2008 - 2012",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "LightSquared",
+      "dates": "2001 - 2008",
+      "position": "Vice President, Corporate Development and Technology Strategy"
+    },
+    {
+      "company": "Cidera",
+      "dates": "2000 - 2001",
+      "position": "Corporate Development"
+    },
+    {
+      "company": "PwC Consulting",
+      "dates": "1999 - 2000",
+      "position": "Strategy Consulting to Emerging Technology Companies"
+    },
+    {
+      "company": "Lumia Capital",
+      "dates": "2012 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "Hilltop Management",
+      "dates": "2012 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lumia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/lumia-capital",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$100K - $1.5M",
+    "sweetSpot": "$800K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBb24xIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--ad3c1866ac5a3c95fe98081d1fb2ce94263815de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/borid-bogatin",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "borid-bogatin",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/borid-bogatin",
+    "linkedin": "https://www.linkedin.com/in/borisbogatin/"
+  },
+  "scraped_at": "2026-02-26T08:51:04.524987"
+}

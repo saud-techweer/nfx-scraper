@@ -1,0 +1,146 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Mike Kerns",
+    "signalScore": 1,
+    "website": "https://tcg.co/"
+  },
+  "experience": [
+    {
+      "company": "Yahoo!",
+      "dates": "2013 - 2015",
+      "position": "SVP Product Homepage and Verticals"
+    },
+    {
+      "company": "Yahoo!",
+      "dates": "2010 - 2013",
+      "position": "VP. Social and Personalization"
+    },
+    {
+      "company": "Steinberg and Moorad Sports Management",
+      "dates": "2001 - 2004",
+      "position": "Vice President of Business Development"
+    },
+    {
+      "company": "Angel Investors, L.P.",
+      "dates": "2000 - 2001",
+      "position": "Associate"
+    },
+    {
+      "company": "TCG",
+      "dates": "2015 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "The Chernin Group",
+      "dates": "2015 - Present",
+      "position": "President, Digital"
+    },
+    {
+      "company": "Citizen Sports Network",
+      "dates": "2003 - Present",
+      "position": "Founder & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "TCG (The Chernin Group)",
+      "firmUrl": "https://signal.nfx.com/firms/tcg",
+      "position": "Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Justin Waldron (Polychain Capital)",
+        "Aydin Senkut (Felicis Ventures)",
+        "Charles Hudson (Precursor Ventures)",
+        "Hootan Rashidifard (Canaan Partners)",
+        "Cyan Banister (Long Journey Ventures)",
+        "Maynard Webb (Webb Investment Network)",
+        "Jordan Fudge (Sinai Ventures)",
+        "Paul Bernard (Amazon Alexa Fund)",
+        "Eduardo Vivas (Curated)",
+        "Chris Howard (Fuel Capital)",
+        "Adam Foroughi",
+        "Mark Pincus"
+      ],
+      "company": "Drivetime",
+      "date": "Nov 2018",
+      "roundSize": "$4M",
+      "stage": "Seed Round",
+      "totalRaised": "$19M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBbWpkIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--221072f2742f11c76cee79e969feb0a11b1e3f99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/mike-kerns",
+  "sectorRankings": [
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-b-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "mike-kerns",
+  "socials": {
+    "angellist": "https://www.angel.co/u/mikekerns",
+    "crunchbase": "https://www.crunchbase.com/person/mike-kerns",
+    "linkedin": "https://www.linkedin.com/in/mike-kerns-63219/",
+    "website": "https://www.tcg.co/"
+  },
+  "scraped_at": "2026-02-12T10:02:33.333890"
+}

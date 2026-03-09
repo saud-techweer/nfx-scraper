@@ -1,0 +1,131 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Stan Chudnovsky",
+    "signalScore": 10,
+    "website": "https://nfx.com/team/stan-chudnovsky/"
+  },
+  "experience": [
+    {
+      "company": "Tickle/Monster",
+      "dates": "Present",
+      "position": "General Manager and SVP"
+    },
+    {
+      "company": "WonderHill",
+      "dates": "Present",
+      "position": "Co-Founder and CTO"
+    },
+    {
+      "company": "IronPearl",
+      "dates": "Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "PayPal",
+      "dates": "Present",
+      "position": "VP of Growth, Corporate Strategy and Special Ops"
+    },
+    {
+      "company": "Ooga Labs",
+      "dates": "Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Facebook",
+      "dates": "Present",
+      "position": "Head of Product for Messaging"
+    },
+    {
+      "company": "SayIt Inc.",
+      "dates": "Present",
+      "position": "VP, Engineering"
+    },
+    {
+      "company": "Tickle",
+      "dates": "Present",
+      "position": "VP, Engineering"
+    },
+    {
+      "company": "Tickle/Monster",
+      "dates": "Present",
+      "position": "VP, Product and Engineering"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NFX",
+      "firmUrl": "https://signal.nfx.com/firms/nfx",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$450M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmROQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--04d4ecea371243e50f329b39095de18578dbc6f1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/stan-chudnovsky",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "stan-chudnovsky",
+  "socials": {
+    "angellist": "https://www.angel.co/stan_007",
+    "crunchbase": "https://www.crunchbase.com/person/stan-chudnovsky",
+    "linkedin": "https://www.linkedin.com/in/stanchudnovsky/",
+    "twitter": "https://www.twitter.com/stan_chudnovsky"
+  },
+  "scraped_at": "2026-02-11T10:04:34.784881"
+}

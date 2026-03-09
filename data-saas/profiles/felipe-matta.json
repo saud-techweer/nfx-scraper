@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "Founder"
+    ],
+    "location": "Santiago, Chile",
+    "name": "Felipe Matta",
+    "website": "https://chileglobalventures.cl/en/investor/felipe-matta/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Chile Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/chile-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$50K - $700K",
+    "sweetSpot": "$350K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMytBQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--033bf67af9e9b3f2ee56953412cb9db516b8d875/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/felipe-matta",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "felipe-matta",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/felipe-matta-navarro",
+    "linkedin": "https://www.linkedin.com/in/felipe-matta-navarro-3b758342/?locale=en_US",
+    "website": "https://www.chileglobalventures.cl/en/investor/felipe-matta/"
+  },
+  "scraped_at": "2026-02-26T23:54:44.268857"
+}

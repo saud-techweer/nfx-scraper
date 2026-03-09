@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Cambridge, United Kingdom",
+    "name": "Darrin Disley",
+    "positionAndFirm": "CEO, Director & Investor @ Mogrify | Chairman, Director & Investor @Celixir",
+    "website": "https://mogrify.co.uk/team/leadership-team/"
+  },
+  "experience": [
+    {
+      "company": "Celixir",
+      "dates": "2015 - Present",
+      "position": "Chairman, Director & Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Mogrify",
+      "firmUrl": "https://signal.nfx.com/firms/mogrify",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekhxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f3bfa5e69e92fb336ffb79bd2cdbe24e134bbf75/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/darrin-disley",
+  "sectorRankings": [
+    {
+      "name": "Education (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    }
+  ],
+  "slug": "darrin-disley",
+  "socials": {
+    "angellist": "https://www.angel.co/u/darrin-disley",
+    "crunchbase": "https://www.crunchbase.com/person/darrin-m-disley",
+    "linkedin": "https://www.linkedin.com/in/darrinmdisley/",
+    "twitter": "https://www.twitter.com/DarrinMDisley",
+    "website": "https://www.mogrify.co.uk/team/leadership-team/"
+  },
+  "scraped_at": "2026-02-27T21:21:30.223017"
+}

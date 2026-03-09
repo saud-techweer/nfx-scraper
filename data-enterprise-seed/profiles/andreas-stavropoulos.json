@@ -1,0 +1,89 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Andreas Stavropoulos",
+    "website": "https://threshold.vc/team/andreas_stavropoulos/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Threshold Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/threshold-ventures",
+      "position": "Partner"
+    },
+    "fundSize": "$250M",
+    "investmentRange": "$2.0M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$6.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andy Vitus (Scale Venture Partners)",
+        "Michael Dearing (Harrison Metal)",
+        "Garth Timoll (Top Tier Capital Partners)",
+        "Jesse Robbins (Heavybit)",
+        "Joseph Ruscio (Heavybit)",
+        "Tom Drummond (Heavybit)",
+        "Hiten Shah"
+      ],
+      "company": "CircleCI",
+      "date": "Jan 2018",
+      "roundSize": "$31M",
+      "stage": "Series C",
+      "totalRaised": "$64M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNG1YQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--275a9a89cf15f284bd191690e08f3d97c8f2bea0/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andreas-stavropoulos",
+  "sectorRankings": [
+    {
+      "name": "Health IT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "andreas-stavropoulos",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/andreas-stavropoulos",
+    "linkedin": "https://www.linkedin.com/in/andreasstavropoulos/",
+    "twitter": "https://www.twitter.com/astavropoulos",
+    "website": "https://www.threshold.vc/team/andreas_stavropoulos/"
+  },
+  "scraped_at": "2026-02-27T20:16:36.011168"
+}

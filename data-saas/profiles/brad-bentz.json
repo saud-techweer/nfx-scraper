@@ -1,0 +1,123 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Austin, Texas",
+    "name": "Brad Bentz",
+    "website": "https://atxventurepartners.com/"
+  },
+  "experience": [
+    {
+      "company": "ATX Venture Partners",
+      "dates": "2015 - 2017",
+      "position": "Principal"
+    },
+    {
+      "company": "Boston Consulting Group",
+      "dates": "2014 - 2015",
+      "position": "Sr. Programmer/Analyst"
+    },
+    {
+      "company": "IDC",
+      "dates": "2012 - 2014",
+      "position": "Sr. Research Analyst | Web Developer | Financial Modeler"
+    },
+    {
+      "company": "Various",
+      "dates": "2009 - 2012",
+      "position": "Independent Consultant"
+    },
+    {
+      "company": "The Acton School of Business",
+      "dates": "2007 - 2009",
+      "position": "Director of Curriculum Development"
+    },
+    {
+      "company": "Virtus Capital Partners",
+      "dates": "2005 - 2007",
+      "position": "Associate"
+    },
+    {
+      "company": "Alpine Database Solutions",
+      "dates": "2001 - 2004",
+      "position": "Web Developer"
+    },
+    {
+      "company": "Database City",
+      "dates": "1999 - 2001",
+      "position": "Team Lead | Web Developer"
+    },
+    {
+      "company": "ATX Venture Partners",
+      "dates": "2017 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "ATX Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/atx-venture-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$300K - $7.0M",
+    "sweetSpot": "$3.7M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHl2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--6afda5a02add3d1658af13c533ea7a00716b2083/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brad-bentz",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "brad-bentz",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/bradbentz/",
+    "website": "https://www.atxventurepartners.com/"
+  },
+  "scraped_at": "2026-02-26T08:51:57.856348"
+}

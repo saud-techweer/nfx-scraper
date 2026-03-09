@@ -1,0 +1,141 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Roelof Botha",
+    "website": "https://sequoiacap.com/people/roelof-botha/"
+  },
+  "experience": [
+    {
+      "company": "PayPal",
+      "dates": "2000 - 2003",
+      "position": "CFO"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "2003 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Instagram",
+      "dates": "Present",
+      "position": "Business Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$1M - $200.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Naomi Pilosof Ionita (Menlo Ventures)",
+        "Deborah Quazzo (GSV Acceleration)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Armaan Ali (Human Capital)",
+        "Tony Fadell (Future Shape)",
+        "Nate Dalton (Daybreak Partners)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Mike Krieger"
+      ],
+      "company": "mmhmm",
+      "date": "Jul 2020",
+      "roundSize": "$4.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$9M"
+    },
+    {
+      "coInvestors": [
+        "Damir Becirovic (Index Ventures)",
+        "Robin Chan (Goat Capital)",
+        "Andrew Reed (Sequoia Capital)",
+        "Courtney Cooper (Alate Partners)",
+        "Ning Sung"
+      ],
+      "company": "Bird",
+      "date": "Oct 2019",
+      "roundSize": "$280M",
+      "stage": "Series D",
+      "totalRaised": "$380M"
+    },
+    {
+      "coInvestors": [
+        "Keith Rabois (Khosla Ventures)"
+      ],
+      "company": "The Org",
+      "date": "Jul 2019",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$2.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMXlWQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c89b1a4bd3982567a6e3e1f299324ed380070107/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/roelof-botha",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "roelof-botha",
+  "socials": {
+    "angellist": "https://www.angel.co/roelofbotha",
+    "crunchbase": "https://www.crunchbase.com/person/roelof-botha",
+    "linkedin": "https://www.linkedin.com/in/roelofbotha/",
+    "twitter": "https://www.twitter.com/roelofbotha",
+    "website": "https://www.sequoiacap.com/people/roelof-botha/"
+  },
+  "scraped_at": "2026-02-28T04:50:36.139041"
+}

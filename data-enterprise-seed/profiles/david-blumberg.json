@@ -1,0 +1,98 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "CEO",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "North Miami Beach, Florida",
+    "name": "David Blumberg",
+    "positionAndFirm": "Founder & Managing Partner, Blumberg Capital",
+    "signalScore": 354,
+    "website": "https://blumbergcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "137 Ventures",
+      "dates": "2011 - Present",
+      "position": "Member of the Investment Committee"
+    },
+    {
+      "company": "T. Rowe Price",
+      "dates": "Present",
+      "position": "Assistant Securities Analyst - Technology"
+    },
+    {
+      "company": "Apax Partners",
+      "dates": "Present",
+      "position": "Analyst"
+    },
+    {
+      "company": "Adler & Co.",
+      "dates": "Present",
+      "position": "Venture Manager"
+    },
+    {
+      "company": "Claridge, Inc.",
+      "dates": "Present",
+      "position": "Vice President, Investments"
+    },
+    {
+      "company": "Blumberg Capital",
+      "dates": "Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blumberg Capital",
+      "firmUrl": "https://signal.nfx.com/firms/blumberg-capital",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$200M",
+    "investmentRange": "$500K - $5.0M",
+    "sweetSpot": "$2.8M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBhdz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4e317e40b4f778e1b45af9ee2ef74cc1603b3d43/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/david-blumberg",
+  "sectorRankings": [
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    }
+  ],
+  "slug": "david-blumberg",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/david-blumberg",
+    "linkedin": "https://www.linkedin.com/in/davidjblumberg/",
+    "twitter": "https://www.twitter.com/davidblumberg",
+    "website": "https://www.blumbergcapital.com/"
+  },
+  "scraped_at": "2026-02-27T21:23:00.878735"
+}

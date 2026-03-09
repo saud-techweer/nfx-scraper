@@ -1,0 +1,156 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Advisor",
+      "Sales Operator"
+    ],
+    "name": "Jules Walker",
+    "signalScore": 47
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$2K - $50K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$5K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Josh Manchester (Champion Hill Labs)",
+        "Michael Mealling (Starbridge Venture Capital)",
+        "Mathieu Guerville",
+        "Kurt Bilafer"
+      ],
+      "company": "Umbra Labs",
+      "date": "Nov 2019",
+      "roundSize": "$1M",
+      "stage": "Seed",
+      "totalRaised": "$1M"
+    },
+    {
+      "coInvestors": [
+        "Steven MacDonald (Florida Funders)",
+        "Zach Coelius (Coelius Capital)",
+        "Hansell Shook",
+        "Kamiar Kordari"
+      ],
+      "company": "Finexio",
+      "date": "Jan 2018",
+      "roundSize": "$4M",
+      "stage": "Series A",
+      "totalRaised": "$4M"
+    },
+    {
+      "coInvestors": [
+        "Luigi Bajetti (LombardStreet Ventures)",
+        "Craig Hunter (Operator Ventures)",
+        "Rob Veres",
+        "Federico Pomi"
+      ],
+      "company": "DroneSeed",
+      "date": "Nov 2017",
+      "roundSize": "$0",
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Healthloop",
+      "date": "May 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Martin Tobias (Incisive Ventures)",
+        "Michael Jeon (Solasta Ventures)",
+        "David Mort (Propel Venture Partners)",
+        "Jay Reinemann (Propel Venture Partners)",
+        "Rob Theis"
+      ],
+      "company": "Docusign",
+      "date": "Dec 2010",
+      "roundSize": "$11M",
+      "stage": "Series C",
+      "totalRaised": "$110M"
+    },
+    {
+      "coInvestors": [
+        "Jack Greco (Cupule Ventures)"
+      ],
+      "company": "OpenGrants",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNW9CQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--cb5b8d9d7eb7477b8dcf2caf8b66925989f9825a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jules-walker",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "AgTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-pre-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    }
+  ],
+  "slug": "jules-walker",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jules-walker",
+    "crunchbase": "https://www.crunchbase.com/person/jules-walker",
+    "linkedin": "https://www.linkedin.com/in/juleslwalker/",
+    "twitter": "https://www.twitter.com/juleswalker4"
+  },
+  "scraped_at": "2026-03-03T21:19:47.767161"
+}

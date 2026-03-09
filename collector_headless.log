@@ -1,0 +1,405 @@
+2026-02-24 04:46:52,104 [INFO] ============================================================
+2026-02-24 04:46:52,104 [INFO]   NFX SIGNAL - HEADLESS URL COLLECTOR (AUTO-LOGIN)
+2026-02-24 04:46:52,104 [INFO]   Target: 3100+ URLs
+2026-02-24 04:46:52,104 [INFO]   Email: moaazmazhry27@gmail.com
+2026-02-24 04:46:52,104 [INFO] ============================================================
+2026-02-24 04:46:52,106 [INFO] Loaded 1496 existing URLs from disk
+2026-02-24 04:46:56,611 [INFO] Loaded saved cookies, testing if session is valid...
+2026-02-24 04:47:04,007 [INFO] Cookies expired or invalid, falling back to credential login
+2026-02-24 04:47:04,007 [INFO] Logging in with email: moaazmazhry27@gmail.com
+2026-02-24 04:47:08,765 [WARNING] Login attempt 1: No email field found. Page URL: https://signal.nfx.com/login
+2026-02-24 04:47:13,907 [WARNING] Login attempt 2: No email field found. Page URL: https://signal.nfx.com/investors
+2026-02-24 04:47:19,309 [WARNING] Login attempt 3: No email field found. Page URL: https://signal.nfx.com/investors
+2026-02-24 04:47:22,477 [INFO] Login form flow complete, verifying access...
+2026-02-24 04:47:28,009 [ERROR] Login failed - cannot access investor list
+2026-02-24 04:47:28,140 [ERROR] FATAL: Could not log in. Exiting.
+2026-02-24 04:51:38,923 [INFO] ============================================================
+2026-02-24 04:51:38,923 [INFO]   NFX SIGNAL - HEADLESS URL COLLECTOR
+2026-02-24 04:51:38,923 [INFO]   Target: 3100+ URLs
+2026-02-24 04:51:38,923 [INFO] ============================================================
+2026-02-24 04:51:38,926 [INFO] Loaded 1496 existing URLs from disk
+2026-02-24 04:51:40,270 [INFO] Navigating to: https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors
+2026-02-24 04:51:47,602 [INFO] Initial load: 8 links on page, 1496 total (with existing)
+2026-02-24 04:51:47,603 [INFO] Target: 3100 URLs. Have: 1496. Starting Load More loop...
+2026-02-24 04:52:08,579 [INFO]   Click #5 | +0 | 1496 total | SAVED
+2026-02-24 04:52:24,232 [INFO]   Click #10 | +0 | 1496 total | SAVED
+2026-02-24 04:52:45,649 [INFO]   Click #15 | +0 | 1496 total | SAVED
+2026-02-24 04:53:01,776 [INFO]   Click #20 | +0 | 1496 total | SAVED
+2026-02-24 04:53:18,474 [INFO]   Click #25 | +0 | 1496 total | SAVED
+2026-02-24 04:53:18,474 [WARNING] No new URLs for 25 clicks. Have 1496 URLs.
+2026-02-24 04:53:18,494 [INFO] 
+2026-02-24 04:53:18,494 [INFO] ============================================================
+2026-02-24 04:53:18,494 [INFO]   URL COLLECTION COMPLETE
+2026-02-24 04:53:18,494 [INFO]   Total URLs:     1496
+2026-02-24 04:53:18,494 [INFO]   New this run:   0
+2026-02-24 04:53:18,494 [INFO]   Existing kept:  1496
+2026-02-24 04:53:18,494 [INFO]   Clicks:         25
+2026-02-24 04:53:18,494 [INFO]   Saved to:       /Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/data/all_investor_urls.json
+2026-02-24 04:53:18,494 [INFO] ============================================================
+2026-02-24 04:55:19,316 [INFO] ============================================================
+2026-02-24 04:55:19,317 [INFO]   NFX SIGNAL - HEADLESS URL COLLECTOR
+2026-02-24 04:55:19,317 [INFO]   Target: 3100+ URLs
+2026-02-24 04:55:19,317 [INFO] ============================================================
+2026-02-24 04:55:19,319 [INFO] Loaded 1496 existing URLs from disk
+2026-02-24 04:55:20,217 [INFO] Navigating to: https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors
+2026-02-24 04:55:25,753 [INFO] Initial load: 8 on page, 1496 total (with saved)
+2026-02-24 04:55:25,753 [INFO] Target: 3100. Need ~1604 more. Starting clicks...
+2026-02-24 04:56:12,118 [INFO]   Click #5 | page:40 | total:1496 | SAVED
+2026-02-24 04:56:56,426 [WARNING]   No button x5 | page:48 | total:1496 | retrying...
+2026-02-24 04:57:53,341 [INFO]   Click #10 | page:80 | total:1496 | SAVED
+2026-02-24 04:58:38,057 [WARNING]   No button x5 | page:96 | total:1496 | retrying...
+2026-02-24 04:59:26,224 [WARNING]   No button x5 | page:104 | total:1496 | retrying...
+2026-02-24 04:59:56,747 [INFO]   Click #15 | page:120 | total:1496 | SAVED
+2026-02-24 05:01:15,544 [WARNING]   No button x5 | page:152 | total:1496 | retrying...
+2026-02-24 05:01:45,493 [WARNING]   No button x5 | page:152 | total:1496 | retrying...
+2026-02-24 05:01:57,272 [INFO]   Click #20 | page:160 | total:1496 | SAVED
+2026-02-24 05:03:34,847 [INFO]   Click #25 | page:200 | total:1496 | SAVED
+2026-02-24 05:04:25,548 [WARNING]   No button x5 | page:216 | total:1496 | retrying...
+2026-02-24 05:05:48,225 [INFO]   Click #30 | page:240 | total:1496 | SAVED
+2026-02-24 05:07:29,080 [INFO]   Click #35 | page:280 | total:1496 | SAVED
+2026-02-24 05:08:17,155 [WARNING]   No button x5 | page:288 | total:1496 | retrying...
+2026-02-24 05:09:07,844 [INFO]   Click #40 | page:320 | total:1496 | SAVED
+2026-02-24 05:10:12,324 [INFO]   Click #45 | page:368 | total:1496 | SAVED
+2026-02-24 05:11:30,745 [WARNING]   No button x5 | page:400 | total:1496 | retrying...
+2026-02-24 05:11:34,274 [INFO]   Click #50 | page:400 | total:1496 | SAVED
+2026-02-24 05:13:09,322 [INFO]   Click #55 | page:440 | total:1496 | SAVED
+2026-02-24 05:14:06,952 [WARNING]   No button x5 | page:456 | total:1496 | retrying...
+2026-02-24 05:15:22,869 [INFO]   Click #60 | page:480 | total:1496 | SAVED
+2026-02-24 05:16:42,812 [INFO]   Click #65 | page:520 | total:1496 | SAVED
+2026-02-24 05:17:35,714 [WARNING]   No button x5 | page:528 | total:1496 | retrying...
+2026-02-24 05:18:20,995 [WARNING]   No button x10 | page:528 | total:1496 | retrying...
+2026-02-24 05:19:06,126 [WARNING]   No button x15 | page:528 | total:1496 | retrying...
+2026-02-24 05:20:26,280 [WARNING]   No button x20 | page:528 | total:1496 | retrying...
+2026-02-24 05:21:46,458 [WARNING]   No button x25 | page:528 | total:1496 | retrying...
+2026-02-24 05:36:32,204 [INFO] ============================================================
+2026-02-24 05:36:32,205 [INFO]   NFX SIGNAL - HEADLESS URL COLLECTOR
+2026-02-24 05:36:32,205 [INFO]   Target: 3100+ URLs
+2026-02-24 05:36:32,205 [INFO] ============================================================
+2026-02-24 05:36:32,208 [INFO] Loaded 1496 existing URLs from disk
+2026-02-24 05:36:32,972 [INFO] Navigating to: https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors
+2026-02-24 05:36:40,813 [INFO] Initial: 8 on page, 1496 total
+2026-02-24 05:36:40,813 [INFO] Target: 3100. Starting Load More loop...
+2026-02-24 05:37:32,717 [INFO]   Click #5 | page:48 | total:1496 | SAVED
+2026-02-24 05:39:23,726 [INFO]   Click #10 | page:88 | total:1496 | SAVED
+2026-02-24 05:44:51,505 [INFO]   Click #15 | page:128 | total:1496 | SAVED
+2026-02-24 05:45:09,545 [INFO]   Click #20 | page:168 | total:1496 | SAVED
+2026-02-24 05:48:03,762 [INFO]   Click #25 | page:208 | total:1496 | SAVED
+2026-02-24 05:48:25,805 [INFO]   Click #30 | page:248 | total:1496 | SAVED
+2026-02-24 05:48:44,827 [INFO]   Click #35 | page:288 | total:1496 | SAVED
+2026-02-24 05:49:12,306 [INFO]   Click #40 | page:328 | total:1496 | SAVED
+2026-02-24 05:49:37,404 [INFO]   Click #45 | page:368 | total:1496 | SAVED
+2026-02-24 05:50:04,440 [INFO]   Click #50 | page:408 | total:1496 | SAVED
+2026-02-24 05:50:31,726 [INFO]   Click #55 | page:448 | total:1496 | SAVED
+2026-02-24 05:54:02,208 [INFO]   Click #60 | page:488 | total:1496 | SAVED
+2026-02-24 05:54:30,320 [INFO]   Click #65 | page:528 | total:1496 | SAVED
+2026-02-24 05:55:02,749 [INFO]   Click #70 | page:568 | total:1496 | SAVED
+2026-02-24 05:55:36,085 [INFO]   Click #75 | page:608 | total:1496 | SAVED
+2026-02-24 05:56:02,718 [INFO]   Click #80 | page:648 | total:1496 | SAVED
+2026-02-24 05:56:32,793 [INFO]   Click #85 | page:688 | total:1496 | SAVED
+2026-02-24 05:57:46,609 [INFO]   Click #90 | page:728 | total:1496 | SAVED
+2026-02-24 05:58:13,478 [INFO]   Click #95 | page:768 | total:1496 | SAVED
+2026-02-24 05:58:43,145 [INFO]   Click #100 | page:808 | total:1496 | SAVED
+2026-02-24 05:59:13,561 [INFO]   Click #105 | page:848 | total:1496 | SAVED
+2026-02-24 05:59:42,243 [INFO]   Click #110 | page:888 | total:1496 | SAVED
+2026-02-24 06:00:10,578 [INFO]   Click #115 | page:928 | total:1496 | SAVED
+2026-02-24 06:00:41,450 [INFO]   Click #120 | page:968 | total:1496 | SAVED
+2026-02-24 06:01:14,723 [INFO]   Click #125 | page:1008 | total:1496 | SAVED
+2026-02-24 06:01:51,335 [INFO]   Click #130 | page:1048 | total:1496 | SAVED
+2026-02-24 06:02:26,138 [INFO]   Click #135 | page:1088 | total:1496 | SAVED
+2026-02-24 06:02:59,708 [INFO]   Click #140 | page:1128 | total:1496 | SAVED
+2026-02-24 06:03:35,241 [INFO]   Click #145 | page:1168 | total:1496 | SAVED
+2026-02-24 06:07:28,900 [WARNING]   Could not find/click button (fail #1)
+2026-02-24 06:09:32,875 [INFO]   Click #150 | page:1208 | total:1496 | SAVED
+2026-02-24 06:18:31,606 [INFO]   Click #155 | page:1248 | total:1496 | SAVED
+2026-02-24 06:19:15,809 [INFO]   Click #160 | page:1288 | total:1496 | SAVED
+2026-02-24 06:19:59,255 [INFO]   Click #165 | page:1328 | total:1496 | SAVED
+2026-02-24 06:20:55,863 [INFO]   Click #170 | page:1368 | total:1496 | SAVED
+2026-02-24 06:21:41,657 [INFO]   Click #175 | page:1408 | total:1496 | SAVED
+2026-02-24 06:22:28,453 [INFO]   Click #180 | page:1448 | total:1496 | SAVED
+2026-02-24 06:23:15,183 [INFO]   Click #185 | page:1488 | total:1496 | SAVED
+2026-02-24 06:24:09,152 [INFO]   Click #190 | page:1528 | total:1528 | SAVED
+2026-02-24 06:24:58,962 [INFO]   Click #195 | page:1568 | total:1568 | SAVED
+2026-02-24 06:29:16,895 [WARNING]   Could not find/click button (fail #1)
+2026-02-24 06:32:19,262 [WARNING]   Could not find/click button (fail #2)
+2026-02-24 06:35:22,028 [WARNING]   Could not find/click button (fail #3)
+2026-02-24 06:38:27,227 [WARNING]   Could not find/click button (fail #4)
+2026-02-24 06:41:32,065 [WARNING]   Could not find/click button (fail #5)
+2026-02-24 06:43:17,275 [WARNING]   Button gone for 5 attempts. page:1592 total:1592
+2026-02-24 06:43:17,307 [INFO] 
+2026-02-24 06:43:17,307 [INFO] ============================================================
+2026-02-24 06:43:17,307 [INFO]   URL COLLECTION COMPLETE
+2026-02-24 06:43:17,308 [INFO]   Total URLs:     1592
+2026-02-24 06:43:17,308 [INFO]   New this run:   96
+2026-02-24 06:43:17,308 [INFO]   Existing kept:  1496
+2026-02-24 06:43:17,308 [INFO]   Clicks:         199
+2026-02-24 06:43:17,308 [INFO]   Saved to:       /Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/data/all_investor_urls.json
+2026-02-24 06:43:17,309 [INFO] ============================================================
+2026-02-24 06:52:15,191 [INFO] ============================================================
+2026-02-24 06:52:15,191 [INFO]   NFX SIGNAL - GRAPHQL URL COLLECTOR
+2026-02-24 06:52:15,192 [INFO]   Target: 3100+ URLs
+2026-02-24 06:52:15,192 [INFO]   Page size: 50
+2026-02-24 06:52:15,192 [INFO] ============================================================
+2026-02-24 06:52:15,194 [INFO] Loaded 1592 existing URLs from disk
+2026-02-24 06:52:19,052 [INFO] Server reports 3193 total investors
+2026-02-24 06:52:19,052 [INFO]   Page 1 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:22,579 [INFO]   Page 2 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:26,221 [INFO]   Page 3 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:28,090 [INFO]   Page 4 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:31,599 [INFO]   Page 5 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:33,855 [INFO]   Page 6 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:37,062 [INFO]   Page 7 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:42,758 [INFO]   Page 8 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:48,338 [INFO]   Page 9 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:50,253 [INFO]   Page 10 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:52:56,965 [INFO]   Page 11 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:00,671 [INFO]   Page 12 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:05,446 [INFO]   Page 13 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:09,571 [INFO]   Page 14 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:18,518 [INFO]   Page 15 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:20,676 [INFO]   Page 16 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:25,715 [INFO]   Page 17 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:28,502 [INFO]   Page 18 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:31,244 [INFO]   Page 19 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:38,384 [INFO]   Page 20 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:40,936 [INFO]   Page 21 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:43,550 [INFO]   Page 22 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:47,152 [INFO]   Page 23 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:53:51,743 [INFO]   Page 24 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:00,224 [INFO]   Page 25 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:02,307 [INFO]   Page 26 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:11,606 [INFO]   Page 27 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:12,829 [INFO]   Page 28 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:14,793 [INFO]   Page 29 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:16,249 [INFO]   Page 30 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:18,341 [INFO]   Page 31 | +0 new (50 fetched) | total: 1592 | hasNext: True
+2026-02-24 06:54:27,567 [INFO]   Page 32 | +8 new (50 fetched) | total: 1600 | hasNext: True
+2026-02-24 06:54:29,195 [INFO]   Page 33 | +50 new (50 fetched) | total: 1650 | hasNext: True
+2026-02-24 06:54:35,213 [INFO]   Page 34 | +50 new (50 fetched) | total: 1700 | hasNext: True
+2026-02-24 06:54:38,753 [INFO]   Page 35 | +50 new (50 fetched) | total: 1750 | hasNext: True
+2026-02-24 06:54:46,131 [INFO]   Page 36 | +50 new (50 fetched) | total: 1800 | hasNext: True
+2026-02-24 06:54:46,148 [INFO]   SAVED (1800 URLs)
+2026-02-24 06:54:48,869 [INFO]   Page 37 | +50 new (50 fetched) | total: 1850 | hasNext: True
+2026-02-24 06:54:51,314 [INFO]   Page 38 | +50 new (50 fetched) | total: 1900 | hasNext: True
+2026-02-24 06:54:55,013 [INFO]   Page 39 | +50 new (50 fetched) | total: 1950 | hasNext: True
+2026-02-24 06:54:58,346 [INFO]   Page 40 | +50 new (50 fetched) | total: 2000 | hasNext: True
+2026-02-24 06:54:58,360 [INFO]   SAVED (2000 URLs)
+2026-02-24 06:55:01,702 [INFO]   Page 41 | +50 new (50 fetched) | total: 2050 | hasNext: True
+2026-02-24 06:55:04,711 [INFO]   Page 42 | +50 new (50 fetched) | total: 2100 | hasNext: True
+2026-02-24 06:55:10,466 [INFO]   Page 43 | +50 new (50 fetched) | total: 2150 | hasNext: True
+2026-02-24 06:55:13,229 [INFO]   Page 44 | +50 new (50 fetched) | total: 2200 | hasNext: True
+2026-02-24 06:55:13,245 [INFO]   SAVED (2200 URLs)
+2026-02-24 06:55:15,481 [INFO]   Page 45 | +50 new (50 fetched) | total: 2250 | hasNext: True
+2026-02-24 06:55:22,789 [INFO]   Page 46 | +50 new (50 fetched) | total: 2300 | hasNext: True
+2026-02-24 06:55:26,314 [INFO]   Page 47 | +50 new (50 fetched) | total: 2350 | hasNext: True
+2026-02-24 06:55:28,373 [INFO]   Page 48 | +50 new (50 fetched) | total: 2400 | hasNext: True
+2026-02-24 06:55:28,390 [INFO]   SAVED (2400 URLs)
+2026-02-24 06:55:29,798 [INFO]   Page 49 | +50 new (50 fetched) | total: 2450 | hasNext: True
+2026-02-24 06:55:34,147 [INFO]   Page 50 | +50 new (50 fetched) | total: 2500 | hasNext: True
+2026-02-24 06:55:38,297 [INFO]   Page 51 | +50 new (50 fetched) | total: 2550 | hasNext: True
+2026-02-24 06:55:42,916 [INFO]   Page 52 | +50 new (50 fetched) | total: 2600 | hasNext: True
+2026-02-24 06:55:42,934 [INFO]   SAVED (2600 URLs)
+2026-02-24 06:55:45,515 [INFO]   Page 53 | +50 new (50 fetched) | total: 2650 | hasNext: True
+2026-02-24 06:55:50,733 [INFO]   Page 54 | +50 new (50 fetched) | total: 2700 | hasNext: True
+2026-02-24 06:55:55,144 [INFO]   Page 55 | +50 new (50 fetched) | total: 2750 | hasNext: True
+2026-02-24 06:55:59,455 [INFO]   Page 56 | +50 new (50 fetched) | total: 2800 | hasNext: True
+2026-02-24 06:55:59,477 [INFO]   SAVED (2800 URLs)
+2026-02-24 06:56:04,793 [INFO]   Page 57 | +50 new (50 fetched) | total: 2850 | hasNext: True
+2026-02-24 06:56:07,562 [INFO]   Page 58 | +50 new (50 fetched) | total: 2900 | hasNext: True
+2026-02-24 06:56:12,131 [INFO]   Page 59 | +50 new (50 fetched) | total: 2950 | hasNext: True
+2026-02-24 06:56:15,137 [INFO]   Page 60 | +50 new (50 fetched) | total: 3000 | hasNext: True
+2026-02-24 06:56:15,159 [INFO]   SAVED (3000 URLs)
+2026-02-24 06:56:37,433 [INFO]   Page 61 | +50 new (50 fetched) | total: 3050 | hasNext: True
+2026-02-24 06:56:40,551 [INFO]   Page 62 | +50 new (50 fetched) | total: 3100 | hasNext: True
+2026-02-24 06:56:40,551 [INFO] TARGET REACHED: 3100 URLs
+2026-02-24 06:56:45,061 [INFO]   Page 63 | +50 new (50 fetched) | total: 3150 | hasNext: True
+2026-02-24 06:56:45,062 [INFO] TARGET REACHED: 3150 URLs
+2026-02-24 06:56:47,734 [INFO]   Page 64 | +43 new (43 fetched) | total: 3193 | hasNext: False
+2026-02-24 06:56:47,734 [INFO] TARGET REACHED: 3193 URLs
+2026-02-24 06:56:47,777 [INFO] 
+2026-02-24 06:56:47,778 [INFO] ============================================================
+2026-02-24 06:56:47,778 [INFO]   URL COLLECTION COMPLETE
+2026-02-24 06:56:47,778 [INFO]   Total URLs:     3193
+2026-02-24 06:56:47,778 [INFO]   New this run:   1601
+2026-02-24 06:56:47,778 [INFO]   Existing kept:  1592
+2026-02-24 06:56:47,778 [INFO]   Pages fetched:  64
+2026-02-24 06:56:47,778 [INFO]   Server total:   3193
+2026-02-24 06:56:47,778 [INFO]   Saved to:       /Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/data/all_investor_urls.json
+2026-02-24 06:56:47,778 [INFO] ============================================================
+2026-02-26 05:47:44,923 [INFO] ============================================================
+2026-02-26 05:47:44,923 [INFO]   NFX SIGNAL - GRAPHQL URL COLLECTOR
+2026-02-26 05:47:44,923 [INFO]   Target: 6000+ URLs
+2026-02-26 05:47:44,924 [INFO]   Page size: 50
+2026-02-26 05:47:44,924 [INFO] ============================================================
+2026-02-26 05:47:44,924 [INFO] Loaded 0 existing URLs from disk
+2026-02-26 05:47:46,457 [ERROR] CRASH: 'NoneType' object has no attribute 'get'
+2026-02-26 05:47:46,459 [ERROR] Traceback (most recent call last):
+  File "/Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/collect_all_urls.py", line 269, in main
+    collect()
+    ~~~~~~~^^
+  File "/Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/collect_all_urls.py", line 183, in collect
+    list_data = data.get("data", {}).get("list")
+                ^^^^^^^^^^^^^^^^^^^^^^^^
+AttributeError: 'NoneType' object has no attribute 'get'
+
+2026-02-26 05:48:21,322 [INFO] ============================================================
+2026-02-26 05:48:21,322 [INFO]   NFX SIGNAL - GRAPHQL URL COLLECTOR
+2026-02-26 05:48:21,322 [INFO]   Target: 6000+ URLs
+2026-02-26 05:48:21,323 [INFO]   Page size: 50
+2026-02-26 05:48:21,323 [INFO] ============================================================
+2026-02-26 05:48:21,323 [INFO] Loaded 0 existing URLs from disk
+2026-02-26 05:48:22,499 [INFO] Server reports 5772 total investors
+2026-02-26 05:48:22,499 [INFO]   Page 1 | +50 new (50 fetched) | total: 50 | hasNext: True
+2026-02-26 05:48:24,035 [INFO]   Page 2 | +50 new (50 fetched) | total: 100 | hasNext: True
+2026-02-26 05:48:25,413 [INFO]   Page 3 | +50 new (50 fetched) | total: 150 | hasNext: True
+2026-02-26 05:48:26,369 [INFO]   Page 4 | +50 new (50 fetched) | total: 200 | hasNext: True
+2026-02-26 05:48:26,371 [INFO]   SAVED (200 URLs)
+2026-02-26 05:48:27,344 [INFO]   Page 5 | +50 new (50 fetched) | total: 250 | hasNext: True
+2026-02-26 05:48:28,335 [INFO]   Page 6 | +50 new (50 fetched) | total: 300 | hasNext: True
+2026-02-26 05:48:29,292 [INFO]   Page 7 | +50 new (50 fetched) | total: 350 | hasNext: True
+2026-02-26 05:48:30,334 [INFO]   Page 8 | +50 new (50 fetched) | total: 400 | hasNext: True
+2026-02-26 05:48:30,337 [INFO]   SAVED (400 URLs)
+2026-02-26 05:48:31,290 [INFO]   Page 9 | +50 new (50 fetched) | total: 450 | hasNext: True
+2026-02-26 05:48:32,431 [INFO]   Page 10 | +50 new (50 fetched) | total: 500 | hasNext: True
+2026-02-26 05:48:33,422 [INFO]   Page 11 | +50 new (50 fetched) | total: 550 | hasNext: True
+2026-02-26 05:48:34,737 [INFO]   Page 12 | +50 new (50 fetched) | total: 600 | hasNext: True
+2026-02-26 05:48:34,742 [INFO]   SAVED (600 URLs)
+2026-02-26 05:48:36,016 [INFO]   Page 13 | +50 new (50 fetched) | total: 650 | hasNext: True
+2026-02-26 05:48:37,040 [INFO]   Page 14 | +50 new (50 fetched) | total: 700 | hasNext: True
+2026-02-26 05:48:38,537 [INFO]   Page 15 | +50 new (50 fetched) | total: 750 | hasNext: True
+2026-02-26 05:48:39,643 [INFO]   Page 16 | +50 new (50 fetched) | total: 800 | hasNext: True
+2026-02-26 05:48:39,649 [INFO]   SAVED (800 URLs)
+2026-02-26 05:48:41,239 [INFO]   Page 17 | +50 new (50 fetched) | total: 850 | hasNext: True
+2026-02-26 05:48:42,876 [INFO]   Page 18 | +50 new (50 fetched) | total: 900 | hasNext: True
+2026-02-26 05:48:44,125 [INFO]   Page 19 | +50 new (50 fetched) | total: 950 | hasNext: True
+2026-02-26 05:48:45,665 [INFO]   Page 20 | +50 new (50 fetched) | total: 1000 | hasNext: True
+2026-02-26 05:48:45,672 [INFO]   SAVED (1000 URLs)
+2026-02-26 05:48:46,694 [INFO]   Page 21 | +50 new (50 fetched) | total: 1050 | hasNext: True
+2026-02-26 05:48:48,048 [INFO]   Page 22 | +50 new (50 fetched) | total: 1100 | hasNext: True
+2026-02-26 05:48:49,632 [INFO]   Page 23 | +50 new (50 fetched) | total: 1150 | hasNext: True
+2026-02-26 05:48:50,824 [INFO]   Page 24 | +50 new (50 fetched) | total: 1200 | hasNext: True
+2026-02-26 05:48:50,831 [INFO]   SAVED (1200 URLs)
+2026-02-26 05:48:52,013 [INFO]   Page 25 | +50 new (50 fetched) | total: 1250 | hasNext: True
+2026-02-26 05:48:53,321 [INFO]   Page 26 | +50 new (50 fetched) | total: 1300 | hasNext: True
+2026-02-26 05:48:54,345 [INFO]   Page 27 | +50 new (50 fetched) | total: 1350 | hasNext: True
+2026-02-26 05:48:55,722 [INFO]   Page 28 | +50 new (50 fetched) | total: 1400 | hasNext: True
+2026-02-26 05:48:55,732 [INFO]   SAVED (1400 URLs)
+2026-02-26 05:48:57,097 [INFO]   Page 29 | +50 new (50 fetched) | total: 1450 | hasNext: True
+2026-02-26 05:48:58,259 [INFO]   Page 30 | +50 new (50 fetched) | total: 1500 | hasNext: True
+2026-02-26 05:48:59,474 [INFO]   Page 31 | +50 new (50 fetched) | total: 1550 | hasNext: True
+2026-02-26 05:49:02,463 [INFO]   Page 32 | +50 new (50 fetched) | total: 1600 | hasNext: True
+2026-02-26 05:49:02,479 [INFO]   SAVED (1600 URLs)
+2026-02-26 05:49:03,643 [INFO]   Page 33 | +50 new (50 fetched) | total: 1650 | hasNext: True
+2026-02-26 05:49:04,864 [INFO]   Page 34 | +50 new (50 fetched) | total: 1700 | hasNext: True
+2026-02-26 05:49:06,099 [INFO]   Page 35 | +50 new (50 fetched) | total: 1750 | hasNext: True
+2026-02-26 05:49:07,672 [INFO]   Page 36 | +50 new (50 fetched) | total: 1800 | hasNext: True
+2026-02-26 05:49:07,686 [INFO]   SAVED (1800 URLs)
+2026-02-26 05:49:09,500 [INFO]   Page 37 | +50 new (50 fetched) | total: 1850 | hasNext: True
+2026-02-26 05:49:11,241 [INFO]   Page 38 | +50 new (50 fetched) | total: 1900 | hasNext: True
+2026-02-26 05:49:12,503 [INFO]   Page 39 | +50 new (50 fetched) | total: 1950 | hasNext: True
+2026-02-26 05:49:13,662 [INFO]   Page 40 | +50 new (50 fetched) | total: 2000 | hasNext: True
+2026-02-26 05:49:13,674 [INFO]   SAVED (2000 URLs)
+2026-02-26 05:49:15,050 [INFO]   Page 41 | +50 new (50 fetched) | total: 2050 | hasNext: True
+2026-02-26 05:49:16,384 [INFO]   Page 42 | +50 new (50 fetched) | total: 2100 | hasNext: True
+2026-02-26 05:49:17,603 [INFO]   Page 43 | +50 new (50 fetched) | total: 2150 | hasNext: True
+2026-02-26 05:49:18,922 [INFO]   Page 44 | +50 new (50 fetched) | total: 2200 | hasNext: True
+2026-02-26 05:49:18,936 [INFO]   SAVED (2200 URLs)
+2026-02-26 05:49:20,185 [INFO]   Page 45 | +50 new (50 fetched) | total: 2250 | hasNext: True
+2026-02-26 05:49:21,159 [INFO]   Page 46 | +50 new (50 fetched) | total: 2300 | hasNext: True
+2026-02-26 05:49:22,199 [INFO]   Page 47 | +50 new (50 fetched) | total: 2350 | hasNext: True
+2026-02-26 05:49:23,172 [INFO]   Page 48 | +50 new (50 fetched) | total: 2400 | hasNext: True
+2026-02-26 05:49:23,189 [INFO]   SAVED (2400 URLs)
+2026-02-26 05:49:24,486 [INFO]   Page 49 | +50 new (50 fetched) | total: 2450 | hasNext: True
+2026-02-26 05:49:27,089 [INFO]   Page 50 | +50 new (50 fetched) | total: 2500 | hasNext: True
+2026-02-26 05:49:28,547 [INFO]   Page 51 | +50 new (50 fetched) | total: 2550 | hasNext: True
+2026-02-26 05:49:29,995 [INFO]   Page 52 | +50 new (50 fetched) | total: 2600 | hasNext: True
+2026-02-26 05:49:30,011 [INFO]   SAVED (2600 URLs)
+2026-02-26 05:49:31,457 [INFO]   Page 53 | +50 new (50 fetched) | total: 2650 | hasNext: True
+2026-02-26 05:49:32,424 [INFO]   Page 54 | +50 new (50 fetched) | total: 2700 | hasNext: True
+2026-02-26 05:49:33,403 [INFO]   Page 55 | +50 new (50 fetched) | total: 2750 | hasNext: True
+2026-02-26 05:49:35,072 [INFO]   Page 56 | +50 new (50 fetched) | total: 2800 | hasNext: True
+2026-02-26 05:49:35,091 [INFO]   SAVED (2800 URLs)
+2026-02-26 05:49:36,329 [INFO]   Page 57 | +50 new (50 fetched) | total: 2850 | hasNext: True
+2026-02-26 05:49:37,558 [INFO]   Page 58 | +50 new (50 fetched) | total: 2900 | hasNext: True
+2026-02-26 05:49:38,894 [INFO]   Page 59 | +50 new (50 fetched) | total: 2950 | hasNext: True
+2026-02-26 05:49:39,877 [INFO]   Page 60 | +50 new (50 fetched) | total: 3000 | hasNext: True
+2026-02-26 05:49:39,897 [INFO]   SAVED (3000 URLs)
+2026-02-26 05:49:41,025 [INFO]   Page 61 | +50 new (50 fetched) | total: 3050 | hasNext: True
+2026-02-26 05:49:42,090 [INFO]   Page 62 | +50 new (50 fetched) | total: 3100 | hasNext: True
+2026-02-26 05:49:43,496 [INFO]   Page 63 | +50 new (50 fetched) | total: 3150 | hasNext: True
+2026-02-26 05:49:44,898 [INFO]   Page 64 | +50 new (50 fetched) | total: 3200 | hasNext: True
+2026-02-26 05:49:44,917 [INFO]   SAVED (3200 URLs)
+2026-02-26 05:49:45,898 [INFO]   Page 65 | +50 new (50 fetched) | total: 3250 | hasNext: True
+2026-02-26 05:49:47,286 [INFO]   Page 66 | +50 new (50 fetched) | total: 3300 | hasNext: True
+2026-02-26 05:49:48,283 [INFO]   Page 67 | +50 new (50 fetched) | total: 3350 | hasNext: True
+2026-02-26 05:49:49,333 [INFO]   Page 68 | +50 new (50 fetched) | total: 3400 | hasNext: True
+2026-02-26 05:49:49,354 [INFO]   SAVED (3400 URLs)
+2026-02-26 05:49:50,574 [INFO]   Page 69 | +50 new (50 fetched) | total: 3450 | hasNext: True
+2026-02-26 05:49:51,794 [INFO]   Page 70 | +50 new (50 fetched) | total: 3500 | hasNext: True
+2026-02-26 05:49:53,129 [INFO]   Page 71 | +49 new (50 fetched) | total: 3549 | hasNext: True
+2026-02-26 05:49:54,532 [INFO]   Page 72 | +50 new (50 fetched) | total: 3599 | hasNext: True
+2026-02-26 05:49:55,993 [INFO]   Page 73 | +50 new (50 fetched) | total: 3649 | hasNext: True
+2026-02-26 05:49:56,014 [INFO]   SAVED (3649 URLs)
+2026-02-26 05:49:57,117 [INFO]   Page 74 | +50 new (50 fetched) | total: 3699 | hasNext: True
+2026-02-26 05:49:58,140 [INFO]   Page 75 | +50 new (50 fetched) | total: 3749 | hasNext: True
+2026-02-26 05:49:59,170 [INFO]   Page 76 | +50 new (50 fetched) | total: 3799 | hasNext: True
+2026-02-26 05:50:00,292 [INFO]   Page 77 | +50 new (50 fetched) | total: 3849 | hasNext: True
+2026-02-26 05:50:00,316 [INFO]   SAVED (3849 URLs)
+2026-02-26 05:50:01,725 [INFO]   Page 78 | +50 new (50 fetched) | total: 3899 | hasNext: True
+2026-02-26 05:50:02,852 [INFO]   Page 79 | +50 new (50 fetched) | total: 3949 | hasNext: True
+2026-02-26 05:50:04,824 [INFO]   Page 80 | +50 new (50 fetched) | total: 3999 | hasNext: True
+2026-02-26 05:50:06,248 [INFO]   Page 81 | +50 new (50 fetched) | total: 4049 | hasNext: True
+2026-02-26 05:50:06,273 [INFO]   SAVED (4049 URLs)
+2026-02-26 05:50:07,357 [INFO]   Page 82 | +50 new (50 fetched) | total: 4099 | hasNext: True
+2026-02-26 05:50:08,381 [INFO]   Page 83 | +50 new (50 fetched) | total: 4149 | hasNext: True
+2026-02-26 05:50:09,368 [INFO]   Page 84 | +50 new (50 fetched) | total: 4199 | hasNext: True
+2026-02-26 05:50:10,366 [INFO]   Page 85 | +50 new (50 fetched) | total: 4249 | hasNext: True
+2026-02-26 05:50:10,392 [INFO]   SAVED (4249 URLs)
+2026-02-26 05:50:11,822 [INFO]   Page 86 | +50 new (50 fetched) | total: 4299 | hasNext: True
+2026-02-26 05:50:13,173 [INFO]   Page 87 | +49 new (50 fetched) | total: 4348 | hasNext: True
+2026-02-26 05:50:14,524 [INFO]   Page 88 | +50 new (50 fetched) | total: 4398 | hasNext: True
+2026-02-26 05:50:16,048 [INFO]   Page 89 | +50 new (50 fetched) | total: 4448 | hasNext: True
+2026-02-26 05:50:17,468 [INFO]   Page 90 | +50 new (50 fetched) | total: 4498 | hasNext: True
+2026-02-26 05:50:17,494 [INFO]   SAVED (4498 URLs)
+2026-02-26 05:50:18,813 [INFO]   Page 91 | +50 new (50 fetched) | total: 4548 | hasNext: True
+2026-02-26 05:50:20,360 [INFO]   Page 92 | +50 new (50 fetched) | total: 4598 | hasNext: True
+2026-02-26 05:50:22,300 [INFO]   Page 93 | +50 new (50 fetched) | total: 4648 | hasNext: True
+2026-02-26 05:50:23,478 [INFO]   Page 94 | +50 new (50 fetched) | total: 4698 | hasNext: True
+2026-02-26 05:50:23,513 [INFO]   SAVED (4698 URLs)
+2026-02-26 05:50:24,679 [INFO]   Page 95 | +50 new (50 fetched) | total: 4748 | hasNext: True
+2026-02-26 05:50:25,681 [INFO]   Page 96 | +50 new (50 fetched) | total: 4798 | hasNext: True
+2026-02-26 05:50:26,709 [INFO]   Page 97 | +50 new (50 fetched) | total: 4848 | hasNext: True
+2026-02-26 05:50:27,699 [INFO]   Page 98 | +50 new (50 fetched) | total: 4898 | hasNext: True
+2026-02-26 05:50:27,729 [INFO]   SAVED (4898 URLs)
+2026-02-26 05:50:29,174 [INFO]   Page 99 | +50 new (50 fetched) | total: 4948 | hasNext: True
+2026-02-26 05:50:30,339 [INFO]   Page 100 | +50 new (50 fetched) | total: 4998 | hasNext: True
+2026-02-26 05:50:31,625 [INFO]   Page 101 | +50 new (50 fetched) | total: 5048 | hasNext: True
+2026-02-26 05:50:32,856 [INFO]   Page 102 | +50 new (50 fetched) | total: 5098 | hasNext: True
+2026-02-26 05:50:32,890 [INFO]   SAVED (5098 URLs)
+2026-02-26 05:50:33,876 [INFO]   Page 103 | +49 new (50 fetched) | total: 5147 | hasNext: True
+2026-02-26 05:50:35,198 [INFO]   Page 104 | +50 new (50 fetched) | total: 5197 | hasNext: True
+2026-02-26 05:50:37,052 [INFO]   Page 105 | +50 new (50 fetched) | total: 5247 | hasNext: True
+2026-02-26 05:50:38,007 [INFO]   Page 106 | +50 new (50 fetched) | total: 5297 | hasNext: True
+2026-02-26 05:50:39,241 [INFO]   Page 107 | +50 new (50 fetched) | total: 5347 | hasNext: True
+2026-02-26 05:50:39,274 [INFO]   SAVED (5347 URLs)
+2026-02-26 05:50:40,701 [INFO]   Page 108 | +50 new (50 fetched) | total: 5397 | hasNext: True
+2026-02-26 05:50:42,293 [INFO]   Page 109 | +50 new (50 fetched) | total: 5447 | hasNext: True
+2026-02-26 05:50:43,480 [INFO]   Page 110 | +50 new (50 fetched) | total: 5497 | hasNext: True
+2026-02-26 05:50:44,449 [INFO]   Page 111 | +50 new (50 fetched) | total: 5547 | hasNext: True
+2026-02-26 05:50:44,481 [INFO]   SAVED (5547 URLs)
+2026-02-26 05:50:45,794 [INFO]   Page 112 | +50 new (50 fetched) | total: 5597 | hasNext: True
+2026-02-26 05:50:46,783 [INFO]   Page 113 | +50 new (50 fetched) | total: 5647 | hasNext: True
+2026-02-26 05:50:48,400 [INFO]   Page 114 | +50 new (50 fetched) | total: 5697 | hasNext: True
+2026-02-26 05:50:49,441 [INFO]   Page 115 | +50 new (50 fetched) | total: 5747 | hasNext: True
+2026-02-26 05:50:49,477 [INFO]   SAVED (5747 URLs)
+2026-02-26 05:50:50,442 [INFO]   Page 116 | +22 new (22 fetched) | total: 5769 | hasNext: False
+2026-02-26 05:50:50,442 [INFO] No more pages (hasNextPage=false)
+2026-02-26 05:50:50,510 [INFO] 
+2026-02-26 05:50:50,510 [INFO] ============================================================
+2026-02-26 05:50:50,510 [INFO]   URL COLLECTION COMPLETE
+2026-02-26 05:50:50,510 [INFO]   Total URLs:     5769
+2026-02-26 05:50:50,510 [INFO]   New this run:   5769
+2026-02-26 05:50:50,510 [INFO]   Existing kept:  0
+2026-02-26 05:50:50,510 [INFO]   Pages fetched:  116
+2026-02-26 05:50:50,510 [INFO]   Server total:   5772
+2026-02-26 05:50:50,510 [INFO]   Saved to:       /Users/apple/Desktop/Techweer/SAUD BHAI/Scraping VC/data-saas/all_investor_urls.json
+2026-02-26 05:50:50,510 [INFO] ============================================================

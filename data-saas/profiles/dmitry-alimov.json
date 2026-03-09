@@ -1,0 +1,303 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor",
+      "Advisor"
+    ],
+    "location": "Palo Alto, California",
+    "name": "Dmitry Alimov",
+    "signalScore": 745,
+    "website": "https://frontier.ventures/"
+  },
+  "experience": [
+    {
+      "company": "RTP Global",
+      "dates": "2007 - 2010",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Turing.com",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Stacks",
+      "dates": "2017 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Expert360",
+      "dates": "2015 - Present",
+      "position": "Director, Investor"
+    },
+    {
+      "company": "Chope",
+      "dates": "2015 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Frontier Ventures",
+      "dates": "2011 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Frontier Ventures",
+      "dates": "2011 - Present",
+      "position": "Founding Partner"
+    },
+    {
+      "company": "IVI",
+      "dates": "2009 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "IVI.RU",
+      "dates": "Present",
+      "position": "Co-founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Frontier Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/frontier-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 11,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Andy White (Keshif Ventures)"
+      ],
+      "company": "Gravity AI",
+      "date": "Jul 2021",
+      "roundSize": "$1",
+      "stage": "Seed",
+      "totalRaised": "$1"
+    },
+    {
+      "coInvestors": [],
+      "company": "Trade X",
+      "date": "Jul 2021",
+      "roundSize": "$45M",
+      "stage": "Series A",
+      "totalRaised": "$45M"
+    },
+    {
+      "coInvestors": [
+        "Rich Maloy (SpringTime Ventures)",
+        "Ben Cherian"
+      ],
+      "company": "Bridgefy",
+      "date": "Oct 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Museum of Future Experiences (MOFE)",
+      "date": "Aug 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "PredictLeads",
+      "date": "Aug 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Eddie Thai (Ascend Vietnam Ventures)",
+        "Binh Tran (Ascend Vietnam Ventures)",
+        "Ivan Zolochevskii (Altaclub VC)",
+        "Julian Wright",
+        "Evan Lee",
+        "Marty Weiss",
+        "Kintan Brahmbhatt",
+        "Mathieu Guerville"
+      ],
+      "company": "Turing.com",
+      "date": "Oct 2018",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$51M"
+    },
+    {
+      "coInvestors": [
+        "Arjun Sethi (Tribe Capital)",
+        "Cyan Banister (Long Journey Ventures)"
+      ],
+      "company": "Panda",
+      "date": "Jun 2018",
+      "roundSize": "$850K",
+      "stage": "Seed Round",
+      "totalRaised": "$850K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Bild (getbild.com)",
+      "date": "N/A",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM1JhQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1e63ab474154be249bfc7808e6b4ae85be1db802/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dmitry-alimov",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-b-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "Future of Work (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "dmitry-alimov",
+  "socials": {
+    "angellist": "https://www.angel.co/dmitry-alimov",
+    "crunchbase": "https://www.crunchbase.com/person/dmitry-alimov",
+    "linkedin": "https://www.linkedin.com/in/dalimov/",
+    "twitter": "https://www.twitter.com/dmitryalimov",
+    "website": "https://www.frontier.ventures/"
+  },
+  "scraped_at": "2026-02-26T10:28:05.026052"
+}

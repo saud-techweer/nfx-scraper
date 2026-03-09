@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Manny Fernandez",
+    "signalScore": 286,
+    "website": "https://www.mannyfernandez.us/home"
+  },
+  "experience": [
+    {
+      "company": "Blue Startups",
+      "dates": "2016 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "DreamFunded.com",
+      "dates": "2014 - Present",
+      "position": "CEO / Co-Founder"
+    },
+    {
+      "company": "SF Angels Group",
+      "dates": "2013 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DreamFunded.com",
+      "firmUrl": "https://signal.nfx.com/firms/dream-funded",
+      "position": "General Partner"
+    },
+    "investmentRange": "$25K - $250K",
+    "sweetSpot": "$50K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBZy9xIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--bfe06568bbb3d9d02f496f97982e089fe8af345a/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/manny-fernandez",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "manny-fernandez",
+  "socials": {
+    "angellist": "https://www.angel.co/mfernandez-dreamfunded-com",
+    "crunchbase": "https://www.crunchbase.com/person/manny-fernandez",
+    "linkedin": "https://www.linkedin.com/in/mannyfernandezinvestor/",
+    "twitter": "https://www.twitter.com/mannyfernandez",
+    "website": "https://www.mannyfernandez.us/home"
+  },
+  "scraped_at": "2026-03-03T22:05:36.608021"
+}

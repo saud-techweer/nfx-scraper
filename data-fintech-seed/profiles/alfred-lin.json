@@ -1,0 +1,164 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Operator",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Alfred Lin",
+    "signalScore": 5,
+    "website": "https://sequoiacap.com/people/alfred-lin/"
+  },
+  "experience": [
+    {
+      "company": "Venture Frogs, LLC",
+      "dates": "1999 - 2014",
+      "position": "Co-Founder & General Manager"
+    },
+    {
+      "company": "Zappos.com (Acquired by Amazon.com)",
+      "dates": "2005 - 2010",
+      "position": "Chairman & COO"
+    },
+    {
+      "company": "Tellme Networks (Acquired by Microsoft)",
+      "dates": "2001 - 2005",
+      "position": "VP, Finance & Business Development"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "2010 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "LinkExchange (Acquired by Microsoft)",
+      "dates": "Present",
+      "position": "VP Finance"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jess Lee (Sequoia Capital)",
+        "Micah Rosenbloom (Founder Collective)",
+        "Gaurav Jain (Afore Capital)",
+        "Rob Go (NextView Ventures)"
+      ],
+      "company": "Dia&Co",
+      "date": "Sep 2016",
+      "roundSize": "$20M",
+      "stage": "Venture Round",
+      "totalRaised": "$20M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHVPQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--09e4fb88d5e004a97b168920e8c7237f6b02d257/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alfred-lin",
+  "sectorRankings": [
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Fashion (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-series-a-investors"
+    },
+    {
+      "name": "Local Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-a-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "alfred-lin",
+  "socials": {
+    "angellist": "https://www.angel.co/alfred_lin",
+    "crunchbase": "https://www.crunchbase.com/person/alfred-lin",
+    "linkedin": "https://www.linkedin.com/in/linalfred/",
+    "twitter": "https://www.twitter.com/alfred_lin?lang=en",
+    "website": "https://www.sequoiacap.com/people/alfred-lin/"
+  },
+  "scraped_at": "2026-02-28T00:02:29.401377"
+}

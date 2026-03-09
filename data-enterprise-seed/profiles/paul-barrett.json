@@ -1,0 +1,40 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Newcastle upon Tyne, United Kingdom",
+    "name": "Paul Barrett",
+    "website": "https://northstarventures.co.uk/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Northstar Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/northstar-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$130K - $1.3M",
+    "sweetSpot": "$700K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMEtxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4def11b0c54f296d79ab309e18f97c8e12b97033/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/paul-barrett",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "paul-barrett",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/paul-barrett-a93a2483/",
+    "website": "https://www.northstarventures.co.uk/"
+  },
+  "scraped_at": "2026-02-28T02:32:55.152617"
+}

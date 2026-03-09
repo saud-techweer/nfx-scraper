@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Ukraine",
+    "name": "Robert Kossman",
+    "positionAndFirm": "Retail Banking Board Member, Angel Investor, Fintech Mentor",
+    "website": "https://upswot.com/"
+  },
+  "experience": [
+    {
+      "company": "Raiffeisen Bank Aval",
+      "dates": "2006 - 2020",
+      "position": "Board Member Retail Banking"
+    },
+    {
+      "company": "Raiffeisen Bank International AG",
+      "dates": "2004 - 2006",
+      "position": "Head of SME Risk"
+    },
+    {
+      "company": "Ukreximbank",
+      "dates": "2023 - Present",
+      "position": "Independent Supervisory Board Member"
+    },
+    {
+      "company": "JSC MFO CRYSTAL",
+      "dates": "2022 - Present",
+      "position": "Independent Supervisory Board Member"
+    },
+    {
+      "company": "Agrifinance Online Inc.",
+      "dates": "2021 - Present",
+      "position": "Mentor/Advisor"
+    },
+    {
+      "company": "UpSwot",
+      "dates": "2021 - Present",
+      "position": "Angel Investor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN2ZoQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4fa3890b04d50ca9eef1933307f568e342d5a86f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/robert-kossman",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "Retail (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "robert-kossman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/robert-kossmann-9175",
+    "linkedin": "https://www.linkedin.com/in/robert-kossmann-0589b022/",
+    "website": "https://www.upswot.com/"
+  },
+  "scraped_at": "2026-03-05T20:00:28.954353"
+}

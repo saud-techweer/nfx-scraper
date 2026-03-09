@@ -1,0 +1,96 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Virginia",
+    "name": "Frank Rotman",
+    "signalScore": 4,
+    "website": "https://www.qedinvestors.com/team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "QED Investors",
+      "firmUrl": "https://signal.nfx.com/firms/qed-investors",
+      "position": "Partner"
+    },
+    "fundSize": "$1.3M",
+    "investmentRange": "$30K - $3.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Niko Bonatsos (General Catalyst)",
+        "Darian Shirazi (Gradient Ventures)",
+        "Topher Conway (SV Angel)",
+        "Garrett Camp (Expa)",
+        "Vítor Lourenco (Expa)",
+        "Phil Bronner (Ardent Venture Partners)",
+        "Jared Hecht (Magellan (magellan.ventures))",
+        "Scott Belsky",
+        "Gokul Rajaram",
+        "Vivek Patel"
+      ],
+      "company": "Collective",
+      "date": "Sep 2020",
+      "roundSize": "$8.7M",
+      "stage": "Seed Round",
+      "totalRaised": "$17M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXBOQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c36262ede3c8b494ea80601ab867de93e8406520/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/frank-rotman",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "frank-rotman",
+  "socials": {
+    "angellist": "https://www.angel.co/p/frank-rotman-3",
+    "crunchbase": "https://www.crunchbase.com/person/frank-rotman",
+    "linkedin": "https://www.linkedin.com/in/frank-rotman-303a9831/",
+    "twitter": "https://www.twitter.com/fintechjunkie",
+    "website": "https://www.qedinvestors.com/team"
+  },
+  "scraped_at": "2026-03-05T19:33:53.125421"
+}

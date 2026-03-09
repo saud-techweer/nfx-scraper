@@ -1,0 +1,122 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Angel"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Edward Suh",
+    "signalScore": 218,
+    "website": "https://alpine.vc/"
+  },
+  "experience": [
+    {
+      "company": "Goodwater Capital",
+      "dates": "2015 - 2021",
+      "position": "Principal"
+    },
+    {
+      "company": "Redpoint Ventures",
+      "dates": "2013 - 2015",
+      "position": "Associate"
+    },
+    {
+      "company": "Stitcher",
+      "dates": "2011 - 2013",
+      "position": "Head of Business Operations"
+    },
+    {
+      "company": "Merrill Lynch",
+      "dates": "2010 - 2011",
+      "position": "Investment Banking - Tech M&A"
+    },
+    {
+      "company": "Cognition, Language, and Learning Lab",
+      "dates": "2009 - 2010",
+      "position": "Research Assistant"
+    },
+    {
+      "company": "Citadel LLC",
+      "dates": "2009 - 2009",
+      "position": "Financial Technology Associate"
+    },
+    {
+      "company": "Facebook",
+      "dates": "2008 - 2008",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Plaxo",
+      "dates": "2007 - 2007",
+      "position": "Software Development Intern"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alpine Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/alpine-ventures",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFRsQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c004e320b31905bac07bbf0e2cce85cd53d3496c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/edward-suh",
+  "sectorRankings": [
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "edward-suh",
+  "socials": {
+    "angellist": "https://www.angel.co/p/edsuh",
+    "crunchbase": "https://www.crunchbase.com/person/edward-suh",
+    "linkedin": "https://www.linkedin.com/in/edsuh/",
+    "twitter": "https://www.twitter.com/edsuh",
+    "website": "https://www.alpine.vc/"
+  },
+  "scraped_at": "2026-02-27T21:41:46.956032"
+}

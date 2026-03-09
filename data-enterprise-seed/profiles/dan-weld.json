@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Seattle, Washington",
+    "name": "Dan Weld",
+    "website": "https://www.madrona.com/team-profiles/dan-weld/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Madrona Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/madrona-venture-group",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$2B",
+    "investmentRange": "$10K - $50K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tim Porter (Madrona Ventures)",
+        "Geoff Entress (Pioneer Square Labs)",
+        "Shivon Zilis"
+      ],
+      "company": "Versive",
+      "date": "Jul 2013",
+      "roundSize": "$7M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc2NFIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--4b472585ceb5058cde7555e048df5f690f0132ae/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/dan-weld",
+  "sectorRankings": [
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "dan-weld",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/dan-weld",
+    "linkedin": "https://www.linkedin.com/in/prof-daniel-weld/",
+    "twitter": "https://www.twitter.com/dsweld",
+    "website": "https://www.madrona.com/team-profiles/dan-weld/"
+  },
+  "scraped_at": "2026-02-27T21:15:46.293653"
+}

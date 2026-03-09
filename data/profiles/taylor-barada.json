@@ -1,0 +1,136 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Los Altos, California",
+    "name": "Taylor Barada",
+    "signalScore": 133,
+    "website": "https://signalfire.com/profiles/taylor-barada/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SignalFire",
+      "firmUrl": "https://signal.nfx.com/firms/signalfire",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$5.0M - $20.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Frederique Dame (GV (Google Ventures))",
+        "Evan Mintz (VMG Partners)",
+        "Carle Stenmark (VMG Partners)",
+        "TJ Nahigian (Base10 (Base10 Partners) )",
+        "Nikhil Basu Trivedi (Footwork)",
+        "George Ruan"
+      ],
+      "company": "The Pill Club",
+      "date": "Jan 2019",
+      "roundSize": "$51M",
+      "stage": "Series B",
+      "totalRaised": "$93M"
+    },
+    {
+      "coInvestors": [
+        "Ron Stern (OurCrowd)",
+        "Bobby Lent (Hillsven)",
+        "Itamar Novick (Recursive Ventures)",
+        "Gil Ben-Artzy (UpWest)",
+        "Curtis Lee"
+      ],
+      "company": "HoneyBook",
+      "date": "Oct 2012",
+      "roundSize": "$250K",
+      "stage": "Seed",
+      "totalRaised": "$420M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOUhPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ce5edcf91bc8d6f94a88bc6a97a7c72957e61c0e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/taylor-barada",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "taylor-barada",
+  "socials": {
+    "angellist": "https://www.angel.co/p/taylor-barada",
+    "crunchbase": "https://www.crunchbase.com/person/taylor-barada",
+    "linkedin": "https://www.linkedin.com/in/taylorbarada/",
+    "twitter": "https://www.twitter.com/taylorbarada",
+    "website": "https://www.signalfire.com/profiles/taylor-barada/"
+  },
+  "scraped_at": "2026-02-11T10:19:02.461911"
+}

@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Spain",
+    "name": "Adam Krellenstein",
+    "website": "https://krellenstein.com/adam/index.html"
+  },
+  "experience": [
+    {
+      "company": "Pisces VI Submarine SL",
+      "dates": "2021 - 2021",
+      "position": "Electrical Engineer and Mission Specialist"
+    },
+    {
+      "company": "Symbiont",
+      "dates": "2015 - 2019",
+      "position": "Co-Founder, CTO, Chief Scientist"
+    },
+    {
+      "company": "Counterparty",
+      "dates": "2013 - 2015",
+      "position": "Co-Founder, Chief Scientist"
+    },
+    {
+      "company": "Alva Energy GmbH",
+      "dates": "2023 - Present",
+      "position": "Geschäftsführer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeFlBQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bc042268a73b1b44095614ac6f60240c3af69aeb/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/adam-krellenstein",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "adam-krellenstein",
+  "socials": {
+    "angellist": "https://www.angel.co/u/adamkrellenstein",
+    "crunchbase": "https://www.crunchbase.com/person/adam-krellenstein",
+    "linkedin": "https://www.linkedin.com/in/adamkrellenstein/",
+    "twitter": "https://www.twitter.com/agkrellenstein",
+    "website": "https://www.krellenstein.com/adam/index.html"
+  },
+  "scraped_at": "2026-02-27T19:45:54.381992"
+}

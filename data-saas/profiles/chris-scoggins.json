@@ -1,0 +1,104 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Denver, Colorado",
+    "name": "Chris Scoggins",
+    "website": "https://signalfire.com/profiles/chris-scoggins/"
+  },
+  "experience": [
+    {
+      "company": "Oracle",
+      "dates": "2015 - 2017",
+      "position": "Oracle Data Cloud - VP and GM, Global Strategy, Revenues and Partnerships"
+    },
+    {
+      "company": "Datalogix",
+      "dates": "2008 - 2015",
+      "position": "SVP and GM, Digital Services"
+    },
+    {
+      "company": "Sequel Venture Partners",
+      "dates": "2004 - 2015",
+      "position": "Partner"
+    },
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2006 - 2008",
+      "position": "Kauffman Fellows Program - Class 11"
+    },
+    {
+      "company": "Sprout Group",
+      "dates": "2002 - 2004",
+      "position": "Senior Associate"
+    },
+    {
+      "company": "Internet Reports",
+      "dates": "1998 - 2000",
+      "position": "Co-Founder; VP Revenues, Partnerships and Product"
+    },
+    {
+      "company": "Arthur Andersen Business Consulting",
+      "dates": "1995 - 1998",
+      "position": "Engagement Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "SignalFire",
+      "firmUrl": "https://signal.nfx.com/firms/signalfire",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$5.0M - $20.0M",
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmZMQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8a9621e2d7dd19a89c5729aa30aff0c12e6fa670/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-scoggins",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-series-b-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Colorado / Utah",
+      "url": "https://signal.nfx.com/investor-lists/top-colorado-utah-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chris-scoggins",
+  "socials": {
+    "angellist": "https://www.angel.co/p/chris-scoggins",
+    "crunchbase": "https://www.crunchbase.com/person/chris-scoggins",
+    "linkedin": "https://www.linkedin.com/in/cwscoggins/",
+    "twitter": "https://www.twitter.com/scoggc",
+    "website": "https://www.signalfire.com/profiles/chris-scoggins/"
+  },
+  "scraped_at": "2026-02-27T05:56:54.467053"
+}

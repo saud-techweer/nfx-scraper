@@ -1,0 +1,318 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "CEO",
+      "Founder"
+    ],
+    "location": "New York, New York",
+    "name": "Jordan Fliegel",
+    "signalScore": 425,
+    "website": "https://www.foundersfirst.fund/"
+  },
+  "experience": [
+    {
+      "company": "Techstars",
+      "dates": "Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "DRAFT",
+      "dates": "Present",
+      "position": "Co-CEO"
+    },
+    {
+      "company": "CoachUp",
+      "dates": "Present",
+      "position": "Founder & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Techstars",
+      "firmUrl": "https://signal.nfx.com/firms/techstars",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$120K - $500K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$120K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Will Groah (01 Advisors)",
+        "Eric Anschutz"
+      ],
+      "company": "SMBX",
+      "date": "Aug 2020",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Masha Khusid (Drive Capital)",
+        "Natty Zola (Matchstick Ventures)",
+        "Ryan Broshar (Matchstick Ventures)"
+      ],
+      "company": "Landline",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed+",
+      "totalRaised": "$28M"
+    },
+    {
+      "coInvestors": [
+        "Justin Kan (Goat Capital)",
+        "Jeremy Levine (Bessemer Venture Partners)",
+        "Gabe Greenbaum (B Capital Group)",
+        "Matt Murphy (Menlo Ventures)",
+        "Pat Kinsel (Polaris Partners)",
+        "Harry Stebbings (20VC)",
+        "Jeff Fagnan (Accomplice VC)",
+        "Adam Bain (01 Advisors)",
+        "Ali Rowghani (Y Combinator)",
+        "Nicole M. Stata (Boston Seed Capital)",
+        "Katie Stanton (Moxxie Ventures)",
+        "Anne Dwane (Village Global)",
+        "Nat Friedman (C2 Investment)",
+        "Dick Costolo (01 Advisors)",
+        "April Underwood (Adverb Ventures)",
+        "Jana Messerschmidt (#ANGELS (Hashtag ANGELS))",
+        "Richard Jun (Bam Ventures)",
+        "Brian Lee (Bam Ventures)",
+        "Chloe Sladden (#ANGELS (Hashtag ANGELS))",
+        "Chris Keller (NextGen Venture Partners)",
+        "Kevin Weil",
+        "Eric Wu",
+        "Jason Robins",
+        "Joshua Reeves",
+        "Adrian Aoun",
+        "Elad Gil",
+        "Ric Fulop",
+        "Merlin Kauffman",
+        "Jennifer Lum",
+        "David Cancel"
+      ],
+      "company": "Digits",
+      "date": "Nov 2019",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$22M"
+    },
+    {
+      "coInvestors": [
+        "Scott Hartley (Everywhere Ventures (The Fund))",
+        "Will Price (Next Frontier Capital)",
+        "Jason Corsello (Acadian Ventures)",
+        "Natty Zola (Matchstick Ventures)",
+        "Ryan Broshar (Matchstick Ventures)"
+      ],
+      "company": "Getro",
+      "date": "Nov 2019",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$100K"
+    },
+    {
+      "coInvestors": [
+        "Nicole Quinn (Lightspeed Venture Partners)",
+        "Matthew Caspari (Alumni Ventures )",
+        "Mike Kruzeniski (Climate Capital)",
+        "Rahul Mehta (DST Global)",
+        "Johnnie Yu (Listen )",
+        "Judd Morgenstern (Partners Resolute)",
+        "Shawn Dimantha (Angel investor)",
+        "Chris Cantino (Color Capital)",
+        "Elizabeth Weil (Scribble Ventures)",
+        "Mark Chou",
+        "Alex Pattis",
+        "Ligaya Tichy",
+        "Zach Segal",
+        "Casey Neistat",
+        "Kevin Weil",
+        "Jen Rubio Butterfield",
+        "Jaime Schmidt",
+        "Andrew Gluck",
+        "Moshe Lifschitz"
+      ],
+      "company": "Haus",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$49M"
+    },
+    {
+      "coInvestors": [
+        "Will Herman"
+      ],
+      "company": "Two Way Labs",
+      "date": "Jun 2018",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMlBiQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--17b40f1c38dc4c36313a027fcc1c80b7d2c2c1d4/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jordan-fliegel",
+  "sectorRankings": [
+    {
+      "name": "Fashion (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Fashion (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Food and Beverage (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-series-a-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-series-a-investors"
+    },
+    {
+      "name": "Gig Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-series-a-investors"
+    },
+    {
+      "name": "Gig Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-seed-investors"
+    },
+    {
+      "name": "Fashion (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fashion-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-series-a-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-seed-investors"
+    },
+    {
+      "name": "Gig Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gig-economy-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-pre-seed-investors"
+    },
+    {
+      "name": "Wellness & Fitness (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-wellness-fitness-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jordan-fliegel",
+  "socials": {
+    "angellist": "https://www.angel.co/p/jordanfliegel",
+    "crunchbase": "https://www.crunchbase.com/person/jordan-fliegel",
+    "linkedin": "https://www.linkedin.com/in/jordanfliegel/",
+    "twitter": "https://www.twitter.com/jordanfliegel",
+    "website": "https://www.foundersfirst.fund/"
+  },
+  "scraped_at": "2026-02-11T13:04:52.530010"
+}

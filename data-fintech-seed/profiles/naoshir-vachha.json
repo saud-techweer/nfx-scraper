@@ -1,0 +1,82 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Attorney"
+    ],
+    "location": "London",
+    "name": "Naoshir Vachha",
+    "website": "https://www.anthemis.com/people/naoshir-vachha/"
+  },
+  "experience": [
+    {
+      "company": "Apis Partners",
+      "dates": "2014 - 2015",
+      "position": "Interim Legal Counsel"
+    },
+    {
+      "company": "FT Advisors",
+      "dates": "2009 - 2014",
+      "position": "General Counsel"
+    },
+    {
+      "company": "Lawrence Graham",
+      "dates": "2006 - 2009",
+      "position": "Solicitor (Corporate)"
+    },
+    {
+      "company": "ALMT Legal",
+      "dates": "2003 - 2005",
+      "position": "Associate"
+    },
+    {
+      "company": "Anthemis Group",
+      "dates": "2010 - Present",
+      "position": "General Counsel & Chief Compliance Officer"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Anthemis Group",
+      "firmUrl": "https://signal.nfx.com/firms/anthemis-group",
+      "position": "Partner"
+    },
+    "fundSize": "$1.2B",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMnk0QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--d0794493e2adbab2f93980755695780f7a0404be/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/naoshir-vachha",
+  "sectorRankings": [
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "naoshir-vachha",
+  "socials": {
+    "angellist": "https://www.angel.co/u/naoshir-vachha",
+    "crunchbase": "https://www.crunchbase.com/person/naoshir-vachha",
+    "linkedin": "https://www.linkedin.com/in/naoshirvachha/",
+    "website": "https://www.anthemis.com/people/naoshir-vachha/"
+  },
+  "scraped_at": "2026-03-03T22:50:08.590101"
+}

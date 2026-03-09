@@ -1,0 +1,111 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Jessica Lin",
+    "website": "https://jerseejess.com/"
+  },
+  "experience": [
+    {
+      "company": "Cisco Systems",
+      "dates": "2012 - 2014",
+      "position": "Manager, Learning & Development Engineering Business Engagement"
+    },
+    {
+      "company": "Harvard School of Engineering and Applied Sciences",
+      "dates": "2010 - 2011",
+      "position": "Project Manager, Harvard Idea Translation Lab in Cape Town"
+    },
+    {
+      "company": "The Laboratory at Harvard",
+      "dates": "2009 - 2010",
+      "position": "Fellow"
+    },
+    {
+      "company": "Courier Health",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Pronto",
+      "dates": "2021 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Forbes",
+      "dates": "2020 - Present",
+      "position": "Contributor"
+    },
+    {
+      "company": "Leapfin",
+      "dates": "2020 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "RippleMatch",
+      "dates": "2019 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Catalyst Software",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Spring Health",
+      "dates": "2018 - Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Work-Bench",
+      "dates": "2014 - Present",
+      "position": "Co-Founder & General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Work-Bench",
+      "firmUrl": "https://signal.nfx.com/firms/work-bench",
+      "position": "General Partner"
+    },
+    "investmentRange": "$250K - $3.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOFhXQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--de88f2f63e7c98be59a2b93577b9b76fb2794677/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jessica-lin",
+  "sectorRankings": [
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "jessica-lin",
+  "socials": {
+    "angellist": "https://www.angel.co/u/jessica-lin-8",
+    "crunchbase": "https://www.crunchbase.com/person/jessica-lin",
+    "linkedin": "https://www.linkedin.com/in/jessicalin8/",
+    "twitter": "https://www.twitter.com/jerseejess?lang=en",
+    "website": "https://www.jerseejess.com/"
+  },
+  "scraped_at": "2026-02-27T22:40:31.465616"
+}

@@ -1,0 +1,81 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jeff Fluhr",
+    "website": "https://craftventures.com/team/jeff-fluhr"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Craft Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/craft-ventures",
+      "position": "General Partner"
+    },
+    "fundSize": "$500M",
+    "investmentRange": "$50K - $25.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$12.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Fabrice Grinda (FJ Labs)",
+        "Scott Friend (Bain Capital Ventures)",
+        "Angela Tran (Version One Ventures)",
+        "Serena Williams (Serena Ventures)",
+        "Reed Duchscher (Night Ventures)",
+        "Alex Chung (Curious Capital)",
+        "Josh Richards (REMUS Capital)",
+        "Guy Oseary (Sound Ventures)",
+        "Casey Neistat",
+        "Pir Granoff",
+        "Baron Davis",
+        "Logan Paul",
+        "Brian Sugar",
+        "Ian Borthwick"
+      ],
+      "company": "Lolli",
+      "date": "May 2020",
+      "roundSize": "$3M",
+      "stage": "Seed Round",
+      "totalRaised": "$31M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBJZz09IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76fe2a0b89f11499ba332975ab4e352f3dee1855/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jeff-fluhr",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "jeff-fluhr",
+  "socials": {
+    "angellist": "https://www.angel.co/jfluhr",
+    "crunchbase": "https://www.crunchbase.com/person/jeff-fluhr",
+    "linkedin": "https://www.linkedin.com/in/jefffluhr/",
+    "twitter": "https://www.twitter.com/jefffluhr",
+    "website": "https://www.craftventures.com/team/jeff-fluhr"
+  },
+  "scraped_at": "2026-02-12T08:56:45.178917"
+}

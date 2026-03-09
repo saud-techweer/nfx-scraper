@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Investor",
+      "Angel"
+    ],
+    "location": "New York, New York",
+    "name": "Yuval Ariav",
+    "signalScore": 241,
+    "website": "https://symbol.vc/"
+  },
+  "experience": [
+    {
+      "company": "Fundbox",
+      "dates": "2012 - 2015",
+      "position": "Founder, CTO"
+    },
+    {
+      "company": "Onavo (acquired by Facebook)",
+      "dates": "2012",
+      "position": "Director of Product"
+    },
+    {
+      "company": "IDF",
+      "dates": "2006 - 2010",
+      "position": "Section leader and project manager"
+    },
+    {
+      "company": "IDF",
+      "dates": "2004 - 2006",
+      "position": "Team leader and product manager"
+    },
+    {
+      "company": "IDF",
+      "dates": "2001 - 2004",
+      "position": "Data analyst, software developer, and researcher"
+    },
+    {
+      "company": "Columbia Business School",
+      "dates": "2017 - Present",
+      "position": "Adjunct Professor"
+    },
+    {
+      "company": "Techstars",
+      "dates": "2016 - Present",
+      "position": "Mentor"
+    },
+    {
+      "company": "LionBird",
+      "dates": "2016 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Onavo (acquired by Facebook)",
+      "dates": "Present",
+      "position": "Chief Architect"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Symbol VC",
+      "firmUrl": "https://signal.nfx.com/firms/symbol-vc",
+      "position": "Managing Partner"
+    },
+    "fundSize": "$50M",
+    "investmentRange": "$500K - $3.5M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1.8M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Remesh",
+      "date": "Jan 2017",
+      "roundSize": "$2.3M",
+      "stage": "Seed",
+      "totalRaised": "$2.3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMFQyQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--83b4979bba2bd6befff243576a791459eb0f9f0b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/yuval-ariav",
+  "sectorRankings": [
+    {
+      "name": "Sales & CRM (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Sales & CRM (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-sales-crm-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Boston / New England",
+      "url": "https://signal.nfx.com/investor-lists/top-boston-new-england-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Health & Hospital Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-hospital-services-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "yuval-ariav",
+  "socials": {
+    "angellist": "https://www.angel.co/yuval-ariav",
+    "crunchbase": "https://www.crunchbase.com/person/yuval-ariav",
+    "linkedin": "https://il.linkedin.com/in/yuvalariav/",
+    "twitter": "https://www.twitter.com/YuvalAriav",
+    "website": "https://www.symbol.vc/"
+  },
+  "scraped_at": "2026-02-27T05:45:52.641793"
+}

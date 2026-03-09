@@ -1,0 +1,124 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO",
+      "Founder"
+    ],
+    "location": "Columbus, Ohio",
+    "name": "Andrew Jenks",
+    "positionAndFirm": "General Partner, Drive Capital",
+    "website": "https://drivecapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Formation Data Systems",
+      "dates": "2012 - 2015",
+      "position": "Co-Founder, COO"
+    },
+    {
+      "company": "Khosla Ventures",
+      "dates": "2012 - 2012",
+      "position": "Entrepreneur in Residence"
+    },
+    {
+      "company": "EMC",
+      "dates": "2011 - 2012",
+      "position": "Executive in Residence, EMC Ventures"
+    },
+    {
+      "company": "Autonomy",
+      "dates": "2009 - 2010",
+      "position": "CEO, Autonomy Optimost"
+    },
+    {
+      "company": "Interwoven",
+      "dates": "2008 - 2009",
+      "position": "Vice President eDiscovery"
+    },
+    {
+      "company": "Discovery Mining",
+      "dates": "2002 - 2008",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Compete, Inc.",
+      "dates": "2001 - 2002",
+      "position": "Software Engineer"
+    },
+    {
+      "company": "Alexa Internet/Amazon.com",
+      "dates": "1999 - 2001",
+      "position": "Business Metrics Engineer"
+    },
+    {
+      "company": "Providian Financial",
+      "dates": "1998 - 1999",
+      "position": "Data Metrics Analyst"
+    },
+    {
+      "company": "Finite State",
+      "dates": "2017 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Immuta",
+      "dates": "2016 - Present",
+      "position": "Director"
+    },
+    {
+      "company": "Drive Capital",
+      "dates": "2015 - Present",
+      "position": "Partner, GP"
+    },
+    {
+      "company": "Stage One Capital",
+      "dates": "2009 - Present",
+      "position": "Co-Founder, General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Drive Capital",
+      "firmUrl": "https://signal.nfx.com/firms/drive-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$1B",
+    "investmentRange": "$10.0M - $30.0M",
+    "sweetSpot": "$15.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcW41IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--aa8cf6508d696c4d5cd90306cae7405285b96d8c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/andrew-jenks",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "andrew-jenks",
+  "socials": {
+    "angellist": "https://www.angel.co/ajenks",
+    "crunchbase": "https://www.crunchbase.com/person/andy-jenks-2",
+    "linkedin": "https://www.linkedin.com/in/ajenks/",
+    "website": "https://www.drivecapital.com/"
+  },
+  "scraped_at": "2026-02-27T20:18:13.826652"
+}

@@ -1,0 +1,118 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Advisor"
+    ],
+    "location": "Dallas, Texas",
+    "name": "Doug Scott",
+    "website": "https://www.goldensection.com/team/"
+  },
+  "experience": [
+    {
+      "company": "TokenEx",
+      "dates": "2022 - 2022",
+      "position": "Chief Revenue Officer"
+    },
+    {
+      "company": "SAP",
+      "dates": "2020 - 2021",
+      "position": "Chief Operating Officer - SAP Services Sales & Delivery, Regulated Industries"
+    },
+    {
+      "company": "SAP",
+      "dates": "2018 - 2020",
+      "position": "Senior Vice President & General Manager, Services Sales - South"
+    },
+    {
+      "company": "SAP",
+      "dates": "2010 - 2018",
+      "position": "Vice President SaaS/Software Sales - South"
+    },
+    {
+      "company": "Amdocs",
+      "dates": "2008 - 2010",
+      "position": "Head of Global Enterprise CRM Business"
+    },
+    {
+      "company": "Amdocs",
+      "dates": "2006 - 2008",
+      "position": "Director Worldwide CRM Channel Sales"
+    },
+    {
+      "company": "Prediction Analytics Inc.",
+      "dates": "2004 - 2006",
+      "position": "VP Sales & Marketing"
+    },
+    {
+      "company": "Traq Wireless, Inc.",
+      "dates": "2002 - 2004",
+      "position": "Regional Vice President Sales"
+    },
+    {
+      "company": "Attenza, Inc.",
+      "dates": "2000 - 2002",
+      "position": "Vice President Sales"
+    },
+    {
+      "company": "Witness Systems",
+      "dates": "1997 - 2000",
+      "position": "Director of Sales, Western Region"
+    },
+    {
+      "company": "Peerless Group",
+      "dates": "1995 - 1997",
+      "position": "Sales Executive"
+    },
+    {
+      "company": "IFS",
+      "dates": "2023 - Present",
+      "position": "Senior Vice President, North America ERP"
+    },
+    {
+      "company": "Golden Section",
+      "dates": "2021 - Present",
+      "position": "Board Advisor"
+    },
+    {
+      "company": "Venetia Partners LLC",
+      "dates": "2021 - Present",
+      "position": "Board Advisor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Golden Section Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/golden-section-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$20M",
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2FRQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5cea53a8d9e3f07fbfcee105b0c1629143f96464/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/doug-scott_1",
+  "sectorRankings": [
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "doug-scott_1",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/doug-scott-f22a",
+    "linkedin": "https://www.linkedin.com/in/douglasscott/",
+    "website": "https://www.goldensection.com/team/"
+  },
+  "scraped_at": "2026-02-26T10:29:59.243785"
+}

@@ -1,0 +1,184 @@
+{
+  "basicInfo": {
+    "name": "Neil Giugno",
+    "signalScore": 43,
+    "investorTypes": [
+      "CEO",
+      "Investor"
+    ],
+    "website": "https://phylabiotics.com/",
+    "location": "New York, New York"
+  },
+  "investingProfile": {
+    "investmentRange": "$10K - $75K",
+    "sweetSpot": "$20K",
+    "investmentsOnRecord": 6
+  },
+  "sectorRankings": [
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-pre-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "Food and Beverage (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-food-and-beverage-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Buncha",
+      "stage": "Seed",
+      "date": "Jun 2020",
+      "roundSize": "$10K",
+      "totalRaised": "$20K",
+      "coInvestors": [
+        "Ryan Broshar (Matchstick Ventures)"
+      ]
+    },
+    {
+      "company": "Keyo",
+      "stage": "Seed",
+      "date": "May 2020",
+      "roundSize": "$10K",
+      "totalRaised": "$40K",
+      "coInvestors": []
+    },
+    {
+      "company": "GenoPalate",
+      "stage": "Seed",
+      "date": "Dec 2017",
+      "roundSize": "$75K",
+      "totalRaised": "$75K",
+      "coInvestors": []
+    }
+  ],
+  "experience": [
+    {
+      "position": "COO & CMO",
+      "company": "Phyla",
+      "dates": "2022 - 2023"
+    },
+    {
+      "position": "Advisory Board",
+      "company": "Phyla",
+      "dates": "2021 - 2022"
+    },
+    {
+      "position": "Chief Operating Officer",
+      "company": "GenoPalate",
+      "dates": "2018 - 2019"
+    },
+    {
+      "position": "Marketing Director: Mexico",
+      "company": "Colgate Palmolive",
+      "dates": "2013 - 2017"
+    },
+    {
+      "position": "Marketing Director: Greater Asia",
+      "company": "Colgate Palmolive",
+      "dates": "2011 - 2013"
+    },
+    {
+      "position": "Associate Director: Latin American Innovation",
+      "company": "Colgate Palmolive",
+      "dates": "2009 - 2011"
+    },
+    {
+      "position": "Marketing Manager: Latin America Innovation",
+      "company": "Colgate Palmolive",
+      "dates": "2007 - 2009"
+    },
+    {
+      "position": "Brand Manager: US",
+      "company": "Colgate Palmolive",
+      "dates": "2005 - 2007"
+    },
+    {
+      "position": "Associate Brand Manager: US",
+      "company": "Colgate Palmolive",
+      "dates": "2004 - 2005"
+    },
+    {
+      "position": "Global Marketing Development Program",
+      "company": "Colgate Palmolive",
+      "dates": "2003 - 2004"
+    },
+    {
+      "position": "CEO",
+      "company": "Phyla",
+      "dates": "2023 - Present"
+    },
+    {
+      "position": "Investor",
+      "company": "Rasa®",
+      "dates": "2021 - Present"
+    },
+    {
+      "position": "Investor & Advisory Board",
+      "company": "Buncha",
+      "dates": "2019 - Present"
+    },
+    {
+      "position": "Investor",
+      "company": "GenoPalate",
+      "dates": "2018 - Present"
+    },
+    {
+      "position": "Investor",
+      "company": "KEYO",
+      "dates": "2017 - Present"
+    }
+  ],
+  "socials": {
+    "website": "https://www.phylabiotics.com/",
+    "linkedin": "https://www.linkedin.com/in/neil-giugno-9537943/"
+  },
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnpSQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--320418e5dc241ce5c258398ef301908cdd2a69fa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/neil-giugno_1",
+  "slug": "neil-giugno_1",
+  "scraped_at": "2026-02-26T01:37:48.290607"
+}

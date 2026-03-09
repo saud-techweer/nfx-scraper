@@ -1,0 +1,88 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "New York, New York",
+    "name": "Edgar Bronfman Jr.",
+    "website": "https://waverleycapital.com/our-team"
+  },
+  "experience": [
+    {
+      "company": "Warner Music Group",
+      "dates": "2004 - 2012",
+      "position": "Chairman & CEO"
+    },
+    {
+      "company": "The Seagram Company Ltd.",
+      "dates": "1994 - 2002",
+      "position": "President & CEO"
+    },
+    {
+      "company": "Waverley Capital",
+      "dates": "2017 - Present",
+      "position": "Co-Founder, Chairman, & General Partner"
+    },
+    {
+      "company": "Accretive",
+      "dates": "2001 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "Accretive LLC",
+      "dates": "Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Waverley Capital",
+      "firmUrl": "https://signal.nfx.com/firms/waverley-capital",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmZDQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e525d25a19199c2fb87b6d875ff3a233331030ff/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/edgar-bronfman-jr",
+  "sectorRankings": [
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Media/Content (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "edgar-bronfman-jr",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/edgar-bronfman-jr",
+    "linkedin": "https://www.linkedin.com/in/edgarbronfmanjr/",
+    "twitter": "https://www.twitter.com/EdgarBronfmanJr",
+    "website": "https://www.waverleycapital.com/our-team"
+  },
+  "scraped_at": "2026-02-27T21:39:13.017627"
+}

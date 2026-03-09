@@ -1,0 +1,176 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Sonja Perkins",
+    "signalScore": 135
+  },
+  "experience": [
+    {
+      "company": "Menlo Ventures",
+      "dates": "1994 - 2015",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Symantec",
+      "dates": "1991 - 1993",
+      "position": "Business Development"
+    },
+    {
+      "company": "TA Associates",
+      "dates": "1989 - 1991",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "The Perkins Fund",
+      "dates": "2016 - Present",
+      "position": "Managing Director"
+    },
+    {
+      "company": "Broadway Angels",
+      "dates": "2011 - Present",
+      "position": "Founder"
+    },
+    {
+      "company": "Project Glimmer",
+      "dates": "2010 - Present",
+      "position": "Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "The Perkins Fund",
+      "firmUrl": "https://signal.nfx.com/firms/the-perkins-fund",
+      "position": "Managing Partner"
+    },
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pearce Clune (True Global Ventures)"
+      ],
+      "company": "Chronicled",
+      "date": "May 2018",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$3.4M"
+    },
+    {
+      "coInvestors": [
+        "Bill Helman (Greylock)",
+        "Andrew Boszhardt (Great Oaks Venture Capital)"
+      ],
+      "company": "Handwriting.io",
+      "date": "Feb 2015",
+      "roundSize": "$3.2M",
+      "stage": "Series A",
+      "totalRaised": "$3.2M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBamY5IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--76f41551045fecd2478de8a4c13a64ddda113a14/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sonja-perkins",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Advertising (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Advertising (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-advertising-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-pre-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "E-commerce (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "sonja-perkins",
+  "socials": {
+    "angellist": "https://www.angel.co/sonja-perkins",
+    "crunchbase": "https://www.crunchbase.com/person/sonja-perkins",
+    "linkedin": "https://www.linkedin.com/in/sonjahoelperkins/",
+    "twitter": "https://www.twitter.com/sonjaperkins"
+  },
+  "scraped_at": "2026-02-27T04:45:48.228439"
+}

@@ -1,0 +1,67 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel"
+    ],
+    "location": "Miami, Florida",
+    "name": "Flavio Nicolay Guimaraes"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$10K - $200K",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Errol Damelin",
+        "Andreas Dittes"
+      ],
+      "company": "Unbabel",
+      "date": "Jan 2018",
+      "roundSize": "$23M",
+      "stage": "Series B",
+      "totalRaised": "$23M"
+    },
+    {
+      "coInvestors": [],
+      "company": "RankMyApp",
+      "date": "Dec 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "FundersClub",
+      "date": "Oct 2012",
+      "roundSize": "$6.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$6.5M"
+    }
+  ],
+  "profilePicture": null,
+  "profileUrl": "https://signal.nfx.com/investors/flavio-guimaraes",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "flavio-guimaraes",
+  "socials": {
+    "angellist": "https://www.angel.co/flavio-guimaraes-1",
+    "linkedin": "https://www.linkedin.com/in/flavio-nicolay-guimaraes-b5ba954/"
+  },
+  "scraped_at": "2026-02-27T21:56:43.674970"
+}

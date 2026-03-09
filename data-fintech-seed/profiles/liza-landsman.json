@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "CEO"
+    ],
+    "location": "New York, New York",
+    "name": "Liza Landsman",
+    "website": "https://nea.com/team/liza-landsman"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "New Enterprise Associates (NEA)",
+      "firmUrl": "https://signal.nfx.com/firms/new-enterprise-associates",
+      "position": "General Partner"
+    },
+    "fundSize": "$6.2B",
+    "investmentRange": "$2.0M - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBemprQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--1c9c79fc8e2c980497eb7282cb666810366571de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/liza-landsman",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "liza-landsman",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/liza-landsman",
+    "linkedin": "https://www.linkedin.com/in/liza-landsman-83138b/",
+    "twitter": "https://www.twitter.com/lizalgold",
+    "website": "https://www.nea.com/team/liza-landsman"
+  },
+  "scraped_at": "2026-03-03T21:56:53.738636"
+}

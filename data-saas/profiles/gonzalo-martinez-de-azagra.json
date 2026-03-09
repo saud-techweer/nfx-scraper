@@ -1,0 +1,195 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Engineering Operator"
+    ],
+    "location": "Tel Aviv, Israel",
+    "name": "Gonzalo Martinez De Azagra",
+    "positionAndFirm": "Founder and General Partner at Cardumen Capital, ex Head of Samsung Ventures Israel. Investor and technology executive.",
+    "signalScore": 961,
+    "website": "http://www.cardumencapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Samsung",
+      "dates": "2012 - 2017",
+      "position": "Head of Samsung Ventures Israel"
+    },
+    {
+      "company": "Samsung Ventures",
+      "dates": "2011 - 2012",
+      "position": "Principal"
+    },
+    {
+      "company": "Samsung Electronics",
+      "dates": "2010 - 2011",
+      "position": "Senior Manager"
+    },
+    {
+      "company": "PwC",
+      "dates": "2005 - 2008",
+      "position": "Senior Consultant"
+    },
+    {
+      "company": "AEA Technology Plc.",
+      "dates": "2003 - 2005",
+      "position": "Consultant"
+    },
+    {
+      "company": "YPO",
+      "dates": "2017 - Present",
+      "position": "Member"
+    },
+    {
+      "company": "Cardumen Capital SGEIC, S.A.",
+      "dates": "2017 - Present",
+      "position": "Co-Founder and Managing General Partner"
+    },
+    {
+      "company": "Bind 4.0",
+      "dates": "2016 - Present",
+      "position": "Mentor"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Cardumen Capital",
+      "firmUrl": "https://signal.nfx.com/firms/cardumen-capital",
+      "position": "Investor"
+    },
+    "investmentRange": "$1M - $4.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Noah Pickholtz"
+      ],
+      "company": "Celeno",
+      "date": "Aug 2016",
+      "roundSize": null,
+      "stage": "Series F",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Chaim Meir Tessler"
+      ],
+      "company": "Corephotonics",
+      "date": "Feb 2014",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0V6QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--c32e470bb4e28fae57920e8edb025fb8d8a34212/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/gonzalo-martinez-de-azagra",
+  "sectorRankings": [
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "Semiconductors (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-semiconductors-pre-seed-investors"
+    },
+    {
+      "name": "Analytics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-pre-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Robotics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-pre-seed-investors"
+    },
+    {
+      "name": "Future of Work (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "gonzalo-martinez-de-azagra",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/gonzalo-martinez-de-azagra",
+    "linkedin": "https://www.linkedin.com/in/gonzalomartinezdeazagra/",
+    "website": "https://www.cardumencapital.com/"
+  },
+  "scraped_at": "2026-02-27T00:11:33.125604"
+}

@@ -1,0 +1,161 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Operator",
+      "Angel",
+      "Former CEO"
+    ],
+    "location": "Charlottesville, Virginia",
+    "name": "Jake Dwyer",
+    "positionAndFirm": "Founder, Managing Partner at Factor Capital",
+    "signalScore": 162,
+    "website": "http://www.fc.xyz/"
+  },
+  "experience": [
+    {
+      "company": "Two Sigma Investments",
+      "dates": "2017 - 2021",
+      "position": "SVP - GM of Venn"
+    },
+    {
+      "company": "HyperScience",
+      "dates": "2015 - 2016",
+      "position": "COO"
+    },
+    {
+      "company": "Handy",
+      "dates": "2014 - 2015",
+      "position": "Director of Operations"
+    },
+    {
+      "company": "GSR Markets",
+      "dates": "2021 - Present",
+      "position": "Managing Director - Head of Venture"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Factor Capital",
+      "firmUrl": "https://signal.nfx.com/firms/factor-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$500K - $2.5M",
+    "investmentsOnRecord": 5,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pierre Planche (Griffin Gaming Partners)",
+        "Anna Yuan"
+      ],
+      "company": "Parcl",
+      "date": "May 2022",
+      "roundSize": "$7.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$7.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "0x",
+      "date": "Apr 2022",
+      "roundSize": "$70M",
+      "stage": "Series B",
+      "totalRaised": "$70M"
+    },
+    {
+      "coInvestors": [
+        "Vikas Sabnani"
+      ],
+      "company": "Checkr",
+      "date": "Jul 2014",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "HyperScience",
+      "date": "Jun 2014",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$5K"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lyra Finance",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Growth",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNjRCQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e92cbe648f1af8838f814e41cf1a8b3704d76cd9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jake-dwyer",
+  "sectorRankings": [
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Web3/Crypto (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Web3/Crypto (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-seed-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Web3/Crypto (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-crypto-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jake-dwyer",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/jakedwyer/",
+    "twitter": "https://www.twitter.com/jake_dwyer",
+    "website": "https://www.fc.xyz/"
+  },
+  "scraped_at": "2026-03-03T20:41:20.414647"
+}

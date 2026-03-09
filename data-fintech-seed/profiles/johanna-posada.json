@@ -1,0 +1,76 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Johanna\t Posada",
+    "signalScore": 1,
+    "website": "https://www.elevarequity.com/team/johanna-posada/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Elevar Equity",
+      "firmUrl": "https://signal.nfx.com/firms/elevar-equity",
+      "position": "Managing Director"
+    },
+    "investmentsOnRecord": 2
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Grupo Vi-Da",
+      "date": "Jul 2018",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Tienda Nube",
+      "date": "Sep 2017",
+      "roundSize": "$7M",
+      "stage": "Series B",
+      "totalRaised": "$7M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBclFJIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--512dfe0a64ba8ce2c63a8e61bdd09a3729601e76/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/johanna-posada",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Seattle / Portland",
+      "url": "https://signal.nfx.com/investor-lists/top-seattle-portland-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Female Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-female-investors"
+    },
+    {
+      "name": "Health IT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-health-it-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "johanna-posada",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/johanna-posada",
+    "linkedin": "https://www.linkedin.com/in/johanna-gil-posada-b02154/",
+    "website": "https://www.elevarequity.com/team/johanna-posada/"
+  },
+  "scraped_at": "2026-03-03T21:04:20.301304"
+}

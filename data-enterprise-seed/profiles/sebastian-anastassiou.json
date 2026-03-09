@@ -1,0 +1,43 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Barcelona, Spain",
+    "name": "Sebastian Anastassiou",
+    "website": "https://nina.capital/biographies"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Nina Capital",
+      "firmUrl": "https://signal.nfx.com/firms/nina-capital",
+      "position": "Investor"
+    },
+    "fundSize": "€40M",
+    "investmentRange": "$10.0M - $50.0M",
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBN3QxQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bf5f2ef98ddf1bd8ba57bdbd97b75941a1e98824/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sebastian-anastassiou",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sebastian-anastassiou",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/sebastian-anastassiou",
+    "linkedin": "https://www.linkedin.com/in/sebastian-anastassiou/?originalSubdomain=es",
+    "twitter": "https://www.twitter.com/sanastassiou",
+    "website": "https://www.nina.capital/biographies"
+  },
+  "scraped_at": "2026-02-28T05:01:40.999793"
+}

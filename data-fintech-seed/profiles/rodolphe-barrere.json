@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Canada",
+    "name": "Rodolphe Barrere",
+    "website": "https://blank.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Blank Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/blank-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOU5IQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--60d200e1f7e14f70f7b4dc01f5835afd64754309/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rodolphe-barrere",
+  "sectorRankings": [
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "rodolphe-barrere",
+  "socials": {
+    "angellist": "https://www.angel.co/u/rodolphe-barrere",
+    "crunchbase": "https://www.crunchbase.com/person/rodolphe-barrere",
+    "linkedin": "https://www.linkedin.com/in/rodolphebarrere/",
+    "twitter": "https://www.twitter.com/rodolphebarrere",
+    "website": "https://www.blank.com/"
+  },
+  "scraped_at": "2026-03-05T20:02:40.816446"
+}

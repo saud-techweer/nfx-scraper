@@ -1,0 +1,103 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "Nashville-Davidson, Tennessee",
+    "name": "Martin Renkis",
+    "signalScore": 35,
+    "website": "https://www.johnsoncontrols.com/"
+  },
+  "experience": [
+    {
+      "company": "Smartvue Corporation",
+      "dates": "2003 - 2018",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "Trainersoft Corporation",
+      "dates": "1992 - 2003",
+      "position": "CEO and Founder"
+    },
+    {
+      "company": "Johnson Controls",
+      "dates": "2018 - Present",
+      "position": "General Manager at Exacq Surveillance"
+    },
+    {
+      "company": "Johnson Controls",
+      "dates": "2018 - Present",
+      "position": "CEO at Smartvue IoT Cloud Video"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Johnson Controls",
+      "firmUrl": "https://signal.nfx.com/firms/johnson-controls",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$1 - $2.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcklDIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--7d7e4db27798a4ae3e0fcae8288d79475c83eefa/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/martin-renkis",
+  "sectorRankings": [
+    {
+      "name": "Analytics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-series-a-investors"
+    },
+    {
+      "name": "Robotics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Analytics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-analytics-seed-investors"
+    },
+    {
+      "name": "IoT (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-seed-investors"
+    },
+    {
+      "name": "Robotics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-robotics-series-a-investors"
+    },
+    {
+      "name": "IoT (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-iot-series-a-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "martin-renkis",
+  "socials": {
+    "angellist": "https://www.angel.co/martin-renkis?al_content=current+user+name&al_source=transaction_feed%2Fnetwork_sidebar",
+    "crunchbase": "https://www.crunchbase.com/person/martin-renkis",
+    "linkedin": "https://www.linkedin.com/in/martinrenkis/",
+    "website": "https://www.johnsoncontrols.com/"
+  },
+  "scraped_at": "2026-02-27T23:39:22.108665"
+}

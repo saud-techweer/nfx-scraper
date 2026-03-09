@@ -1,0 +1,59 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "CEO"
+    ],
+    "location": "Brooklyn, New York",
+    "name": "Pierre Valade",
+    "website": "https://www.withjumbo.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$25K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Jeff Clavier (Uncork Capital)",
+        "Arjun Sethi (Tribe Capital)",
+        "Ed Sim (Boldstart Ventures)",
+        "Mamoon Hamid (Kleiner Perkins)",
+        "Ilya Fushman (Kleiner Perkins)",
+        "Hiten Shah",
+        "Stewart Butterfield",
+        "Eoghan McCabe",
+        "Sam Hickmann"
+      ],
+      "company": "Front",
+      "date": "May 2016",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$14M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBekw0QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--edc1110f3bc0bcda148b4bafc566d934d84965b6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/pierre-valade",
+  "sectorRankings": [
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "pierre-valade",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/pierre-valade",
+    "linkedin": "https://www.linkedin.com/in/pierrevalade/",
+    "twitter": "https://www.twitter.com/pierrevalade",
+    "website": "https://www.withjumbo.com/"
+  },
+  "scraped_at": "2026-03-03T23:22:40.631464"
+}

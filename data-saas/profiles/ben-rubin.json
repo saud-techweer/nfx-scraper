@@ -1,0 +1,181 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Scout",
+      "CEO",
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Ben Rubin",
+    "signalScore": 2,
+    "website": "https://sequoiacap.com/"
+  },
+  "experience": [
+    {
+      "company": "Benchmark Capital",
+      "dates": "2019 - 2020",
+      "position": "EIR"
+    },
+    {
+      "company": "Houseparty",
+      "dates": "2012 - 2019",
+      "position": "CEO & Co-founder"
+    },
+    {
+      "company": "/talk",
+      "dates": "2020 - Present",
+      "position": "CEO & Co-Founder"
+    },
+    {
+      "company": "GitDuck",
+      "dates": "2020 - Present",
+      "position": "Advisor"
+    },
+    {
+      "company": "Sequoia Capital",
+      "dates": "2017 - Present",
+      "position": "Scout"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Sequoia Capital",
+      "firmUrl": "https://signal.nfx.com/firms/sequoia-capital",
+      "position": "Scout"
+    },
+    "fundSize": "$195M",
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$100K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Geneva",
+      "date": "Dec 2018",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Iman Abuzeid (Sequoia Capital)",
+        "Stephen Chau (Sequoia Capital)",
+        "Zach Coelius (Coelius Capital)",
+        "Lucas Vaz (Ravelin Capital)",
+        "Dave Morin (Offline Ventures)",
+        "Craig Hunter (Operator Ventures)",
+        "Rahul Vohra (Todd and Rahul's Angel Fund)",
+        "Pippa Lamb (Sweet Capital)",
+        "Theresa Johnson"
+      ],
+      "company": "Clubhouse",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Torii",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Pre-Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Minded",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Saturn",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Supergreat",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBM0ozQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--0a375061fe8e4a1329afcd9e1d1848d0bb0e6a9e/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ben-rubin",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "ben-rubin",
+  "socials": {
+    "angellist": "https://www.angel.co/p/benrbn",
+    "crunchbase": "https://www.crunchbase.com/person/ben-rubin",
+    "linkedin": "https://www.linkedin.com/in/rubinben/",
+    "twitter": "https://www.twitter.com/benrbn",
+    "website": "https://www.sequoiacap.com/"
+  },
+  "scraped_at": "2026-02-26T08:41:56.984114"
+}

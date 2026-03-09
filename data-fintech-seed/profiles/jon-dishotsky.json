@@ -1,0 +1,271 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Jon Dishotsky",
+    "positionAndFirm": "Founding Partner, Daft Capital",
+    "signalScore": 900,
+    "website": "https://www.daftcapital.com/"
+  },
+  "experience": [
+    {
+      "company": "Giant Ventures",
+      "dates": "2020 - 2025",
+      "position": "Investment Partner"
+    },
+    {
+      "company": "Starcity",
+      "dates": "2016 - 2021",
+      "position": "CEO & Cofounder"
+    },
+    {
+      "company": "Cushman & Wakefield",
+      "dates": "2006 - 2015",
+      "position": "Executive Director"
+    },
+    {
+      "company": "Daft Capital",
+      "dates": "2025 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Daft Capital",
+      "firmUrl": "https://signal.nfx.com/firms/daft-capital",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$250K - $10.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Bank (Founders Committee)",
+        "Peggy Grigus Mangot (Pioneer Fund)",
+        "Tommy Leep (Jetstream)",
+        "Nkechi Iregbulem",
+        "Joshua Reeves"
+      ],
+      "company": "Mercury Technologies",
+      "date": "Sep 2019",
+      "roundSize": "$21M",
+      "stage": "Series A",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "Chris Moreno (Infinite Niches)",
+        "Cesare Pesci (YOBE Ventures)",
+        "Yotis Tonnelier (YOBE Ventures)",
+        "Stu Smith (Coughdrop Capital)",
+        "Joshua Webster"
+      ],
+      "company": "Mercury",
+      "date": "Sep 2019",
+      "roundSize": "$25K",
+      "stage": "Series A",
+      "totalRaised": "$120M"
+    },
+    {
+      "coInvestors": [
+        "Frank Taylor (Virginia Venture Partners)",
+        "Mike Annunziata (Also Capital)",
+        "Mattia Astori",
+        "Sohila Zadran",
+        "Joao Otavio Oliverio",
+        "Vineet Jain",
+        "Austin Ogilvie",
+        "William Miller"
+      ],
+      "company": "Varda",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$180M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Ruth Health (YC S21)",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "MindMed",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Daisuke Minamide (CyberAgent Ventures)"
+      ],
+      "company": "Fond, formerly AnyPerk",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Daniel Pourasghar"
+      ],
+      "company": "HeyCharge",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Marine Layer",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK2RGQnc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2ec527f77575d8af45047502e27e767096ae0ab7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jon-dishotsky",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "BioTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-pre-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "BioTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-pre-seed-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-a-investors"
+    },
+    {
+      "name": "DefenseTech",
+      "url": "https://signal.nfx.com/investor-lists/top-defensetech-series-b-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-seed-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-a-investors"
+    },
+    {
+      "name": "General Tech",
+      "url": "https://signal.nfx.com/investor-lists/top-general-tech-series-b-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jon-dishotsky",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/organization/daft-capital",
+    "linkedin": "https://www.linkedin.com/in/jondishotsky/",
+    "twitter": "https://www.twitter.com/JonDishotsky",
+    "website": "https://www.daftcapital.com/"
+  },
+  "scraped_at": "2026-03-03T21:08:25.353068"
+}

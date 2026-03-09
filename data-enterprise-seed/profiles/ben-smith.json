@@ -1,0 +1,127 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Ben Smith",
+    "signalScore": 4
+  },
+  "experience": [
+    {
+      "company": "Enlighten Ventures",
+      "dates": "2001 - 2016",
+      "position": "Founder and Partner"
+    },
+    {
+      "company": "Wanderful Media",
+      "dates": "2012 - 2016",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Reply.com",
+      "dates": "2011 - 2011",
+      "position": "President Reply! Media"
+    },
+    {
+      "company": "Rustic Canyon Partners",
+      "dates": "2004 - 2009",
+      "position": "Executive in Residence"
+    },
+    {
+      "company": "CodeGear, A Borland Company",
+      "dates": "2006 - 2007",
+      "position": "Chief Executive Officer"
+    },
+    {
+      "company": "Spoke Software",
+      "dates": "2002 - 2005",
+      "position": "Co-Founder, Chairman and CEO"
+    },
+    {
+      "company": "Electronic Data Systems",
+      "dates": "1999 - 2002",
+      "position": "Vice President, Venture Development"
+    },
+    {
+      "company": "A.T. Kearney",
+      "dates": "1994 - 2002",
+      "position": "Vice President, Partner"
+    },
+    {
+      "company": "Casbah",
+      "dates": "2000 - 2000",
+      "position": "Acting CEO"
+    },
+    {
+      "company": "Union Pacific Railroad",
+      "dates": "1997 - 1998",
+      "position": "Interim SVP Sales and Marketing (Skyway Freight Systems)"
+    },
+    {
+      "company": "EY",
+      "dates": "1993 - 1994",
+      "position": "Manager Management Consulting"
+    },
+    {
+      "company": "Various",
+      "dates": "1982 - 1993",
+      "position": "Many things along my way"
+    },
+    {
+      "company": "Accelerator Venture Capital",
+      "dates": "2011 - Present",
+      "position": "Venture Partner"
+    },
+    {
+      "company": "BTSIV, LLC",
+      "dates": "2002 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Accelerator Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/accelerator-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$25M",
+    "investmentRange": "$50K - $500K",
+    "sweetSpot": "$200K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBazcwIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--718e4fa64bd1139ea8f33bc200f79e1ebfef8eb1/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ben-smith",
+  "sectorRankings": [
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ben-smith",
+  "socials": {
+    "angellist": "https://www.angel.co/bentsmithfour",
+    "crunchbase": "https://www.crunchbase.com/person/ben-smith",
+    "linkedin": "https://www.linkedin.com/in/bentsmith4/"
+  },
+  "scraped_at": "2026-02-27T20:38:10.189080"
+}

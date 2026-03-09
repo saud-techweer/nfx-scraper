@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Austin, Texas",
+    "name": "Chris Pacitti",
+    "website": "https://elsewhere.partners/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Elsewhere Partners",
+      "firmUrl": "https://signal.nfx.com/firms/elsewhere-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$175M",
+    "investmentRange": "$3.0M - $8.0M",
+    "investmentsOnRecord": 2,
+    "sweetSpot": "$5.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Laura B. Sachar (StarVest Partners)"
+      ],
+      "company": "Vyze",
+      "date": "Jun 2016",
+      "roundSize": "$13M",
+      "stage": "Series B",
+      "totalRaised": "$23M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL2djQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8f300066ff23bc37ba86757d722df19287e9122b/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/chris-pacitti",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-seed-investors"
+    },
+    {
+      "name": "Austin",
+      "url": "https://signal.nfx.com/investor-lists/top-austin-investors"
+    },
+    {
+      "name": "Cybersecurity (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-seed-investors"
+    },
+    {
+      "name": "Security (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-pre-seed-investors"
+    },
+    {
+      "name": "Cloud Infrastructure (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cloud-infrastructure-pre-seed-investors"
+    },
+    {
+      "name": "Cybersecurity (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cybersecurity-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "chris-pacitti",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/chris-pacitti",
+    "linkedin": "https://www.linkedin.com/in/chris-pacitti/",
+    "twitter": "https://www.twitter.com/cpacitti",
+    "website": "https://www.elsewhere.partners/"
+  },
+  "scraped_at": "2026-02-27T05:52:17.427005"
+}

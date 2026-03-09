@@ -1,0 +1,244 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Operator",
+      "VC"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Faraz Fatemi",
+    "signalScore": 918,
+    "website": "https://lsvp.com/team-member/faraz-fatemi/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lightspeed Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/lightspeed-venture-partners",
+      "position": "Partner"
+    },
+    "investmentRange": "$1M - $30.0M",
+    "investmentsOnRecord": 8,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Steven Lee (SV Angel)"
+      ],
+      "company": "Dialogue AI",
+      "date": "Oct 2025",
+      "roundSize": "$6M",
+      "stage": "Seed",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Fei-Fei Li (AI4ALL)",
+        "Brenton Fargnoli (AlleyCorp)"
+      ],
+      "company": "Doctronic",
+      "date": "Sep 2025",
+      "roundSize": "$20M",
+      "stage": "Series A",
+      "totalRaised": "$20M"
+    },
+    {
+      "coInvestors": [
+        "Michael Mignano (Lightspeed Venture Partners)",
+        "Lenny Rachitsky (AirAngels)",
+        "Nat Friedman (C2 Investment)",
+        "Daniel Gross (C2 Investment)",
+        "Mike Krieger",
+        "Amjad Masad",
+        "Tobias Lutke",
+        "Guillermo Rauch",
+        "Karim Atiyeh",
+        "David Lieb",
+        "Mike Hudack"
+      ],
+      "company": "Granola",
+      "date": "May 2025",
+      "roundSize": "$43M",
+      "stage": "Series B",
+      "totalRaised": "$67M"
+    },
+    {
+      "coInvestors": [
+        "Michael Spirito (Sapphire Ventures)",
+        "Codie Sanchez (Magma Partners)",
+        "Ankur Nagpal (Vibe Capital)",
+        "Shaan Puri (Shaan's All Access Fund)",
+        "Alex Lieberman",
+        "Paul Rabil"
+      ],
+      "company": "beehiiv",
+      "date": "Apr 2024",
+      "roundSize": "$33M",
+      "stage": "Series B",
+      "totalRaised": "$51M"
+    },
+    {
+      "coInvestors": [
+        "John Thompson (Lightspeed Venture Partners)",
+        "Moritz Baier-Lentz (Lightspeed Venture Partners)",
+        "Sikander Chahal (Transcend Fund)",
+        "Andrew Sheppard (Transcend Fund)",
+        "Shanti Bergel (Transcend Fund)",
+        "Nate Mitchell",
+        "Ryan Wyatt",
+        "Eden Chen"
+      ],
+      "company": "Gardens",
+      "date": "May 2023",
+      "roundSize": "$31M",
+      "stage": "Series A",
+      "totalRaised": "$67M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMm0xQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--88fee5eaaf9aebab791ab18d7dce42811300ad99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/faraz-fatemi",
+  "sectorRankings": [
+    {
+      "name": "Social Commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-seed-investors"
+    },
+    {
+      "name": "AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-seed-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "Entertainment & Sports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-entertainment-sports-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-b-investors"
+    },
+    {
+      "name": "Consumer Internet (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-b-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-b-investors"
+    },
+    {
+      "name": "Social Commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-commerce-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-a-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-series-b-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "faraz-fatemi",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/faraz-fatemi",
+    "linkedin": "https://www.linkedin.com/in/ffatemi21/",
+    "twitter": "https://www.twitter.com/f_fatemi21",
+    "website": "https://www.lsvp.com/team-member/faraz-fatemi/"
+  },
+  "scraped_at": "2026-02-11T11:11:59.231324"
+}

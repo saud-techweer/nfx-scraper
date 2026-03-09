@@ -1,0 +1,78 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel"
+    ],
+    "location": "Madrid, Spain",
+    "name": "Felipe Navio"
+  },
+  "experience": [
+    {
+      "company": "Tuenti",
+      "dates": "2008 - 2008",
+      "position": "Strategy Consultant"
+    },
+    {
+      "company": "Entradia",
+      "dates": "2007 - 2008",
+      "position": "Advisor and Cofounder"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2006 - 2008",
+      "position": "Business Analyst"
+    },
+    {
+      "company": "McKinsey & Company",
+      "dates": "2005 - 2005",
+      "position": "Summer Business Analyst"
+    },
+    {
+      "company": "Jobandtalent",
+      "dates": "2009 - Present",
+      "position": "Co-founder & Co-CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$5K - $50K",
+    "sweetSpot": "$25K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd1h1QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--322bd70744ad58096498eda5a400222365798a61/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/felipe-navio",
+  "sectorRankings": [
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "felipe-navio",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/felipe-navio",
+    "linkedin": "https://www.linkedin.com/in/felipenavio/",
+    "twitter": "https://www.twitter.com/felipenavio"
+  },
+  "scraped_at": "2026-02-26T23:54:53.832857"
+}

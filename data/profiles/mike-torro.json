@@ -1,0 +1,194 @@
+{
+  "basicInfo": {
+    "name": "Mike Torro",
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "website": "https://freesearch.vc/",
+    "location": "Singapore"
+  },
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "01 Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/01-ventures",
+      "position": "Investor"
+    },
+    "investmentRange": "$200K - $500K",
+    "sweetSpot": "$300K",
+    "investmentsOnRecord": 10
+  },
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-series-a-investors"
+    },
+    {
+      "name": "Payments (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-series-a-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "LegalTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-seed-investors"
+    },
+    {
+      "name": "LegalTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-legaltech-series-a-investors"
+    },
+    {
+      "name": "Insurance (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "investments": [
+    {
+      "company": "Pluto Card",
+      "stage": "Seed",
+      "date": "May 2024",
+      "roundSize": "$4M",
+      "totalRaised": "$4M",
+      "coInvestors": []
+    },
+    {
+      "company": "Torus",
+      "stage": "Seed",
+      "date": "Nov 2023",
+      "roundSize": "$200K",
+      "totalRaised": "$200K",
+      "coInvestors": []
+    },
+    {
+      "company": "Praktika",
+      "stage": "Seed",
+      "date": "Sep 2023",
+      "roundSize": "$50K",
+      "totalRaised": "$50K",
+      "coInvestors": [
+        "Mik Attisani",
+        "Dan Ellis"
+      ]
+    },
+    {
+      "company": "Whizz",
+      "stage": "Seed",
+      "date": "Apr 2023",
+      "roundSize": "$3M",
+      "totalRaised": "$10M",
+      "coInvestors": [
+        "Denis Mosolov (Flashpoint VC)"
+      ]
+    },
+    {
+      "company": "Otis AI",
+      "stage": "Seed",
+      "date": "Apr 2023",
+      "roundSize": "$2M",
+      "totalRaised": "$2M",
+      "coInvestors": []
+    },
+    {
+      "company": "Welltory",
+      "stage": "Pre-series A",
+      "date": "Aug 2022",
+      "roundSize": "$500K",
+      "totalRaised": "$500K",
+      "coInvestors": []
+    },
+    {
+      "company": "InSpace",
+      "stage": "Seed",
+      "date": "Jun 2021",
+      "roundSize": "$6M",
+      "totalRaised": "$6M",
+      "coInvestors": []
+    },
+    {
+      "company": "B Generous",
+      "stage": "Seed",
+      "date": "May 2021",
+      "roundSize": "$5M",
+      "totalRaised": "$5M",
+      "coInvestors": [
+        "Andrew Padilla (Alumni Ventures )"
+      ]
+    }
+  ],
+  "experience": [],
+  "socials": {
+    "website": "https://www.freesearch.vc/",
+    "linkedin": "https://www.linkedin.com/in/miketorro/"
+  },
+  "profilePicture": "https://d1hcaw05lpqmfw.cloudfront.net/star-icon-investor-profile-v4.svg",
+  "profileUrl": "https://signal.nfx.com/investors/mike-torro",
+  "slug": "mike-torro",
+  "scraped_at": "2026-02-24T12:30:22.392131"
+}

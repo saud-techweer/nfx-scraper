@@ -1,0 +1,241 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Finance Operator"
+    ],
+    "location": "Los Angeles, California",
+    "name": "Zachary Ginsburg",
+    "signalScore": 678,
+    "website": "https://gaingels.com/team"
+  },
+  "experience": [
+    {
+      "company": "EDM Stubs",
+      "dates": "Present",
+      "position": "Sole Proprietor"
+    },
+    {
+      "company": "Myngle",
+      "dates": "Present",
+      "position": "CEO & Founder"
+    },
+    {
+      "company": "Viant Group, LLC",
+      "dates": "Present",
+      "position": "Investment Banking Analyst"
+    },
+    {
+      "company": "Viant Group, LLC",
+      "dates": "Present",
+      "position": "Investment Banking Associate"
+    },
+    {
+      "company": "Wild Ventures",
+      "dates": "Present",
+      "position": "MBA Associate"
+    },
+    {
+      "company": "Skyview Capital",
+      "dates": "Present",
+      "position": "MBA Associate"
+    },
+    {
+      "company": "OCV",
+      "dates": "Present",
+      "position": "Investor"
+    },
+    {
+      "company": "Independent",
+      "dates": "Present",
+      "position": "Startup Investor"
+    },
+    {
+      "company": "Calm Ventures",
+      "dates": "Present",
+      "position": "Founder/GP"
+    },
+    {
+      "company": "Gaingels",
+      "dates": "Present",
+      "position": "Venture Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Gaingels",
+      "firmUrl": "https://signal.nfx.com/firms/gaingels-llc",
+      "position": "Venture Partner"
+    },
+    "investmentRange": "$50K - $50.0M",
+    "investmentsOnRecord": 3,
+    "sweetSpot": "$25.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Michael Spirito (Sapphire Ventures)",
+        "Jennifer Kushell (SoftBank Capital)",
+        "Chris Moreno (Infinite Niches)",
+        "Luke Armour (Chaac Ventures)",
+        "Rich Kleiman (Thirty Five Ventures)",
+        "Cordero Barkley (TitletownTech)",
+        "Thad Young (Reform Ventures)",
+        "Jeff Kearl (Pelion Venture Partners)",
+        "Pau Gasol",
+        "Baron Davis",
+        "Gregory Waldorf"
+      ],
+      "company": "Overtime",
+      "date": "Feb 2019",
+      "roundSize": "$23M",
+      "stage": "Series B",
+      "totalRaised": "$220M"
+    },
+    {
+      "coInvestors": [
+        "Christian Edler (BITKRAFT Ventures)",
+        "Jason Finger (The Finger Group)",
+        "Brett Brewer (Crosscut Ventures)",
+        "Stephen Reisert (RSE Ventures)",
+        "Paul Hewson (Bono)",
+        "Asher Leids"
+      ],
+      "company": "Omaze",
+      "date": "Apr 2017",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": "$95M"
+    },
+    {
+      "coInvestors": [
+        "Jeff Weiner (Next Play Ventures)",
+        "Marco DeMeireles (TCG (The Chernin Group))",
+        "Jeff Schox (Trucks Venture Capital)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Jayesh Parekh (Good Startup)",
+        "Cyril Grislain"
+      ],
+      "company": "Headspace",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series C",
+      "totalRaised": "$34M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNzZDQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2c7d71caa4856ac90442c142fa5fc97ece85aa70/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/zachary-ginsburg",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "Future of Work (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-seed-investors"
+    },
+    {
+      "name": "Future of Work (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-future-of-work-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "zachary-ginsburg",
+  "socials": {
+    "angellist": "https://www.angel.co/p/zachary-ginsburg",
+    "crunchbase": "https://www.crunchbase.com/person/zachary-ginsburg",
+    "linkedin": "https://www.linkedin.com/in/zachary-ginsburg-74a03423/",
+    "twitter": "https://www.twitter.com/ZachGins",
+    "website": "https://www.gaingels.com/team"
+  },
+  "scraped_at": "2026-02-11T11:12:35.195964"
+}

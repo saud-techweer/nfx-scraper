@@ -1,0 +1,97 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Redwood City, California",
+    "name": "Ed Cluss",
+    "website": "https://signiaventurepartners.com/"
+  },
+  "experience": [
+    {
+      "company": "Kauna Ventures",
+      "dates": "2012",
+      "position": "Chairman"
+    },
+    {
+      "company": "NEA",
+      "dates": "2001 - 2001",
+      "position": "Executive in Residence"
+    },
+    {
+      "company": "Signia Venture Partners",
+      "dates": "2012 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "Aspect Telecommunications",
+      "dates": "Present",
+      "position": "Vice President Marketing and Corporate Development"
+    },
+    {
+      "company": "Aveo",
+      "dates": "Present",
+      "position": "President & COO/CEO"
+    },
+    {
+      "company": "InfoGear Technology",
+      "dates": "Present",
+      "position": "President & CEO"
+    },
+    {
+      "company": "Cisco",
+      "dates": "Present",
+      "position": "Vice President and General Manager"
+    },
+    {
+      "company": "NextHop Technologies",
+      "dates": "Present",
+      "position": "President & CEO"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Signia Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/signia-venture-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$85M",
+    "investmentRange": "$250K - $2.5M",
+    "sweetSpot": "$800K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd2MzQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2d1b826fd11299943ce05f76a4335eabbead8b7d/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ed-cluss",
+  "sectorRankings": [
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ed-cluss",
+  "socials": {
+    "angellist": "https://www.angel.co/ed-cluss",
+    "crunchbase": "https://www.crunchbase.com/person/ed-cluss",
+    "linkedin": "https://www.linkedin.com/in/ed-cluss-941b8b2b/",
+    "twitter": "https://www.twitter.com/edcluss",
+    "website": "https://www.signiaventurepartners.com/"
+  },
+  "scraped_at": "2026-02-26T23:33:21.350770"
+}

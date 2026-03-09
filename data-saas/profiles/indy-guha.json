@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Indy Guha"
+  },
+  "experience": [
+    {
+      "company": "Captora",
+      "dates": "2013 - 2014",
+      "position": "Interim Head of Marketing"
+    },
+    {
+      "company": "Bloomreach",
+      "dates": "2010 - 2010",
+      "position": "Product & Engagement Manager"
+    },
+    {
+      "company": "Monitor Group",
+      "dates": "2005 - 2007",
+      "position": "Consultant"
+    },
+    {
+      "company": "Bain Capital Ventures",
+      "dates": "2007 - Present",
+      "position": "Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "VMG Partners",
+      "firmUrl": "https://signal.nfx.com/firms/vmg-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$100K - $10.0M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBaHprIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--0e4d26b0c8b37f12a87ca9bea67fea6a3b7ba323/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/indy-guha",
+  "sectorRankings": [
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Data Services (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "indy-guha",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/indy-guha",
+    "linkedin": "https://www.linkedin.com/in/indranilguha/"
+  },
+  "scraped_at": "2026-02-27T00:32:25.233008"
+}

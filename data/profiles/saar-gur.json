@@ -1,0 +1,150 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Saar Gur",
+    "signalScore": 179,
+    "website": "https://crv.com/team/saar-gur/"
+  },
+  "experience": [
+    {
+      "company": "Stanford Graduate School of Business",
+      "dates": "2013 - 2014",
+      "position": "Instructor of StartupGarage (356)"
+    },
+    {
+      "company": "Stanford Graduate School of Business",
+      "dates": "2011 - 2012",
+      "position": "Instructor"
+    },
+    {
+      "company": "Adteractive",
+      "dates": "2004 - 2006",
+      "position": "Vice President, Customer Acquisition"
+    },
+    {
+      "company": "$34 million private equity transaction",
+      "dates": "2003 - 2004",
+      "position": "Entrepreneur"
+    },
+    {
+      "company": "Lehman Venture Capital",
+      "dates": "1999 - 2001",
+      "position": "Venture Associate"
+    },
+    {
+      "company": "Lehman Brothers",
+      "dates": "1997 - 1999",
+      "position": "Technology Analyst"
+    },
+    {
+      "company": "CRV",
+      "dates": "2007 - Present",
+      "position": "General Partner and Venture Capitalist"
+    },
+    {
+      "company": "Carebadges.com (Acquired - Facebook Causes)",
+      "dates": "2006 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "BrightRoll (Formerly Postroller)",
+      "dates": "2006 - Present",
+      "position": "Co-Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "CRV",
+      "firmUrl": "https://signal.nfx.com/firms/crv",
+      "position": "General Partner"
+    },
+    "fundSize": "$600M",
+    "investmentRange": "$1M - $15.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$7.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Shana Fisher (Third Kind Ventures)",
+        "Ali Saheli (7 Gate Ventures)",
+        "Ali Saheli (Hex Capital)"
+      ],
+      "company": "Uppercase",
+      "date": "Sep 2018",
+      "roundSize": "$3.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$3.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNmY3QXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--4f99399145c6e83bc38451099d41ed1d3ac66297/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/saar-gur",
+  "sectorRankings": [
+    {
+      "name": "Travel (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Travel (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-travel-series-a-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "saar-gur",
+  "socials": {
+    "angellist": "https://www.angel.co/saarsaar",
+    "crunchbase": "https://www.crunchbase.com/person/saar-gur",
+    "linkedin": "https://www.linkedin.com/in/saargur/",
+    "twitter": "https://www.twitter.com/saarsaar",
+    "website": "https://www.crv.com/team/saar-gur/"
+  },
+  "scraped_at": "2026-02-11T10:05:10.841320"
+}

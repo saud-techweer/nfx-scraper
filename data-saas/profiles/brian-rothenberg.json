@@ -1,0 +1,256 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Founder",
+      "Growth Operator",
+      "Product Operator"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Brian Rothenberg",
+    "signalScore": 793,
+    "website": "https://defy.vc/"
+  },
+  "experience": [
+    {
+      "company": "Eventbrite",
+      "dates": "2013 - 2019",
+      "position": "VP of Growth & GM"
+    },
+    {
+      "company": "TaskRabbit",
+      "dates": "2011 - 2013",
+      "position": "Head of Marketing"
+    },
+    {
+      "company": "Skillslate",
+      "dates": "2009 - 2011",
+      "position": "Co-Founder, VP Product"
+    },
+    {
+      "company": "Yahoo! Inc.",
+      "dates": "2004 - 2008",
+      "position": "Product Manager"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Defy Partners",
+      "firmUrl": "https://signal.nfx.com/firms/defy-partners",
+      "position": "Partner"
+    },
+    "fundSize": "$262M",
+    "investmentRange": "$100K - $10.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$5.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Moment House",
+      "date": "Jul 2021",
+      "roundSize": "$12M",
+      "stage": "Series A",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [
+        "Ben Orthlieb (2.12 Angels)"
+      ],
+      "company": "OfficeTogether",
+      "date": "Oct 2020",
+      "roundSize": "$2M",
+      "stage": "Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Fourthwall",
+      "date": "Aug 2020",
+      "roundSize": "$3M",
+      "stage": "Seed",
+      "totalRaised": "$3M"
+    },
+    {
+      "coInvestors": [
+        "Frank Taylor (Virginia Venture Partners)"
+      ],
+      "company": "Novi",
+      "date": "Mar 2020",
+      "roundSize": "$1.5M",
+      "stage": "Seed",
+      "totalRaised": "$12M"
+    },
+    {
+      "coInvestors": [],
+      "company": "PocketSuite",
+      "date": "Dec 2019",
+      "roundSize": "$1.2M",
+      "stage": "Seed",
+      "totalRaised": "$1.2M"
+    },
+    {
+      "coInvestors": [
+        "Sunil Rajaraman (Sequoia Capital)"
+      ],
+      "company": "Aalto",
+      "date": "Oct 2019",
+      "roundSize": "$10M",
+      "stage": "Series A",
+      "totalRaised": "$10M"
+    },
+    {
+      "coInvestors": [
+        "Marlon Nichols (MaC Venture Capital)",
+        "Lee Jacobs (Long Journey Ventures)",
+        "Emil Lee"
+      ],
+      "company": "Wonderschool",
+      "date": "Jan 2017",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBME5pQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--e31cfda14bb5d4b9b2f3d16a6d8e24518158c7f6/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brian-rothenberg",
+  "sectorRankings": [
+    {
+      "name": "Parenting/Families (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-seed-investors"
+    },
+    {
+      "name": "Local Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Local Services (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-b-investors"
+    },
+    {
+      "name": "Local Services (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-local-services-series-a-investors"
+    },
+    {
+      "name": "Parenting/Families (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-a-investors"
+    },
+    {
+      "name": "Parenting/Families (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-parenting-families-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-b-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-series-a-investors"
+    },
+    {
+      "name": "Social Networks (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-b-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "SMB Software (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-b-investors"
+    },
+    {
+      "name": "SMB Software (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-b-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "brian-rothenberg",
+  "socials": {
+    "angellist": "https://www.angel.co/bmrothenberg",
+    "crunchbase": "https://www.crunchbase.com/person/brian-rothenberg",
+    "linkedin": "https://www.linkedin.com/in/brianrothenberg/",
+    "twitter": "https://www.twitter.com/bmrothenberg",
+    "website": "https://www.defy.vc/"
+  },
+  "scraped_at": "2026-02-26T08:58:42.789853"
+}

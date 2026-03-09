@@ -1,0 +1,51 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Brooklyn, New York",
+    "name": "Jonathan Ching",
+    "website": "https://www.alphasquaregroup.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Alpha Square Group",
+      "firmUrl": "https://signal.nfx.com/firms/alpha-square-group",
+      "position": "Investor"
+    },
+    "fundSize": "$374.4M",
+    "investmentRange": "$500K - $20.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMU5CQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--428e54f95eea912da108dc086b5ae725a378098c/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/jonathan-ching_2",
+  "sectorRankings": [
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "jonathan-ching_2",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/jonathan-ching",
+    "linkedin": "https://www.linkedin.com/in/chingjon/",
+    "twitter": "https://www.twitter.com/chingjon",
+    "website": "https://www.alphasquaregroup.com/"
+  },
+  "scraped_at": "2026-02-27T01:19:42.081359"
+}

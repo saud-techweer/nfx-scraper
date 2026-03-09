@@ -1,0 +1,128 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Scout",
+      "Investor"
+    ],
+    "location": "Miami, Florida",
+    "name": "Guillermo Gomez",
+    "signalScore": 64,
+    "website": "https://somicap.com/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": "Angel",
+    "investmentRange": "$1K - $135K",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$20K"
+  },
+  "investments": [
+    {
+      "coInvestors": [],
+      "company": "Influur",
+      "date": "Mar 2021",
+      "roundSize": "$800K",
+      "stage": "Pre Seed Round",
+      "totalRaised": "$800K"
+    },
+    {
+      "coInvestors": [
+        "Daniel Rumennik (AirAngels)"
+      ],
+      "company": "Lula Technologies",
+      "date": "Nov 2020",
+      "roundSize": "$15K",
+      "stage": "Seed",
+      "totalRaised": "$18M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Tul",
+      "date": "Feb 2020",
+      "roundSize": null,
+      "stage": "Pre Seed Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Alfredo Lopez (H20 Capital Innovation)"
+      ],
+      "company": "Takeoff Technologies",
+      "date": "Nov 2018",
+      "roundSize": "$21M",
+      "stage": "Series B",
+      "totalRaised": "$21M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNkhDQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--dffa9d075dddc9d11f641433b052ed54bcf4a39f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/guillermo-gomez",
+  "sectorRankings": [
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Insurance (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-insurance-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "Data Services (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-data-services-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Raleigh-Durham / Southeast US",
+      "url": "https://signal.nfx.com/investor-lists/top-raleigh-durham-southeast-us-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Direct-to-Consumer (DTC) (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-direct-to-consumer-dtc-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "guillermo-gomez",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/guillermo-gomez-944557b4/",
+    "website": "https://www.somicap.com/"
+  },
+  "scraped_at": "2026-02-27T00:16:20.624803"
+}

@@ -1,0 +1,86 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "name": "Tom Egan"
+  },
+  "experience": [
+    {
+      "company": "LaunchCapital",
+      "dates": "2009 - 2018",
+      "position": "Principal / Senior Associate / Associate / Analyst"
+    },
+    {
+      "company": "TechStars",
+      "dates": "2009 - 2009",
+      "position": "Associate / Mentor"
+    },
+    {
+      "company": "auctionPAL",
+      "dates": "2007 - 2009",
+      "position": "Operations Manager / VP of Operations"
+    },
+    {
+      "company": "Trinity-Pawling School",
+      "dates": "2004 - 2007",
+      "position": "Teacher - Economics & Mathematics"
+    },
+    {
+      "company": "Optum Ventures",
+      "dates": "2018 - Present",
+      "position": "Principal"
+    },
+    {
+      "company": "Kauffman Fellows",
+      "dates": "2016 - Present",
+      "position": "Kauffman Fellow, Class 22"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "LaunchCapital",
+      "firmUrl": "https://signal.nfx.com/firms/launchcapital",
+      "position": "Principal"
+    },
+    "investmentRange": "$50K - $150K",
+    "sweetSpot": "$100K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBc1g4IiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--35e442d5aba818670331fb67916a73fd3a566e99/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/tom-egan",
+  "sectorRankings": [
+    {
+      "name": "MarketingTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketingtech-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "BioTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-biotech-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "tom-egan",
+  "socials": {
+    "angellist": "https://www.angel.co/tom-egan",
+    "crunchbase": "https://www.crunchbase.com/person/tom-egan",
+    "linkedin": "https://www.linkedin.com/in/tjpegan/",
+    "twitter": "https://www.twitter.com/thomas_egan"
+  },
+  "scraped_at": "2026-02-28T05:45:07.418672"
+}

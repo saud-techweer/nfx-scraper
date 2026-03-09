@@ -1,0 +1,318 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "Palo Alto, California",
+    "name": "James Currier",
+    "signalScore": 4346,
+    "website": "https://nfx.com/team/james-currier/"
+  },
+  "experience": [
+    {
+      "company": "Jiff Inc.",
+      "dates": "2010 - 2017",
+      "position": "Co-Founder and Chairman"
+    },
+    {
+      "company": "Ooga Labs",
+      "dates": "2007 - 2014",
+      "position": "CEO & Co-Founder"
+    },
+    {
+      "company": "IronPearl",
+      "dates": "2012 - 2013",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "Medpedia",
+      "dates": "2007 - 2013",
+      "position": "Founder and Chairman"
+    },
+    {
+      "company": "WonderHill",
+      "dates": "2008 - 2011",
+      "position": "Co-Founder and CEO"
+    },
+    {
+      "company": "Tickle",
+      "dates": "1999 - 2005",
+      "position": "Founder and CEO"
+    },
+    {
+      "company": "Battery Ventures",
+      "dates": "1994 - 1997",
+      "position": "Venture Capital Associate"
+    },
+    {
+      "company": "STAR TV",
+      "dates": "1993 - 1994",
+      "position": "Business Development Manager"
+    },
+    {
+      "company": "GTE",
+      "dates": "1990 - 1993",
+      "position": "Venture Capital Associate"
+    },
+    {
+      "company": "NFX",
+      "dates": "2015 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "NFX",
+      "dates": "2015 - Present",
+      "position": "Managing Partner"
+    },
+    {
+      "company": "NFX Guild",
+      "dates": "2015 - Present",
+      "position": "Managing Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "NFX",
+      "firmUrl": "https://signal.nfx.com/firms/nfx",
+      "position": "General Partner"
+    },
+    "fundSize": "$450M",
+    "investmentRange": "$500K - $4.0M",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$2.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Jeff Jordan (Andreessen Horowitz)",
+        "Matt Mickiewicz",
+        "Peter Kazanjy"
+      ],
+      "company": "Incredible Health",
+      "date": "Sep 2019",
+      "roundSize": "$15M",
+      "stage": "Series A",
+      "totalRaised": "$15M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)"
+      ],
+      "company": "Let's Do This",
+      "date": "Sep 2019",
+      "roundSize": "$5M",
+      "stage": "Seed Round",
+      "totalRaised": "$5M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Ken Salkin (Danmar Capital)"
+      ],
+      "company": "Constru",
+      "date": "Jul 2019",
+      "roundSize": "$2.5M",
+      "stage": "Seed",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Marlon Nichols (MaC Venture Capital)",
+        "Craig Hunter (Operator Ventures)",
+        "Andy Zhulenev (Chesterfield Fund)",
+        "Sina Afra",
+        "Yagiz Sozmen",
+        "Alex Pattis",
+        "Brad Bao"
+      ],
+      "company": "Firefly",
+      "date": "May 2019",
+      "roundSize": "$30M",
+      "stage": "Series A",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Karan Mehta (Octopus Ventures)",
+        "Emil Michael"
+      ],
+      "company": "Ribbon",
+      "date": "Oct 2018",
+      "roundSize": "$230M",
+      "stage": "Series A",
+      "totalRaised": "$230M"
+    },
+    {
+      "coInvestors": [
+        "Pete Flint (NFX)",
+        "Monique Woodard (Cake Ventures)",
+        "Ivan Alo (New Age Capital)",
+        "Sergio Marrero",
+        "Julie McDermott",
+        "Alina Tioupikova",
+        "Drew Koven"
+      ],
+      "company": "Court Buddy",
+      "date": "Oct 2018",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$8M"
+    },
+    {
+      "coInvestors": [
+        "Charles Hudson (Precursor Ventures)",
+        "Peter Boyce II (Stellation Capital)",
+        "Brad Flora (Y Combinator)",
+        "Bryan Frist (Friále)",
+        "Ashton Kutcher (Sound Ventures)",
+        "Guy Oseary (Sound Ventures)",
+        "Ed Roman (Hack VC)",
+        "Julie McDermott"
+      ],
+      "company": "Medinas Health",
+      "date": "Oct 2018",
+      "roundSize": "$2.5M",
+      "stage": "Seed Round",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Gigi Levy-Weiss (NFX)",
+        "Pete Flint (NFX)",
+        "Ursheet Parikh (Mayfield)",
+        "Avi Rosenbaum (Tectonic Capital)",
+        "Cristina Escoda (Tachyon Ventures)",
+        "Andrea Turner Moffitt (Plum Alley Investments)",
+        "Avantika Daing (Plum Alley Investments)",
+        "Jeff Huber (Triatomic Capital)",
+        "Josef Feldman (Tectonic Capital)"
+      ],
+      "company": "Mammoth Biosciences",
+      "date": "Jul 2018",
+      "roundSize": "$23M",
+      "stage": "Series A",
+      "totalRaised": "$23M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNlZOQlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--f98d8f9a38bec2076755250923fec883f95bf935/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/james-currier",
+  "sectorRankings": [
+    {
+      "name": "Messaging (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-seed-investors"
+    },
+    {
+      "name": "Games (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-seed-investors"
+    },
+    {
+      "name": "SMB Software (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-seed-investors"
+    },
+    {
+      "name": "Payments (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Games (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-games-pre-seed-investors"
+    },
+    {
+      "name": "Messaging (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-messaging-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Payments (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-payments-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "SMB Software (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-smb-software-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-pre-seed-investors"
+    },
+    {
+      "name": "Generative Tech/AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-generative-tech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "james-currier",
+  "socials": {
+    "angellist": "https://www.angel.co/jamescurrier",
+    "crunchbase": "https://www.crunchbase.com/person/james-currier",
+    "linkedin": "https://www.linkedin.com/in/jamescurrier/",
+    "twitter": "https://www.twitter.com/JamesCurrier"
+  },
+  "scraped_at": "2026-02-11T10:03:22.836431"
+}

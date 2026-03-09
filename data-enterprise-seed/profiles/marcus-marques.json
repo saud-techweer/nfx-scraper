@@ -1,0 +1,63 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Marcus Marques",
+    "website": "https://bossainvest.com/"
+  },
+  "experience": [
+    {
+      "company": "Acelerador Empresarial",
+      "dates": "2016 - Present",
+      "position": "CEO & Founder"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Bossanova Investimentos",
+      "firmUrl": "https://signal.nfx.com/firms/bossa-nova",
+      "position": "Investor"
+    },
+    "investmentRange": "$17K - $88K",
+    "sweetSpot": "$53K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL0cyQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--7ab514dcb64861351bca1727ce24160f73dc3883/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/marcus-marques",
+  "sectorRankings": [
+    {
+      "name": "Education (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Education (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-education-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise Applications (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "marcus-marques",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/marcusmarquesoficial/",
+    "website": "https://www.bossainvest.com/"
+  },
+  "scraped_at": "2026-02-27T23:34:03.539952"
+}

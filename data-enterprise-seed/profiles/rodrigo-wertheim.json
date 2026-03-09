@@ -1,0 +1,84 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Rodrigo Wertheim",
+    "website": "https://domoinvest.com.br/en/home-en/"
+  },
+  "experience": [
+    {
+      "company": "DOMO Invest",
+      "dates": "Present",
+      "position": "Head of Dealflow and Sourcing"
+    },
+    {
+      "company": "DOMO Invest",
+      "dates": "Present",
+      "position": "Product Manager"
+    },
+    {
+      "company": "DOMO Invest",
+      "dates": "Present",
+      "position": "Investment Analyst"
+    },
+    {
+      "company": "DOMO Invest",
+      "dates": "Present",
+      "position": "Intern"
+    },
+    {
+      "company": "EXT CAPITAL",
+      "dates": "Present",
+      "position": "Associate"
+    },
+    {
+      "company": "FGV Finance",
+      "dates": "Present",
+      "position": "Analyst"
+    },
+    {
+      "company": "Empresa Júnior Fundação Getulio Vargas",
+      "dates": "Present",
+      "position": "Consultant"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "DOMO Invest",
+      "firmUrl": "https://signal.nfx.com/firms/domo-invest",
+      "position": "Analyst"
+    },
+    "investmentRange": "$200K - $1M",
+    "sweetSpot": "$600K"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBd0tjQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--8487768e242db605b2b13f76e43409a50bde6dc9/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/rodrigo-wertheim",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "rodrigo-wertheim",
+  "socials": {
+    "linkedin": "https://www.linkedin.com/in/rodrigo-wertheim-5b4044177/",
+    "website": "https://www.domoinvest.com.br/en/home-en/"
+  },
+  "scraped_at": "2026-02-28T04:50:29.553415"
+}

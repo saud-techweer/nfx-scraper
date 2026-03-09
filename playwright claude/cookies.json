@@ -1,0 +1,292 @@
+[
+  {
+    "name": "_csrf",
+    "value": "waSc-vJBz8I70b4kqVoJEP4i",
+    "domain": "auth.nfx.com",
+    "path": "/usernamepassword/login",
+    "expires": 1772191522.813458,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gid",
+    "value": "GA1.2.1455481196.1771327519",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1771413943,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat",
+    "value": "1",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1771327578,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_rollupGa",
+    "value": "GA1.3.478041410.1771327519",
+    "domain": ".signal.nfx.com",
+    "path": "/",
+    "expires": 1805887543.235531,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_rollupGa_gid",
+    "value": "GA1.3.61871618.1771327519",
+    "domain": ".signal.nfx.com",
+    "path": "/",
+    "expires": 1771413943,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_gat_rollup",
+    "value": "1",
+    "domain": ".signal.nfx.com",
+    "path": "/",
+    "expires": 1771327578,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "com.auth0.auth.13Fbk0p7ygpl5~kbLe8RzbhuSxP9SEeS",
+    "value": "{%22nonce%22:%22zFG38rHFOfU9~30JSOnSSzOTp6q9~KeY%22%2C%22state%22:%2213Fbk0p7ygpl5~kbLe8RzbhuSxP9SEeS%22}",
+    "domain": "signal.nfx.com",
+    "path": "/",
+    "expires": 1771329319,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "did",
+    "value": "s%3Av0%3A1df2a902-8f21-4d35-a933-f2c02ca65bc2.8C0SVFgL2NI%2B8jRluvXWoFjWma6u3iD%2B0kbl2lAzaJQ",
+    "domain": "auth.nfx.com",
+    "path": "/",
+    "expires": 1802885119.882798,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "did_compat",
+    "value": "s%3Av0%3A1df2a902-8f21-4d35-a933-f2c02ca65bc2.8C0SVFgL2NI%2B8jRluvXWoFjWma6u3iD%2B0kbl2lAzaJQ",
+    "domain": "auth.nfx.com",
+    "path": "/",
+    "expires": 1802885119.882897,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_cfuvid",
+    "value": "o.sfIL0sS1AMqb_HYzLsE6HMn3ZQRZ9VPYxzU9b9fZI-1771327520231-0.0.1.1-604800000",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": -1,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "_fbp",
+    "value": "fb.1.1771327520378.401340989533930631",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1779103544,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "guest_id_marketing",
+    "value": "v1%3A177132752114374148",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1805887520.892442,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id_ads",
+    "value": "v1%3A177132752114374148",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1805887520.892522,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "personalization_id",
+    "value": "\"v1_jl0xOX7vyokDxahCqT1NqA==\"",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1805887520.892555,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "guest_id",
+    "value": "v1%3A177132752114374148",
+    "domain": ".twitter.com",
+    "path": "/",
+    "expires": 1805887520.892582,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "muc_ads",
+    "value": "12e7763e-0a62-4863-9e8f-9b79b8663f03",
+    "domain": ".t.co",
+    "path": "/",
+    "expires": 1805887520.908946,
+    "httpOnly": false,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "intercom-id-ula4qov4",
+    "value": "05cfbf9a-dca4-404e-b934-c35e20987b23",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1794657544,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "intercom-device-id-ula4qov4",
+    "value": "1d8fac4f-003e-42cb-9007-247c041f9185",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1794657548,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth0",
+    "value": "s%3A3hnjGzqeWzEJJ43iFZGityPhgNjT8pkD.E9fVsB6YToE2zflu8ssx62eZyR9JlmwzWEpYYcXQjN8",
+    "domain": "auth.nfx.com",
+    "path": "/",
+    "expires": 1771586742.495766,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "None"
+  },
+  {
+    "name": "auth0_compat",
+    "value": "s%3A3hnjGzqeWzEJJ43iFZGityPhgNjT8pkD.E9fVsB6YToE2zflu8ssx62eZyR9JlmwzWEpYYcXQjN8",
+    "domain": "auth.nfx.com",
+    "path": "/",
+    "expires": 1771586742.496481,
+    "httpOnly": true,
+    "secure": true,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga",
+    "value": "GA1.1.478041410.1771327519",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1805887543.641684,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "auth0.ssodata",
+    "value": "%22{%5C%22lastUsedConnection%5C%22:%5C%22username-password%5C%22%2C%5C%22lastUsedSub%5C%22:%5C%22auth0|698c37dbaea31b2cf50fe892%5C%22}%22",
+    "domain": "signal.nfx.com",
+    "path": "/",
+    "expires": 1771413943,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SIGNAL_ID_JWT",
+    "value": "%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJqVTFSREJFUlRoRE1rWTRNalF3UmtNME0wUTNNMFU0UXpKRk5rUXdSVGd4TXpRNE5VWkNNZyJ9.eyJuaWNrbmFtZSI6Im1vYWF6bWF6aHJ5MjciLCJuYW1lIjoibW9hYXptYXpocnkyN0BnbWFpbC5jb20iLCJwaWN0dXJlIjoiaHR0cHM6Ly9zLmdyYXZhdGFyLmNvbS9hdmF0YXIvYzEyZWNkMjJhMjAxZDJmNzI4NjFjYzliYmE3NWFkODM_cz00ODAmcj1wZyZkPWh0dHBzJTNBJTJGJTJGY2RuLmF1dGgwLmNvbSUyRmF2YXRhcnMlMkZtby5wbmciLCJ1cGRhdGVkX2F0IjoiMjAyNi0wMi0xN1QxMToyNTo0MS44NThaIiwiZW1haWwiOiJtb2Fhem1hemhyeTI3QGdtYWlsLmNvbSIsImVtYWlsX3ZlcmlmaWVkIjpmYWxzZSwiaXNzIjoiaHR0cHM6Ly9hdXRoLm5meC5jb20vIiwiYXVkIjoiVmkyRXdvMG5XNmZsS1F6TzBOQmM4RTBZdmVCampLbFUiLCJzdWIiOiJhdXRoMHw2OThjMzdkYmFlYTMxYjJjZjUwZmU4OTIiLCJpYXQiOjE3NzEzMjc1NDIsImV4cCI6MTc4NzEwNzU0Miwic2lkIjoiQXJoMExlR2FiTjVZMkxpcTJLOFhyVnJqbFAxd2tuX1YiLCJhdF9oYXNoIjoiMm1BekRWUlJoNm1LaXlsbUF0MFJNdyIsIm5vbmNlIjoiYUFsazdicEYtc3dPMH5mYjhsSTVWbExsYkQ2TjRZcmUifQ.CA4-TBitGTFX5T25_86yjtMxZUndkGJllWYLbsV9lmJhVTMZJQFJO2vCzHW0Dp2-yAUjoCk5iVt0DDor6jOW9BTlksKyJQ0QIxq8Fo_Z7DVKkmegwFYuMgoKb9efIWRh8kMK6-jmiTjBEH0fLjhBylCvZ7NYxYJ6et7u-nptItcIe7zd3pwqb8cwByg5IbyM-v5ICmSx1RTCvtPivEL1lSDnc4ntDo9zYIxWcIuy4GE7MpwbUl8jbo53M47GNompl-FjrgkDL19sQUYqoSrZphYWpEaQ-gMHqKibfaUVv4IqYVCBguKhnTRExbflueOhCgFdMMyTxZM267FMRxyArA%22",
+    "domain": "signal.nfx.com",
+    "path": "/",
+    "expires": 1805887544.437769,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "SIGNAL_ACCESS_JWT",
+    "value": "%22eyJhbGciOiJSUzI1NiIsInR5cCI6IkpXVCIsImtpZCI6IlJqVTFSREJFUlRoRE1rWTRNalF3UmtNME0wUTNNMFU0UXpKRk5rUXdSVGd4TXpRNE5VWkNNZyJ9.eyJpc3MiOiJodHRwczovL2F1dGgubmZ4LmNvbS8iLCJzdWIiOiJhdXRoMHw2OThjMzdkYmFlYTMxYjJjZjUwZmU4OTIiLCJhdWQiOlsiaHR0cHM6Ly9uZnhzaWduYWwtcHJvZHVjdGlvbi5hdXRoMC5jb20vYXBpL3YyLyIsImh0dHBzOi8vbmZ4c2lnbmFsLXByb2R1Y3Rpb24uYXV0aDAuY29tL3VzZXJpbmZvIl0sImlhdCI6MTc3MTMyNzU0MiwiZXhwIjoxNzcxMzM0NzQyLCJzY29wZSI6Im9wZW5pZCBwcm9maWxlIGVtYWlsIiwiYXpwIjoiVmkyRXdvMG5XNmZsS1F6TzBOQmM4RTBZdmVCampLbFUifQ.mpnv5ECHQ5YRpLxuxkTTV2pzN8F_0KoS2VUbVP6eUeMaAaegSvlhoP86MzTjIIqqoQrOslVxPo-NOwNRzLWe_IlIt9haZp0beWJPhiWhteVpL4jedVUjJXVOWN18BFTItqdGO2K01W3BaVCxiLqMxdckUY6YYTPyZUGRwNUV_1RTLi87rloMF1A97aKGv68vGP43zafw-2jxfzik7qX67_tTydtRggXN3agrHsT-kRHWEViaXAuTN8mc0w0WSCEiVYGD7p8MGxz2-P3Se0fGmW5DfI97GAMbaOPGM_Jlh2r4LOcY14gUmHiOeCgHlL1ik37y_LzJys9-GONtPDFduw%22",
+    "domain": "signal.nfx.com",
+    "path": "/",
+    "expires": 1805887544.449589,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_47H9PGWB3X",
+    "value": "GS2.1.s1771327520$o1$g1$t1771327545$j35$l0$h0",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1805887545.481066,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_7Y5EN2DN1E",
+    "value": "GS2.1.s1771327520$o1$g1$t1771327545$j35$l0$h0",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1805887545.501954,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "_ga_V166E9BBG9",
+    "value": "GS2.1.s1771327520$o1$g1$t1771327545$j35$l0$h0",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1805887545.520072,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "mp_994587916709e3793f4a587e466b21f8_mixpanel",
+    "value": "%7B%22distinct_id%22%3A%22252860%22%2C%22%24device_id%22%3A%222e5fb607-bf54-44e5-84a4-43eb2821f378%22%2C%22%24initial_referrer%22%3A%22%24direct%22%2C%22%24initial_referring_domain%22%3A%22%24direct%22%2C%22__mps%22%3A%7B%7D%2C%22__mpso%22%3A%7B%7D%2C%22__mpus%22%3A%7B%7D%2C%22__mpa%22%3A%7B%7D%2C%22__mpu%22%3A%7B%7D%2C%22__mpr%22%3A%5B%5D%2C%22__mpap%22%3A%5B%5D%2C%22%24user_id%22%3A%22252860%22%2C%22id%22%3A%22252860%22%2C%22first_name%22%3A%22%20%22%2C%22last_name%22%3A%22%20%22%2C%22email%22%3Anull%2C%22name%22%3A%22%20%20%20%22%2C%22role%22%3A%22CEO%22%2C%22claimed_investor_profile%22%3Afalse%2C%22gmail_connected%22%3Afalse%2C%22sign_up_url%22%3A%22https%3A%2F%2Fsignal.nfx.com%2Flogin%3Fsign_up_action%3Dlogged_out_navbar%22%7D",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1802863547,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  },
+  {
+    "name": "intercom-session-ula4qov4",
+    "value": "enZyY0JEaVllenYxWTkxeDllQjhwb3M0R1drdCtTYnhYN2JUN0tncTZiYjFrbVI4YzBKckxhbjcwMGlSM3E1THR3NEpCc09QZ2JmSFFIc0dmSzV5bS9PZHpHYmpCMkQ3d2JBR1BiZDE2SlZpRWI5R2NpSWxIcm82L0EzSy9XdFlKWUxXV3NkZXpteGZIWFhaajk1dEdsN2JqMUxkR2tGWUVVazNYMUdkMHR3N251bVFQRVhxSFdlNDdVaW52Sm10LS1nSUpoKzFta2tUWGZ2SUNiTzg5V2dnPT0=--351718a18f109b272c948b51b982447bca14f30d",
+    "domain": ".nfx.com",
+    "path": "/",
+    "expires": 1771932349,
+    "httpOnly": false,
+    "secure": false,
+    "sameSite": "Lax"
+  }
+]

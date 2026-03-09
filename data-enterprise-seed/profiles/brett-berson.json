@@ -1,0 +1,77 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Brett Berson",
+    "website": "https://firstround.com/person/brett-berson/"
+  },
+  "experience": [
+    {
+      "company": "First Round Capital",
+      "dates": "2010 - 2012",
+      "position": "Associate"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2008 - 2010",
+      "position": "Intern in Investments"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "2016 - Present",
+      "position": "Partner"
+    },
+    {
+      "company": "First Round Capital",
+      "dates": "Present",
+      "position": "VP, Platform"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "First Round Capital",
+      "firmUrl": "https://signal.nfx.com/firms/first-round-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$738M",
+    "investmentRange": "$100K - $12.0M",
+    "sweetSpot": "$3.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnU1QlE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--ba40b5f5c9d5d7364826eccf728c7ff5152fd565/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/brett-berson",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "brett-berson",
+  "socials": {
+    "angellist": "https://www.angel.co/u/brettberson",
+    "crunchbase": "https://www.crunchbase.com/person/brett-berson",
+    "linkedin": "https://www.linkedin.com/in/brett-berson-9986094/",
+    "twitter": "https://www.twitter.com/brettberson",
+    "website": "https://www.firstround.com/person/brett-berson/"
+  },
+  "scraped_at": "2026-02-27T20:47:50.383166"
+}

@@ -1,0 +1,158 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "Angel",
+      "Advisor",
+      "VC"
+    ],
+    "location": "London",
+    "name": "Nathalie Gaveau",
+    "website": "https://leadedge.com/our-network/#partner-289"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Lead Edge Capital",
+      "firmUrl": "https://signal.nfx.com/firms/lead-edge-capital",
+      "position": "Partner"
+    },
+    "fundSize": "$520M",
+    "investmentRange": "$100K - $5.0M",
+    "investmentsOnRecord": 4,
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Charles Gorintin"
+      ],
+      "company": "Giskard",
+      "date": "Dec 2022",
+      "roundSize": "$2M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2M"
+    },
+    {
+      "coInvestors": [
+        "Jenny Yip (Adjuvant Capital)"
+      ],
+      "company": "54gene",
+      "date": "Aug 2021",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": "$90M"
+    },
+    {
+      "coInvestors": [
+        "Guillaume ANCEL (KHOCEL INVEST)",
+        "Mark Pearson (Fuel Ventures)",
+        "Sean Tai (Fuel Ventures)",
+        "Knut Frängsmyr",
+        "Guy Hands"
+      ],
+      "company": "OnBuy",
+      "date": "Jul 2020",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$88M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Lead Edge Capital",
+      "date": "Jan 2020",
+      "roundSize": null,
+      "stage": "Series Unknown",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNXJ2QWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--efbc591d0549e87d42eb93b7a490396ef7c4e074/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nathalie-gaveau",
+  "sectorRankings": [
+    {
+      "name": "Retail (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-seed-investors"
+    },
+    {
+      "name": "E-commerce (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-b-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-b-investors"
+    },
+    {
+      "name": "Enterprise (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-b-investors"
+    },
+    {
+      "name": "Retail (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-a-investors"
+    },
+    {
+      "name": "Retail (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-retail-series-b-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-b-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series B)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-b-investors"
+    },
+    {
+      "name": "Enterprise Applications (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-series-a-investors"
+    },
+    {
+      "name": "Enterprise Applications (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-applications-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-seed-investors"
+    },
+    {
+      "name": "Enterprise Infrastructure (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-infrastructure-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "nathalie-gaveau",
+  "socials": {
+    "angellist": "https://www.angel.co/p/nathalie-gaveau",
+    "crunchbase": "https://www.crunchbase.com/person/nathalie-gaveau",
+    "linkedin": "https://www.linkedin.com/in/nathalie-gaveau-27a2753/",
+    "twitter": "https://www.twitter.com/NathGaveau",
+    "website": "https://www.leadedge.com/our-network/#partner-289"
+  },
+  "scraped_at": "2026-02-12T11:00:30.749166"
+}

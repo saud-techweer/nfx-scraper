@@ -1,0 +1,83 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC"
+    ],
+    "location": "San Francisco, California",
+    "name": "Steve Kishi",
+    "signalScore": 17,
+    "website": "https://hwvp.com/"
+  },
+  "experience": [
+    {
+      "company": "Altiscale",
+      "dates": "2013 - 2016",
+      "position": "VP of Product Management"
+    },
+    {
+      "company": "VMware",
+      "dates": "2006 - 2013",
+      "position": "Director of Product Management"
+    },
+    {
+      "company": "Akimbi Systems",
+      "dates": "2005 - 2006",
+      "position": "VP of Product Management, Services and Support"
+    },
+    {
+      "company": "Senior Marketing Manager",
+      "dates": "1997 - 2001",
+      "position": "Senior Director of Professional Services;"
+    },
+    {
+      "company": "Diversified Technologies, Inc.",
+      "dates": "1991 - 1993",
+      "position": "VP of Engineering"
+    },
+    {
+      "company": "McDonnell Douglas",
+      "dates": "1989 - 1991",
+      "position": "Configuration Design Engineer"
+    },
+    {
+      "company": "Hummer Winblad Venture Partners",
+      "dates": "1994 - Present",
+      "position": "Managing Director"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "HWVP (Hummer Winblad Venture Partners)",
+      "firmUrl": "https://signal.nfx.com/firms/hummer-winbald-venture-partners",
+      "position": "General Partner"
+    },
+    "fundSize": "$80.6M",
+    "investmentRange": "$500K - $3.0M",
+    "sweetSpot": "$2.0M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBcllCIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--a4ff94e2aac62dc2dcf125eb3f35fe5d43a7a0f7/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/steven-kishi",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "steven-kishi",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/steve-kishi",
+    "linkedin": "https://www.linkedin.com/in/kishi/",
+    "twitter": "https://www.twitter.com/stevekishi",
+    "website": "https://www.hwvp.com/"
+  },
+  "scraped_at": "2026-02-28T14:05:51.953170"
+}

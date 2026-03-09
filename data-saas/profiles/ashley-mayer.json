@@ -1,0 +1,94 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Brooklyn, New York",
+    "name": "Ashley Mayer",
+    "website": "https://www.coalitionoperators.com/"
+  },
+  "experience": [
+    {
+      "company": "Social Capital LP",
+      "dates": "2015 - 2018",
+      "position": "Partner and VP of Marketing"
+    },
+    {
+      "company": "Box",
+      "dates": "2009 - 2015",
+      "position": "Senior Director of Communications"
+    },
+    {
+      "company": "Hill & Knowlton",
+      "dates": "2007 - 2009",
+      "position": "Account Executive"
+    },
+    {
+      "company": "Glossier, Inc.",
+      "dates": "2018 - Present",
+      "position": "Head of Communications"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Coalition Operators",
+      "firmUrl": "https://signal.nfx.com/firms/coalition-operators",
+      "position": "General Partner"
+    },
+    "investmentRange": "$100K - $5.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBdXJWIiwiZXhwIjpudWxsLCJwdXIiOiJibG9iX2lkIn19--9f6d93b627aa689b6b70cdf9dcd5a4df0f2e83de/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/ashley-mayer",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "ashley-mayer",
+  "socials": {
+    "angellist": "https://www.angel.co/u/ashleymayer",
+    "crunchbase": "https://www.crunchbase.com/person/ashley-mayer",
+    "linkedin": "https://www.linkedin.com/in/ashleymayer/",
+    "twitter": "https://www.twitter.com/ashleymayer",
+    "website": "https://www.coalitionoperators.com/"
+  },
+  "scraped_at": "2026-02-26T08:32:42.008896"
+}

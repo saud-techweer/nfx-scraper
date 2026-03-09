@@ -1,0 +1,73 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Naren Gupta",
+    "website": "https://nexusvp.com/team/naren-gupta/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Nexus Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/nexus-venture-partners",
+      "position": "Managing Director"
+    },
+    "fundSize": "$353.5M",
+    "investmentRange": "$100K - $1M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$1M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Tod Sacerdoti (Flex Capital)",
+        "Auren Hoffman (Flex Capital)",
+        "Pete Briger (Fortress Investment Group)",
+        "Benjamin Savage (Clocktower Technology Ventures)",
+        "Jim Andelman (Bonfire Ventures)",
+        "Kim Perell"
+      ],
+      "company": "Windfall",
+      "date": "Dec 2016",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL3ZrQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--b6db99a752bf87ae91bf6a07ad94b903cdbfca79/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/naren-gupta",
+  "sectorRankings": [
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "naren-gupta",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/naren-gupta",
+    "linkedin": "https://www.linkedin.com/in/naren-g-6364483/",
+    "twitter": "https://www.twitter.com/naren_nexus",
+    "website": "https://www.nexusvp.com/team/naren-gupta/"
+  },
+  "scraped_at": "2026-02-28T04:44:01.778084"
+}

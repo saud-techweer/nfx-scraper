@@ -1,0 +1,262 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Angel",
+      "Scout",
+      "Attorney",
+      "Investor"
+    ],
+    "location": "San Francisco, California",
+    "name": "Larry Chu",
+    "signalScore": 337,
+    "website": "https://goodwinlaw.com/"
+  },
+  "experience": [
+    {
+      "company": "Wilson Sonsini Goodrich & Rosati (WSGR)",
+      "dates": "2006 - 2012",
+      "position": "M&A Partner"
+    },
+    {
+      "company": "Davis Polk & Wardwell LLP",
+      "dates": "1998 - 2006",
+      "position": "Associate"
+    },
+    {
+      "company": "Goodwin Procter LLP",
+      "dates": "2012 - Present",
+      "position": "Co-Chair of Global Tech M&A Practice"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Eunoia Capital Partners",
+      "firmUrl": "https://signal.nfx.com/firms/eunoia-capital-partners",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$25K - $250K",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Maximilian Winter (Harmonix Fund)",
+        "Milad Alucozai (BoxOne Ventures)"
+      ],
+      "company": "Juvena Therapeutics",
+      "date": "Jul 2020",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Marlon Nichols (MaC Venture Capital)",
+        "Ryan Hoover (Weekend Fund)",
+        "Ashley Flucas (Flucas Ventures)",
+        "Andrew Tymovskyi (Roosh Ventures)",
+        "Abhinav Gupta (Thirdbase Capital)",
+        "Michael Tam (Craft Ventures)",
+        "Naval Ravikant (The Hit Forge)",
+        "Tx Zhuo (Fika Ventures)",
+        "Sky Dayton (Craft Ventures)",
+        "Jeff Morris",
+        "Jr. (Chapter One Ventures)",
+        "David Sacks (Craft Ventures)",
+        "Brianne Kimmel (WorkLife Ventures)",
+        "Sung ho Choi",
+        "Jon Runyan",
+        "Shervin Pishevar",
+        "Ryan Chan",
+        "Michael Ma",
+        "Valentin Gui"
+      ],
+      "company": "Pipe",
+      "date": "Feb 2020",
+      "roundSize": "$6M",
+      "stage": "Seed Round",
+      "totalRaised": "$270M"
+    },
+    {
+      "coInvestors": [
+        "Vijay Chattha (VSC Ventures)",
+        "Steven Lurie (Team Builder Ventures)",
+        "Gautam Shah"
+      ],
+      "company": "Tonal",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$45000B"
+    },
+    {
+      "coInvestors": [],
+      "company": "Daily Harvest",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Stephen Chau (Sequoia Capital)",
+        "Noah Lichtenstein (Crossover)",
+        "Tyler Willis",
+        "Varadh Jain"
+      ],
+      "company": "Clubhouse / Alpha Exploration Co",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Stance Socks",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series B",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Ripley Carroll (Telescope Partners)",
+        "Kirby Winfield (Ascend Ventures)",
+        "Jeff Schox (Trucks Venture Capital)"
+      ],
+      "company": "Fabric inc.",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed Round",
+      "totalRaised": "$100M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeWlFQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fa3f8760d7626801d135640b27d4ce41a0380379/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/lawrence-chu",
+  "sectorRankings": [
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Security (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-seed-investors"
+    },
+    {
+      "name": "Developer Tools (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-developer-tools-seed-investors"
+    },
+    {
+      "name": "Consumer Health (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Consumer Health (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-health-seed-investors"
+    },
+    {
+      "name": "Security (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-security-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "Diverse Investors",
+      "url": "https://signal.nfx.com/investor-lists/top-diverse-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Israel",
+      "url": "https://signal.nfx.com/investor-lists/top-israel-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Canada",
+      "url": "https://signal.nfx.com/investor-lists/top-canada-investors"
+    },
+    {
+      "name": "London",
+      "url": "https://signal.nfx.com/investor-lists/top-london-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "lawrence-chu",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/lawrence-chu",
+    "linkedin": "https://www.linkedin.com/in/lawrencechuattorney/",
+    "website": "https://www.goodwinlaw.com/"
+  },
+  "scraped_at": "2026-02-27T02:01:17.923308"
+}

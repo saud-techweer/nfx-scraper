@@ -1,0 +1,125 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor"
+    ],
+    "location": "Menlo Park, California",
+    "name": "Charles Moldow",
+    "website": "https://foundationcapital.com/member/charles-moldow/"
+  },
+  "experience": [
+    {
+      "company": "Tellme Networks",
+      "dates": "2000 - 2005",
+      "position": "Sr. Vice President, Sales"
+    },
+    {
+      "company": "Excite@Home",
+      "dates": "1995 - 1999",
+      "position": "Sr. Vice President, General Manager"
+    },
+    {
+      "company": "Foundation Capital",
+      "dates": "2005 - Present",
+      "position": "General Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Foundation Capital",
+      "firmUrl": "https://signal.nfx.com/firms/foundation-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$350M",
+    "investmentRange": "$1M - $10.0M",
+    "investmentsOnRecord": 1,
+    "sweetSpot": "$5.5M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Peter Thiel (Founders Fund)",
+        "Topher Conway (SV Angel)",
+        "Alejandro Ponce (Ataria Ventures)",
+        "Lee Linden (Quiet Capital)",
+        "Kevin Durant (Thirty Five Ventures)",
+        "Peter Diamandis (Bold Capital Partners)",
+        "Matt Humphrey (Quiet Capital)",
+        "Louis Beryl",
+        "Charlie Songhurst",
+        "Nicolas Berggruen"
+      ],
+      "company": "Mirror Emoji Keyboard",
+      "date": "Dec 2017",
+      "roundSize": "$3.5M",
+      "stage": "Venture Round",
+      "totalRaised": "$7.5M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNnJKQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--5e8c19606a9ec57ad230c3ceb99783a2319fbaed/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/charles-moldow",
+  "sectorRankings": [
+    {
+      "name": "E-commerce (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "E-commerce (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-e-commerce-seed-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "SaaS (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "charles-moldow",
+  "socials": {
+    "angellist": "https://www.angel.co/p/cmoldow",
+    "crunchbase": "https://www.crunchbase.com/person/charles-moldow",
+    "linkedin": "https://www.linkedin.com/in/charlesmoldow/",
+    "twitter": "https://www.twitter.com/cmoldow?lang=en",
+    "website": "https://www.foundationcapital.com/member/charles-moldow/"
+  },
+  "scraped_at": "2026-02-11T11:22:27.937861"
+}

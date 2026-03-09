@@ -1,0 +1,190 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Angel",
+      "Investor",
+      "Former CEO"
+    ],
+    "location": "Europe",
+    "name": "Joao Monteiro",
+    "signalScore": 348,
+    "website": "https://www.pinto.ventures/"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Pinto Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/pinto-ventures",
+      "position": "Managing Partner"
+    },
+    "investmentRange": "$50K - $500K",
+    "investmentsOnRecord": 9,
+    "sweetSpot": "$50K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Patricia Camarero (Octopus Ventures)"
+      ],
+      "company": "VonZu Tech",
+      "date": "Feb 2020",
+      "roundSize": null,
+      "stage": "Angel Investment",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [
+        "Baris Aksoy (AV8 Ventures)",
+        "Mulenga Agley"
+      ],
+      "company": "Monese",
+      "date": "Jan 2016",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": "$2.4M"
+    },
+    {
+      "coInvestors": [
+        "Suriyaa Sundararuban (Proximo Ventures)"
+      ],
+      "company": "EstateGuru",
+      "date": "Jan 2015",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": "$1.4M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Bondora AS",
+      "date": "Jan 2013",
+      "roundSize": null,
+      "stage": "Angel Round",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Hometouch",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "XYB",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Series A",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Taxly.ch",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Angel",
+      "totalRaised": null
+    },
+    {
+      "coInvestors": [],
+      "company": "Eisbach Bio",
+      "date": "N/A",
+      "roundSize": null,
+      "stage": "Seed",
+      "totalRaised": null
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBeGVNQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--fd5630781565286d779a911d2cd0d3a24d5ac12f/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/joao-monteiro",
+  "sectorRankings": [
+    {
+      "name": "Real Estate/PropTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-seed-investors"
+    },
+    {
+      "name": "Logistics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-seed-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "TransportationTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-transportationtech-pre-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-pre-seed-investors"
+    },
+    {
+      "name": "Logistics (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-logistics-pre-seed-investors"
+    },
+    {
+      "name": "Real Estate/PropTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-real-estate-proptech-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "SaaS (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-pre-seed-investors"
+    },
+    {
+      "name": "FinTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-pre-seed-investors"
+    },
+    {
+      "name": "Supply Chain Tech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-supply-chain-tech-seed-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "joao-monteiro",
+  "socials": {
+    "angellist": "https://www.angel.co/p/joao-monteiro",
+    "crunchbase": "https://www.crunchbase.com/person/joao-monteiro",
+    "linkedin": "https://www.linkedin.com/in/joao-monteiro-cv/",
+    "website": "https://www.pinto.ventures/"
+  },
+  "scraped_at": "2026-02-27T01:08:24.879700"
+}

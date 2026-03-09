@@ -1,0 +1,64 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC",
+      "Founder",
+      "Angel"
+    ],
+    "location": "Netherlands",
+    "name": "Heleen Dura - van Oord",
+    "website": "https://heleenduravanoord.com/"
+  },
+  "experience": [
+    {
+      "company": "Vivid Ventures",
+      "dates": "2019 - Present",
+      "position": "Co-Founder"
+    },
+    {
+      "company": "FutureFoodFund",
+      "dates": "2016 - Present",
+      "position": "Founding Partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Peak",
+      "firmUrl": "https://signal.nfx.com/firms/peak",
+      "position": "Partner"
+    },
+    "investmentRange": "$260K - $4.2M",
+    "sweetSpot": "$2.2M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBK0NXQXc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--bd2b9fa13c5ea0f693ded96f77a9116cd7927a01/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/heleen-dura-van-oord",
+  "sectorRankings": [
+    {
+      "name": "AgTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-agtech-seed-investors"
+    },
+    {
+      "name": "Media/Content (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-media-content-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "SaaS (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-saas-seed-investors"
+    }
+  ],
+  "slug": "heleen-dura-van-oord",
+  "socials": {
+    "angellist": "https://www.angel.co/u/heleen-dura-van-oord",
+    "crunchbase": "https://www.crunchbase.com/person/heleen-dura-van-oord",
+    "linkedin": "https://www.linkedin.com/in/heleenvanoord/",
+    "twitter": "https://www.twitter.com/heleenvanoord",
+    "website": "https://www.heleenduravanoord.com/"
+  },
+  "scraped_at": "2026-02-27T00:22:26.605641"
+}

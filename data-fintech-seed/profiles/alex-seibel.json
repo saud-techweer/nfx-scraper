@@ -1,0 +1,71 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "Sao Paulo, Brazil",
+    "name": "Alex Seibel",
+    "website": "https://positive.ventures/time"
+  },
+  "experience": [
+    {
+      "company": "HS investimentos",
+      "dates": "2020 - Present",
+      "position": "Managing partner"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Positive Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/positive-ventures",
+      "position": "Partner"
+    },
+    "investmentRange": "$500K - $1.5M",
+    "sweetSpot": "$1M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBNEorQWc9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--321adbd0eecf9c78e1fc88e68470cad519986992/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/alex-seibel",
+  "sectorRankings": [
+    {
+      "name": "ClimateTech/CleanTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-series-a-investors"
+    },
+    {
+      "name": "EnergyTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-energytech-seed-investors"
+    },
+    {
+      "name": "ClimateTech/CleanTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-climatetech-cleantech-seed-investors"
+    },
+    {
+      "name": "Cosmetics (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-cosmetics-series-a-investors"
+    },
+    {
+      "name": "Cosmetics (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-cosmetics-seed-investors"
+    },
+    {
+      "name": "FinTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-series-a-investors"
+    },
+    {
+      "name": "FinTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-fintech-seed-investors"
+    }
+  ],
+  "slug": "alex-seibel",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/alex-seibel",
+    "linkedin": "https://www.linkedin.com/in/alex-seibel-56834214/",
+    "website": "https://www.positive.ventures/time"
+  },
+  "scraped_at": "2026-02-27T23:56:24.526174"
+}

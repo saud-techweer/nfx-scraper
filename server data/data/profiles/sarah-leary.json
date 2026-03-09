@@ -1,0 +1,149 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "Investor",
+      "VC"
+    ],
+    "location": "San Francisco Bay Area",
+    "name": "Sarah Leary",
+    "website": "https://unusual.vc/team-members/sarah-leary"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Unusual Ventures",
+      "firmUrl": "https://signal.nfx.com/firms/unusual-ventures",
+      "position": "Venture Partner"
+    },
+    "fundSize": "$400M",
+    "investmentRange": "$100K - $500K",
+    "investmentsOnRecord": 6,
+    "sweetSpot": "$250K"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Courtney Leimkuhler (Springbank Collective)",
+        "Stephanie Choo (Portage Ventures)",
+        "Omry Ben David (Viola Ventures)",
+        "Omri Casspi"
+      ],
+      "company": "Faye",
+      "date": "Apr 2025",
+      "roundSize": "$3M",
+      "stage": "Pre Seed",
+      "totalRaised": "$52M"
+    },
+    {
+      "coInvestors": [
+        "Will Neale (Passion Capital)",
+        "Patrick O'Shaughnessy (Positive Sum VC)",
+        "Lachy Groom (LGF)",
+        "Nat Friedman (C2 Investment)",
+        "Claire Hughes Johnson",
+        "John Collison",
+        "Zehan Wang",
+        "Tom Blomfield"
+      ],
+      "company": "Entrepreneurs First",
+      "date": "Jun 2022",
+      "roundSize": "$160M",
+      "stage": "Series C",
+      "totalRaised": "$170M"
+    },
+    {
+      "coInvestors": [
+        "Anton Simunovic (Alumni Ventures )",
+        "Nathan Doctor (Infinite Capital)",
+        "Gregory Baker (Bascom Ventures)"
+      ],
+      "company": "Alto Solutions",
+      "date": "Jan 2022",
+      "roundSize": "$40M",
+      "stage": "Series B",
+      "totalRaised": "$63M"
+    },
+    {
+      "coInvestors": [
+        "Paul McNabb (Episode 1 Ventures)"
+      ],
+      "company": "Scout",
+      "date": "Jul 2021",
+      "roundSize": "$1M",
+      "stage": "Pre Seed",
+      "totalRaised": "$2.5M"
+    },
+    {
+      "coInvestors": [],
+      "company": "Haiku Deck",
+      "date": "Apr 2013",
+      "roundSize": "$3M",
+      "stage": "Series A",
+      "totalRaised": "$3M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBOGpPQVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--2b9c7d9b4f86c7728ffc5b12e065a9d8063a8835/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/sarah-leary",
+  "sectorRankings": [
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Enterprise (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Enterprise (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "sarah-leary",
+  "socials": {
+    "crunchbase": "https://www.crunchbase.com/person/sarah-leary",
+    "linkedin": "https://www.linkedin.com/in/sarahleary/",
+    "twitter": "https://www.twitter.com/sarahleary",
+    "website": "https://www.unusual.vc/team-members/sarah-leary"
+  },
+  "scraped_at": "2026-02-12T11:43:37.159574"
+}

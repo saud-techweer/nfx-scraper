@@ -1,0 +1,296 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "Angel"
+    ],
+    "location": "San Francisco, California",
+    "name": "Nabeel Hyatt",
+    "signalScore": 989,
+    "website": "https://sparkcapital.com/team-profiles/nabeel-hyatt"
+  },
+  "experience": [
+    {
+      "company": "Conduit Labs",
+      "dates": "2007 - 2010",
+      "position": "Founder, CEO"
+    },
+    {
+      "company": "Ambient Devices",
+      "dates": "2001 - 2005",
+      "position": "VP Product/Cofounder"
+    },
+    {
+      "company": "Spark Capital",
+      "dates": "2012 - Present",
+      "position": "General Partner"
+    },
+    {
+      "company": "Zynga",
+      "dates": "2010 - Present",
+      "position": "GM"
+    }
+  ],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Spark Capital",
+      "firmUrl": "https://signal.nfx.com/firms/spark-capital",
+      "position": "General Partner"
+    },
+    "fundSize": "$2.1B",
+    "investmentRange": "$500K - $25.0M",
+    "investmentsOnRecord": 7,
+    "sweetSpot": "$10.0M"
+  },
+  "investments": [
+    {
+      "coInvestors": [
+        "Bhaskar Ghosh (8VC)",
+        "Curtis Spencer (Electric Capital)",
+        "David Thacker (Greylock)",
+        "Huican Zhu (AMINO Capital)",
+        "Qiang \"Larry\" Li (AMINO Capital)",
+        "Hunter Mcnabb (9Yards Capital)",
+        "Sujay Jaswa (WndrCo LLC)",
+        "George Hu",
+        "Akash Garg",
+        "Vishal Makhijani"
+      ],
+      "company": "Instawork",
+      "date": "May 2020",
+      "roundSize": "$18M",
+      "stage": "Series B",
+      "totalRaised": "$140M"
+    },
+    {
+      "coInvestors": [
+        "Chris Sklarin (Alumni Ventures )",
+        "David Shapiro (Alumni Ventures )",
+        "Anton Simunovic (Alumni Ventures )",
+        "Robert Bibow (Parkway VC)",
+        "Ken Gonzalez (NightDragon)",
+        "Andre De Baubigny (Modern Venture Partners)",
+        "Catherine Lu",
+        "Thomas Tull"
+      ],
+      "company": "Capella Space",
+      "date": "Sep 2018",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$190M"
+    },
+    {
+      "coInvestors": [
+        "Ruchi Sanghvi (South Park Commons)",
+        "Phin Barnes (The General Partnership)"
+      ],
+      "company": "Rare Bits",
+      "date": "Apr 2018",
+      "roundSize": "$6M",
+      "stage": "Series A",
+      "totalRaised": "$6M"
+    },
+    {
+      "coInvestors": [
+        "Bryan Schreier (Sequoia Capital)",
+        "Carine Magescas (AngelPad)",
+        "Eric Ver Ploeg (Tunitas Ventures)",
+        "Ning Sung"
+      ],
+      "company": "Zum",
+      "date": "Mar 2018",
+      "roundSize": "$19M",
+      "stage": "Series B",
+      "totalRaised": "$19M"
+    },
+    {
+      "coInvestors": [
+        "Amit Kumar (Accel)",
+        "Phil Chen (Race Capital)",
+        "Raymond Tonsing (Caffeinated Capital)",
+        "Matt Mazzeo"
+      ],
+      "company": "Smash.gg",
+      "date": "Aug 2017",
+      "roundSize": "$11M",
+      "stage": "Series A",
+      "totalRaised": "$11M"
+    },
+    {
+      "coInvestors": [
+        "Brad Feld (Foundry Group)"
+      ],
+      "company": "Harmonix Music Systems",
+      "date": "Sep 2015",
+      "roundSize": "$15M",
+      "stage": "Venture Round",
+      "totalRaised": "$15M"
+    }
+  ],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBL1h1QVE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--76dfdbabd8d21897e516c2b02c051745cefe47ba/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/nabeel-hyatt",
+  "sectorRankings": [
+    {
+      "name": "AR/VR (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-series-a-investors"
+    },
+    {
+      "name": "AR/VR (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-seed-investors"
+    },
+    {
+      "name": "Hardware (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-seed-investors"
+    },
+    {
+      "name": "Social Networks (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-seed-investors"
+    },
+    {
+      "name": "Hardware (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-series-a-investors"
+    },
+    {
+      "name": "Gaming/eSports (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-series-a-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-series-a-investors"
+    },
+    {
+      "name": "AI (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-seed-investors"
+    },
+    {
+      "name": "AI (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-series-a-investors"
+    },
+    {
+      "name": "Investors who were founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-were-founders-investors"
+    },
+    {
+      "name": "Investors who invested in female founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-female-founders-investors"
+    },
+    {
+      "name": "Investors who invested in diverse founders",
+      "url": "https://signal.nfx.com/investor-lists/top-who-invested-in-diverse-founders-investors"
+    },
+    {
+      "name": "Los Angeles / Southern California",
+      "url": "https://signal.nfx.com/investor-lists/top-los-angeles-southern-california-investors"
+    },
+    {
+      "name": "New York City",
+      "url": "https://signal.nfx.com/investor-lists/top-new-york-city-investors"
+    },
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "San Francisco Bay Area",
+      "url": "https://signal.nfx.com/investor-lists/top-san-francisco-bay-area-investors"
+    },
+    {
+      "name": "British Columbia",
+      "url": "https://signal.nfx.com/investor-lists/top-british-columbia-investors"
+    },
+    {
+      "name": "Angel, Scout, and Solo-Capitalists",
+      "url": "https://signal.nfx.com/investor-lists/top-angel-scout-and-solo-capitalists-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-series-a-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-seed-investors"
+    },
+    {
+      "name": "DeepTech (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-series-a-investors"
+    },
+    {
+      "name": "Hardware (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-hardware-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-seed-investors"
+    },
+    {
+      "name": "AR/VR (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ar-vr-pre-seed-investors"
+    },
+    {
+      "name": "DeepTech (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-deeptech-pre-seed-investors"
+    },
+    {
+      "name": "Gaming/eSports (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-gaming-esports-pre-seed-investors"
+    },
+    {
+      "name": "Creator/Passion Economy (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-creator-passion-economy-pre-seed-investors"
+    },
+    {
+      "name": "Web3/Blockchain (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-web3-blockchain-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-pre-seed-investors"
+    },
+    {
+      "name": "AI (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-ai-pre-seed-investors"
+    },
+    {
+      "name": "Consumer Internet (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-pre-seed-investors"
+    },
+    {
+      "name": "Marketplaces (Pre-seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-pre-seed-investors"
+    },
+    {
+      "name": "Social Networks (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-social-networks-series-a-investors"
+    },
+    {
+      "name": "Consumer Internet (Series A)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-series-a-investors"
+    },
+    {
+      "name": "Marketplaces (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-marketplaces-seed-investors"
+    }
+  ],
+  "slug": "nabeel-hyatt",
+  "socials": {
+    "angellist": "https://www.angel.co/p/nabeel-hyatt",
+    "crunchbase": "https://www.crunchbase.com/person/nabeel-hyatt",
+    "linkedin": "https://www.linkedin.com/in/nabeelhyatt/",
+    "twitter": "https://www.twitter.com/nabeel",
+    "website": "https://www.sparkcapital.com/team-profiles/nabeel-hyatt"
+  },
+  "scraped_at": "2026-02-11T10:09:16.386804"
+}

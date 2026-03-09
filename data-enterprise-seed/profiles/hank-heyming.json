@@ -1,0 +1,47 @@
+{
+  "basicInfo": {
+    "investorTypes": [
+      "VC",
+      "Investor",
+      "CEO"
+    ],
+    "location": "Richmond, Virginia",
+    "name": "Hank Heyming",
+    "website": "https://trolleyventures.com/our-team"
+  },
+  "experience": [],
+  "investingProfile": {
+    "currentPosition": {
+      "firm": "Trolley Venture Partners",
+      "firmUrl": "https://signal.nfx.com/firms/trolley-venture-partners",
+      "position": "Managing Director"
+    },
+    "investmentRange": "$100K - $6.0M",
+    "sweetSpot": "$1.5M"
+  },
+  "investments": [],
+  "profilePicture": "https://signal-api.nfx.com/rails/active_storage/representations/redirect/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaHBBMHRKQkE9PSIsImV4cCI6bnVsbCwicHVyIjoiYmxvYl9pZCJ9fQ==--811ece6988fe3ee8f4c4a353ccfaaa3b2d230f12/eyJfcmFpbHMiOnsibWVzc2FnZSI6IkJBaDdCem9MWm05eWJXRjBPZ2hxY0djNkUzSmxjMmw2WlY5MGIxOW1hV3hzV3dkcEFsZ0NhUUpZQWc9PSIsImV4cCI6bnVsbCwicHVyIjoidmFyaWF0aW9uIn19--f8e22238db523e6e5e5a8ae643921849c4b207bd/0?d=592x592",
+  "profileUrl": "https://signal.nfx.com/investors/hank-heyming",
+  "sectorRankings": [
+    {
+      "name": "Consumer Internet (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-consumer-internet-seed-investors"
+    },
+    {
+      "name": "Washington, D.C.",
+      "url": "https://signal.nfx.com/investor-lists/top-washington-d-c-investors"
+    },
+    {
+      "name": "Enterprise (Seed)",
+      "url": "https://signal.nfx.com/investor-lists/top-enterprise-seed-investors"
+    }
+  ],
+  "slug": "hank-heyming",
+  "socials": {
+    "angellist": "https://www.angel.co/u/hankheyming-gmail-com",
+    "crunchbase": "https://www.crunchbase.com/person/hank-j-heyming",
+    "linkedin": "https://www.linkedin.com/in/hankheyming/",
+    "website": "https://www.trolleyventures.com/our-team"
+  },
+  "scraped_at": "2026-02-27T22:12:31.633758"
+}
